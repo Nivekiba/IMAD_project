@@ -1,0 +1,33 @@
+{
+    "Trend+Micro+App": {
+        "trend micro": 9,
+        "apple inc.": 1,
+        "\u00a9 document": 6,
+        "trend micro incorporated": 4,
+        "apple inc": 1
+    },
+    "Next+Mobile+Tech+app": {
+        "techcrunch": 1,
+        "darrell etherington": 1,
+        "aol inc": 1
+    },
+    "Project+Champions+Mobile": [
+
+    ],
+    "Cannon+Insurance+App": {
+        "apple inc.": 2,
+        "farmers group inc": 1,
+        "apple inc": 2,
+        "go inc": 1
+    },
+    "AdaptIT+Mobile": {
+        "dominion textile": 1,
+        "literary adaptation": 1,
+        "adapt it group": 1
+    },
+    "First+Trust+Mobile+Money": {
+        "first trust bank": 2,
+        "\u00a9 2016&nbsp;firstrust": 1,
+        "firstrust": 1
+    }
+}

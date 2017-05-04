@@ -1,0 +1,57 @@
+{
+    "Turkcell+Mobile": {
+        "turkcell": 6
+    },
+    "Anadolu+Mobile+Money": {
+        "daily monitor": 1,
+        "anadolu sigorta": 1,
+        "anadolubank": 1,
+        "moneygram": 2,
+        "- anadolu ananonim t\u00fcrk sigorta \u015eirketi": 1,
+        "\u00a9 2013": 1
+    },
+    "MTN+mobile+transfert": {
+        "mtn group": 7,
+        "net applications": 1,
+        "mtn.com.cy": 1,
+        "mtn cameroon": 1,
+        "mtn ghana": 1,
+        "mobile telephone networks": 1,
+        "&copy 2016 mtn rwanda": 3
+    },
+    "BICEC+Mobile+": [
+
+    ],
+    "Rapid+Transbrazil": [
+
+    ],
+    "AEROFLOT-Official-mobile": [
+
+    ],
+    "Kapersky+App": {
+        "apple inc.": 2,
+        "kaspersky lab": 7,
+        "softonic.com": 1,
+        "ao kaspersky labyou must be at least 17 years old to download this app": 1,
+        "apple inc": 2,
+        "ao kaspersky labrated 4+compatibility: os x 10": 1,
+        "ao kaspersky lab": 3,
+        "or asus\u00a9 devices": 1,
+        "1997-document": 1,
+        "invision power services": 1
+    },
+    "CampostePhone": [
+
+    ],
+    "Interswich+App": {
+        "interswitch": 3,
+        "apple inc.": 1,
+        "interswitch limited": 1,
+        "interswitch limitedrated 4+compatibility: requires ios\u00a07": 1,
+        "apple inc": 1
+    },
+    "Bancolombia+Mobile": {
+        "bancolombia": 1,
+        "grupo bancolombia": 1
+    }
+}

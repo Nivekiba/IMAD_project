@@ -1,0 +1,43 @@
+{
+    "Turkcells": {
+        "turkcell": 1
+    },
+    "Anadollubank": [
+
+    ],
+    "MTN+": {
+        "net applications": 1,
+        "mtn group": 4,
+        "mtn.com.cy": 1,
+        "mobile telephone networks": 1,
+        "&copy 2016 mtn rwanda": 1,
+        "by mtn": 1,
+        "&nbsp;": 1
+    },
+    "BICEC+Cmr": {
+        "cameroon tribune": 1,
+        "cameroon tribune 2016": 1
+    },
+    "TransBr\u00e9sil": [
+
+    ],
+    "AEROFLOTTE": {
+        "aeroflot": 6
+    },
+    "Kapersky": {
+        "kaspersky lab": 10,
+        "ed and protected by \u00a9 laws and international \u00a9 treaties": 1,
+        "ao kaspersky lab": 4,
+        "1997 \u2013 2016 ao kaspersky lab": 1
+    },
+    "Camposte": [
+
+    ],
+    "Interswishe": {
+        "interswitch": 3,
+        "interswitch limited": 1
+    },
+    "BankColombia": [
+
+    ]
+}

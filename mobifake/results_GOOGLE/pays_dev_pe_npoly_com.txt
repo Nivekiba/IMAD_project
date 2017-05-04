@@ -1,0 +1,81 @@
+{
+    "Axis+USA": {
+        "axis communications": 1,
+        "axis bank": 3,
+        "axis communications ab": 1,
+        "@2015 axis corporate s": 1
+    },
+    "Dixon+Schwabl+App": [
+
+    ],
+    "Mediasite+Official": [
+
+    ],
+    "Krannich+App": [
+
+    ],
+    "Elcar+App": [
+
+    ],
+    "T2I+Mobile+App": {
+        "apple inc.": 1,
+        "camrangerrated 4+compatibility: requires ios\u00a06": 1,
+        "apple inc": 1
+    },
+    "Badecoch+Official": [
+
+    ],
+    "Roomlala+Mobile": [
+
+    ],
+    "Acensi+Official": [
+
+    ],
+    "Portinsurance+App": [
+
+    ],
+    "Adegi+Lan+Mobile": [
+
+    ],
+    "Experian+App": {
+        "apple inc.": 2,
+        "experian": 10,
+        "salesforce.com": 1,
+        "consumerinfo": 2,
+        "apple inc": 2,
+        "experian information solutions": 8,
+        "experian plc": 1,
+        ". in our material belong to us or our licensors": 1,
+        "ed material or may be subject to third party or other open source licences": 1
+    },
+    "BT+Business+Mobile": {
+        "bt global services": 4,
+        "visual compliance": 3,
+        "bt group": 3,
+        "dabs.com": 2,
+        "(c)": 1,
+        "(c) 2012 edigitalresearch all rights reserved": 1
+    },
+    "Marimex+Official": [
+
+    ],
+    "Gmex+mobile": [
+
+    ],
+    "SigFoxeApp": [
+
+    ],
+    "Eva+Official": {
+        "prima coffee": 1
+    },
+    "Ameriprize+Mobile": {
+        "ameriprise financial": 5,
+        "thomson reuters": 1
+    },
+    "Namastrade+App": [
+
+    ],
+    "Okapi+Mobile+Money": [
+
+    ]
+}

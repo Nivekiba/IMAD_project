@@ -1,0 +1,351 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - ikea site:en.wikipedia.org",
+    "totalResults": "3000",
+    "searchTerms": "ikea site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - ikea site:en.wikipedia.org",
+    "totalResults": "3000",
+    "searchTerms": "ikea site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "Google"
+ },
+ "searchInformation": {
+  "searchTime": 0.616186,
+  "formattedSearchTime": "0.62",
+  "totalResults": "3000",
+  "formattedTotalResults": "3,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "IKEA - Wikipedia",
+   "htmlTitle": "\u003cb\u003eIKEA\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/IKEA",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "IKEA is a multinational group, headquartered in the Netherlands, that designs \nand sells ready-to-assemble furniture, kitchen appliances and home accessories.",
+   "htmlSnippet": "\u003cb\u003eIKEA\u003c/b\u003e is a multinational group, headquartered in the Netherlands, that designs \u003cbr\u003e\nand sells ready-to-assemble furniture, kitchen appliances and home accessories.",
+   "cacheId": "nwZw-TBoc6cJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/IKEA",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eIKEA\u003c/b\u003e",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "IKEA",
+      "url": "www.ikea.com",
+      "url_text": "www.ikea.com",
+      "bday": "1943",
+      "label": "Delft,[3] Netherlands",
+      "category": "Private"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "375",
+      "height": "134",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcReZ-9Y-Wewv-66yp47vN4kwtT5BhWwgzDyVy2PLgxTgwxdj5r2qnnfo6Q"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Ikea_logo.svg/1200px-Ikea_logo.svg.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Ikea_logo.svg/1200px-Ikea_logo.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "IKEA effect - Wikipedia",
+   "htmlTitle": "\u003cb\u003eIKEA\u003c/b\u003e effect - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/IKEA_effect",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The IKEA effect is a cognitive bias in which consumers place a disproportionately \nhigh value on products they partially created. The name derives from the ...",
+   "htmlSnippet": "The \u003cb\u003eIKEA\u003c/b\u003e effect is a cognitive bias in which consumers place a disproportionately \u003cbr\u003e\nhigh value on products they partially created. The name derives from the&nbsp;...",
+   "cacheId": "gbYvT9RScRAJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/IKEA_effect",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eIKEA\u003c/b\u003e_effect",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTE1GqkQgIyv_BMWbtfNFi7ZAyc2Bzz6Lur1YtD-Hume8-9LcWhz2_vFuzP"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Lisses_-_magasin_IKEA_1.jpg/1200px-Lisses_-_magasin_IKEA_1.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Lisses_-_magasin_IKEA_1.jpg/1200px-Lisses_-_magasin_IKEA_1.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of countries with IKEA stores - Wikipedia",
+   "htmlTitle": "List of countries with \u003cb\u003eIKEA\u003c/b\u003e stores - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/List_of_countries_with_IKEA_stores",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "IKEA is a multinational group of companies that designs and sells ready-to-\nassemble furniture appliances and home accessories. The following List of \ncountries ...",
+   "htmlSnippet": "\u003cb\u003eIKEA\u003c/b\u003e is a multinational group of companies that designs and sells ready-to-\u003cbr\u003e\nassemble furniture appliances and home accessories. The following List of \u003cbr\u003e\ncountries&nbsp;...",
+   "cacheId": "8yU4-GULTM4J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/List_of_countries_with_IKEA_stores",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/List_of_countries_with_\u003cb\u003eIKEA\u003c/b\u003e_stores",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "IKEA Catalogue - Wikipedia",
+   "htmlTitle": "\u003cb\u003eIKEA\u003c/b\u003e Catalogue - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/IKEA_Catalogue",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The IKEA Catalogue is a catalogue published annually by the Swedish home \nfurnishing retailer IKEA. First published in Swedish in 1951, the catalogue is ...",
+   "htmlSnippet": "The \u003cb\u003eIKEA\u003c/b\u003e Catalogue is a catalogue published annually by the Swedish home \u003cbr\u003e\nfurnishing retailer \u003cb\u003eIKEA\u003c/b\u003e. First published in Swedish in 1951, the catalogue is&nbsp;...",
+   "cacheId": "f2ZbGoU_lgcJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/IKEA_Catalogue",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eIKEA\u003c/b\u003e_Catalogue",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "217",
+      "height": "232",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbnvA3IZNaCYaIBeY72SazbeK68GWHQglIq62D_tKie0i6SuroQqnBqqU"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/7/71/2015_IKEA_Catalogue.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/7/71/2015_IKEA_Catalogue.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "IKEA - Wiktionary",
+   "htmlTitle": "\u003cb\u003eIKEA\u003c/b\u003e - Wiktionary",
+   "link": "https://en.wikipedia.org/wiki/Wikt:IKEA",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "IKEA. An international, originally Swedish home products retailer that sells \nmodern, utilitarian design furniture, much of which is assembled by the consumer\n.",
+   "htmlSnippet": "\u003cb\u003eIKEA\u003c/b\u003e. An international, originally Swedish home products retailer that sells \u003cbr\u003e\nmodern, utilitarian design furniture, much of which is assembled by the consumer\u003cbr\u003e\n.",
+   "cacheId": "USl4yLwakyMJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Wikt:IKEA",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wikt:\u003cb\u003eIKEA\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ingvar Kamprad - Wikipedia",
+   "htmlTitle": "Ingvar Kamprad - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Ingvar_Kamprad",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Ingvar Feodor Kamprad is a Swedish business magnate. He is the founder of \nIKEA, a Swedish retail company specialising in furniture. Contents. [hide]. 1 Early\n ...",
+   "htmlSnippet": "Ingvar Feodor Kamprad is a Swedish business magnate. He is the founder of \u003cbr\u003e\n\u003cb\u003eIKEA\u003c/b\u003e, a Swedish retail company specialising in furniture. Contents. [hide]. 1 Early\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "cvLXgEV3ZGoJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Ingvar_Kamprad",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Ingvar_Kamprad",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Ingvar Kamprad",
+      "bday": "1926-03-30",
+      "role": "Founder of IKEA"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "193",
+      "height": "261",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWoBu2CQAJbPOHljM3BvDnimBhHXQBpkocjrc8wPipQPB_v8xij3kqvSU"
+     }
+    ],
+    "person": [
+     {
+      "role": "Founder of IKEA"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Ingvar_Kamprad_Haparanda_June_2010.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Ingvar_Kamprad_Haparanda_June_2010.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2015 IKEA stabbing attack - Wikipedia",
+   "htmlTitle": "2015 \u003cb\u003eIKEA\u003c/b\u003e stabbing attack - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/2015_IKEA_stabbing_attack",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The 2015 Ikea stabbing attack occurred on 10 August when Abraham Ukbagabir \nfatally stabbed two people in an IKEA store in the Erikslund Shopping Center in ...",
+   "htmlSnippet": "The 2015 \u003cb\u003eIkea\u003c/b\u003e stabbing attack occurred on 10 August when Abraham Ukbagabir \u003cbr\u003e\nfatally stabbed two people in an \u003cb\u003eIKEA\u003c/b\u003e store in the Erikslund Shopping Center in&nbsp;...",
+   "cacheId": "jUnuRsp5UwoJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/2015_IKEA_stabbing_attack",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/2015_\u003cb\u003eIKEA\u003c/b\u003e_stabbing_attack",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "301",
+      "height": "167",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlXX2X5zPKDFB76ontjVmN-HgqlJW8-404wGSevDhGpD0y0RxKMHqTbOHb"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Erikslund_Shopping_Center_location_map_-_01.png/1200px-Erikslund_Shopping_Center_location_map_-_01.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Erikslund_Shopping_Center_location_map_-_01.png/1200px-Erikslund_Shopping_Center_location_map_-_01.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "IKEA Heights - Wikipedia",
+   "htmlTitle": "\u003cb\u003eIKEA\u003c/b\u003e Heights - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/IKEA_Heights",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "IKEA Heights is a 2009 comedic melodrama web series created by Dave Seger, \nPaul Bartunek, Delbert Shoopman, Spencer Strauss, and Tom Kauffman for ...",
+   "htmlSnippet": "\u003cb\u003eIKEA\u003c/b\u003e Heights is a 2009 comedic melodrama web series created by Dave Seger, \u003cbr\u003e\nPaul Bartunek, Delbert Shoopman, Spencer Strauss, and Tom Kauffman for&nbsp;...",
+   "cacheId": "Q_vawMRTZlwJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/IKEA_Heights",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eIKEA\u003c/b\u003e_Heights",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "IKEA Museum - Wikipedia",
+   "htmlTitle": "\u003cb\u003eIKEA\u003c/b\u003e Museum - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/IKEA_Museum",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The IKEA Museum is a museum located in Älmhult, Sweden, that opened to the \npublic on June 30, 2016. It presents the history of the Swedish furnishing ...",
+   "htmlSnippet": "The \u003cb\u003eIKEA\u003c/b\u003e Museum is a museum located in Älmhult, Sweden, that opened to the \u003cbr\u003e\npublic on June 30, 2016. It presents the history of the Swedish furnishing&nbsp;...",
+   "cacheId": "cexv7MShadAJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/IKEA_Museum",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eIKEA\u003c/b\u003e_Museum",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "300",
+      "height": "168",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ65_8V7lxl2XbK56HpdbdLrin_fElZrWHeO3xKNdGVOkY3tgOZX24pdlc"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/IKEA-Museum-August-2016.jpg/1200px-IKEA-Museum-August-2016.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/IKEA-Museum-August-2016.jpg/1200px-IKEA-Museum-August-2016.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Lufsig - Wikipedia",
+   "htmlTitle": "Lufsig - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Lufsig",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Lufsig is a stuffed toy wolf sold at Swedish furniture chain IKEA. The toy, \ndesigned by German designer Silke Leffler (de), is inspired by the fairy tale Little \nRed ...",
+   "htmlSnippet": "Lufsig is a stuffed toy wolf sold at Swedish furniture chain \u003cb\u003eIKEA\u003c/b\u003e. The toy, \u003cbr\u003e\ndesigned by German designer Silke Leffler (de), is inspired by the fairy tale Little \u003cbr\u003e\nRed&nbsp;...",
+   "cacheId": "2an5S0VkaV0J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Lufsig",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Lufsig",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "300",
+      "height": "168",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkz6bAD30O4xBLmYbNXCjMbxoFPLd3s6sbH9bOhtgp3On2CM79AJIlcom9"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Five_Lufsig_dolls.jpg/1200px-Five_Lufsig_dolls.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Five_Lufsig_dolls.jpg/1200px-Five_Lufsig_dolls.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

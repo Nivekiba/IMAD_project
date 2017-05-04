@@ -1,0 +1,342 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - easy Chair",
+    "totalResults": "88600000",
+    "searchTerms": "easy Chair",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "008737521736637413879:-y9h8xwzw0a",
+    "filter": "1"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - easy Chair",
+    "totalResults": "88600000",
+    "searchTerms": "easy Chair",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "008737521736637413879:-y9h8xwzw0a",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "modifPapier"
+ },
+ "searchInformation": {
+  "searchTime": 0.652168,
+  "formattedSearchTime": "0.65",
+  "totalResults": "88600000",
+  "formattedTotalResults": "88,600,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "EasyChair Home Page",
+   "htmlTitle": "\u003cb\u003eEasyChair\u003c/b\u003e Home Page",
+   "link": "http://easychair.org/",
+   "displayLink": "easychair.org",
+   "snippet": "EasyChair - conference system. ... EasyChair is a conference management \nsystem that is flexible, easy to use, and has many features to make it suitable for ...",
+   "htmlSnippet": "\u003cb\u003eEasyChair\u003c/b\u003e - conference system. ... \u003cb\u003eEasyChair\u003c/b\u003e is a conference management \u003cbr\u003e\nsystem that is flexible, easy to use, and has many features to make it suitable for&nbsp;...",
+   "cacheId": "_IuTQBMzjXAJ",
+   "formattedUrl": "easychair.org/",
+   "htmlFormattedUrl": "\u003cb\u003eeasychair\u003c/b\u003e.org/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "217",
+      "height": "147",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRH_f8UnskHYxJqhQQtkPqihmHWn4TW45wuzcLSLpcUiYhwAlIj3BoaeqTu"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://easychair.org/images/logoEC_short.svg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Log in to EasyChair",
+   "htmlTitle": "Log in to \u003cb\u003eEasyChair\u003c/b\u003e",
+   "link": "https://easychair.org/account/signin.cgi",
+   "displayLink": "easychair.org",
+   "snippet": "Log in to EasyChair. EasyChair uses cookies for user authentication. To use \nEasyChair, you should allow your browser to save cookies from easychair.org.",
+   "htmlSnippet": "Log in to \u003cb\u003eEasyChair\u003c/b\u003e. \u003cb\u003eEasyChair\u003c/b\u003e uses cookies for user authentication. To use \u003cbr\u003e\n\u003cb\u003eEasyChair\u003c/b\u003e, you should allow your browser to save cookies from \u003cb\u003eeasychair\u003c/b\u003e.org.",
+   "cacheId": "EuU6AMeCsu0J",
+   "formattedUrl": "https://easychair.org/account/signin.cgi",
+   "htmlFormattedUrl": "https://\u003cb\u003eeasychair\u003c/b\u003e.org/account/signin.cgi",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "140",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLD8kTv7VFYtncDlEhrZE_WL5Tt7WT-B3Ej6VxLLb8kBpX36v4jLQj9ZlW"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://easychair.org/images/chairs.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "EasyChair - Wikipedia",
+   "htmlTitle": "\u003cb\u003eEasyChair\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/EasyChair",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "EasyChair is a free web-based conference management software system used, \namong other tasks, to organise paper submission and review. EasyChair is ...",
+   "htmlSnippet": "\u003cb\u003eEasyChair\u003c/b\u003e is a free web-based conference management software system used, \u003cbr\u003e\namong other tasks, to organise paper submission and review. \u003cb\u003eEasyChair\u003c/b\u003e is&nbsp;...",
+   "cacheId": "vyJ-q75ZDOoJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/EasyChair",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eEasyChair\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "EasyChair Media – Call us today! (970) 686-5805",
+   "htmlTitle": "\u003cb\u003eEasyChair\u003c/b\u003e Media – Call us today! (970) 686-5805",
+   "link": "http://easychairmedia.com/",
+   "displayLink": "easychairmedia.com",
+   "snippet": "Marketing solutions for any budget. EasyChair Media is here to help you get the \nbiggest bang for your buck and most customers through your door. Learn More ...",
+   "htmlSnippet": "Marketing solutions for any budget. \u003cb\u003eEasyChair\u003c/b\u003e Media is here to help you get the \u003cbr\u003e\nbiggest bang for your buck and most customers through your door. Learn More&nbsp;...",
+   "cacheId": "MHloDOuDFyQJ",
+   "formattedUrl": "easychairmedia.com/",
+   "htmlFormattedUrl": "\u003cb\u003eeasychair\u003c/b\u003emedia.com/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "389",
+      "height": "129",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQNwPXKVjwQVe65_9CY3icu206ZCdX5bc4Y9BEF6QbxsjHxZSphLknrpQg"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:locale": "en_US",
+      "og:type": "website",
+      "og:title": "EasyChair Media - Call us today! (970) 686-5805",
+      "og:description": "Call us today! (970) 686-5805",
+      "og:url": "http://easychairmedia.com",
+      "og:site_name": "EasyChair Media"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "http://easychairmedia.com/wp-content/uploads/2015/09/web-header.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Easy Chair ‹ Upland",
+   "htmlTitle": "\u003cb\u003eEasy Chair\u003c/b\u003e ‹ Upland",
+   "link": "http://www.uplandbeer.com/brew/easy-chair/",
+   "displayLink": "www.uplandbeer.com",
+   "snippet": "Our amber ale has a malt to hop balance that is nearly even, slightly leaning \ntoward malt. Nutty, light caramel, toasty, and biscuity describes the malt flavors of\n ...",
+   "htmlSnippet": "Our amber ale has a malt to hop balance that is nearly even, slightly leaning \u003cbr\u003e\ntoward malt. Nutty, light caramel, toasty, and biscuity describes the malt flavors of\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "XwjkYH6qd88J",
+   "formattedUrl": "www.uplandbeer.com/brew/easy-chair/",
+   "htmlFormattedUrl": "www.uplandbeer.com/brew/\u003cb\u003eeasy\u003c/b\u003e-\u003cb\u003echair\u003c/b\u003e/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "253",
+      "height": "199",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRieOt0a-BBXkMi7hxl_QW2O4jHYhEGwNY6nqfPjks7HTbeY7ZwUypP2aui"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1",
+      "p:domain_verify": "958114e5ad3b86a59630cbfc06e47521",
+      "author": "www.grandpixels.com"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "http://uplandbeer.com/wp-content/uploads/2014/09/easychairfeature.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Easy Chairs - Antiques Bought, Sold & Auctioned",
+   "htmlTitle": "\u003cb\u003eEasy Chairs\u003c/b\u003e - Antiques Bought, Sold &amp; Auctioned",
+   "link": "http://leejosephauctions.com/",
+   "displayLink": "leejosephauctions.com",
+   "snippet": "Easy Chairs is the name of my shop in Cambridge, MA. Maybe it's time to reclaim \nsome space, or help your in-laws downsize - or your kids are moving out and ...",
+   "htmlSnippet": "\u003cb\u003eEasy Chairs\u003c/b\u003e is the name of my shop in Cambridge, MA. Maybe it&#39;s time to reclaim \u003cbr\u003e\nsome space, or help your in-laws downsize - or your kids are moving out and&nbsp;...",
+   "cacheId": "wX4RmeAvVhsJ",
+   "formattedUrl": "leejosephauctions.com/",
+   "htmlFormattedUrl": "leejosephauctions.com/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "48",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU7RJFNJxCm9Wc7x3EJB8luSYGCDFmB-XJshwy_UDsrr8dk0CQLWGZsZo"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "http://leejosephauctions.com/images/welcome.gif"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Easy Chair | Harper's Magazine",
+   "htmlTitle": "\u003cb\u003eEasy Chair\u003c/b\u003e | Harper&#39;s Magazine",
+   "link": "http://harpers.org/departments/easy-chair/",
+   "displayLink": "harpers.org",
+   "snippet": "Easy Chair. Easy Chair — From the May 2017 issue ... Sign in here. Subscribe \nhere. By Rebecca Solnit · Easy Chair — From the December 2016 issue ...",
+   "htmlSnippet": "\u003cb\u003eEasy Chair\u003c/b\u003e. \u003cb\u003eEasy Chair\u003c/b\u003e — From the May 2017 issue ... Sign in here. Subscribe \u003cbr\u003e\nhere. By Rebecca Solnit &middot; \u003cb\u003eEasy Chair\u003c/b\u003e — From the December 2016 issue&nbsp;...",
+   "cacheId": "K5j1O9t6OqoJ",
+   "formattedUrl": "harpers.org/departments/easy-chair/",
+   "htmlFormattedUrl": "harpers.org/departments/\u003cb\u003eeasy\u003c/b\u003e-\u003cb\u003echair\u003c/b\u003e/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width",
+      "og:image": "http://harpers.org/wp-content/themes/harpers/images/footerLogo.png",
+      "og:description": "In 1979, a catchy Kenny Rogers song called “Coward of the County” made it to the top of the country charts. It’s about a man named Tommy, whose father, a prisoner, implores him not to follow the example he’s been set:"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "http://harpers.org/wp-content/themes/harpers/images/footerLogo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Platner Easy Chair | Knoll",
+   "htmlTitle": "Platner \u003cb\u003eEasy Chair\u003c/b\u003e | Knoll",
+   "link": "https://www.knoll.com/product/platner-easy-chair",
+   "displayLink": "www.knoll.com",
+   "snippet": "The iconic Platner Easy Chair, designed by Warren Platner, was created by \nwelding hundreds of curved rods to circular frames.",
+   "htmlSnippet": "The iconic Platner \u003cb\u003eEasy Chair\u003c/b\u003e, designed by Warren Platner, was created by \u003cbr\u003e\nwelding hundreds of curved rods to circular frames.",
+   "cacheId": "mC0-HESMLEUJ",
+   "formattedUrl": "https://www.knoll.com/product/platner-easy-chair",
+   "htmlFormattedUrl": "https://www.knoll.com/product/platner-\u003cb\u003eeasy\u003c/b\u003e-\u003cb\u003echair\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "128",
+      "height": "128",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRpSQwamjebqIaX05SkFl0lclV2eCsu24oJ54soqxxUjw7eRF5GPbPoueZy"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.knoll.com/media/28/406/Thumb_Platner_Easy_880_oat,5.png",
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.knoll.com/media/28/406/Thumb_Platner_Easy_880_oat,5.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Easy chair - definition of easy chair by The Free Dictionary",
+   "htmlTitle": "\u003cb\u003eEasy chair\u003c/b\u003e - definition of \u003cb\u003eeasy chair\u003c/b\u003e by The Free Dictionary",
+   "link": "http://www.thefreedictionary.com/easy+chair",
+   "displayLink": "www.thefreedictionary.com",
+   "snippet": "Noun, 1. easy chair - a comfortable upholstered armchair. lounge chair, \noverstuffed chair · armchair - chair with a support on each side for arms. wing \nchair ...",
+   "htmlSnippet": "Noun, 1. \u003cb\u003eeasy chair\u003c/b\u003e - a comfortable upholstered armchair. lounge chair, \u003cbr\u003e\noverstuffed chair &middot; armchair - chair with a support on each side for arms. wing \u003cbr\u003e\nchair&nbsp;...",
+   "cacheId": "ctub9uFgqYgJ",
+   "formattedUrl": "www.thefreedictionary.com/easy+chair",
+   "htmlFormattedUrl": "www.thefreedictionary.com/\u003cb\u003eeasy\u003c/b\u003e+\u003cb\u003echair\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "108",
+      "height": "92",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTaHpzgMuQHvj0NeeAv25ec70vqBvdHd5F6qQateGsqP7jNCZttPtKtMw"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-id": "Farlex.581429F59E1D8",
+      "msapplication-packagefamilyname": "Farlex.581429F59E1D8_wyegy4e46y996",
+      "apple-itunes-app": "app-id=379450383, app-argument=thefreedictionary://search/easy+chair?",
+      "og:url": "http://www.thefreedictionary.com/easy+chair",
+      "og:description": "Definition, Synonyms, Translations of easy chair by The Free Dictionary",
+      "og:title": "easy chair",
+      "og:type": "article",
+      "og:image": "http://img.tfd.com/wn/D4/627AA-easy-chair.png",
+      "og:image:width": "135",
+      "og:image:height": "116",
+      "og:site_name": "TheFreeDictionary.com"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "http://img.tfd.com/wn/D4/627AA-easy-chair.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "[Easy Chair] | Tyranny of the Minority, by Rebecca Solnit | Harper's ...",
+   "htmlTitle": "[\u003cb\u003eEasy Chair\u003c/b\u003e] | Tyranny of the Minority, by Rebecca Solnit | Harper&#39;s ...",
+   "link": "http://harpers.org/archive/2017/03/tyranny-of-the-minority/",
+   "displayLink": "harpers.org",
+   "snippet": "hink of our democracy as a house we built in 1776, big enough only for Christian, \nproperty-owning white men. Over the next two centuries, various groups.",
+   "htmlSnippet": "hink of our democracy as a house we built in 1776, big enough only for Christian, \u003cbr\u003e\nproperty-owning white men. Over the next two centuries, various groups.",
+   "cacheId": "bdG7ZQdLzwEJ",
+   "formattedUrl": "harpers.org/archive/2017/03/tyranny-of-the-minority/",
+   "htmlFormattedUrl": "harpers.org/archive/2017/03/tyranny-of-the-minority/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width",
+      "og:site_name": "Harper's magazine",
+      "og:image": "http://harpers.org/wp-content/themes/harpers/images/footerLogo.png",
+      "og:description": "hink of our democracy as a house we built in 1776, big enough only for Christian, property-owning white men. Over the next two centuries, various groups struggled to make it bigger, with space for people of other faiths or no faith, people of color, poor people, and women. Imagine then that someone stole a shingle, or a nail — first one, then another. After many such small thefts, the structure weakens. The roof begins to fall in; whole rooms are torn down, the wreckage is carted away; eventually, all that remains is a skeleton."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "http://harpers.org/wp-content/themes/harpers/images/footerLogo.png"
+     }
+    ]
+   }
+  }
+ ]
+}

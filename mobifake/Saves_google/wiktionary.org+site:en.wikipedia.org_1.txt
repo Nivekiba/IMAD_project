@@ -1,0 +1,260 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - wiktionary.org site:en.wikipedia.org",
+    "totalResults": "85800",
+    "searchTerms": "wiktionary.org site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - wiktionary.org site:en.wikipedia.org",
+    "totalResults": "85800",
+    "searchTerms": "wiktionary.org site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "Google"
+ },
+ "searchInformation": {
+  "searchTime": 0.679365,
+  "formattedSearchTime": "0.68",
+  "totalResults": "85800",
+  "formattedTotalResults": "85,800"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Wiktionary, the free dictionary",
+   "htmlTitle": "\u003cb\u003eWiktionary\u003c/b\u003e, the free dictionary",
+   "link": "https://en.wikipedia.org/wiki/wikt:",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Wiktionary is a wiki, which means that you can edit it, and all the content is dual-\nlicensed under both the Creative .... from en.wiktionary.org (Terms of Use) ...",
+   "htmlSnippet": "Wiktionary is a wiki, which means that you can edit it, and all the content is dual-\u003cbr\u003e\nlicensed under both the Creative .... from en.\u003cb\u003ewiktionary\u003c/b\u003e.\u003cb\u003eorg\u003c/b\u003e (Terms of Use)&nbsp;...",
+   "cacheId": "H7k5BGCRSxAJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/wikt:",
+   "htmlFormattedUrl": "https://en.wikipedia.\u003cb\u003eorg\u003c/b\u003e/wiki/wikt:",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "English - Wiktionary",
+   "htmlTitle": "English - \u003cb\u003eWiktionary\u003c/b\u003e",
+   "link": "https://en.wikipedia.org/wiki/wikt:English",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "English[edit]. Alternative forms[edit]. Inglish (dated or rare); Englishe (archaic). \nEtymology[edit]. From Middle English Englisch, English, Inglis, from Old English ...",
+   "htmlSnippet": "English[edit]. Alternative forms[edit]. Inglish (dated or rare); Englishe (archaic). \u003cbr\u003e\nEtymology[edit]. From Middle English Englisch, English, Inglis, from Old English&nbsp;...",
+   "cacheId": "winKEmq6dQ4J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/wikt:English",
+   "htmlFormattedUrl": "https://en.wikipedia.\u003cb\u003eorg\u003c/b\u003e/wiki/wikt:English",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "because - Wiktionary",
+   "htmlTitle": "because - \u003cb\u003eWiktionary\u003c/b\u003e",
+   "link": "https://en.wikipedia.org/wiki/wiktionary:because",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Rhymes: -ɒz; Hyphenation: be‧cause; Rhymes: -ɑːz. Adverb[edit]. because (not \ncomparable). (archaic) For the reason (that). [quotations ▽]. 1611, Authorized ...",
+   "htmlSnippet": "Rhymes: -ɒz; Hyphenation: be‧cause; Rhymes: -ɑːz. Adverb[edit]. because (not \u003cbr\u003e\ncomparable). (archaic) For the reason (that). [quotations ▽]. 1611, Authorized&nbsp;...",
+   "cacheId": "GAa5x8MFR9YJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/wiktionary:because",
+   "htmlFormattedUrl": "https://en.wikipedia.\u003cb\u003eorg\u003c/b\u003e/wiki/\u003cb\u003ewiktionary\u003c/b\u003e:because",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "yak shaving - Wiktionary",
+   "htmlTitle": "yak shaving - \u003cb\u003eWiktionary\u003c/b\u003e",
+   "link": "https://en.wikipedia.org/wiki/Wiktionary%3Ayak_shaving",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "English[edit]. Etymology[edit]. Coined by Carlin Vieri in his time at the MIT AI Lab \n(1993-8) after viewing a 1991 episode of The Ren and Stimpy Show featuring ...",
+   "htmlSnippet": "English[edit]. Etymology[edit]. Coined by Carlin Vieri in his time at the MIT AI Lab \u003cbr\u003e\n(1993-8) after viewing a 1991 episode of The Ren and Stimpy Show featuring&nbsp;...",
+   "cacheId": "r0ImVBR0CEMJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Wiktionary%3Ayak_shaving",
+   "htmlFormattedUrl": "https://en.wikipedia.\u003cb\u003eorg\u003c/b\u003e/wiki/\u003cb\u003eWiktionary\u003c/b\u003e%3Ayak_shaving",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Latin - Wiktionary",
+   "htmlTitle": "Latin - \u003cb\u003eWiktionary\u003c/b\u003e",
+   "link": "https://en.wikipedia.org/wiki/Wiktionary:Latin",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "English[edit]. Wiktionary · Latin edition of Wiktionary. Wiktionary. English \nWiktionary has Index:Latin and Category:Latin language · Wikipedia has an \narticle on:.",
+   "htmlSnippet": "English[edit]. \u003cb\u003eWiktionary\u003c/b\u003e &middot; Latin edition of \u003cb\u003eWiktionary\u003c/b\u003e. \u003cb\u003eWiktionary\u003c/b\u003e. English \u003cbr\u003e\n\u003cb\u003eWiktionary\u003c/b\u003e has Index:Latin and Category:Latin language &middot; Wikipedia has an \u003cbr\u003e\narticle on:.",
+   "cacheId": "dPfwJcXQgCcJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Wiktionary:Latin",
+   "htmlFormattedUrl": "https://en.wikipedia.\u003cb\u003eorg\u003c/b\u003e/wiki/\u003cb\u003eWiktionary\u003c/b\u003e:Latin",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Russian - Wiktionary",
+   "htmlTitle": "Russian - \u003cb\u003eWiktionary\u003c/b\u003e",
+   "link": "https://en.wikipedia.org/wiki/Wiktionary:Russian",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Rhymes: -ʌʃən. Noun[edit]. Russian (plural Russians). A person from Russia. An \nethnic Russian: a member of the East Slavic ethnic group which is native to, ...",
+   "htmlSnippet": "Rhymes: -ʌʃən. Noun[edit]. Russian (plural Russians). A person from Russia. An \u003cbr\u003e\nethnic Russian: a member of the East Slavic ethnic group which is native to,&nbsp;...",
+   "cacheId": "a4Hlwha3MwAJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Wiktionary:Russian",
+   "htmlFormattedUrl": "https://en.wikipedia.\u003cb\u003eorg\u003c/b\u003e/wiki/\u003cb\u003eWiktionary\u003c/b\u003e:Russian",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "wiki - Wiktionary",
+   "htmlTitle": "wiki - \u003cb\u003eWiktionary\u003c/b\u003e",
+   "link": "https://en.wikipedia.org/wiki/wiktionary:wiki",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Verb[edit]. wiki (third-person singular simple present wikis, present participle \nwikiing, simple past and past participle wikied). (transitive) To research on ...",
+   "htmlSnippet": "Verb[edit]. wiki (third-person singular simple present wikis, present participle \u003cbr\u003e\nwikiing, simple past and past participle wikied). (transitive) To research on&nbsp;...",
+   "cacheId": "5rUpJ5FYrakJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/wiktionary:wiki",
+   "htmlFormattedUrl": "https://en.wikipedia.\u003cb\u003eorg\u003c/b\u003e/wiki/\u003cb\u003ewiktionary\u003c/b\u003e:wiki",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wiktionary - Wikipedia",
+   "htmlTitle": "\u003cb\u003eWiktionary\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Wiktionary",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Website, www.wiktionary.org · Alexa rank, 563 (April 2017). Commercial, No. \nRegistration, Optional. Launched, December 12, 2002; 14 years ago (2002-12-\n12). Current status, active. Wiktionary is a multilingual, web-based project to \ncreate a free content dictionary of all words in ...",
+   "htmlSnippet": "Website, www.\u003cb\u003ewiktionary\u003c/b\u003e.\u003cb\u003eorg\u003c/b\u003e &middot; Alexa rank, 563 (April 2017). Commercial, No. \u003cbr\u003e\nRegistration, Optional. Launched, December 12, 2002; 14 years ago (2002-12-\u003cbr\u003e\n12). Current status, active. Wiktionary is a multilingual, web-based project to \u003cbr\u003e\ncreate a free content dictionary of all words in&nbsp;...",
+   "cacheId": "BJEQRiJVax8J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Wiktionary",
+   "htmlFormattedUrl": "https://en.wikipedia.\u003cb\u003eorg\u003c/b\u003e/wiki/\u003cb\u003eWiktionary\u003c/b\u003e",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Wiktionary",
+      "url": "www.wiktionary.org",
+      "url_text": "www.wiktionary.org",
+      "bday": "2002-12-12",
+      "category": "active"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "204",
+      "height": "247",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBiooyS9jL5Cjbkm37qQuAxgqI9TRKFHzZW9rBnXtluK58CRqfvZegEk7e"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/WiktionaryEn_-_DP_Derivative.svg/1200px-WiktionaryEn_-_DP_Derivative.svg.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/WiktionaryEn_-_DP_Derivative.svg/1200px-WiktionaryEn_-_DP_Derivative.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Appendix:Swadesh lists - Wiktionary",
+   "htmlTitle": "Appendix:Swadesh lists - \u003cb\u003eWiktionary\u003c/b\u003e",
+   "link": "https://en.wikipedia.org/wiki/wikt:Appendix:Swadesh_list",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "World languages — other existing wikis. http://en.wikivoyage.org/en/Phrasebooks \nWikivoyage phrasebooks; http://wiki.langwiki.info/Main_Page (Wikilang).",
+   "htmlSnippet": "World languages — other existing wikis. http://en.wikivoyage.\u003cb\u003eorg\u003c/b\u003e/en/Phrasebooks \u003cbr\u003e\nWikivoyage phrasebooks; http://wiki.langwiki.info/Main_Page (Wikilang).",
+   "cacheId": "hvxp3KwFWD0J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/wikt:Appendix:Swadesh_list",
+   "htmlFormattedUrl": "https://en.wikipedia.\u003cb\u003eorg\u003c/b\u003e/wiki/wikt:Appendix:Swadesh_list",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "dictionary - Wiktionary",
+   "htmlTitle": "dictionary - \u003cb\u003eWiktionary\u003c/b\u003e",
+   "link": "https://en.wikipedia.org/wiki/wikt:dictionary",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Hyphenation: dic‧tion‧ary. Noun[edit]. dictionary (plural dictionaries). A reference \nwork with a list of words from one or more languages, normally ordered ...",
+   "htmlSnippet": "Hyphenation: dic‧tion‧ary. Noun[edit]. dictionary (plural dictionaries). A reference \u003cbr\u003e\nwork with a list of words from one or more languages, normally ordered&nbsp;...",
+   "cacheId": "dGNB1dEZ86QJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/wikt:dictionary",
+   "htmlFormattedUrl": "https://en.wikipedia.\u003cb\u003eorg\u003c/b\u003e/wiki/wikt:dictionary",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  }
+ ]
+}

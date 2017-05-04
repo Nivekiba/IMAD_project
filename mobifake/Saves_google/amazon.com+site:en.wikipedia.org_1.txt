@@ -1,0 +1,301 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - amazon.com site:en.wikipedia.org",
+    "totalResults": "55900",
+    "searchTerms": "amazon.com site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - amazon.com site:en.wikipedia.org",
+    "totalResults": "55900",
+    "searchTerms": "amazon.com site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "Google"
+ },
+ "searchInformation": {
+  "searchTime": 0.80745,
+  "formattedSearchTime": "0.81",
+  "totalResults": "55900",
+  "formattedTotalResults": "55,900"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Amazon.com - Wikipedia",
+   "htmlTitle": "\u003cb\u003eAmazon\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Amazon.com",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Amazon.com also called Amazon, is an American electronic commerce and \ncloud computing company that was founded on July 5, 1994, by Jeff Bezos and is\n ...",
+   "htmlSnippet": "\u003cb\u003eAmazon\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e also called Amazon, is an American electronic commerce and \u003cbr\u003e\ncloud computing company that was founded on July 5, 1994, by Jeff Bezos and is\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "BFVqovVuHVkJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Amazon.com",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eAmazon\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Amazon.com, Inc.",
+      "url": "amazon.com",
+      "url_text": "amazon.com",
+      "bday": "1994-07-05",
+      "category": "Public"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "175",
+      "height": "289",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRIdQ70672TXy24XEU_zLrhub8ij0sPf21KfTP-B5bvUipn5QMxTSBOqzg"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/5/59/Amazon.com_screenshot.jpeg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/5/59/Amazon.com_screenshot.jpeg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Amazon.com controversies - Wikipedia",
+   "htmlTitle": "\u003cb\u003eAmazon\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e controversies - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Amazon.com_controversies",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Amazon.com controversies have attracted criticism from multiple sources, where \nthe ethics of certain business practices and policies have been drawn into ...",
+   "htmlSnippet": "\u003cb\u003eAmazon\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e controversies have attracted criticism from multiple sources, where \u003cbr\u003e\nthe ethics of certain business practices and policies have been drawn into&nbsp;...",
+   "cacheId": "X-rTBGcweQQJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Amazon.com_controversies",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eAmazon\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e_controversies",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Jeff Bezos - Wikipedia",
+   "htmlTitle": "Jeff Bezos - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Jeff_Bezos",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Jeff Bezos is an American engineer, technology and retail entrepreneur, investor \nand philanthropist who is best known as the founder, chairman, and chief \nexecutive officer of Amazon.com, which is the world's largest online ...",
+   "htmlSnippet": "Jeff Bezos is an American engineer, technology and retail entrepreneur, investor \u003cbr\u003e\nand philanthropist who is best known as the founder, chairman, and chief \u003cbr\u003e\nexecutive officer of \u003cb\u003eAmazon\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e, which is the world&#39;s largest online&nbsp;...",
+   "cacheId": "r2NDHF7-a_AJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Jeff_Bezos",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Jeff_Bezos",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Jeff Bezos",
+      "nickname": "Jeffrey Preston Jorgensen",
+      "bday": "1964-01-12",
+      "label": "Seattle, Washington, U.S.",
+      "role": "Technology and retail entrepreneur and investor",
+      "category": "American"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "209",
+      "height": "241",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5LTt3-gyYSSLxi6GRBXlaN-tBEMNDcGC8VU9wKD0VRWf30SBWtKzBLi_R"
+     }
+    ],
+    "person": [
+     {
+      "role": "Technology and retail entrepreneur and investor"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Jeff_Bezos%27_iconic_laugh.jpg/1200px-Jeff_Bezos%27_iconic_laugh.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Jeff_Bezos%27_iconic_laugh.jpg/1200px-Jeff_Bezos%27_iconic_laugh.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Perfect 10, Inc. v. Amazon.com, Inc. - Wikipedia",
+   "htmlTitle": "Perfect 10, Inc. v. \u003cb\u003eAmazon\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e, Inc. - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Perfect_10,_Inc._v._Amazon.com,_Inc.",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Perfect 10, Inc. v. Amazon.com, Inc., 508 F.3d 1146 (9th Cir. 2007) was a case in \nthe United States Court of Appeals for the Ninth Circuit involving Perfect 10, Inc.",
+   "htmlSnippet": "Perfect 10, Inc. v. \u003cb\u003eAmazon\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e, Inc., 508 F.3d 1146 (9th Cir. 2007) was a case in \u003cbr\u003e\nthe United States Court of Appeals for the Ninth Circuit involving Perfect 10, Inc.",
+   "cacheId": "KMfPwYN_m5cJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Perfect_10,_Inc._v._Amazon.com,_Inc.",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Perfect_10,_Inc._v._\u003cb\u003eAmazon\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e,_Inc.",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "224",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmjSC0sBBv6Q10DbOFgyF9icVFk1p2pzWbMlXPjcRtjnJa394SJ7F2_G1j"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Seal_of_the_United_States_Court_of_Appeals_for_the_Ninth_Circuit.svg/1200px-Seal_of_the_United_States_Court_of_Appeals_for_the_Ninth_Circuit.svg.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Seal_of_the_United_States_Court_of_Appeals_for_the_Ninth_Circuit.svg/1200px-Seal_of_the_United_States_Court_of_Appeals_for_the_Ninth_Circuit.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Amazon.com Inc v Canada (Commissioner of Patents) - Wikipedia",
+   "htmlTitle": "\u003cb\u003eAmazon\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e Inc v Canada (Commissioner of Patents) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Amazon.com_Inc_v_Canada_(Commissioner_of_Patents)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Amazon.com Inc v Canada (Commissioner of Patents) is a decision of the \nFederal Court of Appeal concerning the patentability of business methods within \nthe ...",
+   "htmlSnippet": "\u003cb\u003eAmazon\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e Inc v Canada (Commissioner of Patents) is a decision of the \u003cbr\u003e\nFederal Court of Appeal concerning the patentability of business methods within \u003cbr\u003e\nthe&nbsp;...",
+   "cacheId": "9EZ7VmckZXUJ",
+   "formattedUrl": "https://en.wikipedia.org/.../Amazon.com_Inc_v_Canada_(Commissioner_of_ Patents)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/.../\u003cb\u003eAmazon\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e_Inc_v_Canada_(\u003cb\u003eCom\u003c/b\u003emissioner_of_ Patents)",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Timeline of Amazon.com - Wikipedia",
+   "htmlTitle": "Timeline of \u003cb\u003eAmazon\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Timeline_of_Amazon.com",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This is a timeline of Amazon.com, American electronic commerce and cloud \ncomputing company with headquarters in Seattle, Washington.",
+   "htmlSnippet": "This is a timeline of \u003cb\u003eAmazon\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e, American electronic commerce and cloud \u003cbr\u003e\ncomputing company with headquarters in Seattle, Washington.",
+   "cacheId": "iAIG052BQZUJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Timeline_of_Amazon.com",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Timeline_of_\u003cb\u003eAmazon\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of Amazon.com products and services - Wikipedia",
+   "htmlTitle": "List of \u003cb\u003eAmazon\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e products and services - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/List_of_Amazon.com_products_and_services",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This is a list of products and services offered by American corporation Amazon.\ncom. Contents. [hide]. 1 Retail goods; 2 Amazon Prime; 3 Consumer electronics ...",
+   "htmlSnippet": "This is a list of products and services offered by American corporation \u003cb\u003eAmazon\u003c/b\u003e.\u003cbr\u003e\n\u003cb\u003ecom\u003c/b\u003e. Contents. [hide]. 1 Retail goods; 2 Amazon Prime; 3 Consumer electronics&nbsp;...",
+   "cacheId": "noTnCs91NJcJ",
+   "formattedUrl": "https://en.wikipedia.org/.../List_of_Amazon.com_products_and_services",
+   "htmlFormattedUrl": "https://en.wikipedia.org/.../List_of_\u003cb\u003eAmazon\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e_products_and_services",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Amazon tax - Wikipedia",
+   "htmlTitle": "\u003cb\u003eAmazon\u003c/b\u003e tax - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Amazon_tax",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "In response to resistance from Amazon.com, other online retailers, and anti-tax \ngroups, the State of ...",
+   "htmlSnippet": "In response to resistance from \u003cb\u003eAmazon\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e, other online retailers, and anti-tax \u003cbr\u003e\ngroups, the State of&nbsp;...",
+   "cacheId": "eDSkxiN2JMMJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Amazon_tax",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eAmazon\u003c/b\u003e_tax",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Category:Amazon.com - Wikipedia",
+   "htmlTitle": "Category:\u003cb\u003eAmazon\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Category:Amazon.com",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Pages in category \"Amazon.com\". The following 99 pages are in this category, \nout of 99 total. This list may not reflect recent changes (learn more).",
+   "htmlSnippet": "Pages in category &quot;\u003cb\u003eAmazon\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e&quot;. The following 99 pages are in this category, \u003cbr\u003e\nout of 99 total. This list may not reflect recent changes (learn more).",
+   "cacheId": "h6PJTgr_DXcJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Category:Amazon.com",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:\u003cb\u003eAmazon\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of mergers and acquisitions by Amazon.com - Wikipedia",
+   "htmlTitle": "List of mergers and acquisitions by \u003cb\u003eAmazon\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/List_of_mergers_and_acquisitions_by_Amazon.com",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Amazon.com, often referred to as simply Amazon, is an American electronic \ncommerce and cloud computing company with headquarters in Seattle, \nWashington.",
+   "htmlSnippet": "\u003cb\u003eAmazon\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e, often referred to as simply Amazon, is an American electronic \u003cbr\u003e\ncommerce and cloud computing company with headquarters in Seattle, \u003cbr\u003e\nWashington.",
+   "cacheId": "6DQ7j5KwigEJ",
+   "formattedUrl": "https://en.wikipedia.org/.../List_of_mergers_and_acquisitions_by_Amazon. com",
+   "htmlFormattedUrl": "https://en.wikipedia.org/.../List_of_mergers_and_acquisitions_by_\u003cb\u003eAmazon\u003c/b\u003e. \u003cb\u003ecom\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  }
+ ]
+}

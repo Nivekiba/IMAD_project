@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <title></title>
+
+</head>
+
+
+<body>
+
+
+<form id="Check_near_salient_shape_applications" method="post" enctype="multipart/form-data"> 
+   		seuil pour la distance shapePOint
+        <input type="number" name="seuil" value=50 >
+        <br>
+        <input type="file" name="file_path"   />    
+        <button>Check_near_salient_shape_applications</button>
+    </form>
+    
+    
+    <br>---------------------<br>
+
+    <form id="Add_salient_shape_to_application" method="post" enctype="multipart/form-data"> 
+   		
+       
+        <br>
+        <input type="file" name="file_path"   />    
+        <button>Add_salient_shape_to_application_</button>
+    </form>
+    
+    
+    <br>---------------------<br>
+     
+ <form id="Check_near_shape_applications" method="post" enctype="multipart/form-data"> 
+   		seuil pour la distance shapePOint
+        <input type="number" name="seuil" value=50 >
+        <br>
+        <input type="file" name="file_path"   />    
+        <button>Check_near_shape_applications</button>
+    </form>
+    
+    
+     <br>---------------------<br>
+     
+    <form id="Refresh_shapePoint_database" method="post" enctype="multipart/form-data">   
+        <button>Refresh_shapePoint_database</button>
+    </form>
+    
+    <br>---------------------<br>
+    
+    
+    <form id="Add_icon_to_shapePoint_database" method="post" enctype="multipart/form-data"> 
+        <input type="file" name="file_path"  />    
+        <button>Add_icon_to_shapePoint_database</button>
+    </form>
+    
+    
+   <br>---------------------<br>
+   <form id="Check_near_apparence_applications" method="post" enctype="multipart/form-data"> 
+   		seuil pour la distance lab
+        <input type="number" name="seuil" value=10 >
+        <br>
+        <input type="file" name="file_path"   />    
+        <button>Check_near_apparence_applications</button>
+    </form>
+    
+    <br>---------------------<br>
+    
+    <form id="add_icon_to_lab_database" method="post" enctype="multipart/form-data"> 
+        <input type="file" name="file_path"  />    
+        <button>add_icon_to_lab_database</button>
+    </form>
+    
+    <br>---------------------<br>
+    
+    
+      <form id="refresh_lab_database" method="post" enctype="multipart/form-data">   
+        <button>refresh_lab_database</button>
+    </form>
+    
+    
+    
+  
+    <script type="text/javascript">
+   
+    $("form#Check_near_salient_shape_applications").submit(function () {
+        var formData = new FormData($(this)[0]);
+        /*var formData = new FormData();
+        formData.append("key", "222222");*/
+        $.ajax({
+            url: "http://localhost/check_image_service/controllers/Check_near_salient_shape_applications.php",
+            type: 'POST',
+            data: formData,
+            async: false,
+            success: function (data) {
+                alert(data)
+            },
+            error : function(resultat, statut, erreur){
+				//alert(erreur+resultat+statut);
+            },
+            cache: false,
+            contentType: false,
+            processData: false
+        });
+        return false;
+    });
+    $("form#Add_salient_shape_to_application").submit(function () {
+        var formData = new FormData($(this)[0]);
+        /*var formData = new FormData();
+        formData.append("key", "222222");*/
+        $.ajax({
+            url: "http://localhost/check_image_service/controllers/Add_salient_shape_to_application.php",
+            type: 'POST',
+            data: formData,
+            async: false,
+            success: function (data) {
+                alert(data)
+            },
+            error : function(resultat, statut, erreur){
+		//alert(formData);
+			//	alert(erreur+resultat+statut);
+            },
+            cache: false,
+            contentType: false,
+            processData: false
+        });
+        return false;
+    });
+    $("form#Add_icon_to_shapePoint_database").submit(function () {
+        var formData = new FormData($(this)[0]);
+        /*var formData = new FormData();
+        formData.append("key", "222222");*/
+        $.ajax({
+            url: "http://localhost/check_image_service/controllers/Add_icon_to_shapePoint_database.php",
+            type: 'POST',
+            data: formData,
+            async: false,
+            success: function (data) {
+                alert(data)
+            },
+            error : function(resultat, statut, erreur){
+				//alert(erreur+resultat+statut);
+            },
+            cache: false,
+            contentType: false,
+            processData: false
+        });
+        return false;
+    });
+    
+    $("form#Check_near_shape_applications").submit(function () {
+        var formData = new FormData($(this)[0]);
+        /*var formData = new FormData();
+        formData.append("key", "222222");*/
+        $.ajax({
+            url: "http://localhost/check_image_service/controllers/Check_near_shape_applications.php",
+            type: 'POST',
+            data: formData,
+            async: false,
+            success: function (data) {
+                alert(data)
+            },
+            error : function(resultat, statut, erreur){
+				//alert(erreur+resultat+statut);
+            },
+            cache: false,
+            contentType: false,
+            processData: false
+        });
+        return false;
+    });
+    
+    $("form#Check_near_apparence_applications").submit(function () {
+        var formData = new FormData($(this)[0]);
+        /*var formData = new FormData();
+        formData.append("key", "222222");*/
+        $.ajax({
+            url: "http://localhost/check_image_service/controllers/Check_near_apparence_applications.php",
+            type: 'POST',
+            data: formData,
+            async: false,
+            success: function (data) {
+                alert(data)
+            },
+            error : function(resultat, statut, erreur){
+				//alert(erreur+resultat+statut);
+            },
+            cache: false,
+            contentType: false,
+            processData: false
+        });
+        return false;
+    });
+        $("form#add_icon_to_lab_database").submit(function () {
+            var formData = new FormData($(this)[0]);
+            /*var formData = new FormData();
+            formData.append("key", "222222");*/
+            $.ajax({
+                url: "http://localhost/check_image_service/controllers/Add_icon_to_lab_database.php",
+                type: 'POST',
+                data: formData,
+                async: false,
+                success: function (data) {
+                    alert(data)
+                },
+                error : function(resultat, statut, erreur){
+					//alert(erreur+resultat+statut);
+                },
+                cache: false,
+                contentType: false,
+                processData: false
+            });
+            return false;
+        });
+        $("form#Refresh_shapePoint_database").submit(function () {
+            var formData = new FormData($(this)[0]);
+            /*var formData = new FormData();
+            formData.append("key", "222222");*/
+            $.ajax({
+                url: "http://localhost/check_image_service/controllers/Refresh_shapePoint_database.php",
+                type: 'POST',
+                data: formData,
+                async: false,
+                success: function (data) {
+                    alert(data)
+                },
+                /*error : function(resultat, statut, erreur){
+					alert(erreur+resultat+statut);
+                },*/
+                cache: false,
+                contentType: false,
+                processData: false
+            });
+            return false;
+        });
+
+        $("form#refresh_lab_database").submit(function () {
+            var formData = new FormData($(this)[0]);
+            /*var formData = new FormData();
+            formData.append("key", "222222");*/
+            $.ajax({
+                url: "http://localhost/check_image_service/controllers/Refresh_lab_database.php",
+                type: 'POST',
+                data: formData,
+                async: false,
+                success: function (data) {
+                    alert(data)
+                },
+                /*error : function(resultat, statut, erreur){
+					alert(erreur+resultat+statut);
+                },*/
+                cache: false,
+                contentType: false,
+                processData: false
+            });
+            return false;
+        });
+
+
+
+        $('#app_status_account').click(function () {
+            //alert("msg");
+            var request = $.ajax({
+                url: "http://127.0.0.7/phishing/public/check_developper",
+                type: "POST",
+                data: {
+                    device_id: 111,
+                    application_name: 12,
+                },
+                dataType: 'jsonp'
+            });
+            request.done(function (msg) {
+                alert(msg);
+            });
+        });
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,8 @@
+{
+    "Kompass": {
+        "kompas": 13,
+        "kompas gramedia group": 1,
+        "compass group": 1,
+        "hotel marketing by bookingsuite": 1
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "AfriFirstBank": {
+        "AfriFirstBank": [
+
+        ]
+    },
+    "ACCESS+Bank": {
+        "ACCESS+Bank": [
+
+        ]
+    },
+    "+Brazil+Bank": {
+        "+Brazil+Bank": [
+
+        ]
+    },
+    "First+National+South+Africa": {
+        "First+National+South+Africa": [
+
+        ]
+    },
+    "Imperial+Holdings": {
+        "Imperial+Holdings": [
+
+        ]
+    },
+    "Aval+Group": {
+        "Aval+Group": [
+
+        ]
+    },
+    "Zenith+Bank+South+Africa": {
+        "Zenith+Bank+South+Africa": [
+
+        ]
+    },
+    "Guaranty+trusty+bank": {
+        "Guaranty+trusty+bank": [
+
+        ]
+    },
+    "BCP+Marocco": {
+        "BCP+Marocco": [
+
+        ]
+    },
+    "Credit+Du+Marocco": {
+        "Credit+Du+Marocco": [
+
+        ]
+    },
+    "Expres+Union+": {
+        "Expres+Union+": [
+
+        ]
+    }
+}

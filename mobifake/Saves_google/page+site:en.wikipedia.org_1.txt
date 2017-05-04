@@ -1,0 +1,381 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - page site:en.wikipedia.org",
+    "totalResults": "3760000",
+    "searchTerms": "page site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - page site:en.wikipedia.org",
+    "totalResults": "3760000",
+    "searchTerms": "page site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "Google"
+ },
+ "searchInformation": {
+  "searchTime": 0.617308,
+  "formattedSearchTime": "0.62",
+  "totalResults": "3760000",
+  "formattedTotalResults": "3,760,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Page - Wikipedia",
+   "htmlTitle": "\u003cb\u003ePage\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Page",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Page most commonly refers to: Page (paper), one side of a leaf of paper, as in a \nbook; Page (servant), a traditional young male servant; Page (assistance ...",
+   "htmlSnippet": "\u003cb\u003ePage\u003c/b\u003e most commonly refers to: \u003cb\u003ePage\u003c/b\u003e (paper), one side of a leaf of paper, as in a \u003cbr\u003e\nbook; \u003cb\u003ePage\u003c/b\u003e (servant), a traditional young male servant; \u003cb\u003ePage\u003c/b\u003e (assistance&nbsp;...",
+   "cacheId": "wtO2WIExqgkJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Page",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003ePage\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Larry Page - Wikipedia",
+   "htmlTitle": "Larry \u003cb\u003ePage\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Larry_Page",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Lawrence \"Larry\" Edward Page (born March 26, 1973) is an American computer \nscientist and Internet entrepreneur who co-founded Google with Sergey Brin.",
+   "htmlSnippet": "Lawrence &quot;Larry&quot; Edward \u003cb\u003ePage\u003c/b\u003e (born March 26, 1973) is an American computer \u003cbr\u003e\nscientist and Internet entrepreneur who co-founded Google with Sergey Brin.",
+   "cacheId": "XJlUkBR7gooJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Larry_Page",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Larry_\u003cb\u003ePage\u003c/b\u003e",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Larry Page",
+      "title": "CEO of Alphabet Inc",
+      "nickname": "Lawrence Edward Page",
+      "bday": "1973-03-26",
+      "label": "Palo Alto, California, U.S.[1][2]",
+      "role": "Computer scientist, Internet entrepreneur",
+      "category": "American"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "209",
+      "height": "241",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTaoBcewKYKleJtKhY6ocQfS0FuBKCgSHsb7Y7x26Kq7oSf1roxcbmA89U"
+     }
+    ],
+    "person": [
+     {
+      "role": "CEO of Alphabet Inc"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Larry_Page_in_the_European_Parliament%2C_17.06.2009_%28cropped%29.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Larry_Page_in_the_European_Parliament%2C_17.06.2009_%28cropped%29.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Jimmy Page - Wikipedia",
+   "htmlTitle": "Jimmy \u003cb\u003ePage\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Jimmy_Page",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "James Patrick \"Jimmy\" Page, OBE (born 9 January 1944) is an English musician, \nsongwriter, and record producer who achieved international success as the ...",
+   "htmlSnippet": "James Patrick &quot;Jimmy&quot; \u003cb\u003ePage\u003c/b\u003e, OBE (born 9 January 1944) is an English musician, \u003cbr\u003e\nsongwriter, and record producer who achieved international success as the&nbsp;...",
+   "cacheId": "xun3pzjcDOMJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Jimmy_Page",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Jimmy_\u003cb\u003ePage\u003c/b\u003e",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Jimmy Page",
+      "nickname": "James Patrick Page",
+      "url": "jimmypage.com",
+      "url_text": "jimmypage.com",
+      "bday": "1944-01-09",
+      "role": "Musician songwriter record producer",
+      "note": "Guitar"
+     },
+     {
+      "fn": "Jimmy Page"
+     },
+     {
+      "fn": "Led Zeppelin"
+     },
+     {
+      "fn": "The Firm"
+     },
+     {
+      "fn": "The Yardbirds"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "183",
+      "height": "275",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRE9NfXTLEthxRnkXPCa7K-fdgHWa85OT6QI4QDrJWMlf0JjJ9nJ4lOsD7G"
+     }
+    ],
+    "person": [
+     {
+      "role": "Musician songwriter record producer"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Jimmy_Page_at_the_Echo_music_award_2013.jpg/1200px-Jimmy_Page_at_the_Echo_music_award_2013.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Jimmy_Page_at_the_Echo_music_award_2013.jpg/1200px-Jimmy_Page_at_the_Echo_music_award_2013.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Web page - Wikipedia",
+   "htmlTitle": "Web \u003cb\u003epage\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Web_page",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A web page (webpage or Web page) is a document that is suitable for the World \nWide Web and web browsers. A web browser displays a web page on a monitor\n ...",
+   "htmlSnippet": "A web \u003cb\u003epage\u003c/b\u003e (webpage or Web \u003cb\u003epage\u003c/b\u003e) is a document that is suitable for the World \u003cbr\u003e\nWide Web and web browsers. A web browser displays a web \u003cb\u003epage\u003c/b\u003e on a monitor\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "JrMybz0BXacJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Web_page",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Web_\u003cb\u003epage\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "315",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQYEPrhgNGnAj-9Nfvk_mPPXvLoimQeWh0rOa9tX9lO6n2_XEQ0zE-ACHcW"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Commons.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Commons.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Page, Arizona - Wikipedia",
+   "htmlTitle": "\u003cb\u003ePage\u003c/b\u003e, Arizona - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Page,_Arizona",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Page is a city in Coconino County, Arizona, United States, near the Glen Canyon \nDam and Lake Powell. As of the 2010 census, the population of the city was ...",
+   "htmlSnippet": "\u003cb\u003ePage\u003c/b\u003e is a city in Coconino County, Arizona, United States, near the Glen Canyon \u003cbr\u003e\nDam and Lake Powell. As of the 2010 census, the population of the city was&nbsp;...",
+   "cacheId": "Y17qmuW8dTUJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Page,_Arizona",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003ePage\u003c/b\u003e,_Arizona",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Page, Arizona",
+      "category": "City"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "287",
+      "height": "176",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTdpHDfG6MWJqhNO49SqqhnpUNX6on50Sqr8wK--9lefpieBXbUar1jJ4i2"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Page_AZ.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/db/Page_AZ.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Page (computer memory) - Wikipedia",
+   "htmlTitle": "\u003cb\u003ePage\u003c/b\u003e (computer memory) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Page_(computer_memory)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A page, memory page, or virtual page is a fixed-length contiguous block of virtual \nmemory, described by a single entry in the page table. It is the smallest unit of ...",
+   "htmlSnippet": "A \u003cb\u003epage\u003c/b\u003e, memory \u003cb\u003epage\u003c/b\u003e, or virtual \u003cb\u003epage\u003c/b\u003e is a fixed-length contiguous block of virtual \u003cbr\u003e\nmemory, described by a single entry in the \u003cb\u003epage\u003c/b\u003e table. It is the smallest unit of&nbsp;...",
+   "cacheId": "veUV5_LE0JIJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Page_(computer_memory)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003ePage\u003c/b\u003e_(computer_memory)",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Page (servant) - Wikipedia",
+   "htmlTitle": "\u003cb\u003ePage\u003c/b\u003e (servant) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Page_(servant)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A page or page boy is traditionally a young male servant, but may also have \nbeen used for a messenger at the service of a nobleman. The origin of the term is\n ...",
+   "htmlSnippet": "A \u003cb\u003epage\u003c/b\u003e or \u003cb\u003epage\u003c/b\u003e boy is traditionally a young male servant, but may also have \u003cbr\u003e\nbeen used for a messenger at the service of a nobleman. The origin of the term is\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "KNs8TCcyU60J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Page_(servant)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003ePage\u003c/b\u003e_(servant)",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ellen Page - Wikipedia",
+   "htmlTitle": "Ellen \u003cb\u003ePage\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Ellen_Page",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Ellen Grace Philpotts-Page (born February 21, 1987), known professionally as \nEllen Page, is a Canadian actress. Her career began with roles in Canadian ...",
+   "htmlSnippet": "Ellen Grace Philpotts-\u003cb\u003ePage\u003c/b\u003e (born February 21, 1987), known professionally as \u003cbr\u003e\nEllen \u003cb\u003ePage\u003c/b\u003e, is a Canadian actress. Her career began with roles in Canadian&nbsp;...",
+   "cacheId": "JjjFvNiiJjEJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Ellen_Page",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Ellen_\u003cb\u003ePage\u003c/b\u003e",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Ellen Page",
+      "nickname": "Ellen Grace Philpotts-Page",
+      "bday": "1987-02-21",
+      "role": "Actress"
+     },
+     {
+      "fn": "The Wet Season"
+     },
+     {
+      "fn": "The Tracey Fragments"
+     },
+     {
+      "fn": "The Stone Angel"
+     },
+     {
+      "fn": "I Downloaded a Ghost"
+     },
+     {
+      "fn": "The Simpsons"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "205",
+      "height": "245",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQTrZO1r0XQ98lax4nDKOx6NW02egw48nIA565GniLz_UvfAiPwjmHDBhNl"
+     }
+    ],
+    "person": [
+     {
+      "role": "Actress"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Ellen_Page_by_Gage_Skidmore.jpg/1200px-Ellen_Page_by_Gage_Skidmore.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Ellen_Page_by_Gage_Skidmore.jpg/1200px-Ellen_Page_by_Gage_Skidmore.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "page - Wiktionary",
+   "htmlTitle": "\u003cb\u003epage\u003c/b\u003e - Wiktionary",
+   "link": "http://en.wikipedia.org/wiki/wikt:page",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "page (plural pages) ... (typography) The type set up for printing a page. ..... page (\nthird-person singular simple present pages, present participle paging, simple ...",
+   "htmlSnippet": "\u003cb\u003epage\u003c/b\u003e (plural \u003cb\u003epages\u003c/b\u003e) ... (typography) The type set up for printing a \u003cb\u003epage\u003c/b\u003e. ..... \u003cb\u003epage\u003c/b\u003e (\u003cbr\u003e\nthird-person singular simple present \u003cb\u003epages\u003c/b\u003e, present participle paging, simple&nbsp;...",
+   "cacheId": "r3942a37s1oJ",
+   "formattedUrl": "en.wikipedia.org/wiki/wikt:page",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/wikt:\u003cb\u003epage\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Landing page - Wikipedia",
+   "htmlTitle": "Landing \u003cb\u003epage\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Landing_page",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "In online marketing, a landing page, sometimes known as a \"lead capture page\" \nor a \"lander\", or a \"destination page\", is a single web page that appears in ...",
+   "htmlSnippet": "In online marketing, a landing \u003cb\u003epage\u003c/b\u003e, sometimes known as a &quot;lead capture \u003cb\u003epage\u003c/b\u003e&quot; \u003cbr\u003e\nor a &quot;lander&quot;, or a &quot;destination \u003cb\u003epage\u003c/b\u003e&quot;, is a single web \u003cb\u003epage\u003c/b\u003e that appears in&nbsp;...",
+   "cacheId": "koelSMemcaoJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Landing_page",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Landing_\u003cb\u003epage\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  }
+ ]
+}

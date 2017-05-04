@@ -1,0 +1,396 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - god site:en.wikipedia.org",
+    "totalResults": "318000",
+    "searchTerms": "god site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - god site:en.wikipedia.org",
+    "totalResults": "318000",
+    "searchTerms": "god site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "Google"
+ },
+ "searchInformation": {
+  "searchTime": 0.627514,
+  "formattedSearchTime": "0.63",
+  "totalResults": "318000",
+  "formattedTotalResults": "318,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "God - Wikipedia",
+   "htmlTitle": "\u003cb\u003eGod\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/God",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "In monotheism, God is conceived of as the Supreme Being and principal object of \nfaith. The concept of God as described by most theologians includes the ...",
+   "htmlSnippet": "In monotheism, \u003cb\u003eGod\u003c/b\u003e is conceived of as the Supreme Being and principal object of \u003cbr\u003e\nfaith. The concept of \u003cb\u003eGod\u003c/b\u003e as described by most theologians includes the&nbsp;...",
+   "cacheId": "KQvzKNKxX5AJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/God",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eGod\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSEPCxH0PXxe5Hs3j1JM0xi6N4h3n2BP87d1mJz9qQ8cq9G67wniFfdcPl0"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Monad.svg/1200px-Monad.svg.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Monad.svg/1200px-Monad.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "God in Christianity - Wikipedia",
+   "htmlTitle": "\u003cb\u003eGod\u003c/b\u003e in Christianity - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/God_in_Christianity",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "In Christianity, God is the eternal being who created and preserves all things. \nChristians believe God to be both transcendent and immanent (involved in the ...",
+   "htmlSnippet": "In Christianity, \u003cb\u003eGod\u003c/b\u003e is the eternal being who created and preserves all things. \u003cbr\u003e\nChristians believe \u003cb\u003eGod\u003c/b\u003e to be both transcendent and immanent (involved in the&nbsp;...",
+   "cacheId": "33fePRu0p20J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/God_in_Christianity",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eGod\u003c/b\u003e_in_Christianity",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "186",
+      "height": "272",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvpWlnmGda7ecVCEG67KOS-NZV2NAOy0TL-Yd9bIrs_ZTfFdd6_-AiyIZ0"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Bartolom%C3%A9_Esteban_Perez_Murillo_003.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/74/Bartolom%C3%A9_Esteban_Perez_Murillo_003.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "God - Wikiquote",
+   "htmlTitle": "\u003cb\u003eGod\u003c/b\u003e - Wikiquote",
+   "link": "https://en.wikipedia.org/wiki/q:God",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "When we consider what is our thought of God we find that it is our own soul \nstripped of all inferiority and carried out to perfection. ~ Ralph Waldo Emerson.",
+   "htmlSnippet": "When we consider what is our thought of \u003cb\u003eGod\u003c/b\u003e we find that it is our own soul \u003cbr\u003e\nstripped of all inferiority and carried out to perfection. ~ Ralph Waldo Emerson.",
+   "cacheId": "1zNn8kApS6cJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/q:God",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/q:\u003cb\u003eGod\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "234",
+      "height": "216",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0XQztwAGZ93olDjAxlzFnbSl_R-YDn7hrwRjNMWedi-CeiJHX09wA8eU"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Simone_Weil_1921.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Simone_Weil_1921.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "God the Father - Wikipedia",
+   "htmlTitle": "\u003cb\u003eGod\u003c/b\u003e the Father - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/God_the_Father",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "God the Father is a title given to God in various religions, most prominently in \nChristianity. In mainstream trinitarian Christianity, God the Father is regarded as \nthe ...",
+   "htmlSnippet": "\u003cb\u003eGod\u003c/b\u003e the Father is a title given to \u003cb\u003eGod\u003c/b\u003e in various religions, most prominently in \u003cbr\u003e\nChristianity. In mainstream trinitarian Christianity, \u003cb\u003eGod\u003c/b\u003e the Father is regarded as \u003cbr\u003e\nthe&nbsp;...",
+   "cacheId": "zXrlYq_ihOIJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/God_the_Father",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eGod\u003c/b\u003e_the_Father",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "255",
+      "height": "198",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRW1uWefw2w2C2RvMT_u6ZHPtV_B0fL_oLZTeBnYKuhRzI8w1r-L2SFlH0"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Cima_da_Conegliano%2C_God_the_Father.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Cima_da_Conegliano%2C_God_the_Father.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "American Gods - Wikipedia",
+   "htmlTitle": "American \u003cb\u003eGods\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/American_Gods",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "American Gods is a Hugo and Nebula Award-winning novel by English author \nNeil Gaiman. The novel is a blend of Americana, fantasy, and various strands of ...",
+   "htmlSnippet": "American \u003cb\u003eGods\u003c/b\u003e is a Hugo and Nebula Award-winning novel by English author \u003cbr\u003e\nNeil Gaiman. The novel is a blend of Americana, fantasy, and various strands of&nbsp;...",
+   "cacheId": "G9xo-z89xgoJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/American_Gods",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/American_\u003cb\u003eGods\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "182",
+      "height": "276",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_NF_61yzqRWeV6SuIcTrwloGvB7qRRa3k0qnBzloGBFbX7hdkoMEs-yat"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/4/49/American_gods.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/4/49/American_gods.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Deity - Wikipedia",
+   "htmlTitle": "Deity - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Deity",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A deity is a concept conceived in diverse ways in various cultures, typically as a \nnatural or ... The closely linked term \"god\" refers to \"supreme being, deity\", which \nstates Douglas Harper, is derived from Proto-Germanic *guthan, from PIE *ghut-,\n ...",
+   "htmlSnippet": "A deity is a concept conceived in diverse ways in various cultures, typically as a \u003cbr\u003e\nnatural or ... The closely linked term &quot;\u003cb\u003egod\u003c/b\u003e&quot; refers to &quot;supreme being, deity&quot;, which \u003cbr\u003e\nstates Douglas Harper, is derived from Proto-Germanic *guthan, from PIE *ghut-,\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "C20cJ1bsKtAJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Deity",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Deity",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "89",
+      "height": "119",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSyLplcQ9cG9tL5kiQ8M1BcIREwEcGol97y_S6YV2GLVuj_8Ruteo90"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Gold_beaker%2C_Inca%2C_1450-1532_AD%2C_southern_Peru_-_Staatliches_Museum_f%C3%BCr_V%C3%B6lkerkunde_M%C3%BCnchen_-_DSC08504.JPG/112px-Gold_beaker%2C_Inca%2C_1450-1532_AD%2C_southern_Peru_-_Staatliches_Museum_f%C3%BCr_V%C3%B6lkerkunde_M%C3%BCnchen_-_DSC08504.JPG"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "American Gods (TV series) - Wikipedia",
+   "htmlTitle": "American \u003cb\u003eGods\u003c/b\u003e (TV series) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/American_Gods_(TV_series)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "American Gods is an American television series developed by Bryan Fuller and \nMichael Green for Starz, based on the novel of the same name by author Neil ...",
+   "htmlSnippet": "American \u003cb\u003eGods\u003c/b\u003e is an American television series developed by Bryan Fuller and \u003cbr\u003e\nMichael Green for Starz, based on the novel of the same name by author Neil&nbsp;...",
+   "cacheId": "V-UllhouxUoJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/American_Gods_(TV_series)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/American_\u003cb\u003eGods\u003c/b\u003e_(TV_series)",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "299",
+      "height": "168",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRPg9iDvIf1MN0ygBw0-JIpnnZCRLdMJKb6S4Ngom2nB3ykSDLr5p3pINLW"
+     }
+    ],
+    "hcalendar": [
+     {
+      "dtstart": "2017-05-07",
+      "summary": "\"The Secret of Spoons\"[17]"
+     },
+     {
+      "dtstart": "2017-05-14",
+      "summary": "\"Head Full of Snow\"[17]"
+     },
+     {
+      "dtstart": "2017-05-21",
+      "summary": "\"Git Gone\"[17]"
+     },
+     {
+      "dtstart": "2017-05-28",
+      "summary": "\"Lemon Scented You\"[17]"
+     },
+     {
+      "dtstart": "2017-06-04",
+      "summary": "\"A Murder of Gods\"[17]"
+     },
+     {
+      "dtstart": "2017-06-11",
+      "summary": "\"A Prayer for Mad Sweeney\"[17]"
+     },
+     {
+      "dtstart": "2017-06-18",
+      "summary": "\"Come to Jesus\"[17]"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/8/8f/American_Gods_logo.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/8/8f/American_Gods_logo.png"
+     }
+    ],
+    "event": [
+     {
+      "dtstart": "2017-05-07",
+      "summary": "\"The Secret of Spoons\"[17]"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Son of God - Wikipedia",
+   "htmlTitle": "Son of \u003cb\u003eGod\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Son_of_God",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Historically, many rulers have assumed titles such as son of God, son of a god or \nson of heaven. The term \"son of God\" is sometimes used in the Old and New ...",
+   "htmlSnippet": "Historically, many rulers have assumed titles such as son of \u003cb\u003eGod\u003c/b\u003e, son of a \u003cb\u003egod\u003c/b\u003e or \u003cbr\u003e\nson of heaven. The term &quot;son of \u003cb\u003eGod\u003c/b\u003e&quot; is sometimes used in the Old and New&nbsp;...",
+   "cacheId": "OC5QRR5UgCgJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Son_of_God",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Son_of_\u003cb\u003eGod\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "194",
+      "height": "259",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRuj09H-h3KPQlYbs-erggfKPbpqM1nBR4c-a3_Zo90JLfkK9-PBUEcPcI"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Folio_109v_-_The_Baptism_of_Christ.jpg/1200px-Folio_109v_-_The_Baptism_of_Christ.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Folio_109v_-_The_Baptism_of_Christ.jpg/1200px-Folio_109v_-_The_Baptism_of_Christ.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "God in Islam - Wikipedia",
+   "htmlTitle": "\u003cb\u003eGod\u003c/b\u003e in Islam - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/God_in_Islam",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "In Islamic theology, God (Arabic: الله  , translit. Allāh  ) is the all-powerful and all-\nknowing creator, sustainer, ordainer and judge of everything in existence.",
+   "htmlSnippet": "In Islamic theology, \u003cb\u003eGod\u003c/b\u003e (Arabic: الله  , translit. Allāh  ) is the all-powerful and all-\u003cbr\u003e\nknowing creator, sustainer, ordainer and judge of everything in existence.",
+   "cacheId": "GdwzJew67hEJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/God_in_Islam",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eGod\u003c/b\u003e_in_Islam",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "227",
+      "height": "222",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn7-AxrckV5mtW9gdqPOM-Wi13UvcSuU8fdrNhuqIVsL4WgxfOoNXK93g7"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Istanbul%2C_Hagia_Sophia%2C_Allah.jpg/1200px-Istanbul%2C_Hagia_Sophia%2C_Allah.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Istanbul%2C_Hagia_Sophia%2C_Allah.jpg/1200px-Istanbul%2C_Hagia_Sophia%2C_Allah.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "g.o.d - Wikipedia",
+   "htmlTitle": "\u003cb\u003eg.o.d\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/G.o.d",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "g.o.d (지오디, ji-oh-dee) is a five-member South Korean pop music group. The \nname is an acronym for Groove Over Dose. They were one of the few groups to ...",
+   "htmlSnippet": "\u003cb\u003eg.o.d\u003c/b\u003e (지오디, ji-oh-dee) is a five-member South Korean pop music group. The \u003cbr\u003e\nname is an acronym for Groove Over Dose. They were one of the few groups to&nbsp;...",
+   "cacheId": "RkXF1QRfEygJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/G.o.d",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/G.o.d",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "g.o.d",
+      "bday": "1999"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  }
+ ]
+}

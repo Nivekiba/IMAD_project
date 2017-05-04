@@ -1,0 +1,356 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - easy site:en.wikipedia.org",
+    "totalResults": "161000",
+    "searchTerms": "easy site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - easy site:en.wikipedia.org",
+    "totalResults": "161000",
+    "searchTerms": "easy site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "Google"
+ },
+ "searchInformation": {
+  "searchTime": 0.319692,
+  "formattedSearchTime": "0.32",
+  "totalResults": "161000",
+  "formattedTotalResults": "161,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Easy (TV series) - Wikipedia",
+   "htmlTitle": "\u003cb\u003eEasy\u003c/b\u003e (TV series) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Easy_(TV_series)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Easy is a comedy-drama anthology series written, directed, edited and produced \nby Joe Swanberg. It consists of eight half-hour episodes. The series is set in ...",
+   "htmlSnippet": "\u003cb\u003eEasy\u003c/b\u003e is a comedy-drama anthology series written, directed, edited and produced \u003cbr\u003e\nby Joe Swanberg. It consists of eight half-hour episodes. The series is set in&nbsp;...",
+   "cacheId": "rIf4Zq-vopYJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Easy_(TV_series)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eEasy\u003c/b\u003e_(TV_series)",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "easy - Wiktionary",
+   "htmlTitle": "\u003cb\u003eeasy\u003c/b\u003e - Wiktionary",
+   "link": "https://en.wikipedia.org/wiki/Wikt:easy",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Merged with Middle English ethe, eathe (“not difficult, easy”), from Old English \nēaþe, īeþe (“easy, smooth, not difficult”), from Proto-Germanic *auþaz, *auþijaz ...",
+   "htmlSnippet": "Merged with Middle English ethe, eathe (“not difficult, \u003cb\u003eeasy\u003c/b\u003e”), from Old English \u003cbr\u003e\nēaþe, īeþe (“\u003cb\u003eeasy\u003c/b\u003e, smooth, not difficult”), from Proto-Germanic *auþaz, *auþijaz&nbsp;...",
+   "cacheId": "P7pM5VsCdhQJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Wikt:easy",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wikt:\u003cb\u003eeasy\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Easy A - Wikipedia",
+   "htmlTitle": "\u003cb\u003eEasy\u003c/b\u003e A - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Easy_A",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Easy A (stylized as easy A) is a 2010 American teen comedy film directed by Will \nGluck, written by Bert V. Royal and starring Emma Stone, Stanley Tucci, Patricia ...",
+   "htmlSnippet": "\u003cb\u003eEasy\u003c/b\u003e A (stylized as \u003cb\u003eeasy\u003c/b\u003e A) is a 2010 American teen comedy film directed by Will \u003cbr\u003e\nGluck, written by Bert V. Royal and starring Emma Stone, Stanley Tucci, Patricia&nbsp;...",
+   "cacheId": "RSviHlIaGxoJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Easy_A",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eEasy\u003c/b\u003e_A",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "185",
+      "height": "273",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnoBOSVysKbyQBX04o1v8epA3z-g-Ayor17uQDOp-Pa2liUb5ev3H1a4x-"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/9/95/Easy_a_australian.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/9/95/Easy_a_australian.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Easy (Commodores song) - Wikipedia",
+   "htmlTitle": "\u003cb\u003eEasy\u003c/b\u003e (Commodores song) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Easy_(Commodores_song)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "\"Easy\" is a song by Commodores for the Motown label, from their fifth studio \nalbum, Commodores. Released in March 1977, \"Easy\" reached #1 on the \nBillboard ...",
+   "htmlSnippet": "&quot;\u003cb\u003eEasy\u003c/b\u003e&quot; is a song by Commodores for the Motown label, from their fifth studio \u003cbr\u003e\nalbum, Commodores. Released in March 1977, &quot;\u003cb\u003eEasy\u003c/b\u003e&quot; reached #1 on the \u003cbr\u003e\nBillboard&nbsp;...",
+   "cacheId": "rAgtapBNiRcJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Easy_(Commodores_song)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eEasy\u003c/b\u003e_(Commodores_song)",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Commodores"
+     },
+     {
+      "fn": "Faith No More"
+     },
+     {
+      "fn": "Westlife"
+     },
+     {
+      "fn": "Ivete Sangalo singles"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "224",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR3JTtOqfjpHj2GxVGDl0zIT52THqeaqqTraj_ZTr_fFQ3HbE5WLATr0d9L"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/6/63/Easy_by_Commodores_1977_US_vinyl_A-side.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/6/63/Easy_by_Commodores_1977_US_vinyl_A-side.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Easy Rider - Wikipedia",
+   "htmlTitle": "\u003cb\u003eEasy\u003c/b\u003e Rider - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Easy_Rider",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Easy Rider is a 1969 American road movie written by Peter Fonda, Dennis \nHopper, and Terry Southern, produced by Fonda and directed by Hopper. It tells \nthe ...",
+   "htmlSnippet": "\u003cb\u003eEasy\u003c/b\u003e Rider is a 1969 American road movie written by Peter Fonda, Dennis \u003cbr\u003e\nHopper, and Terry Southern, produced by Fonda and directed by Hopper. It tells \u003cbr\u003e\nthe&nbsp;...",
+   "cacheId": "xeHJBS9fnvMJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Easy_Rider",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eEasy\u003c/b\u003e_Rider",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "180",
+      "height": "280",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTn9gV5-oryOb4F44W8bCn7rFaRb0wnF6SsUjkwxsejwBca83BP0id6Lj8"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/3/32/EasyRider.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/3/32/EasyRider.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Easy listening - Wikipedia",
+   "htmlTitle": "\u003cb\u003eEasy\u003c/b\u003e listening - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Easy_listening",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Easy listening is a popular music genre and radio format that was most popular \nduring the 1950s to 1970s. It is related to middle-of-the-road (MOR) music and ...",
+   "htmlSnippet": "\u003cb\u003eEasy\u003c/b\u003e listening is a popular music genre and radio format that was most popular \u003cbr\u003e\nduring the 1950s to 1970s. It is related to middle-of-the-road (MOR) music and&nbsp;...",
+   "cacheId": "qhylWXkNxLcJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Easy_listening",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eEasy\u003c/b\u003e_listening",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "E Company, 506th Infantry Regiment (United States) - Wikipedia",
+   "htmlTitle": "E Company, 506th Infantry Regiment (United States) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/E_Company,_506th_Infantry_Regiment_(United_States)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Easy Company, 2nd Battalion of the 506th Parachute Infantry Regiment of the \n101st Airborne Division, the \"Screaming Eagles\", is one of the best-known ...",
+   "htmlSnippet": "\u003cb\u003eEasy\u003c/b\u003e Company, 2nd Battalion of the 506th Parachute Infantry Regiment of the \u003cbr\u003e\n101st Airborne Division, the &quot;Screaming Eagles&quot;, is one of the best-known&nbsp;...",
+   "cacheId": "g0kFRnpgBWgJ",
+   "formattedUrl": "https://en.wikipedia.org/.../E_Company,_506th_Infantry_Regiment_(United_ States)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/.../E_Company,_506th_Infantry_Regiment_(United_ States)",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "235",
+      "height": "215",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS6OMWJlZ4dgurzquTAKNiEXUJ7RgpI-Ovu30UsYSiyp4vhkqagRe2OaK29"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Distinctive_unit_insignia_of_the_506th_Infantry_Regiment_%28United_States%29.svg/1200px-Distinctive_unit_insignia_of_the_506th_Infantry_Regiment_%28United_States%29.svg.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Distinctive_unit_insignia_of_the_506th_Infantry_Regiment_%28United_States%29.svg/1200px-Distinctive_unit_insignia_of_the_506th_Infantry_Regiment_%28United_States%29.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Easy (Sugababes song) - Wikipedia",
+   "htmlTitle": "\u003cb\u003eEasy\u003c/b\u003e (Sugababes song) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Easy_(Sugababes_song)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "\"Easy\" is a song by English girl group Sugababes, released as the lead single \nfrom their greatest hits album Overloaded: The Singles Collection (2006).",
+   "htmlSnippet": "&quot;\u003cb\u003eEasy\u003c/b\u003e&quot; is a song by English girl group Sugababes, released as the lead single \u003cbr\u003e\nfrom their greatest hits album Overloaded: The Singles Collection (2006).",
+   "cacheId": "w45MUd02etsJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Easy_(Sugababes_song)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eEasy\u003c/b\u003e_(Sugababes_song)",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Sugababes"
+     },
+     {
+      "fn": "Sugababes songs"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "233",
+      "height": "216",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsU8PtHP_AkbKwhyLOIbNP_1hhmgZZyIlZuGtsfePJZqwn6_3LGwL6Ah4"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/b/ba/EasyCD1Cover.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/b/ba/EasyCD1Cover.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Easy (Grinspoon album) - Wikipedia",
+   "htmlTitle": "\u003cb\u003eEasy\u003c/b\u003e (Grinspoon album) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Easy_(Grinspoon_album)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Easy is the second studio album released by Australian rock band Grinspoon. \nThe album was released on 1 November 1999, debuting at No. 4 on the ...",
+   "htmlSnippet": "\u003cb\u003eEasy\u003c/b\u003e is the second studio album released by Australian rock band Grinspoon. \u003cbr\u003e\nThe album was released on 1 November 1999, debuting at No. 4 on the&nbsp;...",
+   "cacheId": "RmvvF-dZicAJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Easy_(Grinspoon_album)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eEasy\u003c/b\u003e_(Grinspoon_album)",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Grinspoon"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt6ObLBplDYZAz939jK8VB1oZJt7Z66lXoguI-Qla69VGHP4rGmwjLGrVW"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/a/a1/Easyalbum.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/a/a1/Easyalbum.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Captain Easy - Wikipedia",
+   "htmlTitle": "Captain \u003cb\u003eEasy\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Captain_Easy",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Captain Easy, Soldier of Fortune was an American action/adventure comic strip \ncreated by Roy Crane that was syndicated by Newspaper Enterprise Association\n ...",
+   "htmlSnippet": "Captain \u003cb\u003eEasy\u003c/b\u003e, Soldier of Fortune was an American action/adventure comic strip \u003cbr\u003e\ncreated by Roy Crane that was syndicated by Newspaper Enterprise Association\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "dhibDQgXu0UJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Captain_Easy",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Captain_\u003cb\u003eEasy\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "189",
+      "height": "266",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY8E4M4vdQf_S7388DslvUfdLbN-fwxLN6acFG-6umyySKMFXQkeEA05Q"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/1/1e/Captaineasyvolumeone.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/1/1e/Captaineasyvolumeone.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

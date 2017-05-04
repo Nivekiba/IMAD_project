@@ -1,0 +1,374 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - knoll.com site:en.wikipedia.org",
+    "totalResults": "6350",
+    "searchTerms": "knoll.com site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - knoll.com site:en.wikipedia.org",
+    "totalResults": "6350",
+    "searchTerms": "knoll.com site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "Google"
+ },
+ "searchInformation": {
+  "searchTime": 0.427736,
+  "formattedSearchTime": "0.43",
+  "totalResults": "6350",
+  "formattedTotalResults": "6,350"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Knoll (company) - Wikipedia",
+   "htmlTitle": "\u003cb\u003eKnoll\u003c/b\u003e (company) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Knoll_(company)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Website, www.knoll.com. Knoll, Inc is a design firm that produces office systems, \nseating, files and storage, tables and ...",
+   "htmlSnippet": "Website, www.\u003cb\u003eknoll\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e. Knoll, Inc is a design firm that produces office systems, \u003cbr\u003e\nseating, files and storage, tables and&nbsp;...",
+   "cacheId": "55oX-snCn3EJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Knoll_(company)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eKnoll\u003c/b\u003e_(\u003cb\u003ecom\u003c/b\u003epany)",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Knoll",
+      "label": "East Greenville, Pennsylvania, United States",
+      "category": "Public"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "122",
+      "height": "47",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLmgoLBHL8jfha-_KA-RkFQuA5-RHJXtDHHo_9-_laPoMrYu_lim2s7A"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/0/08/Log-knl.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/0/08/Log-knl.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Florence Knoll - Wikipedia",
+   "htmlTitle": "Florence \u003cb\u003eKnoll\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Florence_Knoll",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Florence Marguerite Knoll Bassett (née Schust; born May 24, 1917) is an \nAmerican architect .... FLORENCE KNOLL BASSETT · Florence Knoll Bassett: \nThe Conversation - metropolismag.com; The Florence Knoll Bassett Papers \nOnline at the ...",
+   "htmlSnippet": "Florence Marguerite \u003cb\u003eKnoll\u003c/b\u003e Bassett (née Schust; born May 24, 1917) is an \u003cbr\u003e\nAmerican architect .... FLORENCE \u003cb\u003eKNOLL\u003c/b\u003e BASSETT &middot; Florence \u003cb\u003eKnoll\u003c/b\u003e Bassett: \u003cbr\u003e\nThe Conversation - metropolismag.\u003cb\u003ecom\u003c/b\u003e; The Florence \u003cb\u003eKnoll\u003c/b\u003e Bassett Papers \u003cbr\u003e\nOnline at the&nbsp;...",
+   "cacheId": "dSunkmTt6Y8J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Florence_Knoll",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Florence_\u003cb\u003eKnoll\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "291",
+      "height": "173",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQlE0nlLjHkkEy4upU7RYq0qNB1ZNNFSv_OQcwzgQXycVgjxRIXgb2V-y8"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Mies-Barcelona-Chair-and-Ottoman.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/db/Mies-Barcelona-Chair-and-Ottoman.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Tulip chair - Wikipedia",
+   "htmlTitle": "Tulip chair - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Tulip_chair",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Tulip chair was designed by Eero Saarinen in 1955 and 1956 for the Knoll \ncompany of ... Jump up to: \"KnollStudio Tulip Chair\". knoll.com. Retrieved ...",
+   "htmlSnippet": "The Tulip chair was designed by Eero Saarinen in 1955 and 1956 for the Knoll \u003cbr\u003e\ncompany of ... Jump up to: &quot;KnollStudio Tulip Chair&quot;. \u003cb\u003eknoll\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e. Retrieved&nbsp;...",
+   "cacheId": "QkGuU-k-VCMJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Tulip_chair",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Tulip_chair",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5X3KfoKX4OnDMe7foCj3x9LAzKATPC06YpN5FLUfbmYDpKf_nj5LBDF0"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/e/e7/Tulip_med.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/e/e7/Tulip_med.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "File:Tulip med.jpg - Wikipedia",
+   "htmlTitle": "File:Tulip med.jpg - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/File:Tulip_med.jpg",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Four varieties of Tulip pedestal chairs from Knoll. Source. http://www.knoll.com ... \ndistributed by the owner, Knoll Studios, on their website for use on the web.",
+   "htmlSnippet": "Four varieties of Tulip pedestal chairs from Knoll. Source. http://www.\u003cb\u003eknoll\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e ... \u003cbr\u003e\ndistributed by the owner, Knoll Studios, on their website for use on the web.",
+   "cacheId": "IJdk1HzkdcgJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/File:Tulip_med.jpg",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/File:Tulip_med.jpg",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5X3KfoKX4OnDMe7foCj3x9LAzKATPC06YpN5FLUfbmYDpKf_nj5LBDF0"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/e/e7/Tulip_med.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "World Monuments Fund - Wikipedia",
+   "htmlTitle": "World Monuments Fund - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/World_Monuments_Fund",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "World Monuments Fund (WMF) is a private, international, non-profit organization \ndedicated to ... 3.2.2.1 Recipients of the World Monuments Fund / Knoll \nModernism Prize. 3.3 The Hadrian Award .... Knoll.com. 9 June 2006. Retrieved \n18 ...",
+   "htmlSnippet": "World Monuments Fund (WMF) is a private, international, non-profit organization \u003cbr\u003e\ndedicated to ... 3.2.2.1 Recipients of the World Monuments Fund / Knoll \u003cbr\u003e\nModernism Prize. 3.3 The Hadrian Award .... \u003cb\u003eKnoll\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e. 9 June 2006. Retrieved \u003cbr\u003e\n18&nbsp;...",
+   "cacheId": "5Hr5O0LSe4sJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/World_Monuments_Fund",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/World_Monuments_Fund",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "World Monuments Fund",
+      "nickname": "International Fund for Monuments (1965-1984)",
+      "label": "Empire State Building New York, NY",
+      "note": "1965"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Warren Platner - Wikipedia",
+   "htmlTitle": "Warren Platner - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Warren_Platner",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Warren Platner (June 18, 1919 – April 17, 2006) was an American architect and \ninterior ... Produced by Knoll International, with the aid of a grant from the Graham \n... Available at: http://www.dwr.com/category/designers/m-p/warren-platner.do.",
+   "htmlSnippet": "Warren Platner (June 18, 1919 – April 17, 2006) was an American architect and \u003cbr\u003e\ninterior ... Produced by \u003cb\u003eKnoll\u003c/b\u003e International, with the aid of a grant from the Graham \u003cbr\u003e\n... Available at: http://www.dwr.\u003cb\u003ecom\u003c/b\u003e/category/designers/m-p/warren-platner.do.",
+   "cacheId": "hj3wKql_oTMJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Warren_Platner",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Warren_Platner",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Warren Platner",
+      "role": "Architect, interior designer"
+     }
+    ],
+    "person": [
+     {
+      "role": "Architect, interior designer"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Thomas Knoll - Wikipedia",
+   "htmlTitle": "Thomas \u003cb\u003eKnoll\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Thomas_Knoll",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Thomas Knoll (born April 14, 1960) is an American software engineer who \ncreated Adobe ... Photoshop\". webdesignerdepot.com. 2010-02-01. Retrieved \n2010-02-19. Jump up ^ http://prezi.com/yltwomrmonnj/biography-of-john-thomas-\nknoll ...",
+   "htmlSnippet": "Thomas \u003cb\u003eKnoll\u003c/b\u003e (born April 14, 1960) is an American software engineer who \u003cbr\u003e\ncreated Adobe ... Photoshop&quot;. webdesignerdepot.\u003cb\u003ecom\u003c/b\u003e. 2010-02-01. Retrieved \u003cbr\u003e\n2010-02-19. Jump up ^ http://prezi.\u003cb\u003ecom\u003c/b\u003e/yltwomrmonnj/biography-of-john-thomas-\u003cbr\u003e\n\u003cb\u003eknoll\u003c/b\u003e&nbsp;...",
+   "cacheId": "P2cOpYriTiYJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Thomas_Knoll",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Thomas_\u003cb\u003eKnoll\u003c/b\u003e",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Thomas Knoll",
+      "bday": "1960-04-14",
+      "role": "Software engineer"
+     }
+    ],
+    "person": [
+     {
+      "role": "Software engineer"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Michael McCoy - Wikipedia",
+   "htmlTitle": "Michael McCoy - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Michael_McCoy",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Michael McCoy is an American industrial designer and educator who has made \nsignificant ... The Bulldog is Knoll's best selling office chair to date. McCoy's \ninnovative design of products, ... Metropolismag.com. Retrieved 2009-12-04. \nJump up ...",
+   "htmlSnippet": "Michael McCoy is an American industrial designer and educator who has made \u003cbr\u003e\nsignificant ... The Bulldog is \u003cb\u003eKnoll&#39;s\u003c/b\u003e best selling office chair to date. McCoy&#39;s \u003cbr\u003e\ninnovative design of products, ... Metropolismag.\u003cb\u003ecom\u003c/b\u003e. Retrieved 2009-12-04. \u003cbr\u003e\nJump up&nbsp;...",
+   "cacheId": "8YELgSpDUn4J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Michael_McCoy",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Michael_McCoy",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Michael McCoy",
+      "nickname": "Michael McCoy",
+      "bday": "1944-09-16",
+      "category": "American"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Oak Knoll Books and Press - Wikipedia",
+   "htmlTitle": "Oak \u003cb\u003eKnoll\u003c/b\u003e Books and Press - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Oak_Knoll_Books_and_Press",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Oak Knoll Books and Press is a bookseller and publisher based in New Castle, \nDelaware. ... Articles about books published and distributed by Oak Knoll have \nbeen featured in publications such as Smithsonian.com and The Atlantic. Oak \nKnoll ...",
+   "htmlSnippet": "Oak \u003cb\u003eKnoll\u003c/b\u003e Books and Press is a bookseller and publisher based in New Castle, \u003cbr\u003e\nDelaware. ... Articles about books published and distributed by Oak \u003cb\u003eKnoll\u003c/b\u003e have \u003cbr\u003e\nbeen featured in publications such as Smithsonian.\u003cb\u003ecom\u003c/b\u003e and The Atlantic. Oak \u003cbr\u003e\n\u003cb\u003eKnoll\u003c/b\u003e&nbsp;...",
+   "cacheId": "0U0GkHJwdMYJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Oak_Knoll_Books_and_Press",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Oak_\u003cb\u003eKnoll\u003c/b\u003e_Books_and_Press",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "299",
+      "height": "168",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhU1IpAnpKf2TlW0625wa_w6GGD1FXRgdjt7kSTcCB6uQhZ1svbr0t2H_v"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Oak_Knoll_Books_and_Press%2C_New_Castle_Delaware.jpg/1200px-Oak_Knoll_Books_and_Press%2C_New_Castle_Delaware.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Oak_Knoll_Books_and_Press%2C_New_Castle_Delaware.jpg/1200px-Oak_Knoll_Books_and_Press%2C_New_Castle_Delaware.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dominik Knoll - Wikipedia",
+   "htmlTitle": "Dominik \u003cb\u003eKnoll\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Dominik_Knoll",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Dominik Knoll is the CEO of the World Trade Center New Orleans and is an \nactive real estate ... References[edit]. Jump up ^ Dominik Knoll named CEO of \nWorld Trade Center | NOLA.com; Jump up ^ Class Notes: Summer 2010; Jump \nup ...",
+   "htmlSnippet": "Dominik \u003cb\u003eKnoll\u003c/b\u003e is the CEO of the World Trade Center New Orleans and is an \u003cbr\u003e\nactive real estate ... References[edit]. Jump up ^ Dominik \u003cb\u003eKnoll\u003c/b\u003e named CEO of \u003cbr\u003e\nWorld Trade Center | NOLA.\u003cb\u003ecom\u003c/b\u003e; Jump up ^ Class Notes: Summer 2010; Jump \u003cbr\u003e\nup&nbsp;...",
+   "cacheId": "JMdAcftIsyQJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Dominik_Knoll",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Dominik_\u003cb\u003eKnoll\u003c/b\u003e",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Dominik Knoll",
+      "label": "New Orleans, LA",
+      "role": "CEO of the World Trade Center New Orleans, private equity investor",
+      "category": "Italian"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "251",
+      "height": "201",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQiHZabRNG_SI1x_BCCfsIgdSC0savIUZWx8pigHXUD8MfX6nPFU6UIsd1"
+     }
+    ],
+    "person": [
+     {
+      "role": "CEO of the World Trade Center New Orleans, private equity investor"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Dominik_Knoll_--_World_Economic_Forum_2011.png/1200px-Dominik_Knoll_--_World_Economic_Forum_2011.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Dominik_Knoll_--_World_Economic_Forum_2011.png/1200px-Dominik_Knoll_--_World_Economic_Forum_2011.png"
+     }
+    ]
+   }
+  }
+ ]
+}

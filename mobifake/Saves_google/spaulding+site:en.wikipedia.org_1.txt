@@ -1,0 +1,357 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - spaulding site:en.wikipedia.org",
+    "totalResults": "2650",
+    "searchTerms": "spaulding site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - spaulding site:en.wikipedia.org",
+    "totalResults": "2650",
+    "searchTerms": "spaulding site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "Google"
+ },
+ "searchInformation": {
+  "searchTime": 0.840365,
+  "formattedSearchTime": "0.84",
+  "totalResults": "2650",
+  "formattedTotalResults": "2,650"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Spaulding - Wikipedia",
+   "htmlTitle": "\u003cb\u003eSpaulding\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Spaulding",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Spaulding can refer to: Contents. [hide]. 1 People; 2 Places; 3 Other uses; 4 See \nalso. People[edit]. Spaulding (surname). Places[edit]. United States.",
+   "htmlSnippet": "\u003cb\u003eSpaulding\u003c/b\u003e can refer to: Contents. [hide]. 1 People; 2 Places; 3 Other uses; 4 See \u003cbr\u003e\nalso. People[edit]. \u003cb\u003eSpaulding\u003c/b\u003e (surname). Places[edit]. United States.",
+   "cacheId": "j0PU-309B9MJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Spaulding",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eSpaulding\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Huntley N. Spaulding - Wikipedia",
+   "htmlTitle": "Huntley N. \u003cb\u003eSpaulding\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Huntley_N._Spaulding",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Huntley Nowel Spaulding (October 30, 1869 – November 14, 1955) was an \nAmerican manufacturer and Republican politician from Rochester, New \nHampshire.",
+   "htmlSnippet": "Huntley Nowel \u003cb\u003eSpaulding\u003c/b\u003e (October 30, 1869 – November 14, 1955) was an \u003cbr\u003e\nAmerican manufacturer and Republican politician from Rochester, New \u003cbr\u003e\nHampshire.",
+   "cacheId": "hmqShkWzFGcJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Huntley_N._Spaulding",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Huntley_N._\u003cb\u003eSpaulding\u003c/b\u003e",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Huntley Nowel Spaulding"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "194",
+      "height": "260",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVr-TSYzME67h0tNn8lxfXE4ruppDQaJvxH6mErG2LoeCVTaDXpZcuZFQ"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Huntley_N._Spaulding.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Huntley_N._Spaulding.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Spaulding, Oklahoma - Wikipedia",
+   "htmlTitle": "\u003cb\u003eSpaulding\u003c/b\u003e, Oklahoma - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Spaulding,_Oklahoma",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Spaulding is a town in Hughes County, Oklahoma, United States. The population \nwas 62 at the 2000 census. Geography[edit]. Spaulding is located at ...",
+   "htmlSnippet": "\u003cb\u003eSpaulding\u003c/b\u003e is a town in Hughes County, Oklahoma, United States. The population \u003cbr\u003e\nwas 62 at the 2000 census. Geography[edit]. \u003cb\u003eSpaulding\u003c/b\u003e is located at&nbsp;...",
+   "cacheId": "vrxZkwMKCeoJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Spaulding,_Oklahoma",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eSpaulding\u003c/b\u003e,_Oklahoma",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Spaulding, Oklahoma",
+      "category": "Town"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "240",
+      "height": "122",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTu4SpZfMAnDXfZS08-ovXVbjNbkfCDRKPz7eSpA0bZSsJ79yZAJRjOqw"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/OKMap-doton-Spaulding.PNG"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/dd/OKMap-doton-Spaulding.PNG"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Spaulding, California - Wikipedia",
+   "htmlTitle": "\u003cb\u003eSpaulding\u003c/b\u003e, California - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Spaulding,_California",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Spalding is a census-designated place in Lassen County, California. It is located \non the west side of Eagle Lake, 2.1 miles (3.4 km) east-northeast of Whaleback ...",
+   "htmlSnippet": "Spalding is a census-designated place in Lassen County, California. It is located \u003cbr\u003e\non the west side of Eagle Lake, 2.1 miles (3.4 km) east-northeast of Whaleback&nbsp;...",
+   "cacheId": "IstvYrjO7mMJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Spaulding,_California",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eSpaulding\u003c/b\u003e,_California",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Captain Spaulding (Animal Crackers) - Wikipedia",
+   "htmlTitle": "Captain \u003cb\u003eSpaulding\u003c/b\u003e (Animal Crackers) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Captain_Spaulding_(Animal_Crackers)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Captain Jeffrey T. Spaulding is a fictional character in the Broadway musical \nAnimal Crackers and the film of the same name. He was originally played by \nactor ...",
+   "htmlSnippet": "Captain Jeffrey T. \u003cb\u003eSpaulding\u003c/b\u003e is a fictional character in the Broadway musical \u003cbr\u003e\nAnimal Crackers and the film of the same name. He was originally played by \u003cbr\u003e\nactor&nbsp;...",
+   "cacheId": "8v0yfl9qt3UJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Captain_Spaulding_(Animal_Crackers)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Captain_\u003cb\u003eSpaulding\u003c/b\u003e_(Animal_Crackers)",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "228",
+      "height": "200",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4q9FL2-fNcLC6MwHfMz6c7V_3nMZ1w8OiGf36jOk3ZqAWn3cIiiNl2z3i"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/d/d2/Captain_Spaulding_%28Animal_Crackers%2C_1930%29%2C_portrayed_by_Groucho_Marx.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/d/d2/Captain_Spaulding_%28Animal_Crackers%2C_1930%29%2C_portrayed_by_Groucho_Marx.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Spaulding, Illinois - Wikipedia",
+   "htmlTitle": "\u003cb\u003eSpaulding\u003c/b\u003e, Illinois - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Spaulding,_Illinois",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Spaulding is a village in Sangamon County, Illinois, United States. The \npopulation was 559 at the 2000 census. It is part of the Springfield, Illinois \nMetropolitan ...",
+   "htmlSnippet": "\u003cb\u003eSpaulding\u003c/b\u003e is a village in Sangamon County, Illinois, United States. The \u003cbr\u003e\npopulation was 559 at the 2000 census. It is part of the Springfield, Illinois \u003cbr\u003e\nMetropolitan&nbsp;...",
+   "cacheId": "kFapCHE1_vQJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Spaulding,_Illinois",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eSpaulding\u003c/b\u003e,_Illinois",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "292",
+      "height": "173",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTV8pHX49pAYPSJJu6aZzNSO5piTsZHsRkEOY_BwUAPThjyYdccPEJOj13_"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Sangamon_County_Illinois_incorporated_and_unincorporated_areas_Spaulding_highlighted.svg/1200px-Sangamon_County_Illinois_incorporated_and_unincorporated_areas_Spaulding_highlighted.svg.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Sangamon_County_Illinois_incorporated_and_unincorporated_areas_Spaulding_highlighted.svg/1200px-Sangamon_County_Illinois_incorporated_and_unincorporated_areas_Spaulding_highlighted.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Spaulding Turnpike - Wikipedia",
+   "htmlTitle": "\u003cb\u003eSpaulding\u003c/b\u003e Turnpike - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Spaulding_Turnpike",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Spaulding Turnpike is a 33.2-mile (53.4 km) north-south highway in eastern \nNew Hampshire. Nearly its entire length is overlapped by New Hampshire ...",
+   "htmlSnippet": "The \u003cb\u003eSpaulding\u003c/b\u003e Turnpike is a 33.2-mile (53.4 km) north-south highway in eastern \u003cbr\u003e\nNew Hampshire. Nearly its entire length is overlapped by New Hampshire&nbsp;...",
+   "cacheId": "yu-kBiIq-xgJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Spaulding_Turnpike",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eSpaulding\u003c/b\u003e_Turnpike",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "292",
+      "height": "173",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnfddbcXOvdcLtpIPzxzg3BBESJDeFvD-h8ia6b2uJJDN1J3b0GCtSX52o"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Spaulding_Turnpike_Map.svg/1200px-Spaulding_Turnpike_Map.svg.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Spaulding_Turnpike_Map.svg/1200px-Spaulding_Turnpike_Map.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Spaulding (automobile) - Wikipedia - Grinnell",
+   "htmlTitle": "\u003cb\u003eSpaulding\u003c/b\u003e (automobile) - Wikipedia - Grinnell",
+   "link": "https://en.wikipedia.org/wiki/Spaulding_(automobile)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Spaulding was a name used for automobiles from two different companies. One \ncompany was based in Grinnell, Iowa and the other in Buffalo, New York.",
+   "htmlSnippet": "\u003cb\u003eSpaulding\u003c/b\u003e was a name used for automobiles from two different companies. One \u003cbr\u003e\ncompany was based in Grinnell, Iowa and the other in Buffalo, New York.",
+   "cacheId": "YejpabvI9_cJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Spaulding_(automobile)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eSpaulding\u003c/b\u003e_(automobile)",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "328",
+      "height": "148",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNBrqxJQGn9BEaIB4QTnDwNGde5VJldSzGHm-7hTkHrCE1UbKUh_lk8aM"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/1/12/1916Spaulding.JPG"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/12/1916Spaulding.JPG"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "James Spaulding - Wikipedia",
+   "htmlTitle": "James \u003cb\u003eSpaulding\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/James_Spaulding",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "James Spaulding (born July 30, 1937) is a jazz saxophonist and flutist. Born in \nIndianapolis, Indiana, Spaulding attended the Chicago Cosmopolitan School of ...",
+   "htmlSnippet": "James \u003cb\u003eSpaulding\u003c/b\u003e (born July 30, 1937) is a jazz saxophonist and flutist. Born in \u003cbr\u003e\nIndianapolis, Indiana, \u003cb\u003eSpaulding\u003c/b\u003e attended the Chicago Cosmopolitan School of&nbsp;...",
+   "cacheId": "UAFvGzI7uPgJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/James_Spaulding",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/James_\u003cb\u003eSpaulding\u003c/b\u003e",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "James Spaulding",
+      "nickname": "James Ralph Spaulding, Jr.",
+      "bday": "1937-07-30",
+      "role": "Musician",
+      "note": "Saxophone"
+     },
+     {
+      "fn": "Sun Ra"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "184",
+      "height": "275",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7M7GgirvtXbrZFIILSEA7nqA9VsFi7F5mad0KbtC_r0KmdX8dyrLC8Ag"
+     }
+    ],
+    "person": [
+     {
+      "role": "Musician"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/James_Spaulding_photo.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/James_Spaulding_photo.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Alan Spaulding - Wikipedia",
+   "htmlTitle": "Alan \u003cb\u003eSpaulding\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Alan_Spaulding",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Alan Spaulding is a fictional character on the CBS soap opera Guiding Light. He \nwas played by Christopher Bernau from the time of the character's introduction ...",
+   "htmlSnippet": "Alan \u003cb\u003eSpaulding\u003c/b\u003e is a fictional character on the CBS soap opera Guiding Light. He \u003cbr\u003e\nwas played by Christopher Bernau from the time of the character&#39;s introduction&nbsp;...",
+   "cacheId": "tC3SiHuKY14J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Alan_Spaulding",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Alan_\u003cb\u003eSpaulding\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  }
+ ]
+}

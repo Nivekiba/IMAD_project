@@ -1,0 +1,334 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - conversations site:en.wikipedia.org",
+    "totalResults": "51900",
+    "searchTerms": "conversations site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - conversations site:en.wikipedia.org",
+    "totalResults": "51900",
+    "searchTerms": "conversations site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "Google"
+ },
+ "searchInformation": {
+  "searchTime": 0.708078,
+  "formattedSearchTime": "0.71",
+  "totalResults": "51900",
+  "formattedTotalResults": "51,900"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Conversation - Wikipedia",
+   "htmlTitle": "\u003cb\u003eConversation\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Conversation",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Conversation is a form of interactive, spontaneous communication between two \nor more people. Typically, it occurs in spoken communication, as written ...",
+   "htmlSnippet": "\u003cb\u003eConversation\u003c/b\u003e is a form of interactive, spontaneous communication between two \u003cbr\u003e\nor more people. Typically, it occurs in spoken communication, as written&nbsp;...",
+   "cacheId": "HP7oDye7i4QJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Conversation",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eConversation\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "246",
+      "height": "205",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTiX8mXiMIsemppt6C2P7I8aD0bhJ7Q-5-deC3DzCPlHJvRd_JzHk88VAY"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Arnold_Lakhovsky_Conversation.png/1200px-Arnold_Lakhovsky_Conversation.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Arnold_Lakhovsky_Conversation.png/1200px-Arnold_Lakhovsky_Conversation.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Conversation analysis - Wikipedia",
+   "htmlTitle": "\u003cb\u003eConversation\u003c/b\u003e analysis - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Conversation_analysis",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Conversation analysis (commonly abbreviated as CA) is an approach to the \nstudy of social interaction, embracing both verbal and non-verbal conduct, ...",
+   "htmlSnippet": "\u003cb\u003eConversation\u003c/b\u003e analysis (commonly abbreviated as CA) is an approach to the \u003cbr\u003e\nstudy of social interaction, embracing both verbal and non-verbal conduct,&nbsp;...",
+   "cacheId": "JFcTz6ppN5EJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Conversation_analysis",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eConversation\u003c/b\u003e_analysis",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Conversations (software) - Wikipedia",
+   "htmlTitle": "\u003cb\u003eConversations\u003c/b\u003e (software) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Conversations_(software)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Conversations is a free instant messaging client for Android. It supports the \nexchange of encrypted text and picture messages. It is largely based on accepted\n ...",
+   "htmlSnippet": "\u003cb\u003eConversations\u003c/b\u003e is a free instant messaging client for Android. It supports the \u003cbr\u003e\nexchange of encrypted text and picture messages. It is largely based on accepted\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "PRAmf6BsbwoJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Conversations_(software)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eConversations\u003c/b\u003e_(software)",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuvbd6oKFr0FyP-Mii4wVrqkypp5cHIWIRGfRRykAVve4kE5PIaxKAtrw"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Conversations_%28Instant_Messenger%29_Logo.svg/1200px-Conversations_%28Instant_Messenger%29_Logo.svg.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Conversations_%28Instant_Messenger%29_Logo.svg/1200px-Conversations_%28Instant_Messenger%29_Logo.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Conversation - Wikipedia",
+   "htmlTitle": "The \u003cb\u003eConversation\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/The_Conversation",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Conversation is a 1974 American psychological mystery thriller film written, \nproduced and directed by Francis Ford Coppola and starring Gene Hackman ...",
+   "htmlSnippet": "The \u003cb\u003eConversation\u003c/b\u003e is a 1974 American psychological mystery thriller film written, \u003cbr\u003e\nproduced and directed by Francis Ford Coppola and starring Gene Hackman&nbsp;...",
+   "cacheId": "fpg-2WEZxBUJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/The_Conversation",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/The_\u003cb\u003eConversation\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "182",
+      "height": "278",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQX09OzYki8Qkb4owxaSgS58ynIAiIY3AD94KNI-5FEc_4mVs1NkUkerbE"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/e/e0/Theconversation.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/e/e0/Theconversation.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Two Conversations - Wikipedia",
+   "htmlTitle": "Two \u003cb\u003eConversations\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Two_Conversations",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Two Conversations is the fifth studio album by Indie Rock band The Appleseed \nCast, released in the U.S. on July 22, 2003 on Tiger Style Records. The album is\n ...",
+   "htmlSnippet": "Two \u003cb\u003eConversations\u003c/b\u003e is the fifth studio album by Indie Rock band The Appleseed \u003cbr\u003e\nCast, released in the U.S. on July 22, 2003 on Tiger Style Records. The album is\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "-t8eCmpW0KEJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Two_Conversations",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Two_\u003cb\u003eConversations\u003c/b\u003e",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "The Appleseed Cast"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "192",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMHOAdjcAUTtjpMuUgnaFy3fF-Q_Eq633Fu1-ZOoEMqvHRid0mxICEJdug"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/d/dc/The_Appleseed_Cast_-_Two_Conversations_%28album_cover%29.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/d/dc/The_Appleseed_Cast_-_Two_Conversations_%28album_cover%29.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Conversations in Bloomsbury - Wikipedia",
+   "htmlTitle": "\u003cb\u003eConversations\u003c/b\u003e in Bloomsbury - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Conversations_in_Bloomsbury",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Conversations in Bloomsbury is a 1981 memoir that depicts writer Mulk Raj \nAnand's life in London during the heyday of the Bloomsbury Group, and his ...",
+   "htmlSnippet": "\u003cb\u003eConversations\u003c/b\u003e in Bloomsbury is a 1981 memoir that depicts writer Mulk Raj \u003cbr\u003e\nAnand&#39;s life in London during the heyday of the Bloomsbury Group, and his&nbsp;...",
+   "cacheId": "ClbqVrfUio8J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Conversations_in_Bloomsbury",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eConversations\u003c/b\u003e_in_Bloomsbury",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Conversation threading - Wikipedia",
+   "htmlTitle": "\u003cb\u003eConversation\u003c/b\u003e threading - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Conversation_threading",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Conversation threading is a feature used by many email clients, bulletin boards, \nnewsgroups, and Internet forums in which the software aids the user by visually ...",
+   "htmlSnippet": "\u003cb\u003eConversation\u003c/b\u003e threading is a feature used by many email clients, bulletin boards, \u003cbr\u003e\nnewsgroups, and Internet forums in which the software aids the user by visually&nbsp;...",
+   "cacheId": "0E39UMc4BKIJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Conversation_threading",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eConversation\u003c/b\u003e_threading",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "327",
+      "height": "154",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjhwfdr_4-4R38adodiUITR1koqTC1ffBBUGPda15XS7wcQstovK8PRoY3"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Nntp.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Nntp.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Conversations with God - Wikipedia",
+   "htmlTitle": "\u003cb\u003eConversations\u003c/b\u003e with God - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Conversations_with_God",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Conversations with God (CwG) is a sequence of books written by Neale Donald \nWalsch. It was written as a dialogue in which Walsch asks questions and God ...",
+   "htmlSnippet": "\u003cb\u003eConversations\u003c/b\u003e with God (CwG) is a sequence of books written by Neale Donald \u003cbr\u003e\nWalsch. It was written as a dialogue in which Walsch asks questions and God&nbsp;...",
+   "cacheId": "LFbH5dy_36YJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Conversations_with_God",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eConversations\u003c/b\u003e_with_God",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "184",
+      "height": "273",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTM3xf_41AheFGjsgRyeA10Hfw0ssZaOiEh5TucN5VBIlcMpvcDusI-vyZG"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/a/a5/Conversations_with_God%2C_book_1.gif"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/a/a5/Conversations_with_God%2C_book_1.gif"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Fishbowl (conversation) - Wikipedia",
+   "htmlTitle": "Fishbowl (\u003cb\u003econversation\u003c/b\u003e) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Fishbowl_(conversation)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A fishbowl conversation is a form of dialog that can be used when discussing \ntopics within large groups. Fishbowl conversations are sometimes also used in ...",
+   "htmlSnippet": "A fishbowl \u003cb\u003econversation\u003c/b\u003e is a form of dialog that can be used when discussing \u003cbr\u003e\ntopics within large groups. Fishbowl \u003cb\u003econversations\u003c/b\u003e are sometimes also used in&nbsp;...",
+   "cacheId": "Jp5n4vU2mLgJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Fishbowl_(conversation)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Fishbowl_(\u003cb\u003econversation\u003c/b\u003e)",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "224",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTr1_sraTaBGpC0iLjMu789hLNi-6MQ-VidrDVBP41LI1soJV0nkba2Vj5Z"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Fishbowl_diagram_172.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Fishbowl_diagram_172.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Malines Conversations - Wikipedia",
+   "htmlTitle": "Malines \u003cb\u003eConversations\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Malines_Conversations",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Malines Conversations were a series of five informal ecumenical \nconversations exploring possibilities of corporate reunion between the Roman \nCatholic ...",
+   "htmlSnippet": "The Malines \u003cb\u003eConversations\u003c/b\u003e were a series of five informal ecumenical \u003cbr\u003e\n\u003cb\u003econversations\u003c/b\u003e exploring possibilities of corporate reunion between the Roman \u003cbr\u003e\nCatholic&nbsp;...",
+   "cacheId": "3tKM_SiLLF0J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Malines_Conversations",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Malines_\u003cb\u003eConversations\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  }
+ ]
+}

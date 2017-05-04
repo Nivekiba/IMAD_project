@@ -1,0 +1,328 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - supply site:en.wikipedia.org",
+    "totalResults": "124000",
+    "searchTerms": "supply site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - supply site:en.wikipedia.org",
+    "totalResults": "124000",
+    "searchTerms": "supply site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "Google"
+ },
+ "searchInformation": {
+  "searchTime": 0.790417,
+  "formattedSearchTime": "0.79",
+  "totalResults": "124000",
+  "formattedTotalResults": "124,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Supply chain - Wikipedia",
+   "htmlTitle": "\u003cb\u003eSupply\u003c/b\u003e chain - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Supply_chain",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A supply chain is a system of organizations, people, activities, information, and \nresources involved in moving a product or service from supplier to customer.",
+   "htmlSnippet": "A \u003cb\u003esupply\u003c/b\u003e chain is a system of organizations, people, activities, information, and \u003cbr\u003e\nresources involved in moving a product or service from supplier to customer.",
+   "cacheId": "sUBcAQz34iYJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Supply_chain",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eSupply\u003c/b\u003e_chain",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzZ7fiKfFcK2l_G2I0nu8f05gfXnbRZp8c85r3qTF7Af1rp_J8rySUMU4"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Supply_and_demand_network_%28en%29.png/1200px-Supply_and_demand_network_%28en%29.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Supply_and_demand_network_%28en%29.png/1200px-Supply_and_demand_network_%28en%29.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Supply (economics) - Wikipedia",
+   "htmlTitle": "\u003cb\u003eSupply\u003c/b\u003e (economics) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Supply_(economics)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "In economics, supply is the amount of something that firms, consumers, laborers, \nproviders of financial assets, or other economic agents are willing to provide to ...",
+   "htmlSnippet": "In economics, \u003cb\u003esupply\u003c/b\u003e is the amount of something that firms, consumers, laborers, \u003cbr\u003e\nproviders of financial assets, or other economic agents are willing to provide to&nbsp;...",
+   "cacheId": "Kowz6b8BS20J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Supply_(economics)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eSupply\u003c/b\u003e_(economics)",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Supply chain management - Wikipedia",
+   "htmlTitle": "\u003cb\u003eSupply\u003c/b\u003e chain management - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Supply_chain_management",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "In commerce, supply chain management (SCM), the management of the flow of \ngoods and services, involves the movement and storage of raw materials, ...",
+   "htmlSnippet": "In commerce, \u003cb\u003esupply\u003c/b\u003e chain management (SCM), the management of the flow of \u003cbr\u003e\ngoods and services, involves the movement and storage of raw materials,&nbsp;...",
+   "cacheId": "KgPRCmFBf38J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Supply_chain_management",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eSupply\u003c/b\u003e_chain_management",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzZ7fiKfFcK2l_G2I0nu8f05gfXnbRZp8c85r3qTF7Af1rp_J8rySUMU4"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Supply_and_demand_network_%28en%29.png/1200px-Supply_and_demand_network_%28en%29.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Supply_and_demand_network_%28en%29.png/1200px-Supply_and_demand_network_%28en%29.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Water supply - Wikipedia",
+   "htmlTitle": "Water \u003cb\u003esupply\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Water_supply",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Water supply is the provision of water by public utilities commercial organisations\n, community endeavors or by individuals, usually via a system of pumps and ...",
+   "htmlSnippet": "Water \u003cb\u003esupply\u003c/b\u003e is the provision of water by public utilities commercial organisations\u003cbr\u003e\n, community endeavors or by individuals, usually via a system of pumps and&nbsp;...",
+   "cacheId": "bMw8Wsblb40J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Water_supply",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Water_\u003cb\u003esupply\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "183",
+      "height": "275",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTU0tzh-1nc77GbZW2enQZyC_B6z5b6Gz1fmFN-dZ4IoU5ENqiAkdKUXNZs"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Drinking_water.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Drinking_water.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Supply and demand - Wikipedia",
+   "htmlTitle": "\u003cb\u003eSupply\u003c/b\u003e and demand - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Supply_and_demand",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "In microeconomics, supply and demand is an economic model of price \ndetermination in a market. It postulates that in a competitive market, the unit price \nfor a ...",
+   "htmlSnippet": "In microeconomics, \u003cb\u003esupply\u003c/b\u003e and demand is an economic model of price \u003cbr\u003e\ndetermination in a market. It postulates that in a competitive market, the unit price \u003cbr\u003e\nfor a&nbsp;...",
+   "cacheId": "VIlybqg1-_cJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Supply_and_demand",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eSupply\u003c/b\u003e_and_demand",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTn8E7Oq7S1RSVFVoQAAIibWgM31FeEhT-aF5wW6XFLvn6OdeDoLoOMz6JF"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Supply-and-demand.svg/1200px-Supply-and-demand.svg.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Supply-and-demand.svg/1200px-Supply-and-demand.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Supply - Wikipedia",
+   "htmlTitle": "\u003cb\u003eSupply\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Supply",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Supply may refer to: The amount of a resource that is available. Supply (\neconomics), the amount of a product which is available to customers; Materiel, \nthe goods ...",
+   "htmlSnippet": "\u003cb\u003eSupply\u003c/b\u003e may refer to: The amount of a resource that is available. \u003cb\u003eSupply\u003c/b\u003e (\u003cbr\u003e\neconomics), the amount of a product which is available to customers; Materiel, \u003cbr\u003e\nthe goods&nbsp;...",
+   "cacheId": "I9D35kvgnBUJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Supply",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eSupply\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Money supply - Wikipedia",
+   "htmlTitle": "Money \u003cb\u003esupply\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Money_supply",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "In economics, the money supply (or money stock) is the total amount of monetary \nassets available in an economy at a specific time. There are several ways to ...",
+   "htmlSnippet": "In economics, the money \u003cb\u003esupply\u003c/b\u003e (or money stock) is the total amount of monetary \u003cbr\u003e\nassets available in an economy at a specific time. There are several ways to&nbsp;...",
+   "cacheId": "CH9jLcunIGEJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Money_supply",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Money_\u003cb\u003esupply\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgeOzQb4i0bZJkbWRrf1Y7Jcz8gY30QFpFFs9GSKfS30a0b2nxnh0K1wU"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Philippine-stock-market-board.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Philippine-stock-market-board.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Supply-side economics - Wikipedia",
+   "htmlTitle": "\u003cb\u003eSupply\u003c/b\u003e-side economics - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Supply-side_economics",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Supply-side economics is a macroeconomic theory that argues economic growth \ncan be most effectively created by investing in capital and by lowering barriers ...",
+   "htmlSnippet": "\u003cb\u003eSupply\u003c/b\u003e-side economics is a macroeconomic theory that argues economic growth \u003cbr\u003e\ncan be most effectively created by investing in capital and by lowering barriers&nbsp;...",
+   "cacheId": "BnB-FSsUHPIJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Supply-side_economics",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eSupply\u003c/b\u003e-side_economics",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "160",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSboMO20m3hxrTLWpCRUXyGoZ5frOJ-EjYwwBB8PkCrLfvfD3KmWqgbZ7G"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Rmundell.jpg/220px-Rmundell.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Narcissistic supply - Wikipedia",
+   "htmlTitle": "Narcissistic \u003cb\u003esupply\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Narcissistic_supply",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Narcissistic supply is a concept introduced into psychoanalytic theory by Otto \nFenichel in 1938, to describe a type of admiration, interpersonal support or ...",
+   "htmlSnippet": "Narcissistic \u003cb\u003esupply\u003c/b\u003e is a concept introduced into psychoanalytic theory by Otto \u003cbr\u003e\nFenichel in 1938, to describe a type of admiration, interpersonal support or&nbsp;...",
+   "cacheId": "0AqCCCsa4rUJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Narcissistic_supply",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Narcissistic_\u003cb\u003esupply\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Power supply - Wikipedia",
+   "htmlTitle": "Power \u003cb\u003esupply\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Power_supply",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A power supply is an electronic device that supplies electric energy to an \nelectrical load. The primary function of a power supply is to convert one form of ...",
+   "htmlSnippet": "A power \u003cb\u003esupply\u003c/b\u003e is an electronic device that \u003cb\u003esupplies\u003c/b\u003e electric energy to an \u003cbr\u003e\nelectrical load. The primary function of a power \u003cb\u003esupply\u003c/b\u003e is to convert one form of&nbsp;...",
+   "cacheId": "vShK4PJUHzoJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Power_supply",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Power_\u003cb\u003esupply\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcToAdlJuu19W5C7IWiQdcB49BH2MDBj7mh_tU-Z0XHKnvKJcz16P1sPBnk"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Netzgeraet.jpg/1200px-Netzgeraet.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Netzgeraet.jpg/1200px-Netzgeraet.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

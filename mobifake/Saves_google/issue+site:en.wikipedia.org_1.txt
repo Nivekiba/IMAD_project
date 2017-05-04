@@ -1,0 +1,323 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - issue site:en.wikipedia.org",
+    "totalResults": "3580000",
+    "searchTerms": "issue site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - issue site:en.wikipedia.org",
+    "totalResults": "3580000",
+    "searchTerms": "issue site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "Google"
+ },
+ "searchInformation": {
+  "searchTime": 0.298444,
+  "formattedSearchTime": "0.30",
+  "totalResults": "3580000",
+  "formattedTotalResults": "3,580,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "issue - Wiktionary",
+   "htmlTitle": "\u003cb\u003eissue\u003c/b\u003e - Wiktionary",
+   "link": "https://en.wikipedia.org/wiki/Wiktionary:issue",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "From Middle English issue, from Old French issue (“an exit, a way out”), feminine \npast participle of issir (“to exit”), from Latin exeō (“go out, exit”), from prefix ex- ...",
+   "htmlSnippet": "From Middle English \u003cb\u003eissue\u003c/b\u003e, from Old French \u003cb\u003eissue\u003c/b\u003e (“an exit, a way out”), feminine \u003cbr\u003e\npast participle of issir (“to exit”), from Latin exeō (“go out, exit”), from prefix ex-&nbsp;...",
+   "cacheId": "W_qJHh4g6VsJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Wiktionary:issue",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wiktionary:\u003cb\u003eissue\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Issues (band) - Wikipedia",
+   "htmlTitle": "\u003cb\u003eIssues\u003c/b\u003e (band) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Issues_(band)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Issues is an American metalcore band formed in Atlanta, Georgia signed to Rise \nRecords. The band currently consists of clean vocalist Tyler Carter, unclean ...",
+   "htmlSnippet": "\u003cb\u003eIssues\u003c/b\u003e is an American metalcore band formed in Atlanta, Georgia signed to Rise \u003cbr\u003e\nRecords. The band currently consists of clean vocalist Tyler Carter, unclean&nbsp;...",
+   "cacheId": "zYJAMdJyO-8J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Issues_(band)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eIssues\u003c/b\u003e_(band)",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Issues",
+      "url": "issuesrock.us",
+      "url_text": "issuesrock.us"
+     },
+     {
+      "fn": "Issues"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "268",
+      "height": "188",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO_pG-Klo2TyltjzhxiI4Rs7fSsnixt1smBWoniiSNpveJHpCENnyCRoA"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/3/34/Issues-band-2013.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/3/34/Issues-band-2013.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Issue - Wikipedia",
+   "htmlTitle": "\u003cb\u003eIssue\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Issue",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Issue or issues may refer to: Issue (genealogy), a legal term for a person's \ndescendants; Issuer, a legal entity that develops, registers and sells securities ...",
+   "htmlSnippet": "\u003cb\u003eIssue\u003c/b\u003e or \u003cb\u003eissues\u003c/b\u003e may refer to: \u003cb\u003eIssue\u003c/b\u003e (genealogy), a legal term for a person&#39;s \u003cbr\u003e\ndescendants; Issuer, a legal entity that develops, registers and sells securities&nbsp;...",
+   "cacheId": "ccybzVcZtZ4J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Issue",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eIssue\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Issue tracking system - Wikipedia",
+   "htmlTitle": "\u003cb\u003eIssue\u003c/b\u003e tracking system - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Issue_tracking_system",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "An issue tracking system is a computer software package that manages and \nmaintains lists of issues, as needed by an organization. Issue tracking systems \nare ...",
+   "htmlSnippet": "An \u003cb\u003eissue\u003c/b\u003e tracking system is a computer software package that manages and \u003cbr\u003e\nmaintains lists of \u003cb\u003eissues\u003c/b\u003e, as needed by an organization. \u003cb\u003eIssue\u003c/b\u003e tracking systems \u003cbr\u003e\nare&nbsp;...",
+   "cacheId": "_SJnJascTg0J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Issue_tracking_system",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eIssue\u003c/b\u003e_tracking_system",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Rights issue - Wikipedia",
+   "htmlTitle": "Rights \u003cb\u003eissue\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Rights_issue",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A rights issue is a dividend of subscription rights to buy additional securities in a \ncompany made to the company's existing security holders. When the rights are ...",
+   "htmlSnippet": "A rights \u003cb\u003eissue\u003c/b\u003e is a dividend of subscription rights to buy additional securities in a \u003cbr\u003e\ncompany made to the company&#39;s existing security holders. When the rights are&nbsp;...",
+   "cacheId": "wYNa2MRMULkJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Rights_issue",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Rights_\u003cb\u003eissue\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgeOzQb4i0bZJkbWRrf1Y7Jcz8gY30QFpFFs9GSKfS30a0b2nxnh0K1wU"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Philippine-stock-market-board.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Philippine-stock-market-board.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Issues (Korn album) - Wikipedia",
+   "htmlTitle": "\u003cb\u003eIssues\u003c/b\u003e (Korn album) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Issues_(Korn_album)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Issues is the fourth studio album by American nu metal band Korn, released on \nNovember 16, 1999 through Immortal Records. Since its release, the album has ...",
+   "htmlSnippet": "\u003cb\u003eIssues\u003c/b\u003e is the fourth studio album by American nu metal band Korn, released on \u003cbr\u003e\nNovember 16, 1999 through Immortal Records. Since its release, the album has&nbsp;...",
+   "cacheId": "YFGzv_NfLrYJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Issues_(Korn_album)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eIssues\u003c/b\u003e_(Korn_album)",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Korn"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "192",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTmf50jrn6V-ZjqmWFc_IEfXAoqnbrrTNCqJ84sGyB9JShMJ7aqCM73Pkw2"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/b/b6/KoRnIssues.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/b/b6/KoRnIssues.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wedge issue - Wikipedia",
+   "htmlTitle": "Wedge \u003cb\u003eissue\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Wedge_issue",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A wedge issue is a political or social issue, often of a controversial or divisive \nnature, which splits apart a demographic or population group. Wedge issues can\n ...",
+   "htmlSnippet": "A wedge \u003cb\u003eissue\u003c/b\u003e is a political or social \u003cb\u003eissue\u003c/b\u003e, often of a controversial or divisive \u003cbr\u003e\nnature, which splits apart a demographic or population group. Wedge \u003cb\u003eissues\u003c/b\u003e can\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "r6e53vGWKyEJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Wedge_issue",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wedge_\u003cb\u003eissue\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of environmental issues - Wikipedia",
+   "htmlTitle": "List of environmental \u003cb\u003eissues\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/List_of_environmental_issues",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This is an alphabetical list of environmental issues, harmful aspects of human \nactivity on the biophysical environment. As such, they relate to the anthropogenic\n ...",
+   "htmlSnippet": "This is an alphabetical list of environmental \u003cb\u003eissues\u003c/b\u003e, harmful aspects of human \u003cbr\u003e\nactivity on the biophysical environment. As such, they relate to the anthropogenic\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "n8Mb1dhwWeAJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/List_of_environmental_issues",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/List_of_environmental_\u003cb\u003eissues\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Big Issue - Wikipedia",
+   "htmlTitle": "The Big \u003cb\u003eIssue\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/The_Big_Issue",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Big Issue is a street newspaper founded by John Bird and Gordon Roddick \nin September 1991 and published in four continents. It is written by professional ...",
+   "htmlSnippet": "The Big \u003cb\u003eIssue\u003c/b\u003e is a street newspaper founded by John Bird and Gordon Roddick \u003cbr\u003e\nin September 1991 and published in four continents. It is written by professional&nbsp;...",
+   "cacheId": "I7K9Qevq9CUJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/The_Big_Issue",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/The_Big_\u003cb\u003eIssue\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "189",
+      "height": "267",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCtiUxWFTafNU_Q0ZfZTRdkQ9rtPlxclJUtTGPjQGWrcbe6ISrE8hFzcCI"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/c/c2/The_Big_Issue_30_January_2012.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/c/c2/The_Big_Issue_30_January_2012.jpg"
+     }
+    ],
+    "hproduct": [
+     {
+      "fn": "The Big Issue"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Environmental issue - Wikipedia",
+   "htmlTitle": "Environmental \u003cb\u003eissue\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Environmental_issue",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Environmental issues are harmful effects of human activity on the biophysical \nenvironment. Environmental protection is a practice of protecting the natural ...",
+   "htmlSnippet": "Environmental \u003cb\u003eissues\u003c/b\u003e are harmful effects of human activity on the biophysical \u003cbr\u003e\nenvironment. Environmental protection is a practice of protecting the natural&nbsp;...",
+   "cacheId": "yVXTSwuDYY4J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Environmental_issue",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Environmental_\u003cb\u003eissue\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9tzriLSqAYXoJIA10nnyQckUjYM9QHqgOVfRe_nYS8TSDwqJUZ92xIFA"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Nrborderborderentrythreecolorsmay05-1-.JPG"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Nrborderborderentrythreecolorsmay05-1-.JPG"
+     }
+    ]
+   }
+  }
+ ]
+}

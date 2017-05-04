@@ -1,0 +1,290 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - media site:en.wikipedia.org",
+    "totalResults": "3780000",
+    "searchTerms": "media site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - media site:en.wikipedia.org",
+    "totalResults": "3780000",
+    "searchTerms": "media site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "Google"
+ },
+ "searchInformation": {
+  "searchTime": 0.635933,
+  "formattedSearchTime": "0.64",
+  "totalResults": "3780000",
+  "formattedTotalResults": "3,780,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Media - Wikipedia",
+   "htmlTitle": "\u003cb\u003eMedia\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Media",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Media may refer to: Contents. [hide]. 1 Physical means. 1.1 Communications; 1.2 \nComputing; 1.3 Fine art; 1.4 Life sciences. 2 Places and jurisdictions; 3 Other ...",
+   "htmlSnippet": "\u003cb\u003eMedia\u003c/b\u003e may refer to: Contents. [hide]. 1 Physical means. 1.1 Communications; 1.2 \u003cbr\u003e\nComputing; 1.3 Fine art; 1.4 Life sciences. 2 Places and jurisdictions; 3 Other&nbsp;...",
+   "cacheId": "z8GdrgyieK8J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Media",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eMedia\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Media (communication) - Wikipedia",
+   "htmlTitle": "\u003cb\u003eMedia\u003c/b\u003e (communication) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Media_(communication)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Media is the collective communication outlets or tools that are used to store and \ndeliver information or data. It is either associated with communication media, ...",
+   "htmlSnippet": "\u003cb\u003eMedia\u003c/b\u003e is the collective communication outlets or tools that are used to store and \u003cbr\u003e\ndeliver information or data. It is either associated with communication \u003cb\u003emedia\u003c/b\u003e,&nbsp;...",
+   "cacheId": "iawPcVklPkAJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Media_(communication)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eMedia\u003c/b\u003e_(communication)",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mass media - Wikipedia",
+   "htmlTitle": "Mass \u003cb\u003emedia\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Mass_media",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The mass media is a diversified collection of media technologies that reach a \nlarge audience via mass communication. The technologies through which this ...",
+   "htmlSnippet": "The mass \u003cb\u003emedia\u003c/b\u003e is a diversified collection of \u003cb\u003emedia\u003c/b\u003e technologies that reach a \u003cbr\u003e\nlarge audience via mass communication. The technologies through which this&nbsp;...",
+   "cacheId": "FBYHqdk_InoJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Mass_media",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Mass_\u003cb\u003emedia\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Social media - Wikipedia",
+   "htmlTitle": "Social \u003cb\u003emedia\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Social_media",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Social media are computer-mediated technologies that facilitate the creation and \nsharing of information, ideas, career interests and other forms of expression via ...",
+   "htmlSnippet": "Social \u003cb\u003emedia\u003c/b\u003e are computer-mediated technologies that facilitate the creation and \u003cbr\u003e\nsharing of information, ideas, career interests and other forms of expression via&nbsp;...",
+   "cacheId": "54-Vd8DcpJ0J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Social_media",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Social_\u003cb\u003emedia\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "197",
+      "height": "256",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcIYxHA8F9si8iKZAOCljcLj6DlOjncwCGpFCbVGtebTW8EpLUNUzTfOs"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/A_serviceman_accesses_social_media_channels_using_a_smart_phone%2C_outside_MOD_Main_Building_in_London_MOD_45156046.jpg/1200px-A_serviceman_accesses_social_media_channels_using_a_smart_phone%2C_outside_MOD_Main_Building_in_London_MOD_45156046.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/A_serviceman_accesses_social_media_channels_using_a_smart_phone%2C_outside_MOD_Main_Building_in_London_MOD_45156046.jpg/1200px-A_serviceman_accesses_social_media_channels_using_a_smart_phone%2C_outside_MOD_Main_Building_in_London_MOD_45156046.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Digital media - Wikipedia",
+   "htmlTitle": "Digital \u003cb\u003emedia\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Digital_media",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Digital media is any media that is encoded in a machine-readable format. Digital \nmedia can be created, viewed, distributed, modified and preserved on digital ...",
+   "htmlSnippet": "Digital \u003cb\u003emedia\u003c/b\u003e is any \u003cb\u003emedia\u003c/b\u003e that is encoded in a machine-readable format. Digital \u003cbr\u003e\n\u003cb\u003emedia\u003c/b\u003e can be created, viewed, distributed, modified and preserved on digital&nbsp;...",
+   "cacheId": "plptR3lxDhsJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Digital_media",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Digital_\u003cb\u003emedia\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "249",
+      "height": "203",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQyeSGHabQwIfbTY9PLTtq4zZ-tPuXG-2JkY_syv86G5gFDoj-gXECd6mXb"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Innansicht_Festplatte_512_MB_von_Quantum.jpg/1200px-Innansicht_Festplatte_512_MB_von_Quantum.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Innansicht_Festplatte_512_MB_von_Quantum.jpg/1200px-Innansicht_Festplatte_512_MB_von_Quantum.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "News media - Wikipedia",
+   "htmlTitle": "News \u003cb\u003emedia\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/News_media",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The news media or news industry are forms of mass media that focus on \ndelivering news to the general public or a target public. These include print \nmedia ...",
+   "htmlSnippet": "The news \u003cb\u003emedia\u003c/b\u003e or news industry are forms of mass \u003cb\u003emedia\u003c/b\u003e that focus on \u003cbr\u003e\ndelivering news to the general public or a target public. These include print \u003cbr\u003e\n\u003cb\u003emedia\u003c/b\u003e&nbsp;...",
+   "cacheId": "aic0SoBCoFgJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/News_media",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/News_\u003cb\u003emedia\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTL8YtoHzz-p-3jPw4yW7xf6_yjEcg1lq32c8zXvUy_wS9Hk9WO_66b0y0"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Newark-prudential-terrorist-threat-media-2004.jpg/1200px-Newark-prudential-terrorist-threat-media-2004.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Newark-prudential-terrorist-threat-media-2004.jpg/1200px-Newark-prudential-terrorist-threat-media-2004.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New media - Wikipedia",
+   "htmlTitle": "New \u003cb\u003emedia\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/New_media",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "New media most commonly refers to content available on-demand through the \nInternet, accessible on any digital device, usually containing interactive user ...",
+   "htmlSnippet": "New \u003cb\u003emedia\u003c/b\u003e most commonly refers to content available on-demand through the \u003cbr\u003e\nInternet, accessible on any digital device, usually containing interactive user&nbsp;...",
+   "cacheId": "GaYlee7N6D0J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/New_media",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/New_\u003cb\u003emedia\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "media - Wiktionary",
+   "htmlTitle": "\u003cb\u003emedia\u003c/b\u003e - Wiktionary",
+   "link": "https://en.wikipedia.org/wiki/Wikt:media",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "As a result of the rise of, first, television news and entertainment media and, \nsecond, web-based media, traditional print-based media has declined in \npopularity.",
+   "htmlSnippet": "As a result of the rise of, first, television news and entertainment \u003cb\u003emedia\u003c/b\u003e and, \u003cbr\u003e\nsecond, web-based \u003cb\u003emedia\u003c/b\u003e, traditional print-based \u003cb\u003emedia\u003c/b\u003e has declined in \u003cbr\u003e\npopularity.",
+   "cacheId": "0R2W0qd1HPIJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Wikt:media",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wikt:\u003cb\u003emedia\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Electronic media - Wikipedia",
+   "htmlTitle": "Electronic \u003cb\u003emedia\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Electronic_media",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Electronic media are media that use electronics or electromechanical audience \nto access the content. This is in contrast to static media (mainly print media), ...",
+   "htmlSnippet": "Electronic \u003cb\u003emedia\u003c/b\u003e are \u003cb\u003emedia\u003c/b\u003e that use electronics or electromechanical audience \u003cbr\u003e\nto access the content. This is in contrast to static \u003cb\u003emedia\u003c/b\u003e (mainly print \u003cb\u003emedia\u003c/b\u003e),&nbsp;...",
+   "cacheId": "pBJJnJENg5IJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Electronic_media",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Electronic_\u003cb\u003emedia\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "315",
+      "height": "160",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQKKJwP59EQKJZy1BdkkXVjEJKovHdTRyG3iuuzoWMSo6usWc94Ksxov8Ik"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Webpage.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/28/Webpage.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Media queries - Wikipedia",
+   "htmlTitle": "\u003cb\u003eMedia\u003c/b\u003e queries - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Media_queries",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Media Queries is a CSS3 module allowing content rendering to adapt to \nconditions such as screen resolution It became a W3C recommended standard in \nJune ...",
+   "htmlSnippet": "\u003cb\u003eMedia\u003c/b\u003e Queries is a CSS3 module allowing content rendering to adapt to \u003cbr\u003e\nconditions such as screen resolution It became a W3C recommended standard in \u003cbr\u003e\nJune&nbsp;...",
+   "cacheId": "k3xtkZKxXDgJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Media_queries",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eMedia\u003c/b\u003e_queries",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  }
+ ]
+}

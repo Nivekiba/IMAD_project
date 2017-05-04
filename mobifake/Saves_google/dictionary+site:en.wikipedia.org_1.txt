@@ -1,0 +1,315 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - dictionary site:en.wikipedia.org",
+    "totalResults": "345000",
+    "searchTerms": "dictionary site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - dictionary site:en.wikipedia.org",
+    "totalResults": "345000",
+    "searchTerms": "dictionary site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "Google"
+ },
+ "searchInformation": {
+  "searchTime": 0.323493,
+  "formattedSearchTime": "0.32",
+  "totalResults": "345000",
+  "formattedTotalResults": "345,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Dictionary - Wikipedia",
+   "htmlTitle": "\u003cb\u003eDictionary\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Dictionary",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A dictionary is a collection of words in one or more specific languages, often \narranged alphabetically which may include information on definitions, usage, ...",
+   "htmlSnippet": "A \u003cb\u003edictionary\u003c/b\u003e is a collection of words in one or more specific languages, often \u003cbr\u003e\narranged alphabetically which may include information on definitions, usage,&nbsp;...",
+   "cacheId": "6RNinaXKG7cJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Dictionary",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eDictionary\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSazDvHG1Enjaq3oZNJ_IWkndXqVfhzHdo82dBvhBFCLkRpDTgwDA_XQIw"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/English-English_and_English-Persian_dictionaries.JPG/1200px-English-English_and_English-Persian_dictionaries.JPG"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/English-English_and_English-Persian_dictionaries.JPG/1200px-English-English_and_English-Persian_dictionaries.JPG"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dictionary attack - Wikipedia",
+   "htmlTitle": "\u003cb\u003eDictionary\u003c/b\u003e attack - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Dictionary_attack",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "In cryptanalysis and computer security, a dictionary attack is a technique for \ndefeating a cipher or authentication mechanism by trying to determine its \ndecryption ...",
+   "htmlSnippet": "In cryptanalysis and computer security, a \u003cb\u003edictionary\u003c/b\u003e attack is a technique for \u003cbr\u003e\ndefeating a cipher or authentication mechanism by trying to determine its \u003cbr\u003e\ndecryption&nbsp;...",
+   "cacheId": "Z5GsLig17GAJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Dictionary_attack",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eDictionary\u003c/b\u003e_attack",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Oxford English Dictionary - Wikipedia",
+   "htmlTitle": "Oxford English \u003cb\u003eDictionary\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Oxford_English_Dictionary",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Oxford English Dictionary (OED) is a descriptive dictionary of the English \nlanguage, published by the Oxford University Press. It traces the historical ...",
+   "htmlSnippet": "The Oxford English \u003cb\u003eDictionary\u003c/b\u003e (OED) is a descriptive \u003cb\u003edictionary\u003c/b\u003e of the English \u003cbr\u003e\nlanguage, published by the Oxford University Press. It traces the historical&nbsp;...",
+   "cacheId": "RsFzzN_O05EJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Oxford_English_Dictionary",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Oxford_English_\u003cb\u003eDictionary\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "261",
+      "height": "193",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSyULULXKwk6UkBD-fl3Ms3XVaP8SNTgnPw-f-F0d-Y2FY9y1c1PW7H-_w"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/OED2_volumes.jpg/1200px-OED2_volumes.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/OED2_volumes.jpg/1200px-OED2_volumes.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wiktionary, the free dictionary",
+   "htmlTitle": "Wiktionary, the free \u003cb\u003edictionary\u003c/b\u003e",
+   "link": "https://en.wikipedia.org/wiki/wikt:",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Designed as the lexical companion to Wikipedia, the encyclopedia project, \nWiktionary has grown beyond a standard dictionary and now includes a \nthesaurus, ...",
+   "htmlSnippet": "Designed as the lexical companion to Wikipedia, the encyclopedia project, \u003cbr\u003e\nWiktionary has grown beyond a standard \u003cb\u003edictionary\u003c/b\u003e and now includes a \u003cbr\u003e\nthesaurus,&nbsp;...",
+   "cacheId": "H7k5BGCRSxAJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/wikt:",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/wikt:",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "A Dictionary of the English Language - Wikipedia",
+   "htmlTitle": "A \u003cb\u003eDictionary\u003c/b\u003e of the English Language - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/A_Dictionary_of_the_English_Language",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Published on 15 April 1755 and written by Samuel Johnson, A Dictionary of the \nEnglish Language, sometimes published as Johnson's Dictionary, is among the ...",
+   "htmlSnippet": "Published on 15 April 1755 and written by Samuel Johnson, A \u003cb\u003eDictionary\u003c/b\u003e of the \u003cbr\u003e\nEnglish Language, sometimes published as Johnson&#39;s \u003cb\u003eDictionary\u003c/b\u003e, is among the&nbsp;...",
+   "cacheId": "K9BFlNtl8tIJ",
+   "formattedUrl": "https://en.wikipedia.org/.../A_Dictionary_of_the_English_Language",
+   "htmlFormattedUrl": "https://en.wikipedia.org/.../A_\u003cb\u003eDictionary\u003c/b\u003e_of_the_English_Language",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "177",
+      "height": "284",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiCOW2Dow0ynlF13dAhTpz3bBzesL0uG_k7ES5qVWWT7KMiw9PljlvHv3j"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/2/22/JohnsonDictionary.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/22/JohnsonDictionary.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Associative array - Wikipedia",
+   "htmlTitle": "Associative array - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Associative_array",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "In computer science, an associative array, map, symbol table, or dictionary is an \nabstract data type composed of a collection of (key, value) pairs, such that each ...",
+   "htmlSnippet": "In computer science, an associative array, map, symbol table, or \u003cb\u003edictionary\u003c/b\u003e is an \u003cbr\u003e\nabstract data type composed of a collection of (key, value) pairs, such that each&nbsp;...",
+   "cacheId": "6vRWYBmTYdoJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Associative_array",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Associative_array",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "279",
+      "height": "181",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1ZaxPZ5IhViPYiqIWxz0G8gSE0YqiUMvztZvwHzhXVv7MRMoy00g4JSs"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Hash_table_average_insertion_time.png/362px-Hash_table_average_insertion_time.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Devil's Dictionary - Wikipedia",
+   "htmlTitle": "The Devil&#39;s \u003cb\u003eDictionary\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/The_Devil%27s_Dictionary",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Devil's Dictionary is a satirical dictionary written by American Civil War \nsoldier, wit, and writer Ambrose Bierce consisting of common words followed by ...",
+   "htmlSnippet": "The Devil&#39;s \u003cb\u003eDictionary\u003c/b\u003e is a satirical \u003cb\u003edictionary\u003c/b\u003e written by American Civil War \u003cbr\u003e\nsoldier, wit, and writer Ambrose Bierce consisting of common words followed by&nbsp;...",
+   "cacheId": "Xyz8TVU1uBkJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/The_Devil%27s_Dictionary",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/The_Devil%27s_\u003cb\u003eDictionary\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "144",
+      "height": "236",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSS5BFdlYSWvgsi79kxO4_hlrK9Bi8l1kopOeKl239Y6bGF0C6XYpUc4oBo"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/d/d5/Cynics_Word_Book.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/d/d5/Cynics_Word_Book.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Data dictionary - Wikipedia",
+   "htmlTitle": "Data \u003cb\u003edictionary\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Data_dictionary",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A data dictionary, or metadata repository, as defined in the IBM Dictionary of \nComputing, is a \"centralized repository of information about data such as \nmeaning, ...",
+   "htmlSnippet": "A data \u003cb\u003edictionary\u003c/b\u003e, or metadata repository, as defined in the IBM \u003cb\u003eDictionary\u003c/b\u003e of \u003cbr\u003e\nComputing, is a &quot;centralized repository of information about data such as \u003cbr\u003e\nmeaning,&nbsp;...",
+   "cacheId": "0JNbwRmYNGQJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Data_dictionary",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Data_\u003cb\u003edictionary\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dictionary coder - Wikipedia",
+   "htmlTitle": "\u003cb\u003eDictionary\u003c/b\u003e coder - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Dictionary_coder",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A dictionary coder, also sometimes known as a substitution coder, is a class of \nlossless data compression algorithms which operate by searching for matches ...",
+   "htmlSnippet": "A \u003cb\u003edictionary\u003c/b\u003e coder, also sometimes known as a substitution coder, is a class of \u003cbr\u003e\nlossless data compression algorithms which operate by searching for matches&nbsp;...",
+   "cacheId": "Nr1eG5kCw0IJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Dictionary_coder",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eDictionary\u003c/b\u003e_coder",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dictionary (software) - Wikipedia",
+   "htmlTitle": "\u003cb\u003eDictionary\u003c/b\u003e (software) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Dictionary_(software)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Dictionary is an application developed by Apple Inc. as a part of macOS. The \napplication provides definitions and synonyms from various dictionaries, \nWikipedia ...",
+   "htmlSnippet": "\u003cb\u003eDictionary\u003c/b\u003e is an application developed by Apple Inc. as a part of macOS. The \u003cbr\u003e\napplication provides definitions and synonyms from various \u003cb\u003edictionaries\u003c/b\u003e, \u003cbr\u003e\nWikipedia&nbsp;...",
+   "cacheId": "P2Nnjklb6rUJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Dictionary_(software)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eDictionary\u003c/b\u003e_(software)",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "295",
+      "height": "171",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQiiMZMO1k0GiphL45qKWO5Q0JJwaAZ2KYqkUx9rhjRrLkwJBV3IgXGAfJg"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/a/a5/Wikipedia_in_Dictionary.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/a/a5/Wikipedia_in_Dictionary.png"
+     }
+    ]
+   }
+  }
+ ]
+}

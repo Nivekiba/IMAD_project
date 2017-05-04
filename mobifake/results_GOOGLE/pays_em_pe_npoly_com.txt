@@ -1,0 +1,27 @@
+{
+    "MplayOk": [
+
+    ],
+    "Mi-Fone+App": {
+        "xiaomi": 1,
+        "mi-fone": 1
+    },
+    "Zutazia+Mobile+App": {
+        "marriott international": 1,
+        "1996 - 2016 marriott international": 1
+    },
+    "Wanga+Official": {
+        "balenciaga": 1,
+        "wonga.com": 1,
+        "yoox net-a-porter group s": 1
+    },
+    "Unibanko+App": {
+        "unibank (haiti)": 3,
+        "apple inc.": 1,
+        "- unibank s": 1,
+        "apple inc": 1
+    },
+    "Transmillieno+App": [
+
+    ]
+}

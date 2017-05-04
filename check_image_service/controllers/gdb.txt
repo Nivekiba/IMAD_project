@@ -1,0 +1,26 @@
+Undefined command: "ls".  Try "help".
+Currently logging to "gdb.txt".
+Logs will be appended to the log file.
+Output is being logged and displayed.
+Starting program: /usr/bin/php Add_salient_shape_to_application.php
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/lib/x86_64-linux-gnu/libthread_db.so.1".
+[New Thread 0x7fffed8d1700 (LWP 5269)]
+[Thread 0x7fffed8d1700 (LWP 5269) exited]
+
+Program received signal SIGINT, Interrupt.
+0x00007ffff603072d in write () at ../sysdeps/unix/syscall-template.S:81
+81	../sysdeps/unix/syscall-template.S: No such file or directory.
+Undefined set logging command: "log.gdb.txt".  Try "help set logging".
+Undefined set logging command: "log.gdb.txt".  Try "help set logging".
+The program being debugged has been started already.
+Start it from the beginning? (y or n) 
+Starting program: /usr/bin/php Add_salient_shape_to_application.php
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/lib/x86_64-linux-gnu/libthread_db.so.1".
+[New Thread 0x7fffed8d1700 (LWP 5311)]
+[Thread 0x7fffed8d1700 (LWP 5311) exited]
+
+Program received signal SIGINT, Interrupt.
+0x00007ffff603072d in write () at ../sysdeps/unix/syscall-template.S:81
+81	../sysdeps/unix/syscall-template.S: No such file or directory.

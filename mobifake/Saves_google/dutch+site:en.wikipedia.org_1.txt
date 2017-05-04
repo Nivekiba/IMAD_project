@@ -1,0 +1,357 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - dutch site:en.wikipedia.org",
+    "totalResults": "156000",
+    "searchTerms": "dutch site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - dutch site:en.wikipedia.org",
+    "totalResults": "156000",
+    "searchTerms": "dutch site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "Google"
+ },
+ "searchInformation": {
+  "searchTime": 0.370474,
+  "formattedSearchTime": "0.37",
+  "totalResults": "156000",
+  "formattedTotalResults": "156,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Dutch people - Wikipedia",
+   "htmlTitle": "\u003cb\u003eDutch\u003c/b\u003e people - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Dutch_people",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Dutch occasionally referred to as Netherlanders—a term that is cognate to \nthe Dutch word for Dutch people, \"Nederlanders\"—are a Germanic ethnic group ...",
+   "htmlSnippet": "The \u003cb\u003eDutch\u003c/b\u003e occasionally referred to as Netherlanders—a term that is cognate to \u003cbr\u003e\nthe \u003cb\u003eDutch\u003c/b\u003e word for \u003cb\u003eDutch\u003c/b\u003e people, &quot;Nederlanders&quot;—are a Germanic ethnic group&nbsp;...",
+   "cacheId": "alGdlyBRkvEJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Dutch_people",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eDutch\u003c/b\u003e_people",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Dutch people Nederlanders"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dutch language - Wikipedia",
+   "htmlTitle": "\u003cb\u003eDutch\u003c/b\u003e language - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Dutch_language",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Dutch is a West Germanic language that is spoken by around 23 million people \nas a first language—including most of the population of the Netherlands and ...",
+   "htmlSnippet": "\u003cb\u003eDutch\u003c/b\u003e is a West Germanic language that is spoken by around 23 million people \u003cbr\u003e\nas a first language—including most of the population of the Netherlands and&nbsp;...",
+   "cacheId": "I3kBYyY9QI8J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Dutch_language",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eDutch\u003c/b\u003e_language",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "223",
+      "height": "226",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8FgOUFoHOhywFMWjVcouwiNIAOe7toK0cjE0yLlDers9J7EiF_m0T4Iju"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/8/88/Idioma_neerland%C3%A9s.PNG"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/88/Idioma_neerland%C3%A9s.PNG"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Netherlands - Wikipedia",
+   "htmlTitle": "Netherlands - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Netherlands",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Location of the European Netherlands (dark green). – in Europe (green & dark \ngrey) – in the European Union (green). Location of the Dutch special ...",
+   "htmlSnippet": "Location of the European Netherlands (dark green). – in Europe (green &amp; dark \u003cbr\u003e\ngrey) – in the European Union (green). Location of the \u003cb\u003eDutch\u003c/b\u003e special&nbsp;...",
+   "cacheId": "jliocvT5LnkJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Netherlands",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Netherlands",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Netherlands"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQDL9CWHnVXMkm6xACZbEU4qL-vbthh4jXImFHh9fxFAEPD3XA6xX7bFghT"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1200px-Flag_of_the_Netherlands.svg.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1200px-Flag_of_the_Netherlands.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dutch - Wikipedia",
+   "htmlTitle": "\u003cb\u003eDutch\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Dutch",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Dutch may refer to: Contents. [hide]. 1 Related to the country; 2 People; 3 Sports \nand games; 4 Other uses; 5 See also. Related to the country[edit]. Something ...",
+   "htmlSnippet": "\u003cb\u003eDutch\u003c/b\u003e may refer to: Contents. [hide]. 1 Related to the country; 2 People; 3 Sports \u003cbr\u003e\nand games; 4 Other uses; 5 See also. Related to the country[edit]. Something&nbsp;...",
+   "cacheId": "EtfRNN7v3XIJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Dutch",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eDutch\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dutch Republic - Wikipedia",
+   "htmlTitle": "\u003cb\u003eDutch\u003c/b\u003e Republic - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Dutch_Republic",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Dutch Republic, also known as the Republic of the Seven United \nNetherlands Republic of the United Netherlands or Republic of the Seven United\n ...",
+   "htmlSnippet": "The \u003cb\u003eDutch\u003c/b\u003e Republic, also known as the Republic of the Seven United \u003cbr\u003e\nNetherlands Republic of the United Netherlands or Republic of the Seven United\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "I5xpdloBJ-AJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Dutch_Republic",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eDutch\u003c/b\u003e_Republic",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Republic of the Seven United Netherlands"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTLQAxJz94yx_QzHrIqpF0tdfeL0GARN9P9B6Cjn2w9kec1PmbCWZvvyGI"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Statenvlag.svg/1200px-Statenvlag.svg.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Statenvlag.svg/1200px-Statenvlag.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dutch - Wiktionary",
+   "htmlTitle": "\u003cb\u003eDutch\u003c/b\u003e - Wiktionary",
+   "link": "https://en.wikipedia.org/wiki/Wiktionary:Dutch",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "From Middle English Duch (“German, Low German, Dutch”), from Middle Low \nGerman dütsch, düdesch (“German, Low German, Dutch”) and Middle Dutch ...",
+   "htmlSnippet": "From Middle English Duch (“German, Low German, \u003cb\u003eDutch\u003c/b\u003e”), from Middle Low \u003cbr\u003e\nGerman dütsch, düdesch (“German, Low German, \u003cb\u003eDutch\u003c/b\u003e”) and Middle \u003cb\u003eDutch\u003c/b\u003e&nbsp;...",
+   "cacheId": "IHnTpkGmC6QJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Wiktionary:Dutch",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wiktionary:\u003cb\u003eDutch\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dutch Golden Age - Wikipedia",
+   "htmlTitle": "\u003cb\u003eDutch\u003c/b\u003e Golden Age - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Dutch_Golden_Age",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Dutch Golden Age was a period in Dutch history, roughly spanning the 17th \ncentury, in which Dutch trade, science, military, and art were among the most ...",
+   "htmlSnippet": "The \u003cb\u003eDutch\u003c/b\u003e Golden Age was a period in \u003cb\u003eDutch\u003c/b\u003e history, roughly spanning the 17th \u003cbr\u003e\ncentury, in which \u003cb\u003eDutch\u003c/b\u003e trade, science, military, and art were among the most&nbsp;...",
+   "cacheId": "zwXQNEDjk8IJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Dutch_Golden_Age",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eDutch\u003c/b\u003e_Golden_Age",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "200",
+      "height": "162",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPCpdQMk61-l21aIxTIWqbvwERN-BhC6Fg3j8nCzY-HCPvCui9ikFGZriK"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/The_Nightwatch_by_Rembrandt.jpg/250px-The_Nightwatch_by_Rembrandt.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dutch (film) - Wikipedia",
+   "htmlTitle": "\u003cb\u003eDutch\u003c/b\u003e (film) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Dutch_(film)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Dutch is a 1991 American road comedy-drama film directed by Peter Faiman and \nwritten by John Hughes. The original music score was composed by Alan ...",
+   "htmlSnippet": "\u003cb\u003eDutch\u003c/b\u003e is a 1991 American road comedy-drama film directed by Peter Faiman and \u003cbr\u003e\nwritten by John Hughes. The original music score was composed by Alan&nbsp;...",
+   "cacheId": "ep16M9gKw5MJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Dutch_(film)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eDutch\u003c/b\u003e_(film)",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "184",
+      "height": "274",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0SMECZOQ6CLRcMqbvy9uQrlEW0t8NwzaE8AMhKL1u05Mk22lsn5DRTnk"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/c/cd/Dutchposter.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/c/cd/Dutchposter.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dutch East Indies - Wikipedia",
+   "htmlTitle": "\u003cb\u003eDutch\u003c/b\u003e East Indies - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Dutch_East_Indies",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Dutch East Indies was a Dutch colony. It was formed from the nationalised \ncolonies of the Dutch East India Company, which came under the administration\n ...",
+   "htmlSnippet": "The \u003cb\u003eDutch\u003c/b\u003e East Indies was a \u003cb\u003eDutch\u003c/b\u003e colony. It was formed from the nationalised \u003cbr\u003e\ncolonies of the \u003cb\u003eDutch\u003c/b\u003e East India Company, which came under the administration\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "-_RT1NU7vrsJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Dutch_East_Indies",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eDutch\u003c/b\u003e_East_Indies",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Netherlands East Indies[1]"
+     },
+     {
+      "fn": "Indonesia",
+      "label": "Indonesia"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9iUPUNGBa4-X3zZ83BjC-oFGClwdAyt7fd6HRyZhR9N9jblFiQ_zFsVVt"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Flag_of_the_Dutch_East_India_Company.svg/1200px-Flag_of_the_Dutch_East_India_Company.svg.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Flag_of_the_Dutch_East_India_Company.svg/1200px-Flag_of_the_Dutch_East_India_Company.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dutch Empire - Wikipedia",
+   "htmlTitle": "\u003cb\u003eDutch\u003c/b\u003e Empire - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Dutch_Empire",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "An anachronous map of the Dutch colonial Empire. Light green: territories \nadministered by or originating from territories administered by the Dutch East \nIndia ...",
+   "htmlSnippet": "An anachronous map of the \u003cb\u003eDutch\u003c/b\u003e colonial Empire. Light green: territories \u003cbr\u003e\nadministered by or originating from territories administered by the \u003cb\u003eDutch\u003c/b\u003e East \u003cbr\u003e\nIndia&nbsp;...",
+   "cacheId": "5GkTzeR0ECgJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Dutch_Empire",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eDutch\u003c/b\u003e_Empire",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Dutch Empire"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQDL9CWHnVXMkm6xACZbEU4qL-vbthh4jXImFHh9fxFAEPD3XA6xX7bFghT"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1200px-Flag_of_the_Netherlands.svg.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1200px-Flag_of_the_Netherlands.svg.png"
+     }
+    ]
+   }
+  }
+ ]
+}

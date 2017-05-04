@@ -1,0 +1,405 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - birch site:en.wikipedia.org",
+    "totalResults": "15900",
+    "searchTerms": "birch site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - birch site:en.wikipedia.org",
+    "totalResults": "15900",
+    "searchTerms": "birch site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "Google"
+ },
+ "searchInformation": {
+  "searchTime": 0.821847,
+  "formattedSearchTime": "0.82",
+  "totalResults": "15900",
+  "formattedTotalResults": "15,900"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Birch - Wikipedia",
+   "htmlTitle": "\u003cb\u003eBirch\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Birch",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A birch is a thin-leaved deciduous hardwood tree of the genus Betula in the \nfamily Betulaceae, which also includes alders, hazels, and hornbeams. It is \nclosely ...",
+   "htmlSnippet": "A \u003cb\u003ebirch\u003c/b\u003e is a thin-leaved deciduous hardwood tree of the genus Betula in the \u003cbr\u003e\nfamily Betulaceae, which also includes alders, hazels, and hornbeams. It is \u003cbr\u003e\nclosely&nbsp;...",
+   "cacheId": "eghpcO1GnIQJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Birch",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eBirch\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "194",
+      "height": "260",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0lDxf0q3AzGIz-p7lhSVhGknRC7oYdtCKqL06Ao1tcQRheASaNgu9gIQ"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Betula_pendula_001.jpg/1200px-Betula_pendula_001.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Betula_pendula_001.jpg/1200px-Betula_pendula_001.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Birch Bayh - Wikipedia",
+   "htmlTitle": "\u003cb\u003eBirch\u003c/b\u003e Bayh - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Birch_Bayh",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Birch Evans Bayh Jr is a former U.S. Senator from Indiana who served from 1963 \nto 1981. He is the only non-Founding Father to author two amendments to the ...",
+   "htmlSnippet": "\u003cb\u003eBirch\u003c/b\u003e Evans Bayh Jr is a former U.S. Senator from Indiana who served from 1963 \u003cbr\u003e\nto 1981. He is the only non-Founding Father to author two amendments to the&nbsp;...",
+   "cacheId": "olaplCYaFdkJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Birch_Bayh",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eBirch\u003c/b\u003e_Bayh",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Birch Bayh",
+      "nickname": "Birch Evans Bayh Jr.",
+      "bday": "1928-01-22"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "132",
+      "height": "180",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqOlfe91gBLxulfP8HcsfWQJU0nIw2zE7vo_qvDlQfE3RZqHtpxMPcIP5x"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Birch_bayh.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Birch_bayh.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Birch syrup - Wikipedia",
+   "htmlTitle": "\u003cb\u003eBirch\u003c/b\u003e syrup - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Birch_syrup",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Birch syrup is a savory mineral tasting syrup made from the sap of birch trees, \nand produced in much the same way as maple syrup. It is seldom used for ...",
+   "htmlSnippet": "\u003cb\u003eBirch\u003c/b\u003e syrup is a savory mineral tasting syrup made from the sap of \u003cb\u003ebirch\u003c/b\u003e trees, \u003cbr\u003e\nand produced in much the same way as maple syrup. It is seldom used for&nbsp;...",
+   "cacheId": "dh1NGLfC15AJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Birch_syrup",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eBirch\u003c/b\u003e_syrup",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "242",
+      "height": "209",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLmrEsNHlqdJOcqn_tBNPuWVAGhuDgELNfdFEP4SXpkucXUSKtaQyIFqQ"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Birchsyrup.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Birchsyrup.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "John Birch (missionary) - Wikipedia",
+   "htmlTitle": "John \u003cb\u003eBirch\u003c/b\u003e (missionary) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/John_Birch_(missionary)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "John Morrison Birch (May 28, 1918 – August 25, 1945) was an American Baptist \nminister, missionary, and United States Army Air Forces captain who was a U.S. ...",
+   "htmlSnippet": "John Morrison \u003cb\u003eBirch\u003c/b\u003e (May 28, 1918 – August 25, 1945) was an American Baptist \u003cbr\u003e\nminister, missionary, and United States Army Air Forces captain who was a U.S.&nbsp;...",
+   "cacheId": "uYpnM5iK_LkJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/John_Birch_(missionary)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/John_\u003cb\u003eBirch\u003c/b\u003e_(missionary)",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "John Birch",
+      "nickname": "John Morrison Birch",
+      "bday": "1918-05-28"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "172",
+      "height": "207",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZxpC9FTDATzQ-g-z1Ag8ylY8YDJy1XMBdJqDImjSLgsHZ6MjG_T0QKw3t"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/a/ab/John_Birch.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/a/ab/John_Birch.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Thora Birch - Wikipedia",
+   "htmlTitle": "Thora \u003cb\u003eBirch\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Thora_Birch",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Thora Birch (born March 11, 1982) is an American actress. She made her film \ndebut in Purple People Eater (1988), for which she won a Young Artist Award for\n ...",
+   "htmlSnippet": "Thora \u003cb\u003eBirch\u003c/b\u003e (born March 11, 1982) is an American actress. She made her film \u003cbr\u003e\ndebut in Purple People Eater (1988), for which she won a Young Artist Award for\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "wxQfeZpQjsYJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Thora_Birch",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Thora_\u003cb\u003eBirch\u003c/b\u003e",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Thora Birch",
+      "bday": "1982-03-11",
+      "role": "Actress"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "204",
+      "height": "248",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS5uBwxaaEfwT3NY-TqMJgacl01URzrnEbc3LI83uZOuczeKyR2Xbo9AlST"
+     }
+    ],
+    "person": [
+     {
+      "role": "Actress"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/e/eb/Birch_-_Konerko_1.jp.jpeg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/e/eb/Birch_-_Konerko_1.jp.jpeg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "John Birch Society - Wikipedia",
+   "htmlTitle": "John \u003cb\u003eBirch\u003c/b\u003e Society - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/John_Birch_Society",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The John Birch Society (JBS) is, in its own words, a conservative advocacy group \nsupporting anti-communism and limited government. It has been described as ...",
+   "htmlSnippet": "The John \u003cb\u003eBirch\u003c/b\u003e Society (JBS) is, in its own words, a conservative advocacy group \u003cbr\u003e\nsupporting anti-communism and limited government. It has been described as&nbsp;...",
+   "cacheId": "dhae6B_MWTgJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/John_Birch_Society",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/John_\u003cb\u003eBirch\u003c/b\u003e_Society",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "John Birch Society",
+      "nickname": "JBS",
+      "url": "www.jbs.org",
+      "url_text": "www.jbs.org",
+      "bday": "1958-12-09",
+      "note": "December 9, 1958; 58 years ago (1958-12-09)"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "281",
+      "height": "179",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvJHAq-oxJ62MhvB8Sc6_JKNuDv76Fp1E5bBsk7ylzPDT0qRXULbkR30_d"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/John_Birch_Society_logo.svg/1200px-John_Birch_Society_logo.svg.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/John_Birch_Society_logo.svg/1200px-John_Birch_Society_logo.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Birch beer - Wikipedia",
+   "htmlTitle": "\u003cb\u003eBirch\u003c/b\u003e beer - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Birch_beer",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Birch beer in its most common form is a carbonated soft drink made from herbal \nextracts, usually from birch bark, although in the colonial era birch beer was ...",
+   "htmlSnippet": "\u003cb\u003eBirch\u003c/b\u003e beer in its most common form is a carbonated soft drink made from herbal \u003cbr\u003e\nextracts, usually from \u003cb\u003ebirch\u003c/b\u003e bark, although in the colonial era \u003cb\u003ebirch\u003c/b\u003e beer was&nbsp;...",
+   "cacheId": "QMEY91FQFQAJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Birch_beer",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eBirch\u003c/b\u003e_beer",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "226",
+      "height": "223",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPDFFH7OKZc0k5wuikvBk6sKC7U_jGNQQv9I_uE6UdoD_f8iq_4IfSzp8"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Birch_beer_still.jpg/1200px-Birch_beer_still.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Birch_beer_still.jpg/1200px-Birch_beer_still.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Bryan John Birch - Wikipedia",
+   "htmlTitle": "Bryan John \u003cb\u003eBirch\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Bryan_John_Birch",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Bryan John Birch F.R.S. (born 25 September 1931) is a British mathematician. \nHis name has been given to the Birch and Swinnerton-Dyer conjecture. He was ...",
+   "htmlSnippet": "Bryan John \u003cb\u003eBirch\u003c/b\u003e F.R.S. (born 25 September 1931) is a British mathematician. \u003cbr\u003e\nHis name has been given to the \u003cb\u003eBirch\u003c/b\u003e and Swinnerton-Dyer conjecture. He was&nbsp;...",
+   "cacheId": "rSRZzrU3fI4J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Bryan_John_Birch",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bryan_John_\u003cb\u003eBirch\u003c/b\u003e",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Bryan John Birch",
+      "bday": "1931-09-25",
+      "category": "Mathematics"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "318",
+      "height": "158",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTo49ZUmz77yZne020yPxsnPdqjOP4cr603jJDvcTFlRC2kmt5SWs9wVHAX"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Bryan_Birch_2011.png/1200px-Bryan_Birch_2011.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Bryan_Birch_2011.png/1200px-Bryan_Birch_2011.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Francis Birch (geophysicist) - Wikipedia",
+   "htmlTitle": "Francis \u003cb\u003eBirch\u003c/b\u003e (geophysicist) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Francis_Birch_(geophysicist)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Francis Birch (August 22, 1903 – January 30, 1992) was an American \ngeophysicist. He is considered one of the founders of solid Earth geophysics. He \nis also ...",
+   "htmlSnippet": "Francis \u003cb\u003eBirch\u003c/b\u003e (August 22, 1903 – January 30, 1992) was an American \u003cbr\u003e\ngeophysicist. He is considered one of the founders of solid Earth geophysics. He \u003cbr\u003e\nis also&nbsp;...",
+   "cacheId": "SyIpEASUjesJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Francis_Birch_(geophysicist)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Francis_\u003cb\u003eBirch\u003c/b\u003e_(geophysicist)",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Albert Francis Birch",
+      "bday": "1903-08-22",
+      "category": "Geophysics"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "199",
+      "height": "253",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSksPPjKu3YQ8XGuopJzzKLrtU4-iC0OJpiMCQx8FNOrcAv9hYr4TG1PMc"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Albert_Francis_Birch00.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Albert_Francis_Birch00.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Birch Monroe - Wikipedia",
+   "htmlTitle": "\u003cb\u003eBirch\u003c/b\u003e Monroe - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Birch_Monroe",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Birch Monroe (May 16, 1901 – 1982) was a notable early bluegrass fiddler, \nbassist, founding member of the Monroe brothers, and older brother to Charlie \nand ...",
+   "htmlSnippet": "\u003cb\u003eBirch\u003c/b\u003e Monroe (May 16, 1901 – 1982) was a notable early bluegrass fiddler, \u003cbr\u003e\nbassist, founding member of the Monroe brothers, and older brother to Charlie \u003cbr\u003e\nand&nbsp;...",
+   "cacheId": "wQYQR07xe60J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Birch_Monroe",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eBirch\u003c/b\u003e_Monroe",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  }
+ ]
+}

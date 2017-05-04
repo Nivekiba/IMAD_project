@@ -1,0 +1,308 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - harpers.org site:en.wikipedia.org",
+    "totalResults": "42900",
+    "searchTerms": "harpers.org site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - harpers.org site:en.wikipedia.org",
+    "totalResults": "42900",
+    "searchTerms": "harpers.org site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "Google"
+ },
+ "searchInformation": {
+  "searchTime": 0.60629,
+  "formattedSearchTime": "0.61",
+  "totalResults": "42900",
+  "formattedTotalResults": "42,900"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Harper's Magazine - Wikipedia",
+   "htmlTitle": "\u003cb\u003eHarper&#39;s\u003c/b\u003e Magazine - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Harper%27s_Magazine",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Harper's Magazine (also called Harper's) is a monthly magazine of literature, \npolitics, culture, ... Country, United States. Based in, 666 Broadway · New York \nCity, New York, U.S.. Language, English. Website, www.harpers.org · ISSN · \n0017-789X ...",
+   "htmlSnippet": "Harper&#39;s Magazine (also called Harper&#39;s) is a monthly magazine of literature, \u003cbr\u003e\npolitics, culture, ... Country, United States. Based in, 666 Broadway &middot; New York \u003cbr\u003e\nCity, New York, U.S.. Language, English. Website, www.harpers.org &middot; ISSN &middot; \u003cbr\u003e\n0017-789X&nbsp;...",
+   "cacheId": "K8Hr7zBCNHoJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Harper%27s_Magazine",
+   "htmlFormattedUrl": "https://en.wikipedia.\u003cb\u003eorg\u003c/b\u003e/wiki/\u003cb\u003eHarper\u003c/b\u003e%27s_Magazine",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "262",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ9wM6lfJ5Sq5Ag5KDTMreloi93TQmo0L6lb3QtIL6M3cupPiHVNxVIuuQ"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/1/10/November_2004_Cover_of_Harper%27s_Magazine.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/1/10/November_2004_Cover_of_Harper%27s_Magazine.jpg"
+     }
+    ],
+    "hproduct": [
+     {
+      "fn": "Harper's",
+      "url": "www.harpers.org"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Roger Hodge - Wikipedia",
+   "htmlTitle": "Roger Hodge - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Roger_Hodge",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Roger D. Hodge was the editor of Harper's Magazine from March 2006 through \nJanuary 2010. ... In December 2003 he oversaw another radical redesign of \nHarpers.org; that month he also began writing a monthly print column, “Findings,” \na ...",
+   "htmlSnippet": "Roger D. Hodge was the editor of Harper&#39;s Magazine from March 2006 through \u003cbr\u003e\nJanuary 2010. ... In December 2003 he oversaw another radical redesign of \u003cbr\u003e\n\u003cb\u003eHarpers\u003c/b\u003e.\u003cb\u003eorg\u003c/b\u003e; that month he also began writing a monthly print column, “Findings,” \u003cbr\u003e\na&nbsp;...",
+   "cacheId": "tQE47XZRV_gJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Roger_Hodge",
+   "htmlFormattedUrl": "https://en.wikipedia.\u003cb\u003eorg\u003c/b\u003e/wiki/Roger_Hodge",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Will Carleton - Wikipedia",
+   "htmlTitle": "Will Carleton - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Will_Carleton",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "William McKendree Carleton (October 21, 1845 – December 18, 1912) was an \nAmerican poet. ... tale of a divorce which was first published in the Toledo Blade, \nbut then reprinted by Harper's Weekly. .... \"The first settler's story\". harpers.org.",
+   "htmlSnippet": "William McKendree Carleton (October 21, 1845 – December 18, 1912) was an \u003cbr\u003e\nAmerican poet. ... tale of a divorce which was first published in the Toledo Blade, \u003cbr\u003e\nbut then reprinted by Harper&#39;s Weekly. .... &quot;The first settler&#39;s story&quot;. \u003cb\u003eharpers\u003c/b\u003e.\u003cb\u003eorg\u003c/b\u003e.",
+   "cacheId": "daK6yF9N_wUJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Will_Carleton",
+   "htmlFormattedUrl": "https://en.wikipedia.\u003cb\u003eorg\u003c/b\u003e/wiki/Will_Carleton",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "193",
+      "height": "261",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuFx6hJxSrkFKOCX6FSDAregUUNqssPWTVZSbrTKXEh849YBeVMyJ9efA"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Will_Carleton_001.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Will_Carleton_001.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "File:Akhmatova 1914.jpg - Wikipedia",
+   "htmlTitle": "File:Akhmatova 1914.jpg - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/File:Akhmatova_1914.jpg",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Page: http://www.harpers.org/archive/2007/11/hbc-90001647; Image URL: http://\nwww.harpers.org/media/image/blogs/misc/akhmatova.jpg. Date. Painted in ...",
+   "htmlSnippet": "Page: http://www.\u003cb\u003eharpers\u003c/b\u003e.\u003cb\u003eorg\u003c/b\u003e/archive/2007/11/hbc-90001647; Image URL: http://\u003cbr\u003e\nwww.\u003cb\u003eharpers\u003c/b\u003e.\u003cb\u003eorg\u003c/b\u003e/media/image/blogs/misc/akhmatova.jpg. Date. Painted in&nbsp;...",
+   "cacheId": "ADIj_8Q-LmIJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/File:Akhmatova_1914.jpg",
+   "htmlFormattedUrl": "https://en.wikipedia.\u003cb\u003eorg\u003c/b\u003e/wiki/File:Akhmatova_1914.jpg",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "206",
+      "height": "245",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwxmKR7nkCvXzbAtKqsN0PL3E1ghE-uITpweQShs3ml-UNWSuFo13OxY_f"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Akhmatova_1914.jpg/503px-Akhmatova_1914.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Nancy Byrd Turner - Wikipedia",
+   "htmlTitle": "Nancy Byrd Turner - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Nancy_Byrd_Turner",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Nancy Byrd Turner (July 29, 1880 – September 5, 1971) was an American poet, \neditor and ... Her work appeared in England and in the United States in such \nmagazines as Good Housekeeping, Harper's Magazine, Ladies' Home Journal, \nand the New ... Jump up ^ http://www.harpers.org/subjects/NancyByrdTurner; \nJump up ...",
+   "htmlSnippet": "Nancy Byrd Turner (July 29, 1880 – September 5, 1971) was an American poet, \u003cbr\u003e\neditor and ... Her work appeared in England and in the United States in such \u003cbr\u003e\nmagazines as Good Housekeeping, Harper&#39;s Magazine, Ladies&#39; Home Journal, \u003cbr\u003e\nand the New ... Jump up ^ http://www.\u003cb\u003eharpers\u003c/b\u003e.\u003cb\u003eorg\u003c/b\u003e/subjects/NancyByrdTurner; \u003cbr\u003e\nJump up&nbsp;...",
+   "cacheId": "Hh_9q5co1r0J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Nancy_Byrd_Turner",
+   "htmlFormattedUrl": "https://en.wikipedia.\u003cb\u003eorg\u003c/b\u003e/wiki/Nancy_Byrd_Turner",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Greg Grandin - Wikipedia",
+   "htmlTitle": "Greg Grandin - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Greg_Grandin",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Greg Grandin (born 1962) is a professor of history at New York University. He is \nauthor of a .... Nationalbook.org. Retrieved October 21 ... Harpers.org. Retrieved ...",
+   "htmlSnippet": "Greg Grandin (born 1962) is a professor of history at New York University. He is \u003cbr\u003e\nauthor of a .... Nationalbook.org. Retrieved October 21 ... \u003cb\u003eHarpers\u003c/b\u003e.\u003cb\u003eorg\u003c/b\u003e. Retrieved&nbsp;...",
+   "cacheId": "gZH67G8oEusJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Greg_Grandin",
+   "htmlFormattedUrl": "https://en.wikipedia.\u003cb\u003eorg\u003c/b\u003e/wiki/Greg_Grandin",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Manton Marble - Wikipedia",
+   "htmlTitle": "Manton Marble - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Manton_Marble",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Manton Marble (1834–1917) was a New York journalist. He was the proprietor \nand editor of the ... Marble, Manton (Harper's Magazine) at harpers.org; \nHarpWeek: Cartoon of the Day at www.harpweek.com; Archives of Manton \nMarble at Senate ...",
+   "htmlSnippet": "Manton Marble (1834–1917) was a New York journalist. He was the proprietor \u003cbr\u003e\nand editor of the ... Marble, Manton (Harper&#39;s Magazine) at \u003cb\u003eharpers\u003c/b\u003e.\u003cb\u003eorg\u003c/b\u003e; \u003cbr\u003e\nHarpWeek: Cartoon of the Day at www.harpweek.com; Archives of Manton \u003cbr\u003e\nMarble at Senate&nbsp;...",
+   "cacheId": "DR6Pv_YuKPsJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Manton_Marble",
+   "htmlFormattedUrl": "https://en.wikipedia.\u003cb\u003eorg\u003c/b\u003e/wiki/Manton_Marble",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Template:Infobox magazine/testcases - Wikipedia",
+   "htmlTitle": "Template:Infobox magazine/testcases - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Template:Infobox_magazine/testcases",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Company, Harper's Magazine Foundation ... Website, www.harpers.org ... with \ngreen borders and rectangular text-box style, saying \"HARPER'S MONTHLY.",
+   "htmlSnippet": "Company, Harper&#39;s Magazine Foundation ... Website, www.\u003cb\u003eharpers\u003c/b\u003e.\u003cb\u003eorg\u003c/b\u003e ... with \u003cbr\u003e\ngreen borders and rectangular text-box style, saying &quot;HARPER&#39;S MONTHLY.",
+   "cacheId": "DvfqJfJs1dIJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Template:Infobox_magazine/testcases",
+   "htmlFormattedUrl": "https://en.wikipedia.\u003cb\u003eorg\u003c/b\u003e/wiki/Template:Infobox_magazine/testcases",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "119",
+      "height": "168",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeDMltZAkfcDMXvXJg6GRjbmHuYCbC1X2SOTw2g6IXlrtQU9c9mRmrXmc"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Harpers_Magazine_1905.jpg/149px-Harpers_Magazine_1905.jpg"
+     }
+    ],
+    "hproduct": [
+     {
+      "fn": "Harper's"
+     },
+     {
+      "fn": "Harper's"
+     },
+     {
+      "fn": "Harper's"
+     },
+     {
+      "fn": "Harper's"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Roark Bradford - Wikipedia",
+   "htmlTitle": "Roark Bradford - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Roark_Bradford",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Roark Whitney Wickliffe Bradford was an American short story writer and novelist. \nContents ... City in 1940. His work appeared in Collier's, Harper's, and Virginia \nQuarterly Review, ... Jump up ^ \"Roark Bradford\". harpers.org. Retrieved 25 ...",
+   "htmlSnippet": "Roark Whitney Wickliffe Bradford was an American short story writer and novelist. \u003cbr\u003e\nContents ... City in 1940. His work appeared in Collier&#39;s, Harper&#39;s, and Virginia \u003cbr\u003e\nQuarterly Review, ... Jump up ^ &quot;Roark Bradford&quot;. \u003cb\u003eharpers\u003c/b\u003e.\u003cb\u003eorg\u003c/b\u003e. Retrieved 25&nbsp;...",
+   "cacheId": "Mjy6V4wtjnMJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Roark_Bradford",
+   "htmlFormattedUrl": "https://en.wikipedia.\u003cb\u003eorg\u003c/b\u003e/wiki/Roark_Bradford",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wil S. Hylton - Wikipedia",
+   "htmlTitle": "Wil S. Hylton - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Wil_S._Hylton",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Wil S. Hylton is an American journalist. He is a contributing writer for The New \nYork Times ... GQ. Hope. Change. Reality. The Unspeakable Choice · Meltdown. \nHarper's ... Jump up ^ http://harpers.org/archive/2003/08/0079713; Jump up ...",
+   "htmlSnippet": "Wil S. Hylton is an American journalist. He is a contributing writer for The New \u003cbr\u003e\nYork Times ... GQ. Hope. Change. Reality. The Unspeakable Choice &middot; Meltdown. \u003cbr\u003e\nHarper&#39;s ... Jump up ^ http://\u003cb\u003eharpers\u003c/b\u003e.\u003cb\u003eorg\u003c/b\u003e/archive/2003/08/0079713; Jump up&nbsp;...",
+   "cacheId": "K7ZmCsqLXHEJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Wil_S._Hylton",
+   "htmlFormattedUrl": "https://en.wikipedia.\u003cb\u003eorg\u003c/b\u003e/wiki/Wil_S._Hylton",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,316 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - edit site:en.wikipedia.org",
+    "totalResults": "3770000",
+    "searchTerms": "edit site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - edit site:en.wikipedia.org",
+    "totalResults": "3770000",
+    "searchTerms": "edit site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "Google"
+ },
+ "searchInformation": {
+  "searchTime": 0.754043,
+  "formattedSearchTime": "0.75",
+  "totalResults": "3770000",
+  "formattedTotalResults": "3,770,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Editing - Wikipedia",
+   "htmlTitle": "\u003cb\u003eEditing\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Editing",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Editing is the process of selecting and preparing written, visual, audible, and film \nmedia used to convey information. The editing process can involve correction, ...",
+   "htmlSnippet": "\u003cb\u003eEditing\u003c/b\u003e is the process of selecting and preparing written, visual, audible, and film \u003cbr\u003e\nmedia used to convey information. The \u003cb\u003eediting\u003c/b\u003e process can involve correction,&nbsp;...",
+   "cacheId": "zRE5ZzLJpFQJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Editing",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eEditing\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "253",
+      "height": "199",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZtqn2mMKqEI6Nty25gH21mRXf1-u30jDOLJAazCsKyx_LhypoeyGtYKjv"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Seattle_Daily_Times_news_editor_quarters_-_1900.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Seattle_Daily_Times_news_editor_quarters_-_1900.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "edIT (musician) - Wikipedia",
+   "htmlTitle": "\u003cb\u003eedIT\u003c/b\u003e (musician) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/EdIT_(musician)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "edIT (born Edward Ma) is an American electronic music producer and DJ based \nin Los Angeles, California. He is a member of The Glitch Mob.",
+   "htmlSnippet": "\u003cb\u003eedIT\u003c/b\u003e (born Edward Ma) is an American electronic music producer and DJ based \u003cbr\u003e\nin Los Angeles, California. He is a member of The Glitch Mob.",
+   "cacheId": "ElOgPcFZEXgJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/EdIT_(musician)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eEdIT\u003c/b\u003e_(musician)",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "edIT",
+      "nickname": "Edward Ma",
+      "url": "editbeats.com",
+      "url_text": "editbeats.com",
+      "role": "Producer, DJ",
+      "note": "Keyboards"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaNdfzxQL8pkeZa9Xy0Qg0p-ir3X4ZGmUzAmwW8nEDjdKjt0uYPjuSXWE"
+     }
+    ],
+    "person": [
+     {
+      "role": "Producer, DJ"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Edward_ma_symbiosis_2009.jpg/1200px-Edward_ma_symbiosis_2009.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Edward_ma_symbiosis_2009.jpg/1200px-Edward_ma_symbiosis_2009.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wikipedia:Edit warring - Wikipedia",
+   "htmlTitle": "Wikipedia:\u003cb\u003eEdit\u003c/b\u003e warring - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Wikipedia:Edit_warring",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Editors engaged in a dispute should reach consensus or pursue dispute \nresolution rather than edit warring. Edit warring is unconstructive and creates \nanimosity ...",
+   "htmlSnippet": "Editors engaged in a dispute should reach consensus or pursue dispute \u003cbr\u003e\nresolution rather than \u003cb\u003eedit\u003c/b\u003e warring. \u003cb\u003eEdit\u003c/b\u003e warring is unconstructive and creates \u003cbr\u003e\nanimosity&nbsp;...",
+   "cacheId": "r_30kcX4oGkJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Wikipedia:Edit_warring",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wikipedia:\u003cb\u003eEdit\u003c/b\u003e_warring",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "144",
+      "height": "174",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ75Jrz9cW7pG2EBOusMc_UmiPziEir77Y1DJIlXO9cZ0ZZzIBt4pD746r1"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Editwar.png/180px-Editwar.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "edit - Wiktionary",
+   "htmlTitle": "\u003cb\u003eedit\u003c/b\u003e - Wiktionary",
+   "link": "https://en.wikipedia.org/wiki/Wiktionary:edit",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "edit (plural edits). A change to ... edit (third-person singular simple present edits, \npresent participle editing, simple past and past participle edited). To change a ...",
+   "htmlSnippet": "\u003cb\u003eedit\u003c/b\u003e (plural edits). A change to ... \u003cb\u003eedit\u003c/b\u003e (third-person singular simple present edits, \u003cbr\u003e\npresent participle \u003cb\u003eediting\u003c/b\u003e, simple past and past participle edited). To change a&nbsp;...",
+   "cacheId": "y7r0MUV2dQ8J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Wiktionary:edit",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wiktionary:\u003cb\u003eedit\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Edit - Wikipedia",
+   "htmlTitle": "\u003cb\u003eEdit\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Edit",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Edit may refer to: Editing, the process of correcting or revising text, images, or \nsound; Edit (application), a simple text editor for the Apple Macintosh; Edit ...",
+   "htmlSnippet": "\u003cb\u003eEdit\u003c/b\u003e may refer to: \u003cb\u003eEditing\u003c/b\u003e, the process of correcting or revising text, images, or \u003cbr\u003e\nsound; \u003cb\u003eEdit\u003c/b\u003e (application), a simple text editor for the Apple Macintosh; \u003cb\u003eEdit\u003c/b\u003e&nbsp;...",
+   "cacheId": "BQS3YtuLU3IJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Edit",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eEdit\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Edit distance - Wikipedia",
+   "htmlTitle": "\u003cb\u003eEdit\u003c/b\u003e distance - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Edit_distance",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "In computer science, edit distance is a way of quantifying how dissimilar two \nstrings (e.g., words) are to one another by counting the minimum number of ...",
+   "htmlSnippet": "In computer science, \u003cb\u003eedit\u003c/b\u003e distance is a way of quantifying how dissimilar two \u003cbr\u003e\nstrings (e.g., words) are to one another by counting the minimum number of&nbsp;...",
+   "cacheId": "xnfjHTUt9pkJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Edit_distance",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eEdit\u003c/b\u003e_distance",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Help:Edit summary - Wikipedia",
+   "htmlTitle": "Help:\u003cb\u003eEdit\u003c/b\u003e summary - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Help:Edit_summary",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "An edit summary is a brief explanation of an edit to a Wikipedia page. When you \nedit a page, there is a small text entry field labeled Edit summary located under ...",
+   "htmlSnippet": "An \u003cb\u003eedit\u003c/b\u003e summary is a brief explanation of an \u003cb\u003eedit\u003c/b\u003e to a Wikipedia page. When you \u003cbr\u003e\n\u003cb\u003eedit\u003c/b\u003e a page, there is a small text entry field labeled \u003cb\u003eEdit\u003c/b\u003e summary located under&nbsp;...",
+   "cacheId": "64AbpH7_QgYJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Help:Edit_summary",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Help:\u003cb\u003eEdit\u003c/b\u003e_summary",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Help:Editing - Wikipedia",
+   "htmlTitle": "Help:\u003cb\u003eEditing\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Help:Editing",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Editing most Wikipedia pages is quite simple. ... Wiki markup editing is chosen by \nclicking the Edit tab at the top of a Wikipedia page (or on a section-edit link).",
+   "htmlSnippet": "\u003cb\u003eEditing\u003c/b\u003e most Wikipedia pages is quite simple. ... Wiki markup \u003cb\u003eediting\u003c/b\u003e is chosen by \u003cbr\u003e\nclicking the \u003cb\u003eEdit\u003c/b\u003e tab at the top of a Wikipedia page (or on a section-\u003cb\u003eedit\u003c/b\u003e link).",
+   "cacheId": "Lboqzmhf_rwJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Help:Editing",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Help:\u003cb\u003eEditing\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "200",
+      "height": "112",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQgW4IND4at8AGt1FuKhg6ZaN57ebP9Thzav05AGXi2f0DV20IVvhPK1-c"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wikipedia_video_tutorial-1-Editing-en.ogv/250px--Wikipedia_video_tutorial-1-Editing-en.ogv.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Non-linear editing system - Wikipedia",
+   "htmlTitle": "Non-linear \u003cb\u003eediting\u003c/b\u003e system - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Non-linear_editing_system",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Non-destructive editing is a form of audio, video or image editing where the \noriginal content is not modified in the course of editing – instead the edits \nthemselves ...",
+   "htmlSnippet": "Non-destructive \u003cb\u003eediting\u003c/b\u003e is a form of audio, video or image \u003cb\u003eediting\u003c/b\u003e where the \u003cbr\u003e\noriginal content is not modified in the course of \u003cb\u003eediting\u003c/b\u003e – instead the edits \u003cbr\u003e\nthemselves&nbsp;...",
+   "cacheId": "qamtW41dUYIJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Non-linear_editing_system",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Non-linear_\u003cb\u003eediting\u003c/b\u003e_system",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSI892yCdriP1yWehUtNl6UiFzf9CQXMmtizgp9LdYu9P1H5t1GTznyx04"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Videowisconsinstudio.tif/lossy-page1-1200px-Videowisconsinstudio.tif.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Videowisconsinstudio.tif/lossy-page1-1200px-Videowisconsinstudio.tif.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Help:Menu/Editing Wikipedia - Wikipedia",
+   "htmlTitle": "Help:Menu/\u003cb\u003eEditing\u003c/b\u003e Wikipedia - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Help:Menu/Editing_Wikipedia",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Tutorial on how to edit Wikipedia ... conflict — what to do when another editor \nchanges the page while you're editing it ... Article development (advanced editing\n).",
+   "htmlSnippet": "Tutorial on how to \u003cb\u003eedit\u003c/b\u003e Wikipedia ... conflict — what to do when another editor \u003cbr\u003e\nchanges the page while you&#39;re \u003cb\u003eediting\u003c/b\u003e it ... Article development (advanced \u003cb\u003eediting\u003c/b\u003e\u003cbr\u003e\n).",
+   "cacheId": "ZRHCWSVjutMJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Help:Menu/Editing_Wikipedia",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Help:Menu/\u003cb\u003eEditing\u003c/b\u003e_Wikipedia",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,279 @@
+ {
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - lectures",
+    "totalResults": "14100000",
+    "searchTerms": "lectures",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "008737521736637413879:-y9h8xwzw0a"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - lectures",
+    "totalResults": "14100000",
+    "searchTerms": "lectures",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "008737521736637413879:-y9h8xwzw0a"
+   }
+  ]
+ },
+ "context": {
+  "title": "test"
+ },
+ "searchInformation": {
+  "searchTime": 0.307181,
+  "formattedSearchTime": "0.31",
+  "totalResults": "14100000",
+  "formattedTotalResults": "14,100,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Case Lectures",
+   "htmlTitle": "Case \u003cb\u003eLectures\u003c/b\u003e",
+   "link": "https://www.google.com/mymaps/viewer?mid=zlRrjEpy4vLY.kpl1RNm5ufMA&hl=en_US",
+   "displayLink": "www.google.com",
+   "snippet": "Locations of lectures on audio, acoustics, and education by Alex U. Case.",
+   "htmlSnippet": "Locations of \u003cb\u003electures\u003c/b\u003e on audio, acoustics, and education by Alex U. Case.",
+   "cacheId": "AAParCHOjFMJ",
+   "formattedUrl": "https://www.google.com/mymaps/viewer?mid=zlRrjEpy4vLY...",
+   "htmlFormattedUrl": "https://www.google.com/mymaps/viewer?mid=zlRrjEpy4vLY...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "221",
+      "height": "228",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_Pc91R1r-Rw3KWId_CT40PeuSbrYArH05YJK0tUDx74t3lRNHb6-BryzR"
+     }
+    ],
+    "website": [
+     {
+      "name": "Case Lectures",
+      "description": "Locations of lectures on audio, acoustics, and education by Alex U. Case.",
+      "url": "https://www.google.com/maps/d/viewer?mid=zlRrjEpy4vLY.kpl1RNm5ufMA&hl=en_US",
+      "image": "https://www.google.com/maps/d/thumbnail?mid=zlRrjEpy4vLY.kpl1RNm5ufMA&hl=en_US"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=0,width=device-width",
+      "og:type": "website",
+      "og:title": "Case Lectures",
+      "og:description": "Locations of lectures on audio, acoustics, and education by Alex U. Case.",
+      "og:url": "https://www.google.com/maps/d/viewer?mid=zlRrjEpy4vLY.kpl1RNm5ufMA&hl=en_US",
+      "og:image": "https://www.google.com/maps/d/thumbnail?mid=zlRrjEpy4vLY.kpl1RNm5ufMA&hl=en_US",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Case Lectures",
+      "twitter:description": "Locations of lectures on audio, acoustics, and education by Alex U. Case.",
+      "twitter:image:src": "https://www.google.com/maps/d/thumbnail?mid=zlRrjEpy4vLY.kpl1RNm5ufMA&hl=en_US"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.google.com/maps/d/thumbnail?mid=zlRrjEpy4vLY.kpl1RNm5ufMA&hl=en_US"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Remote Lecture Locations",
+   "htmlTitle": "Remote \u003cb\u003eLecture\u003c/b\u003e Locations",
+   "link": "https://www.google.com/mymaps/viewer?mid=z_BQxUZ2jOTQ.kdXju3pUp3wc&hl=en",
+   "displayLink": "www.google.com",
+   "snippet": "This is a map that indicates where people giving the various remote lectures are \nsituated. This will act as a document of all the remote lectures that will link to the ...",
+   "htmlSnippet": "This is a map that indicates where people giving the various remote \u003cb\u003electures\u003c/b\u003e are \u003cbr\u003e\nsituated. This will act as a document of all the remote \u003cb\u003electures\u003c/b\u003e that will link to the&nbsp;...",
+   "cacheId": "Xft5BZeb5X4J",
+   "formattedUrl": "https://www.google.com/mymaps/viewer?mid=z...hl=en",
+   "htmlFormattedUrl": "https://www.google.com/mymaps/viewer?mid=z...hl=en",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "221",
+      "height": "228",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTWK8sUAr2CtAMZcKY6HsIKbBwypboOuWq_-yVgjxLSjEEpqZ5pTXadNek"
+     }
+    ],
+    "website": [
+     {
+      "name": "Remote Lecture Locations",
+      "description": "This is a map that indicates where people giving the various remote lectures are situated. This will act as a document of all the remote lectures that will link to the remote lectures blog...",
+      "url": "https://www.google.com/maps/d/viewer?mid=z_BQxUZ2jOTQ.kdXju3pUp3wc&hl=en",
+      "image": "https://www.google.com/maps/d/thumbnail?mid=z_BQxUZ2jOTQ.kdXju3pUp3wc&hl=en"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=0,width=device-width",
+      "og:type": "website",
+      "og:title": "Remote Lecture Locations",
+      "og:description": "This is a map that indicates where people giving the various remote lectures are situated. This will act as a document of all the remote lectures that will link to the remote lectures blog - see www.digitalarts.wits.ac.za/remote",
+      "og:url": "https://www.google.com/maps/d/viewer?mid=z_BQxUZ2jOTQ.kdXju3pUp3wc&hl=en",
+      "og:image": "https://www.google.com/maps/d/thumbnail?mid=z_BQxUZ2jOTQ.kdXju3pUp3wc&hl=en",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Remote Lecture Locations",
+      "twitter:description": "This is a map that indicates where people giving the various remote lectures are situated. This will act as a document of all the remote lectures that will link to the remote lectures blog - see www.digitalarts.wits.ac.za/remote",
+      "twitter:image:src": "https://www.google.com/maps/d/thumbnail?mid=z_BQxUZ2jOTQ.kdXju3pUp3wc&hl=en"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.google.com/maps/d/thumbnail?mid=z_BQxUZ2jOTQ.kdXju3pUp3wc&hl=en"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Lectures in the History of Political Thought - Michael Oakeshott ...",
+   "htmlTitle": "\u003cb\u003eLectures\u003c/b\u003e in the History of Political Thought - Michael Oakeshott \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://google.com/books?id=BQWCAAAAMAAJ&dq=related:ISBN0631186530",
+   "displayLink": "google.com",
+   "snippet": "Oakeshott's memorable lectures on the history of political thought, delivered each \nyear at the London School of Economics, will now be available in print for the ...",
+   "htmlSnippet": "Oakeshott&#39;s memorable \u003cb\u003electures\u003c/b\u003e on the history of political thought, delivered each \u003cbr\u003e\nyear at the London School of Economics, will now be available in print for the&nbsp;...",
+   "cacheId": "N-UzRET87RMJ",
+   "formattedUrl": "google.com/books?id=BQWCAAAAMAAJ&dq=related...",
+   "htmlFormattedUrl": "google.com/books?id=BQWCAAAAMAAJ&amp;dq=related...",
+   "pagemap": {
+    "breadcrumb": [
+     {
+      "url": "Political Science",
+      "title": "Political Science"
+     },
+     {
+      "url": "History & Theory",
+      "title": "History & Theory"
+     }
+    ],
+    "book": [
+     {
+      "description": "books.google.com - Oakeshott's memorable lectures on the history of political thought, delivered each year at the London School of Economics, will now be available in print for the first time...",
+      "url": "https://books.google.com/books/about/Lectures_in_the_History_of_Political_Tho.html?id=BQWCAAAAMAAJ&utm_source=gb-gplus-share",
+      "name": "Lectures in the History of Political Thought",
+      "image": "https://books.google.com/books/content?id=BQWCAAAAMAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72FeSxDiw0kkn-Tt4gujYRQ2SiWCBkVkSq1cWV1GXUG0PqX63Iv7wL06RBSdf5VgrrURmLW9gOOIbuZwqts7DX_bQE2UcLzEq6z4KxmY1MLXO7FigKvuQw3-e87AZ2y_ngvPZTE"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "https://books.google.com/books/about/Lectures_in_the_History_of_Political_Tho.html?id=BQWCAAAAMAAJ",
+      "title": "Lectures in the History of Political Thought",
+      "og:title": "Lectures in the History of Political Thought",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "https://books.google.com/books/content?id=BQWCAAAAMAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72FeSxDiw0kkn-Tt4gujYRQ2SiWCBkVkSq1cWV1GXUG0PqX63Iv7wL06RBSdf5VgrrURmLW9gOOIbuZwqts7DX_bQE2UcLzEq6z4KxmY1MLXO7FigKvuQw3-e87AZ2y_ngvPZTE"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://books.google.com/books/content?id=BQWCAAAAMAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72FeSxDiw0kkn-Tt4gujYRQ2SiWCBkVkSq1cWV1GXUG0PqX63Iv7wL06RBSdf5VgrrURmLW9gOOIbuZwqts7DX_bQE2UcLzEq6z4KxmY1MLXO7FigKvuQw3-e87AZ2y_ngvPZTE"
+     }
+    ],
+    "hproduct": [
+     {
+      "fn": "Lectures in the History of Political Thought"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "[F.R.E.E] Download Fifty Lectures for Mathcounts Competitions (4 ...",
+   "htmlTitle": "[F.R.E.E] Download Fifty \u003cb\u003eLectures\u003c/b\u003e for Mathcounts Competitions (4 \u003cb\u003e...\u003c/b\u003e",
+   "link": "https://www.google.com/fusiontables/DataSource?docid=1i56Rj52Ua3PjXcC9QyVb3Uz2jYAdzscAZNnkDXgk",
+   "displayLink": "www.google.com",
+   "snippet": "Free download, free access and read for free Fifty Lectures for Mathcounts \nCompetitions (4) (Volume 4) By Jane Chen, Yongcheng Chen 7pMZ.Book book \nfull ...",
+   "htmlSnippet": "Free download, free access and read for free Fifty \u003cb\u003eLectures\u003c/b\u003e for Mathcounts \u003cbr\u003e\nCompetitions (4) (Volume 4) By Jane Chen, Yongcheng Chen 7pMZ.Book book \u003cbr\u003e\nfull&nbsp;...",
+   "cacheId": "qIfWo3F9rYsJ",
+   "formattedUrl": "https://www.google.com/fusiontables/DataSource?docid...",
+   "htmlFormattedUrl": "https://www.google.com/fusiontables/DataSource?docid..."
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "[P.D.F] Coleridge's essays & lectures on Shakespeare : & some ...",
+   "htmlTitle": "[P.D.F] Coleridge&#39;s essays &amp; \u003cb\u003electures\u003c/b\u003e on Shakespeare : &amp; some \u003cb\u003e...\u003c/b\u003e",
+   "link": "https://www.google.com/fusiontables/DataSource?docid=1qeeHy-p7fb8oIzvtE7gJJU8GveVTNGGafj7iHM4G",
+   "displayLink": "www.google.com",
+   "snippet": "Free download, free access and read for free Coleridge's essays & lectures on \nShakespeare : & some other old poets & dramatists By Samuel Taylor Coleridge\n ...",
+   "htmlSnippet": "Free download, free access and read for free Coleridge&#39;s essays &amp; \u003cb\u003electures\u003c/b\u003e on \u003cbr\u003e\nShakespeare : &amp; some other old poets &amp; dramatists By Samuel Taylor Coleridge\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "Ob12MJDb7NIJ",
+   "formattedUrl": "https://www.google.com/fusiontables/DataSource?docid=1qeeHy...",
+   "htmlFormattedUrl": "https://www.google.com/fusiontables/DataSource?docid=1qeeHy..."
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "[PDF] Free AP Calculus AB Lecture Notes: Calculus Interactive ...",
+   "htmlTitle": "[PDF] Free AP Calculus AB \u003cb\u003eLecture\u003c/b\u003e Notes: Calculus Interactive \u003cb\u003e...\u003c/b\u003e",
+   "link": "https://www.google.com/fusiontables/DataSource?docid=1y_Nkc1sBe7Ql1upVaTQDwi04-h56p2DTjvpqf7RZ",
+   "displayLink": "www.google.com",
+   "snippet": "Free download, free access and read for free AP Calculus AB Lecture Notes: \nCalculus Interactive Lectures Vol.1 (AP Calculus Lecture Notes) By Rita \nKorsunsky ...",
+   "htmlSnippet": "Free download, free access and read for free AP Calculus AB \u003cb\u003eLecture\u003c/b\u003e Notes: \u003cbr\u003e\nCalculus Interactive \u003cb\u003eLectures\u003c/b\u003e Vol.1 (AP Calculus \u003cb\u003eLecture\u003c/b\u003e Notes) By Rita \u003cbr\u003e\nKorsunsky&nbsp;...",
+   "cacheId": "GaT0ddmU-DkJ",
+   "formattedUrl": "https://www.google.com/fusiontables/DataSource?docid=1y...",
+   "htmlFormattedUrl": "https://www.google.com/fusiontables/DataSource?docid=1y..."
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Free Download Quantum Cryptography (Synthesis Lectures on ...",
+   "htmlTitle": "Free Download Quantum Cryptography (Synthesis \u003cb\u003eLectures\u003c/b\u003e on \u003cb\u003e...\u003c/b\u003e",
+   "link": "https://www.google.com/fusiontables/DataSource?docid=1yVTvTPdJK5Ag5Rl0oyTc1sVyPJ9UxZvgoGNr7EQC",
+   "displayLink": "www.google.com",
+   "snippet": "Feb 19, 2016 ... Free download Quantum Cryptography (Synthesis Lectures on Quantum \nComputing) book full - Ebook, PDF, ePub Online. New Release.",
+   "htmlSnippet": "Feb 19, 2016 \u003cb\u003e...\u003c/b\u003e Free download Quantum Cryptography (Synthesis \u003cb\u003eLectures\u003c/b\u003e on Quantum \u003cbr\u003e\nComputing) book full - Ebook, PDF, ePub Online. New Release.",
+   "cacheId": "0Ca0gTXCKOEJ",
+   "formattedUrl": "https://www.google.com/fusiontables/DataSource?docid...",
+   "htmlFormattedUrl": "https://www.google.com/fusiontables/DataSource?docid..."
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Free Download Moadei HaRav: Public Lectures on the Festivals by ...",
+   "htmlTitle": "Free Download Moadei HaRav: Public \u003cb\u003eLectures\u003c/b\u003e on the Festivals by \u003cb\u003e...\u003c/b\u003e",
+   "link": "https://www.google.com/fusiontables/DataSource?docid=1GSldoW01lsaL68xZhbHM5ml-lQrKoN38Nx_tnrWd",
+   "displayLink": "www.google.com",
+   "snippet": "Feb 1, 2016 ... Free download Moadei HaRav: Public Lectures on the Festivals by Rabbi Joseph \nB. Soloveitchik book full - Ebook, PDF, ePub Online.",
+   "htmlSnippet": "Feb 1, 2016 \u003cb\u003e...\u003c/b\u003e Free download Moadei HaRav: Public \u003cb\u003eLectures\u003c/b\u003e on the Festivals by Rabbi Joseph \u003cbr\u003e\nB. Soloveitchik book full - Ebook, PDF, ePub Online.",
+   "cacheId": "wQ188BhHbCgJ",
+   "formattedUrl": "https://www.google.com/fusiontables/DataSource?docid...tnrWd",
+   "htmlFormattedUrl": "https://www.google.com/fusiontables/DataSource?docid...tnrWd"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "[!NEW!] Download The Art of Fiction (Kapnick Lectures) Books ...",
+   "htmlTitle": "[!NEW!] Download The Art of Fiction (Kapnick \u003cb\u003eLectures\u003c/b\u003e) Books \u003cb\u003e...\u003c/b\u003e",
+   "link": "https://www.google.com/fusiontables/DataSource?docid=1_yBdPAqEpcCD9pqON4acX85xwFvP32-L-9v5GOhC",
+   "displayLink": "www.google.com",
+   "snippet": "The Art of Fiction (Kapnick Lectures), The Art of Fiction | The University of Virginia \nPress www.upress.virginia.edu/title/5040 Proxy Highlight The Art of Fiction.",
+   "htmlSnippet": "The Art of Fiction (Kapnick \u003cb\u003eLectures\u003c/b\u003e), The Art of Fiction | The University of Virginia \u003cbr\u003e\nPress www.upress.virginia.edu/title/5040 Proxy Highlight The Art of Fiction.",
+   "cacheId": "d1-Iz6yqmBIJ",
+   "formattedUrl": "https://www.google.com/fusiontables/DataSource?docid=1...L...",
+   "htmlFormattedUrl": "https://www.google.com/fusiontables/DataSource?docid=1...L..."
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "[FREE] Ebook Usable Security: History, Themes, and Challenges ...",
+   "htmlTitle": "[FREE] Ebook Usable Security: History, Themes, and Challenges \u003cb\u003e...\u003c/b\u003e",
+   "link": "https://www.google.com/fusiontables/DataSource?docid=1ydlm9ERCHvGjy4RclufAevTdeGiyto7zapzLPJro",
+   "displayLink": "www.google.com",
+   "snippet": "Free download Usable Security: History, Themes, and Challenges (Synthesis \nLectures on Information Security, Privacy, and Trust) By Simson Garfinkel, \nHeather ...",
+   "htmlSnippet": "Free download Usable Security: History, Themes, and Challenges (Synthesis \u003cbr\u003e\n\u003cb\u003eLectures\u003c/b\u003e on Information Security, Privacy, and Trust) By Simson Garfinkel, \u003cbr\u003e\nHeather&nbsp;...",
+   "cacheId": "kwSHXBK8Iz8J",
+   "formattedUrl": "https://www.google.com/fusiontables/DataSource?docid...",
+   "htmlFormattedUrl": "https://www.google.com/fusiontables/DataSource?docid..."
+  }
+ ]
+}
+

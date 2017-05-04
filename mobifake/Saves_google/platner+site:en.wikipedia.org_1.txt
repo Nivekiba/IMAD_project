@@ -1,0 +1,371 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - platner site:en.wikipedia.org",
+    "totalResults": "359",
+    "searchTerms": "platner site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - platner site:en.wikipedia.org",
+    "totalResults": "359",
+    "searchTerms": "platner site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "Google"
+ },
+ "searchInformation": {
+  "searchTime": 0.566405,
+  "formattedSearchTime": "0.57",
+  "totalResults": "359",
+  "formattedTotalResults": "359"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Warren Platner - Wikipedia",
+   "htmlTitle": "Warren \u003cb\u003ePlatner\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Warren_Platner",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Warren Platner (June 18, 1919 – April 17, 2006) was an American architect and \ninterior designer. Platner produced a furniture collection that has proved to be a ...",
+   "htmlSnippet": "Warren \u003cb\u003ePlatner\u003c/b\u003e (June 18, 1919 – April 17, 2006) was an American architect and \u003cbr\u003e\ninterior designer. \u003cb\u003ePlatner\u003c/b\u003e produced a furniture collection that has proved to be a&nbsp;...",
+   "cacheId": "hj3wKql_oTMJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Warren_Platner",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Warren_\u003cb\u003ePlatner\u003c/b\u003e",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Warren Platner",
+      "role": "Architect, interior designer"
+     }
+    ],
+    "person": [
+     {
+      "role": "Architect, interior designer"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ernst Platner - Wikipedia",
+   "htmlTitle": "Ernst \u003cb\u003ePlatner\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Ernst_Platner",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Ernst Platner was a German anthropologist, physician and Rationalist \nphilosopher, born in Leipzig. He was the father of painter Ernst Zacharias Platner\n ...",
+   "htmlSnippet": "Ernst \u003cb\u003ePlatner\u003c/b\u003e was a German anthropologist, physician and Rationalist \u003cbr\u003e\nphilosopher, born in Leipzig. He was the father of painter Ernst Zacharias \u003cb\u003ePlatner\u003c/b\u003e\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "iMpe1KgRZEIJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Ernst_Platner",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Ernst_\u003cb\u003ePlatner\u003c/b\u003e",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Ernst Platner",
+      "category": "18th-century philosophy",
+      "note": "Main interests History of philosophy, medicine"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "200",
+      "height": "251",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ3SILXoYrKL2IJAHXO5zujZUnGqvKI8H_L48BRigAQF4I1rC-OZ2Ywwxw"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Ernst_Platner.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Ernst_Platner.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Samuel Ball Platner - Wikipedia",
+   "htmlTitle": "Samuel Ball \u003cb\u003ePlatner\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Samuel_Ball_Platner",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Samuel Ball Platner (December 4, 1863 – August 20, 1921) was an American \nclassicist and archaeologist. Platner was born at Unionville, Connecticut, and ...",
+   "htmlSnippet": "Samuel Ball \u003cb\u003ePlatner\u003c/b\u003e (December 4, 1863 – August 20, 1921) was an American \u003cbr\u003e\nclassicist and archaeologist. \u003cb\u003ePlatner\u003c/b\u003e was born at Unionville, Connecticut, and&nbsp;...",
+   "cacheId": "w5wEdYTlZF0J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Samuel_Ball_Platner",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Samuel_Ball_\u003cb\u003ePlatner\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "287",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7kHxJbtvlbe4dqFMx2yKa7IYhX0ol4ElH8auAveDk1djFbefKKV2B2EE"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/The_Comitium_as_recently_excavated.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e1/The_Comitium_as_recently_excavated.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Platner, Colorado - Wikipedia",
+   "htmlTitle": "\u003cb\u003ePlatner\u003c/b\u003e, Colorado - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Platner,_Colorado",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Platner is an unincorporated community in Washington County, Colorado, United \nStates. The U.S. Post Office at Otis (ZIP Code 80743) now serves Platner ...",
+   "htmlSnippet": "\u003cb\u003ePlatner\u003c/b\u003e is an unincorporated community in Washington County, Colorado, United \u003cbr\u003e\nStates. The U.S. Post Office at Otis (ZIP Code 80743) now serves \u003cb\u003ePlatner\u003c/b\u003e&nbsp;...",
+   "cacheId": "yrZZVVpB8E0J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Platner,_Colorado",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003ePlatner\u003c/b\u003e,_Colorado",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Platner, Colorado",
+      "category": "Unincorporated community"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "144",
+      "height": "104",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSumBhljUPssvKwRhdqYKxrSIxoRTM7pesxP4gcfiJxwIEOU7AHiT8OoWg"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Map_of_Colorado_highlighting_Washington_County.svg/180px-Map_of_Colorado_highlighting_Washington_County.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ernst Zacharias Platner - Wikipedia",
+   "htmlTitle": "Ernst Zacharias \u003cb\u003ePlatner\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Ernst_Zacharias_Platner",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Ernst Zacharias Platner (1 October 1773 – 14 October 1855) was a German \npainter and writer born in Leipzig. He was the son of anthropologist Ernst Platner\n ...",
+   "htmlSnippet": "Ernst Zacharias \u003cb\u003ePlatner\u003c/b\u003e (1 October 1773 – 14 October 1855) was a German \u003cbr\u003e\npainter and writer born in Leipzig. He was the son of anthropologist Ernst \u003cb\u003ePlatner\u003c/b\u003e\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "MvPX1PXLeeMJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Ernst_Zacharias_Platner",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Ernst_Zacharias_\u003cb\u003ePlatner\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "A Topographical Dictionary of Ancient Rome - Wikipedia",
+   "htmlTitle": "A Topographical Dictionary of Ancient Rome - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/A_Topographical_Dictionary_of_Ancient_Rome",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A Topographical Dictionary of Ancient Rome is a reference work written by \nSamuel Ball Platner and completed by Thomas Ashby after Platner's death that \nwas ...",
+   "htmlSnippet": "A Topographical Dictionary of Ancient Rome is a reference work written by \u003cbr\u003e\nSamuel Ball \u003cb\u003ePlatner\u003c/b\u003e and completed by Thomas Ashby after \u003cb\u003ePlatner&#39;s\u003c/b\u003e death that \u003cbr\u003e\nwas&nbsp;...",
+   "cacheId": "k1Ghr0vUA9kJ",
+   "formattedUrl": "https://en.wikipedia.org/.../A_Topographical_Dictionary_of_Ancient_Rome",
+   "htmlFormattedUrl": "https://en.wikipedia.org/.../A_Topographical_Dictionary_of_Ancient_Rome",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hasso Plattner - Wikipedia",
+   "htmlTitle": "Hasso Plattner - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Hasso_Plattner",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Hasso Plattner (born 21 January 1944) is a German businessman. A co-founder \nof SAP SE software company, he has been chairman of the supervisory board of\n ...",
+   "htmlSnippet": "Hasso Plattner (born 21 January 1944) is a German businessman. A co-founder \u003cbr\u003e\nof SAP SE software company, he has been chairman of the supervisory board of\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "DwilLiR_LCsJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Hasso_Plattner",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Hasso_Plattner",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Hasso Plattner",
+      "bday": "1944-01-21",
+      "role": "Entrepreneur, philanthropist"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "183",
+      "height": "275",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-mvRKryWj7vxbtOrtVuRWLxvm6uJpjDWCItpPbE99g7LWtqSGzKTUE8k"
+     }
+    ],
+    "person": [
+     {
+      "role": "Entrepreneur, philanthropist"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Hasso_Plattner.JPG"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Hasso_Plattner.JPG"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "File:Platner-forum-republic-96 recontructed color.jpg - Wikimedia ...",
+   "htmlTitle": "File:\u003cb\u003ePlatner\u003c/b\u003e-forum-republic-96 recontructed color.jpg - Wikimedia ...",
+   "link": "https://en.wikipedia.org/wiki/File:Platner-forum-republic-96_recontructed_color.jpg",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Dec 22, 2015 ... English: This is an altered version of a map from The Topography and \nMonuments of Ancient Rome (1904) as scanned by Felix Just, S.J., PhD.",
+   "htmlSnippet": "Dec 22, 2015 \u003cb\u003e...\u003c/b\u003e English: This is an altered version of a map from The Topography and \u003cbr\u003e\nMonuments of Ancient Rome (1904) as scanned by Felix Just, S.J., PhD.",
+   "cacheId": "3TdiQRLQ4SMJ",
+   "formattedUrl": "https://en.wikipedia.org/.../File:Platner-forum-republic-96_recontructed_ color.jpg",
+   "htmlFormattedUrl": "https://en.wikipedia.org/.../File:\u003cb\u003ePlatner\u003c/b\u003e-forum-republic-96_recontructed_ color.jpg",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "251",
+      "height": "201",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT3EDe6s7LRk0RdFz2yhKMxwtEJc_qswypjoD0QPApq9F60VkH2K_-4Mg4"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Platner-forum-republic-96_recontructed_color.jpg/748px-Platner-forum-republic-96_recontructed_color.jpg"
+     }
+    ],
+    "hproduct": [
+     {
+      "fn": "Platner-forum-republic-96 recontructed color.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "File:Platner-forum-romanum-96-ssh.jpg - Wikimedia Commons",
+   "htmlTitle": "File:\u003cb\u003ePlatner\u003c/b\u003e-forum-romanum-96-ssh.jpg - Wikimedia Commons",
+   "link": "https://en.wikipedia.org/wiki/File:Platner-forum-romanum-96-ssh.jpg",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "May 25, 2016 ... English: Scan of a map of the Roman Forum, taken from Ball Platner's The \nTopography and Monuments of Ancient Rome (1904) This image is ...",
+   "htmlSnippet": "May 25, 2016 \u003cb\u003e...\u003c/b\u003e English: Scan of a map of the Roman Forum, taken from Ball \u003cb\u003ePlatner&#39;s\u003c/b\u003e The \u003cbr\u003e\nTopography and Monuments of Ancient Rome (1904) This image is&nbsp;...",
+   "cacheId": "qiLVOffiNPoJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/File:Platner-forum-romanum-96-ssh.jpg",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/File:\u003cb\u003ePlatner\u003c/b\u003e-forum-romanum-96-ssh.jpg",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "261",
+      "height": "193",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1w-jPVSEUlH4xO8eTltRF11f0J74KWYM3iYpFwZLGhcWZRsHvIFFclNo"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Platner-forum-romanum-96-ssh.jpg/800px-Platner-forum-romanum-96-ssh.jpg"
+     }
+    ],
+    "hproduct": [
+     {
+      "fn": "Platner-forum-romanum-96-ssh.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hasso Plattner Institute of Design - Wikipedia",
+   "htmlTitle": "Hasso Plattner Institute of Design - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Hasso_Plattner_Institute_of_Design",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Hasso Plattner Institute of Design at Stanford, commonly known as the d.\nschool, is a design thinking institute based in Stanford University. Bernard Roth ...",
+   "htmlSnippet": "The Hasso Plattner Institute of Design at Stanford, commonly known as the d.\u003cbr\u003e\nschool, is a design thinking institute based in Stanford University. Bernard Roth&nbsp;...",
+   "cacheId": "ByzVDBpSYPwJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Hasso_Plattner_Institute_of_Design",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Hasso_Plattner_Institute_of_Design",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "96",
+      "height": "72",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSOitZNi7-WF8DGdo6U4OL24f1LOjU6t-tK1PRasMhKIBEwWofe98MEZQ"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/D.school_Stanford.jpg/120px-D.school_Stanford.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

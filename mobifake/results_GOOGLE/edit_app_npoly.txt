@@ -1,0 +1,16 @@
+{
+    "Microsof": {
+        "microsoft": 7,
+        "microsoft technet": 1
+    },
+    "Kawett": [
+
+    ],
+    "Mobbizel+": [
+
+    ],
+    "Korrisoft": {
+        "@max syncup": 1,
+        "i love free software": 1
+    }
+}

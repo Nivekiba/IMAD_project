@@ -1,0 +1,66 @@
+{
+    "AfriFirstBank": [
+
+    ],
+    "ACCESS+Bank": {
+        "accessbank liberia": 1,
+        "accessbank azerbaijan": 1,
+        "intercontinental bank": 1,
+        "accessholding": 1,
+        "access bank rwanda": 3,
+        "safaroff": 1,
+        "access bank plc": 3,
+        "2016": 1,
+        "all rights reserved": 1
+    },
+    "+Brazil+Bank": {
+        "kelkoo": 1,
+        "banque saudi fransi": 1,
+        "- 2016": 2
+    },
+    "First+National+South+Africa": [
+
+    ],
+    "Imperial+Holdings": {
+        "imperial bank south africa": 2,
+        "imperial holdings": 2
+    },
+    "Aval+Group": {
+        "volcan (mining company)": 1,
+        "site designed and built by hydrant (http:\/\/www.hydrant.co.uk)": 1,
+        "oxford business group": 1
+    },
+    "Zenith+Bank+South+Africa": {
+        "zenith bank": 3,
+        "banque saudi fransi": 1,
+        "google questions and answers": 1,
+        "commercial national financial": 1,
+        "zenith bank website team": 1,
+        "zenith bank plc": 1,
+        "zenith bank (uk) ltd": 1,
+        "- 2016": 1,
+        "answersafrica": 1
+    },
+    "Guaranty+trusty+bank": {
+        "guaranty trust bank": 2,
+        "guaranty bank & trust": 3,
+        "guaranty bank and trust company\u2120": 1,
+        "guaranty bank and trust company - privacy policy": 1,
+        "guaranty bank and trust": 1,
+        "guaranty trust mortgage is an equal housing lender": 1
+    },
+    "BCP+Marocco": [
+
+    ],
+    "Credit+Du+Marocco": {
+        "cr\u00e9dit agricole": 3
+    },
+    "Expres+Union+": {
+        "all grown up!: express yourself": 1,
+        "daily express": 1,
+        "up express": 1,
+        "ross clark": 1,
+        "&#169; metrolinx": 2,
+        "express newspapers": 1
+    }
+}

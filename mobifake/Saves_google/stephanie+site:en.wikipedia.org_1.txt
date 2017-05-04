@@ -1,0 +1,438 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - stephanie site:en.wikipedia.org",
+    "totalResults": "24200",
+    "searchTerms": "stephanie site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - stephanie site:en.wikipedia.org",
+    "totalResults": "24200",
+    "searchTerms": "stephanie site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "Google"
+ },
+ "searchInformation": {
+  "searchTime": 0.754739,
+  "formattedSearchTime": "0.75",
+  "totalResults": "24200",
+  "formattedTotalResults": "24,200"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Stephanie - Wikipedia",
+   "htmlTitle": "\u003cb\u003eStephanie\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Stephanie",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Stephanie or Stefanie is a female name that comes from the Greek name \nΣτέφανος (Stefanos) meaning \"crown\". The male form is Stephen. Forms of \nStephanie ...",
+   "htmlSnippet": "\u003cb\u003eStephanie\u003c/b\u003e or Stefanie is a female name that comes from the Greek name \u003cbr\u003e\nΣτέφανος (Stefanos) meaning &quot;crown&quot;. The male form is Stephen. Forms of \u003cbr\u003e\n\u003cb\u003eStephanie\u003c/b\u003e&nbsp;...",
+   "cacheId": "Zk_3KsY6d-oJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Stephanie",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eStephanie\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "183",
+      "height": "275",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRN_MMpDGJMJNfkstDuZyd86lrByPKXlsSHq3TuRAvzR1BkQkM9J5dESWM"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Stephanie_Napoleon.jpg/1200px-Stephanie_Napoleon.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Stephanie_Napoleon.jpg/1200px-Stephanie_Napoleon.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Stephanie McMahon - Wikipedia",
+   "htmlTitle": "\u003cb\u003eStephanie\u003c/b\u003e McMahon - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Stephanie_McMahon",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Stephanie McMahon Levesque, also known professionally as Stephanie \nMcMahon, is an American businesswoman, and Chief Brand Officer (CBO) of \nWWE.",
+   "htmlSnippet": "\u003cb\u003eStephanie\u003c/b\u003e McMahon Levesque, also known professionally as \u003cb\u003eStephanie\u003c/b\u003e \u003cbr\u003e\nMcMahon, is an American businesswoman, and Chief Brand Officer (CBO) of \u003cbr\u003e\nWWE.",
+   "cacheId": "oV3g5cA0KRgJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Stephanie_McMahon",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eStephanie\u003c/b\u003e_McMahon",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Stephanie McMahon",
+      "nickname": "Stephanie Marie McMahon",
+      "bday": "1976-09-24",
+      "label": "Greenwich, Connecticut, U.S",
+      "role": "Chief Brand Officer (World Wrestling Entertainment, Inc.) Co-Founder (Connor's Cure)[1]"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "207",
+      "height": "244",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQZmo-aw0dS6MJdGwvssh89kaFen992az7Z94H_tQpMscPsa1SGcTWXBNE"
+     }
+    ],
+    "person": [
+     {
+      "role": "Chief Brand Officer (World Wrestling Entertainment, Inc.) Co-Founder (Connor's Cure)[1]"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Stephanie_McMahon_WrestleMania_31_in_2015.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Stephanie_McMahon_WrestleMania_31_in_2015.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Stephanie Brown (comics) - Wikipedia",
+   "htmlTitle": "\u003cb\u003eStephanie\u003c/b\u003e Brown (comics) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Stephanie_Brown_(comics)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Stephanie Brown is a fictional superhero appearing in American comic books \npublished by DC Comics, commonly in association with Batman. The character ...",
+   "htmlSnippet": "\u003cb\u003eStephanie\u003c/b\u003e Brown is a fictional superhero appearing in American comic books \u003cbr\u003e\npublished by DC Comics, commonly in association with Batman. The character&nbsp;...",
+   "cacheId": "n8m1wquewzcJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Stephanie_Brown_(comics)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eStephanie\u003c/b\u003e_Brown_(comics)",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "186",
+      "height": "271",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRbIxG_6HSg-me2zIGzSiNxydpjovAX6ujQhMpIpUq3DZWovk8IvsXS8FlG"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/7/75/The_Spoiler_%28The_New_52%29.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/7/75/The_Spoiler_%28The_New_52%29.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Princess Stéphanie of Monaco - Wikipedia",
+   "htmlTitle": "Princess \u003cb\u003eStéphanie\u003c/b\u003e of Monaco - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Princess_St%C3%A9phanie_of_Monaco",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Princess Stéphanie of Monaco, Countess of Polignac is the youngest child of \nRainier III, Prince of Monaco, and American actress Grace Kelly, and the sister of\n ...",
+   "htmlSnippet": "Princess \u003cb\u003eStéphanie\u003c/b\u003e of Monaco, Countess of Polignac is the youngest child of \u003cbr\u003e\nRainier III, Prince of Monaco, and American actress Grace Kelly, and the sister of\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "aKF_FjpzscgJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Princess_Stéphanie_of_Monaco",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Princess_Stéphanie_of_Monaco",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Princess Stéphanie",
+      "nickname": "Stéphanie Marie Elisabeth",
+      "bday": "1965-02-01",
+      "photo": "Princess Stéphanie in 1986"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL3d8_96dMg1XxQwL658Fw4E1gBuZ5M7GDlxqSx7TcEYsDFHGK0y11neeo"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/St%C3%A9phanie_van_Monaco_%281986%29.jpg/1200px-St%C3%A9phanie_van_Monaco_%281986%29.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/St%C3%A9phanie_van_Monaco_%281986%29.jpg/1200px-St%C3%A9phanie_van_Monaco_%281986%29.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Stephanie Seymour - Wikipedia",
+   "htmlTitle": "\u003cb\u003eStephanie\u003c/b\u003e Seymour - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Stephanie_Seymour",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Stephanie Michelle Seymour (born July 23, 1968) is an American model and \nactress. Seymour has modeled for many notable fashion magazines and \ndesigners ...",
+   "htmlSnippet": "\u003cb\u003eStephanie\u003c/b\u003e Michelle Seymour (born July 23, 1968) is an American model and \u003cbr\u003e\nactress. Seymour has modeled for many notable fashion magazines and \u003cbr\u003e\ndesigners&nbsp;...",
+   "cacheId": "yPeiw5lRj6AJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Stephanie_Seymour",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eStephanie\u003c/b\u003e_Seymour",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Stephanie Seymour",
+      "nickname": "Stephanie Michelle Seymour",
+      "bday": "1968-07-23",
+      "label": "Greenwich, Connecticut"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "183",
+      "height": "275",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSpVnTvPD7GmkHb4_Zc7G5DBEvcKuz8VXz7L2mnPm65RrckaJ50PDjJpo"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Stephanie_Seymour.jpg/1200px-Stephanie_Seymour.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Stephanie_Seymour.jpg/1200px-Stephanie_Seymour.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Stephanie Kwolek - Wikipedia",
+   "htmlTitle": "\u003cb\u003eStephanie\u003c/b\u003e Kwolek - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Stephanie_Kwolek",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Stephanie Louise Kwolek (July 31, 1923 – June 18, 2014) was an American \nchemist, whose career at the DuPont company spanned over forty years. She is ...",
+   "htmlSnippet": "\u003cb\u003eStephanie\u003c/b\u003e Louise Kwolek (July 31, 1923 – June 18, 2014) was an American \u003cbr\u003e\nchemist, whose career at the DuPont company spanned over forty years. She is&nbsp;...",
+   "cacheId": "aiEzD4fS9NsJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Stephanie_Kwolek",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eStephanie\u003c/b\u003e_Kwolek",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Stephanie Kwolek",
+      "bday": "1923-07-31",
+      "category": "Organic chemistry"
+     },
+     {
+      "fn": "Roxana Cannon Arsht"
+     },
+     {
+      "fn": "Martha G. Bachman"
+     },
+     {
+      "fn": "Myrna L. Bair"
+     },
+     {
+      "fn": "Helen S. Balick"
+     },
+     {
+      "fn": "Sister Ascension Banegas"
+     },
+     {
+      "fn": "Joy Ann Bartell"
+     },
+     {
+      "fn": "Elizabeth Empson Battell"
+     },
+     {
+      "fn": "Grace Ruth Batten"
+     },
+     {
+      "fn": "Renee Palmore Beaman"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "204",
+      "height": "247",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXtkndpXeESoNWgO1CbQ955ubUWDZomEeZufs6jHshxYYLDjndLZMdu04"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Stephanie_Kwolek_at_Spinning_Elements_by_Harry_Kalish.TIF/lossy-page1-1200px-Stephanie_Kwolek_at_Spinning_Elements_by_Harry_Kalish.TIF.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Stephanie_Kwolek_at_Spinning_Elements_by_Harry_Kalish.TIF/lossy-page1-1200px-Stephanie_Kwolek_at_Spinning_Elements_by_Harry_Kalish.TIF.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Stephanie March - Wikipedia",
+   "htmlTitle": "\u003cb\u003eStephanie\u003c/b\u003e March - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Stephanie_March",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Stephanie Caroline March (born (1974-07-23)July 23, 1974) is an American \nactress. She is best known for her role as Alexandra Cabot in the long-running \nNBC ...",
+   "htmlSnippet": "\u003cb\u003eStephanie\u003c/b\u003e Caroline March (born (1974-07-23)July 23, 1974) is an American \u003cbr\u003e\nactress. She is best known for her role as Alexandra Cabot in the long-running \u003cbr\u003e\nNBC&nbsp;...",
+   "cacheId": "-_nVnf_37ekJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Stephanie_March",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eStephanie\u003c/b\u003e_March",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Stephanie March",
+      "nickname": "Stephanie Caroline March[1]",
+      "bday": "1974-07-23",
+      "role": "Actress"
+     }
+    ],
+    "person": [
+     {
+      "role": "Actress"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Stephanie Nakasian - Wikipedia",
+   "htmlTitle": "\u003cb\u003eStephanie\u003c/b\u003e Nakasian - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Stephanie_Nakasian",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Stephanie Nakasian (born August 29, 1954) is an American jazz vocalist and \nvoice teacher. Contents. [hide]. 1 Biography. 1.1 Early life; 1.2 Musical career; 1.3\n ...",
+   "htmlSnippet": "\u003cb\u003eStephanie\u003c/b\u003e Nakasian (born August 29, 1954) is an American jazz vocalist and \u003cbr\u003e\nvoice teacher. Contents. [hide]. 1 Biography. 1.1 Early life; 1.2 Musical career; 1.3\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "qEPPA6WPofYJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Stephanie_Nakasian",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eStephanie\u003c/b\u003e_Nakasian",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Stephanie Nakasian",
+      "nickname": "Patricia Stephanie Nakasian",
+      "url": "www.stephanienakasian.com",
+      "url_text": "www.stephanienakasian.com",
+      "bday": "1954-08-29",
+      "role": "Singer, educcator"
+     }
+    ],
+    "person": [
+     {
+      "role": "Singer, educcator"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Stephanie (singer) - Wikipedia",
+   "htmlTitle": "\u003cb\u003eStephanie\u003c/b\u003e (singer) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Stephanie_(singer)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Stephanie Topalian (Armenian: Ստեֆանի Թոփալյան) Western Armenian \nՍթեֆանի Թօփալեան, professionally known as Stephanie (ステファニー (Sutefanī\n), ...",
+   "htmlSnippet": "\u003cb\u003eStephanie\u003c/b\u003e Topalian (Armenian: Ստեֆանի Թոփալյան) Western Armenian \u003cbr\u003e\nՍթեֆանի Թօփալեան, professionally known as \u003cb\u003eStephanie\u003c/b\u003e (ステファニー (Sutefanī\u003cbr\u003e\n),&nbsp;...",
+   "cacheId": "aOYhlaKFW10J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Stephanie_(singer)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eStephanie\u003c/b\u003e_(singer)",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Stephanie",
+      "nickname": "Stephanie Nonoshita Topalian",
+      "url": "www.stephanietopalian.com",
+      "url_text": "www.stephanietopalian.com",
+      "bday": "1987-08-05",
+      "label": "Tokyo, Japan",
+      "role": "Singer actress",
+      "category": "Japan Armenia"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "226",
+      "height": "223",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUNHzklnuc-6fh0DlTirUvJ9eKCSF1HlARpkDJ3R5dAC_1LW233dx-flA"
+     }
+    ],
+    "person": [
+     {
+      "role": "Singer actress"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Stephanie_Topalian.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Stephanie_Topalian.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Stephanie of Milly - Wikipedia",
+   "htmlTitle": "\u003cb\u003eStephanie\u003c/b\u003e of Milly - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Stephanie_of_Milly",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Stephanie of Milly (born c.1145/1155- c.1197) was Lady of Oultrejordain in 1169-\n1197 and an influential figure in the Kingdom of Jerusalem. She was also ...",
+   "htmlSnippet": "\u003cb\u003eStephanie\u003c/b\u003e of Milly (born c.1145/1155- c.1197) was Lady of Oultrejordain in 1169-\u003cbr\u003e\n1197 and an influential figure in the Kingdom of Jerusalem. She was also&nbsp;...",
+   "cacheId": "dGNHqP2z4zYJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Stephanie_of_Milly",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eStephanie\u003c/b\u003e_of_Milly",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  }
+ ]
+}

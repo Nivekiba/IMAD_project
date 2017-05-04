@@ -1,0 +1,342 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - conference site:en.wikipedia.org",
+    "totalResults": "313000",
+    "searchTerms": "conference site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - conference site:en.wikipedia.org",
+    "totalResults": "313000",
+    "searchTerms": "conference site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "Google"
+ },
+ "searchInformation": {
+  "searchTime": 0.689429,
+  "formattedSearchTime": "0.69",
+  "totalResults": "313000",
+  "formattedTotalResults": "313,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Conference - Wikipedia",
+   "htmlTitle": "\u003cb\u003eConference\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Conference",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A conference is a meeting of people who \"confer\" about a topic. Conference \ntypes include: Convention (meeting), meeting of a, usually large, group of ...",
+   "htmlSnippet": "A \u003cb\u003econference\u003c/b\u003e is a meeting of people who &quot;confer&quot; about a topic. \u003cb\u003eConference\u003c/b\u003e \u003cbr\u003e\ntypes include: Convention (meeting), meeting of a, usually large, group of&nbsp;...",
+   "cacheId": "n1QnnCpjAoEJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Conference",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eConference\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Potsdam Conference - Wikipedia",
+   "htmlTitle": "Potsdam \u003cb\u003eConference\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Potsdam_Conference",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Potsdam Conference (German: Potsdamer Konferenz) was held at \nCecilienhof, the home of Crown Prince Wilhelm, in Potsdam, occupied Germany, \nfrom 17 ...",
+   "htmlSnippet": "The Potsdam \u003cb\u003eConference\u003c/b\u003e (German: Potsdamer Konferenz) was held at \u003cbr\u003e\nCecilienhof, the home of Crown Prince Wilhelm, in Potsdam, occupied Germany, \u003cbr\u003e\nfrom 17&nbsp;...",
+   "cacheId": "BIcTTxgPUw8J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Potsdam_Conference",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Potsdam_\u003cb\u003eConference\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "276",
+      "height": "182",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbvfJ6Nuogy-1s-K-xzvyqTfkovhNifjHbHKkxLusL5FDN9H5bpM5oZ8Q"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Bundesarchiv_Bild_183-R67561%2C_Potsdamer_Konferenz%2C_Konferenztisch.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/82/Bundesarchiv_Bild_183-R67561%2C_Potsdamer_Konferenz%2C_Konferenztisch.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Academic conference - Wikipedia",
+   "htmlTitle": "Academic \u003cb\u003econference\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Academic_conference",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "An academic conference or symposium is a conference for researchers (not \nnecessarily academics) to present and discuss their work. Together with \nacademic ...",
+   "htmlSnippet": "An academic \u003cb\u003econference\u003c/b\u003e or symposium is a \u003cb\u003econference\u003c/b\u003e for researchers (not \u003cbr\u003e\nnecessarily academics) to present and discuss their work. Together with \u003cbr\u003e\nacademic&nbsp;...",
+   "cacheId": "J2gQmtEd9CMJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Academic_conference",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Academic_\u003cb\u003econference\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdePhnZuGjUN-V0L5eUc9iwa4SQ6Q2fCifxukCiHoNxrGWbLz1hOADF1I"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/LAR-Konferanse_06_Foto_Lars-Andreas_Kvisle_-_forsamling_5.jpg/1200px-LAR-Konferanse_06_Foto_Lars-Andreas_Kvisle_-_forsamling_5.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/LAR-Konferanse_06_Foto_Lars-Andreas_Kvisle_-_forsamling_5.jpg/1200px-LAR-Konferanse_06_Foto_Lars-Andreas_Kvisle_-_forsamling_5.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "National League (division) - Wikipedia",
+   "htmlTitle": "National League (division) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/National_League_(division)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The National League, formerly the Conference National is the top division of the \nNational League in England. It is the highest level of the National League ...",
+   "htmlSnippet": "The National League, formerly the \u003cb\u003eConference\u003c/b\u003e National is the top division of the \u003cbr\u003e\nNational League in England. It is the highest level of the National League&nbsp;...",
+   "cacheId": "RYDq4d_PL5UJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/National_League_(division)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/National_League_(division)",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "155",
+      "height": "208",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVkLYoOXbHAfPuUoGuM1uDFS4Eqy96kElQrEfrufYtbiU2WuAxoRdeN10"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/e/e4/National_League_logo.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/e/e4/National_League_logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Western Conference (NBA) - Wikipedia",
+   "htmlTitle": "Western \u003cb\u003eConference\u003c/b\u003e (NBA) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Western_Conference_(NBA)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Western Conference of the National Basketball Association is made up of 15 \nteams, and organized into three divisions of five teams each. Since 2006, the ...",
+   "htmlSnippet": "The Western \u003cb\u003eConference\u003c/b\u003e of the National Basketball Association is made up of 15 \u003cbr\u003e\nteams, and organized into three divisions of five teams each. Since 2006, the&nbsp;...",
+   "cacheId": "JnN0WMm8gX8J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Western_Conference_(NBA)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Western_\u003cb\u003eConference\u003c/b\u003e_(NBA)",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "221",
+      "height": "228",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRgwQZuEEAf6vlkcTZnp6-2zKb6SquyHcuDkqtMA0YW95x62p3Ep8L18NxC"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/0/02/Western_Conference_%28NBA%29_logo.gif"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/0/02/Western_Conference_%28NBA%29_logo.gif"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Conference USA - Wikipedia",
+   "htmlTitle": "\u003cb\u003eConference\u003c/b\u003e USA - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Conference_USA",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Conference USA (C-USA or CUSA) is a collegiate athletic conference whose \nmember institutions are located within the Southern United States. The \nconference ...",
+   "htmlSnippet": "\u003cb\u003eConference\u003c/b\u003e USA (C-USA or CUSA) is a collegiate athletic \u003cb\u003econference\u003c/b\u003e whose \u003cbr\u003e\nmember institutions are located within the Southern United States. The \u003cbr\u003e\n\u003cb\u003econference\u003c/b\u003e&nbsp;...",
+   "cacheId": "JjTxl-TRh8AJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Conference_USA",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eConference\u003c/b\u003e_USA",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "271",
+      "height": "186",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTo9RaPgIW-nhtmDr45gKBcFf7ScxMwzoeh8Z8U2gsq4GaPa427Pby9too"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/0/08/C-USA-USA-states.PNG"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/08/C-USA-USA-states.PNG"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Yalta Conference - Wikipedia",
+   "htmlTitle": "Yalta \u003cb\u003eConference\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Yalta_Conference",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Yalta Conference, sometimes called the Crimea Conference and code \nnamed the Argonaut Conference, held from February 7 to 11, 1945, was the \nWorld ...",
+   "htmlSnippet": "The Yalta \u003cb\u003eConference\u003c/b\u003e, sometimes called the Crimea \u003cb\u003eConference\u003c/b\u003e and code \u003cbr\u003e\nnamed the Argonaut \u003cb\u003eConference\u003c/b\u003e, held from February 7 to 11, 1945, was the \u003cbr\u003e\nWorld&nbsp;...",
+   "cacheId": "ONz3IDPGqUUJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Yalta_Conference",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Yalta_\u003cb\u003eConference\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "253",
+      "height": "199",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQt34X3EsppLOmxc8fMkWfiH8mVGpGg9eeMCVhApxsMRNdiMHaM_PafPRea"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Yalta_Conference_1945_Churchill%2C_Stalin%2C_Roosevelt.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/19/Yalta_Conference_1945_Churchill%2C_Stalin%2C_Roosevelt.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NBA Conference Finals - Wikipedia",
+   "htmlTitle": "NBA \u003cb\u003eConference\u003c/b\u003e Finals - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/NBA_Conference_Finals",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The National Basketball Association Conference Finals are the Eastern and \nWestern championship series of the National Basketball Association (NBA), a \nmajor ...",
+   "htmlSnippet": "The National Basketball Association \u003cb\u003eConference\u003c/b\u003e Finals are the Eastern and \u003cbr\u003e\nWestern championship series of the National Basketball Association (NBA), a \u003cbr\u003e\nmajor&nbsp;...",
+   "cacheId": "-22PqT49GRsJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/NBA_Conference_Finals",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/NBA_\u003cb\u003eConference\u003c/b\u003e_Finals",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Conference call - Wikipedia",
+   "htmlTitle": "\u003cb\u003eConference\u003c/b\u003e call - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Conference_call",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A conference call is a telephone call in which someone talks to several people at \nthe same time. The conference calls may be designed to allow the called party ...",
+   "htmlSnippet": "A \u003cb\u003econference\u003c/b\u003e call is a telephone call in which someone talks to several people at \u003cbr\u003e\nthe same time. The \u003cb\u003econference\u003c/b\u003e calls may be designed to allow the called party&nbsp;...",
+   "cacheId": "1kCQ0XKBSNYJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Conference_call",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eConference\u003c/b\u003e_call",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxzTXax0E189Rp-xl5KDiew6fgTlgo1zReLpyNFhHb7BOx-9qxejhS5ks"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Conferencecallphone.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Conferencecallphone.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Berlin Conference - Wikipedia",
+   "htmlTitle": "Berlin \u003cb\u003eConference\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Berlin_Conference",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Berlin Conference of 1884–85, also known as the Congo Conference (\nGerman: Kongokonferenz) or West Africa Conference (Westafrika-Konferenz), ...",
+   "htmlSnippet": "The Berlin \u003cb\u003eConference\u003c/b\u003e of 1884–85, also known as the Congo \u003cb\u003eConference\u003c/b\u003e (\u003cbr\u003e\nGerman: Kongokonferenz) or West Africa \u003cb\u003eConference\u003c/b\u003e (Westafrika-Konferenz),&nbsp;...",
+   "cacheId": "EN_F14QtlN0J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Berlin_Conference",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Berlin_\u003cb\u003eConference\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "256",
+      "height": "197",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1ONtqDi0jvw9wvDirBkkI9OriB3xuCJ-5OQOAUnImSO9R-4GpTsG_pbS8"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Afrikakonferenz.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Afrikakonferenz.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

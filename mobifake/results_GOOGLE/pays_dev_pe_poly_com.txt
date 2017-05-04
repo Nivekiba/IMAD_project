@@ -1,0 +1,123 @@
+{
+    "Radio+Flyer+App": {
+        "radio flyer": 5,
+        "apple inc.": 1,
+        "walmart": 2,
+        "apple inc": 1,
+        "walmart stores": 2
+    },
+    "Quick+Field+Fastener++": [
+
+    ],
+    "Quick+co+Mobile": {
+        "t-mobile us": 1,
+        "quick heal": 3,
+        "cognizant": 1,
+        "quick heal technologies limited (formerly known as quick heal technologies pvt": 2,
+        "quick heal gadget securance": 2
+    },
+    "Eire+Rapid+Mangement": {
+        "rapid electronics": 1,
+        "rapid electronics limited": 1
+    },
+    "BoucleDor+mobile": [
+
+    ],
+    "PagePersonnel+app": {
+        "reed (company)": 1,
+        "robert half international": 3,
+        "boston consulting group": 2,
+        "yellow pages singapore": 1,
+        "pagegroup plc world trade centre": 1,
+        "michael page international pte limited": 1
+    },
+    "Credit+Coorp+App": {
+        "credit acceptance": 1,
+        "news corp australia": 1,
+        "apple inc.": 1,
+        "sandhills publishing company": 1,
+        "bank australia": 1,
+        "national capital commission": 1,
+        "news limited": 1,
+        "dun &amp; bradstreet credibility corp": 1,
+        "apple inc": 1,
+        "co-op financial services": 1
+    },
+    "Sc+Talent+cleaner": [
+
+    ],
+    "Velde+Mobile": {
+        "t-mobile": 1,
+        "twitter": 1
+    },
+    "Easy+Prevoir+": {
+        "staples inc.": 1,
+        "easygroup": 1,
+        "blog easy-stand": 1
+    },
+    "Biddy+app+banking": {
+        "finlay enterprises": 1,
+        "bailey banks & biddle": 1
+    },
+    "LifeSkills+Mobile": [
+
+    ],
+    "Rapid+UK+Export+": {
+        "rapid electronics": 1,
+        "medtronic": 1,
+        "gov.uk": 2,
+        "anglo-persian oil company": 1,
+        "backstage.bbc.co.uk": 1,
+        "rapid electronics limited": 1
+    },
+    "Vermillon+India": {
+        "vermilion energy": 1,
+        "times internet": 1,
+        "seamark group": 1,
+        "vermilion partners": 2,
+        "bennett": 1,
+        "vermillion engineered by capella solutions": 2
+    },
+    "Pretty+MObile": {
+        "enigmail": 1,
+        "criminal case (video game)": 1,
+        "lightbike": 1,
+        "2016": 1,
+        "pretty simple sa": 1,
+        "\u00a9 dennis publishing limited": 1
+    },
+    "Movable+Home+Guard+": [
+
+    ],
+    "Omega+Mobile+App": {
+        "apple inc.": 1,
+        "syphon filter (series)": 1,
+        "phi gamma nu": 2,
+        "shopify": 1,
+        "hive ui": 1,
+        "omega ltd": 1,
+        "apple inc": 1,
+        "\u00a91992-2016 omegafi": 1,
+        "shopify inc": 1,
+        "&#45; 2013 omega mobile": 1
+    },
+    "FlexEquitable+CA": [
+
+    ],
+    "B2B+mobile+Money": {
+        "forter": 1,
+        "development alternatives incorporated": 1,
+        "oberthur technologies": 1,
+        "octafx": 1,
+        "what\u2019s next media and data analytics": 1
+    },
+    "FCB+Canada+mobile": {
+        "fcb (advertising agency)": 4,
+        "first commonwealth bank": 1,
+        "fcb global": 1,
+        "fcb\/six": 1,
+        "fcb toronto": 1,
+        "official fc barcelona soccer camps canada": 1,
+        "first commonwealth bank; 601 philadelphia st": 1
+    }
+}

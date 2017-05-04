@@ -1,0 +1,263 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - subscribe site:en.wikipedia.org",
+    "totalResults": "8450",
+    "searchTerms": "subscribe site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - subscribe site:en.wikipedia.org",
+    "totalResults": "8450",
+    "searchTerms": "subscribe site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "Google"
+ },
+ "searchInformation": {
+  "searchTime": 0.719564,
+  "formattedSearchTime": "0.72",
+  "totalResults": "8450",
+  "formattedTotalResults": "8,450"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "subscribe - Wiktionary",
+   "htmlTitle": "\u003cb\u003esubscribe\u003c/b\u003e - Wiktionary",
+   "link": "http://en.wikipedia.org/wiki/wikt:subscribe",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "under no circumstances could I ever again be nominated for any public office, as \nno corporation would subscribe to a campaign fund if I was on the ticket, and ...",
+   "htmlSnippet": "under no circumstances could I ever again be nominated for any public office, as \u003cbr\u003e\nno corporation would \u003cb\u003esubscribe\u003c/b\u003e to a campaign fund if I was on the ticket, and&nbsp;...",
+   "cacheId": "txWphuLDxU8J",
+   "formattedUrl": "en.wikipedia.org/wiki/wikt:subscribe",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/wikt:\u003cb\u003esubscribe\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Publish–subscribe pattern - Wikipedia",
+   "htmlTitle": "Publish–\u003cb\u003esubscribe\u003c/b\u003e pattern - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "In software architecture, publish–subscribe is a messaging pattern where \nsenders of messages, called publishers, do not program the messages to be sent\n ...",
+   "htmlSnippet": "In software architecture, publish–\u003cb\u003esubscribe\u003c/b\u003e is a messaging pattern where \u003cbr\u003e\nsenders of messages, called publishers, do not program the messages to be sent\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "R-qO29qU83MJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Publish–subscribe_pattern",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Publish–\u003cb\u003esubscribe\u003c/b\u003e_pattern",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Publish and Subscribe (Mac OS) - Wikipedia",
+   "htmlTitle": "Publish and \u003cb\u003eSubscribe\u003c/b\u003e (Mac OS) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Publish_and_Subscribe_(Mac_OS)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Publish and Subscribe was a document linking model introduced by Apple \nComputer in System 7. Named the Edition Manager in developer documentation,\n ...",
+   "htmlSnippet": "Publish and \u003cb\u003eSubscribe\u003c/b\u003e was a document linking model introduced by Apple \u003cbr\u003e\nComputer in System 7. Named the Edition Manager in developer documentation,\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "ZvUe8rbKQNsJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Publish_and_Subscribe_(Mac_OS)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Publish_and_\u003cb\u003eSubscribe\u003c/b\u003e_(Mac_OS)",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wikipedia:Wikipedia Signpost/Subscribe - Wikipedia",
+   "htmlTitle": "Wikipedia:Wikipedia Signpost/\u003cb\u003eSubscribe\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/Subscribe",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The most direct way to subscribe to the Signpost is to add your name to our list; \nwe will post links to the Signpost (and to each feature section) to your user-talk ...",
+   "htmlSnippet": "The most direct way to \u003cb\u003esubscribe\u003c/b\u003e to the Signpost is to add your name to our list; \u003cbr\u003e\nwe will post links to the Signpost (and to each feature section) to your user-talk&nbsp;...",
+   "cacheId": "J_hKsF6a6VYJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia.../Subscribe",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia.../\u003cb\u003eSubscribe\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wikipedia:Article alerts/Subscribing - Wikipedia",
+   "htmlTitle": "Wikipedia:Article alerts/\u003cb\u003eSubscribing\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Wikipedia:Article_alerts/Subscribing",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "1.1 Subscribe via a Different Banner; 1.2 Subscribe via a Talk page category; 1.3 \nSubscribe via Talk page sub-categories; 1.4 Subscribe via an Infobox ...",
+   "htmlSnippet": "1.1 \u003cb\u003eSubscribe\u003c/b\u003e via a Different Banner; 1.2 \u003cb\u003eSubscribe\u003c/b\u003e via a Talk page category; 1.3 \u003cbr\u003e\n\u003cb\u003eSubscribe\u003c/b\u003e via Talk page sub-categories; 1.4 \u003cb\u003eSubscribe\u003c/b\u003e via an Infobox&nbsp;...",
+   "cacheId": "KPIWHcxSfhoJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Wikipedia:Article_alerts/Subscribing",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wikipedia:Article_alerts/\u003cb\u003eSubscribing\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Subscription business model - Wikipedia",
+   "htmlTitle": "Subscription business model - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Subscription_business_model",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The subscription business model is a business model where a customer must \npay a ... A pay-as-you-go subscription where you subscribe to purchase a \nproduct periodically. This is also known as the convenience model because it is a\n ...",
+   "htmlSnippet": "The subscription business model is a business model where a customer must \u003cbr\u003e\npay a ... A pay-as-you-go subscription where you \u003cb\u003esubscribe\u003c/b\u003e to purchase a \u003cbr\u003e\nproduct periodically. This is also known as the convenience model because it is a\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "Gtmx-PkcHSwJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Subscription_business_model",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Subscription_business_model",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wikipedia:Administrators' newsletter/Subscribe - Wikipedia",
+   "htmlTitle": "Wikipedia:Administrators&#39; newsletter/\u003cb\u003eSubscribe\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Wikipedia:Administrators%27_newsletter/Subscribe",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Add your user talk page (use the format \"User talk:username\") to the list below to \nsign up for the Administrators' newsletter! The first issue was sent to all ...",
+   "htmlSnippet": "Add your user talk page (use the format &quot;User talk:username&quot;) to the list below to \u003cbr\u003e\nsign up for the Administrators&#39; newsletter! The first issue was sent to all&nbsp;...",
+   "cacheId": "7pUS719obXoJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Wikipedia...newsletter/Subscribe",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wikipedia...newsletter/\u003cb\u003eSubscribe\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Observer pattern - Wikipedia",
+   "htmlTitle": "Observer pattern - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Observer_pattern",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The observer pattern is a software design pattern in which an object, called the \nsubject, ... In some (non-polling) implementations of the publish-subscribe pattern \n(also called the pub-sub pattern), this is solved by creating a dedicated \"message\n ...",
+   "htmlSnippet": "The observer pattern is a software design pattern in which an object, called the \u003cbr\u003e\nsubject, ... In some (non-polling) implementations of the publish-\u003cb\u003esubscribe\u003c/b\u003e pattern \u003cbr\u003e\n(also called the pub-sub pattern), this is solved by creating a dedicated &quot;message\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "ognhGS8T3X0J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Observer_pattern",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Observer_pattern",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "349",
+      "height": "144",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG0D4yUURrgeXAAR3eR4OQXSHXvweViXya8EBY1If6ZXtw-baT_q8Ec_Z3"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Observer.svg/500px-Observer.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Data Distribution Service - Wikipedia",
+   "htmlTitle": "Data Distribution Service - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Data_Distribution_Service",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Data Distribution Service for real-time systems (DDS) is an Object \nManagement Group (OMG) machine-to-machine (sometimes called middleware) \nstandard that aims to enable scalable, real-time, dependable, high-performance \nand interoperable data exchanges using a publish–subscribe pattern.",
+   "htmlSnippet": "The Data Distribution Service for real-time systems (DDS) is an Object \u003cbr\u003e\nManagement Group (OMG) machine-to-machine (sometimes called middleware) \u003cbr\u003e\nstandard that aims to enable scalable, real-time, dependable, high-performance \u003cbr\u003e\nand interoperable data exchanges using a publish–\u003cb\u003esubscribe\u003c/b\u003e pattern.",
+   "cacheId": "AGiQT7L8iL4J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Data_Distribution_Service",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Data_Distribution_Service",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of most subscribed users on YouTube - Wikipedia",
+   "htmlTitle": "List of most subscribed users on YouTube - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/List_of_most_subscribed_users_on_YouTube",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This list of most subscribed users on YouTube contains the top 50 channels with \nthe most subscribers on the video platform YouTube. The ability to \"subscribe\" ...",
+   "htmlSnippet": "This list of most subscribed users on YouTube contains the top 50 channels with \u003cbr\u003e\nthe most subscribers on the video platform YouTube. The ability to &quot;\u003cb\u003esubscribe\u003c/b\u003e&quot;&nbsp;...",
+   "cacheId": "cxghXez4racJ",
+   "formattedUrl": "https://en.wikipedia.org/.../List_of_most_subscribed_users_on_YouTube",
+   "htmlFormattedUrl": "https://en.wikipedia.org/.../List_of_most_\u003cb\u003esubscribe\u003c/b\u003ed_users_on_YouTube",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "194",
+      "height": "259",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTv6xoRi2ePd1XFMIt9p-8cUFIjMUnKzS6Zgmr53-VRyi3m66T9541Rtt8"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/PewDiePie_at_PAX_2015_crop.jpg/1200px-PewDiePie_at_PAX_2015_crop.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/PewDiePie_at_PAX_2015_crop.jpg/1200px-PewDiePie_at_PAX_2015_crop.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

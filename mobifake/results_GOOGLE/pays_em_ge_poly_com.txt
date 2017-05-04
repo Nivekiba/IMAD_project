@@ -1,0 +1,60 @@
+{
+    "Afriland+Mobile": {
+        "afriland first bank": 2,
+        "administrateur": 1
+    },
+    "ACCES+Bank+Official": {
+        "accessbank liberia": 1,
+        "intercontinental bank": 1,
+        "access bank rwanda": 2,
+        "accessbank azerbaijan": 1,
+        "safaroff": 1,
+        "access bank plc": 3
+    },
+    "Brazil+Mobile+Banco": {
+        "open mobile": 1,
+        "currencytransfer.com": 2,
+        "open mobile media 2016": 1,
+        "bankingtech": 2
+    },
+    "First+Nat+Mobile+Bank": {
+        "first national bank of omaha": 2,
+        "\u00a9 footerdate() first national bank of omaha": 1,
+        "first&nbsp;national bank": 1
+    },
+    "Imperial+Hold+Mobile": {
+        "imperial innovations": 3,
+        "w. w. grainger": 1
+    },
+    "Aval+grupo+AB": {
+        "grupo aval acciones y valores": 3,
+        "grupo aval": 1,
+        "\u00a9 grupo aval acciones y valores s": 1
+    },
+    "Zenith+mobile+money": {
+        "zenith bank": 2,
+        "transfast": 1,
+        "zenith bank website team": 1,
+        "zenith bank plc": 1,
+        "\u00a9 2014": 1
+    },
+    "Guaranty+Trust+Pocket": {
+        "guaranty trust bank": 3,
+        "solyndra": 1,
+        "guaranty trust mortgage is an equal housing lender": 1
+    },
+    "BCP+Mobile+Marocco": {
+        "banco comercial portugu\u00eas": 2,
+        "banco de cr\u00e9dito de bolivia": 1
+    },
+    "CreditDuMaroc+APp": {
+        "apple inc.": 1,
+        "cdmrated 4+compatibility: requires ios\u00a06": 1,
+        "apple inc": 1
+    },
+    "Express+Union+Mobile": {
+        "all grown up!: express yourself": 1,
+        "up express": 1,
+        "&#169; metrolinx": 2
+    }
+}

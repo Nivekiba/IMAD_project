@@ -1,0 +1,349 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - thefreedictionary.com site:en.wikipedia.org",
+    "totalResults": "1560",
+    "searchTerms": "thefreedictionary.com site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - thefreedictionary.com site:en.wikipedia.org",
+    "totalResults": "1560",
+    "searchTerms": "thefreedictionary.com site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "Google"
+ },
+ "searchInformation": {
+  "searchTime": 0.626338,
+  "formattedSearchTime": "0.63",
+  "totalResults": "1560",
+  "formattedTotalResults": "1,560"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "TheFreeDictionary.com - Wikipedia",
+   "htmlTitle": "\u003cb\u003eTheFreeDictionary\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/TheFreeDictionary.com",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "TheFreeDictionary.com is an American online dictionary and encyclopedia that \ngathers information from a variety of sources.",
+   "htmlSnippet": "\u003cb\u003eTheFreeDictionary\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e is an American online dictionary and encyclopedia that \u003cbr\u003e\ngathers information from a variety of sources.",
+   "cacheId": "ORBPaP63FY0J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/TheFreeDictionary.com",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eTheFreeDictionary\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "TheFreeDictionary.com",
+      "url": "TheFreeDictionary.com",
+      "url_text": "TheFreeDictionary.com",
+      "bday": "2003-06-05",
+      "category": "Active"
+     },
+     {
+      "fn": "TheFreeLibrary.com",
+      "url": "TheFreeLibrary.com",
+      "url_text": "TheFreeLibrary.com",
+      "category": "Active"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "208",
+      "height": "243",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZMifawxEEndW6Ap3qCIj75ogcSf8TIMF1o1aG8cE44G6_pa7B4h2cjg4"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/7/7e/TheFreeDictionary.com_screenshot.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/7/7e/TheFreeDictionary.com_screenshot.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "File:TheFreeDictionary.com screenshot.jpg - Wikipedia",
+   "htmlTitle": "File:\u003cb\u003eTheFreeDictionary\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e screenshot.jpg - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/File:TheFreeDictionary.com_screenshot.jpg",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "TheFreeDictionary.com_screenshot.jpg   (292 × 341 pixels, file size: 33 KB, MIME \ntype: ... Description, Screenshot of the TheFreeDictionary.com homepage.",
+   "htmlSnippet": "TheFreeDictionary.com_screenshot.jpg   (292 × 341 pixels, file size: 33 KB, MIME \u003cbr\u003e\ntype: ... Description, Screenshot of the \u003cb\u003eTheFreeDictionary\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e homepage.",
+   "cacheId": "358-oYsfWOkJ",
+   "formattedUrl": "https://en.wikipedia.org/.../File:TheFreeDictionary.com_screenshot.jpg",
+   "htmlFormattedUrl": "https://en.wikipedia.org/.../File:\u003cb\u003eTheFreeDictionary\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e_screenshot.jpg",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "208",
+      "height": "243",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZMifawxEEndW6Ap3qCIj75ogcSf8TIMF1o1aG8cE44G6_pa7B4h2cjg4"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/7/7e/TheFreeDictionary.com_screenshot.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "File:TheFreeDictionary.png - Wikipedia",
+   "htmlTitle": "File:\u003cb\u003eTheFreeDictionary\u003c/b\u003e.png - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/File:TheFreeDictionary.png",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The image is placed in the infobox at the top of the article discussing \nTheFreeDictionary.com, a subject of public interest. The significance of the logo \nis to help ...",
+   "htmlSnippet": "The image is placed in the infobox at the top of the article discussing \u003cbr\u003e\n\u003cb\u003eTheFreeDictionary\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e, a subject of public interest. The significance of the logo \u003cbr\u003e\nis to help&nbsp;...",
+   "cacheId": "qYufd4uLlLMJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/File:TheFreeDictionary.png",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/File:\u003cb\u003eTheFreeDictionary\u003c/b\u003e.png",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "158",
+      "height": "52",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRoKWnI7aOxbIp80h-nm3fGO72pwpoVdnxy8MqtHN2lp8PXLDe3XiSgvg"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/4/40/TheFreeDictionary.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hess test - Wikipedia",
+   "htmlTitle": "Hess test - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Hess_test",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Hess test or Rumpel-Leede test is a medical test used to assess capillary \nfragility. It is also ... Jump up ^ Rumpel-Leede-Hess test, Gothlin's test at \nTheFreeDictionary.com; Jump up ^ Hess test at anaesthetist.com; Jump up ^ \nEddy TP (May ...",
+   "htmlSnippet": "The Hess test or Rumpel-Leede test is a medical test used to assess capillary \u003cbr\u003e\nfragility. It is also ... Jump up ^ Rumpel-Leede-Hess test, Gothlin&#39;s test at \u003cbr\u003e\n\u003cb\u003eTheFreeDictionary\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e; Jump up ^ Hess test at anaesthetist.com; Jump up ^ \u003cbr\u003e\nEddy TP (May&nbsp;...",
+   "cacheId": "Nv-_nFE9GF0J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Hess_test",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Hess_test",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hypersalivation - Wikipedia",
+   "htmlTitle": "Hypersalivation - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Hypersalivation",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Hypersalivation is excessive production of saliva. It has also been defined as \nincreased amount ... ISBN 0702027634. Jump up ^ [1]; Jump up ^ \nthefreedictionary.com \u003e water brash Citing: Dorland's Medical Dictionary for \nHealth Consumers.",
+   "htmlSnippet": "Hypersalivation is excessive production of saliva. It has also been defined as \u003cbr\u003e\nincreased amount ... ISBN 0702027634. Jump up ^ [1]; Jump up ^ \u003cbr\u003e\n\u003cb\u003ethefreedictionary\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e &gt; water brash Citing: Dorland&#39;s Medical Dictionary for \u003cbr\u003e\nHealth Consumers.",
+   "cacheId": "Nhbc0tX8egQJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Hypersalivation",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Hypersalivation",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Friedrich Hensing - Wikipedia",
+   "htmlTitle": "Friedrich Hensing - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Friedrich_Hensing",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Friedrich Wilhelm Hensing (17 April 1719 - 9 November 1745) born in Giessen, a \nGerman ... TheFreeDictionary.com. Jump up ^ \"Hensing ligament\". \nTheFreeDictionary.com. Jump up ^ Donald B. Tower: Hensing: Der erste \nHirnchemiker. Kurzfassung des ...",
+   "htmlSnippet": "Friedrich Wilhelm Hensing (17 April 1719 - 9 November 1745) born in Giessen, a \u003cbr\u003e\nGerman ... \u003cb\u003eTheFreeDictionary\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e. Jump up ^ &quot;Hensing ligament&quot;. \u003cbr\u003e\n\u003cb\u003eTheFreeDictionary\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e. Jump up ^ Donald B. Tower: Hensing: Der erste \u003cbr\u003e\nHirnchemiker. Kurzfassung des&nbsp;...",
+   "cacheId": "09IO2B2ZJyUJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Friedrich_Hensing",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Friedrich_Hensing",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Friedrich Wilhelm Hensing",
+      "bday": "1719-04-17",
+      "category": "Medicine ،Anatomy"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "86",
+      "height": "120",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwDsdwWAQ8ETBNMCpnV1i6mQs5UHji5ZY0AeYRTNuC6-9_dmpSnyFQ"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Friedrich_Wilhelm_Hensing_%281719-1745%29.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Friedrich_Wilhelm_Hensing_%281719-1745%29.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Capitulation (surrender) - Wikipedia",
+   "htmlTitle": "Capitulation (surrender) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Capitulation_(surrender)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Capitulation is an agreement in time of war for the surrender to a hostile armed \nforce of a ... Jump up ^ \"Capitulation financial definition of Capitulation. \nCapitulation finance term by the Free Online Dictionary\". Financial-dictionary.\nthefreedictionary.com.",
+   "htmlSnippet": "Capitulation is an agreement in time of war for the surrender to a hostile armed \u003cbr\u003e\nforce of a ... Jump up ^ &quot;Capitulation financial definition of Capitulation. \u003cbr\u003e\nCapitulation finance term by the Free Online Dictionary&quot;. Financial-dictionary.\u003cbr\u003e\n\u003cb\u003ethefreedictionary\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e.",
+   "cacheId": "Dg-t3C7tVSUJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Capitulation_(surrender)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Capitulation_(surrender)",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Periodontal charting - Wikipedia",
+   "htmlTitle": "Periodontal charting - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Periodontal_charting",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Periodontal charting refers to a chart utilized by a licensed dental care \nprofessional to write and ... Jump up ^ http://www.thefreedictionary.com/gingival; \nJump up ^ http://www.healthline.com/health/dental-and-periodontal-charting# ...",
+   "htmlSnippet": "Periodontal charting refers to a chart utilized by a licensed dental care \u003cbr\u003e\nprofessional to write and ... Jump up ^ http://www.\u003cb\u003ethefreedictionary\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e/gingival; \u003cbr\u003e\nJump up ^ http://www.healthline.com/health/dental-and-periodontal-charting#&nbsp;...",
+   "cacheId": "bhIL9CTfkcAJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Periodontal_charting",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Periodontal_charting",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "198",
+      "height": "254",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPduf4rv9CasduxQJfp9hRB35l_PtBlpovO-gqYzC0wzG3HaBIujDLnEk"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Periodontal_Health_-_Color.jpg/1200px-Periodontal_Health_-_Color.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Periodontal_Health_-_Color.jpg/1200px-Periodontal_Health_-_Color.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Great Soviet Encyclopedia - Wikipedia",
+   "htmlTitle": "Great Soviet Encyclopedia - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Great_Soviet_Encyclopedia",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Great Soviet Encyclopedia (GSE) is one of the largest Russian-language \nencyclopedias. .... translated into English; these are indicated in the index. \nArticles from the English edition are made available online by TheFreeDictionary.\ncom.",
+   "htmlSnippet": "The Great Soviet Encyclopedia (GSE) is one of the largest Russian-language \u003cbr\u003e\nencyclopedias. .... translated into English; these are indicated in the index. \u003cbr\u003e\nArticles from the English edition are made available online by \u003cb\u003eTheFreeDictionary\u003c/b\u003e.\u003cbr\u003e\n\u003cb\u003ecom\u003c/b\u003e.",
+   "cacheId": "9BA7c-8ORrsJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Great_Soviet_Encyclopedia",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Great_Soviet_Encyclopedia",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "196",
+      "height": "257",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP8yy44YB8mL5zKYR_So9FYUN3HfWcAKdvR65bo-1wyxIG1pDthp91XFA"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/6/67/GSE_3rd_edition_1st_volume_title.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/6/67/GSE_3rd_edition_1st_volume_title.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Thief (1952 film) - Wikipedia",
+   "htmlTitle": "The Thief (1952 film) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/The_Thief_(1952_film)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Thief is a 1952 American film noir crime film directed by Russell Rouse and \nstarring Ray .... Jump up ^ case officer, thefreedictionary.com, retrieved 27 April \n2014; Jump up ^ courier, thefreedictionary.com, retrieved 27 April 2014; Jump up\n ...",
+   "htmlSnippet": "The Thief is a 1952 American film noir crime film directed by Russell Rouse and \u003cbr\u003e\nstarring Ray .... Jump up ^ case officer, \u003cb\u003ethefreedictionary\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e, retrieved 27 April \u003cbr\u003e\n2014; Jump up ^ courier, \u003cb\u003ethefreedictionary\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e, retrieved 27 April 2014; Jump up\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "u2fT7X9H4JwJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/The_Thief_(1952_film)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/The_Thief_(1952_film)",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "183",
+      "height": "275",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRAG3rd8X1Qq5X5q0tJfwbT-5S-zAg-Tm8I_j6r18lxE_vi5trkUlxGNMNX"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/1/13/The_Thief_%281952_film%29_poster.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/1/13/The_Thief_%281952_film%29_poster.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

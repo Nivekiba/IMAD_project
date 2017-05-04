@@ -1,0 +1,124 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - uplandbeer.com site:en.wikipedia.org",
+    "totalResults": "3",
+    "searchTerms": "uplandbeer.com site:en.wikipedia.org",
+    "count": 3,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "Google"
+ },
+ "searchInformation": {
+  "searchTime": 0.408147,
+  "formattedSearchTime": "0.41",
+  "totalResults": "3",
+  "formattedTotalResults": "3"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Upland Brewing Company - Wikipedia",
+   "htmlTitle": "Upland Brewing Company - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Upland_Brewing_Company",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Upland Brewing Company, founded in 1997, is a brewery in Bloomington, \nMonroe County, Indiana. It is currently the second largest brewery in Indiana and \nas of ...",
+   "htmlSnippet": "Upland Brewing Company, founded in 1997, is a brewery in Bloomington, \u003cbr\u003e\nMonroe County, Indiana. It is currently the second largest brewery in Indiana and \u003cbr\u003e\nas of&nbsp;...",
+   "cacheId": "zmqIzIVg7y4J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Upland_Brewing_Company",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Upland_Brewing_Company",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Upland Brewing Company",
+      "label": "Bloomington, Indiana United States",
+      "category": "Alcoholic beverage"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Boys' Club (Parks and Recreation) - Wikipedia",
+   "htmlTitle": "Boys&#39; Club (Parks and Recreation) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Boys%27_Club_(Parks_and_Recreation)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "\"Boys' Club\" is the fourth episode of the first season of the American comedy \ntelevision series ..... Jump up ^ \"Upland beer makes it on national TV\".",
+   "htmlSnippet": "&quot;Boys&#39; Club&quot; is the fourth episode of the first season of the American comedy \u003cbr\u003e\ntelevision series ..... Jump up ^ &quot;\u003cb\u003eUpland beer\u003c/b\u003e makes it on national TV&quot;.",
+   "cacheId": "GSRxeUwJkk8J",
+   "formattedUrl": "https://en.wikipedia.org/.../Boys%27_Club_(Parks_and_Recreation)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/.../Boys%27_Club_(Parks_and_Recreation)",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "263",
+      "height": "191",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ8ojb9mqfX7_l-ARqb-p10uM5jeRb6nWOK8Tz9D6SlZ3MEwMB1SD3MarA"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/c/c5/Parks_and_recreation_boys_club.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/c/c5/Parks_and_recreation_boys_club.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Parks and Recreation (season 1) - Wikipedia",
+   "htmlTitle": "Parks and Recreation (season 1) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Parks_and_Recreation_(season_1)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The first season of Parks and Recreation originally aired in the United States on \nthe NBC ...... Jump up ^ \"Upland beer makes it on national TV\". The Herald-Times\n.",
+   "htmlSnippet": "The first season of Parks and Recreation originally aired in the United States on \u003cbr\u003e\nthe NBC ...... Jump up ^ &quot;\u003cb\u003eUpland beer\u003c/b\u003e makes it on national TV&quot;. The Herald-Times\u003cbr\u003e\n.",
+   "cacheId": "OWNaTpL-atAJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Parks_and_Recreation_(season_1)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Parks_and_Recreation_(season_1)",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "189",
+      "height": "267",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQKdGOjhnbxa0XRAacH2k_xr298o8eG43IJS-CftYnDD9vJ6tWxGtmp0iOA"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/5/55/Parks_and_recreation_season_1_dvd_cover.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/5/55/Parks_and_recreation_season_1_dvd_cover.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

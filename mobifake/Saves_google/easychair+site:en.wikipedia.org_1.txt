@@ -1,0 +1,374 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - easychair site:en.wikipedia.org",
+    "totalResults": "276",
+    "searchTerms": "easychair site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - easychair site:en.wikipedia.org",
+    "totalResults": "276",
+    "searchTerms": "easychair site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "Google"
+ },
+ "searchInformation": {
+  "searchTime": 0.465742,
+  "formattedSearchTime": "0.47",
+  "totalResults": "276",
+  "formattedTotalResults": "276"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "EasyChair - Wikipedia",
+   "htmlTitle": "\u003cb\u003eEasyChair\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/EasyChair",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "EasyChair is a free web-based conference management software system used, \namong other tasks, to organise paper submission and review. EasyChair is ...",
+   "htmlSnippet": "\u003cb\u003eEasyChair\u003c/b\u003e is a free web-based conference management software system used, \u003cbr\u003e\namong other tasks, to organise paper submission and review. \u003cb\u003eEasyChair\u003c/b\u003e is&nbsp;...",
+   "cacheId": "vyJ-q75ZDOoJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/EasyChair",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eEasyChair\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Jeff Simmons (musician) - Wikipedia",
+   "htmlTitle": "Jeff Simmons (musician) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Jeff_Simmons_(musician)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Jeff Simmons is an American rock musician best known as a former member of \nFrank Zappa's ... During the sound check Easy Chair was discovered by Zappa, \nwho recognized that the group's style was compatible with his own. The group ...",
+   "htmlSnippet": "Jeff Simmons is an American rock musician best known as a former member of \u003cbr\u003e\nFrank Zappa&#39;s ... During the sound check \u003cb\u003eEasy Chair\u003c/b\u003e was discovered by Zappa, \u003cbr\u003e\nwho recognized that the group&#39;s style was compatible with his own. The group&nbsp;...",
+   "cacheId": "LizxCHjIQcIJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Jeff_Simmons_(musician)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Jeff_Simmons_(musician)",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Jeff Simmons",
+      "note": "Bass, guitar, vocals, harmonica"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "File:New England easy chair.jpg - Wikimedia Commons",
+   "htmlTitle": "File:New England \u003cb\u003eeasy chair\u003c/b\u003e.jpg - Wikimedia Commons",
+   "link": "https://en.wikipedia.org/wiki/File:New_England_easy_chair.jpg",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "English: A New England easy chair at the Winterthur Museum and Estate in \nDelaware. According to a nearby plaque, this chair \"had lost its original \nfoundation ...",
+   "htmlSnippet": "English: A New England \u003cb\u003eeasy chair\u003c/b\u003e at the Winterthur Museum and Estate in \u003cbr\u003e\nDelaware. According to a nearby plaque, this chair &quot;had lost its original \u003cbr\u003e\nfoundation&nbsp;...",
+   "cacheId": "oYvjqLdPNb0J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/File:New_England_easy_chair.jpg",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/File:New_England_\u003cb\u003eeasy_chair\u003c/b\u003e.jpg",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "201",
+      "height": "251",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHQHaqnJ4R56fzCfyBUCb8W5XZyBQ4EkyyXKklVwXq2OPrBTNmgoTF9LDt"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/New_England_easy_chair.jpg/479px-New_England_easy_chair.jpg"
+     }
+    ],
+    "hproduct": [
+     {
+      "fn": "New England easy chair.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Barcalounger - Wikipedia",
+   "htmlTitle": "Barcalounger - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Barcalounger",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A Barcalounger is a type of recliner made in the United States of America. It was \nintroduced by the Barcalo Manufacturing Company of Buffalo, New York, which ...",
+   "htmlSnippet": "A Barcalounger is a type of recliner made in the United States of America. It was \u003cbr\u003e\nintroduced by the Barcalo Manufacturing Company of Buffalo, New York, which&nbsp;...",
+   "cacheId": "zX6Bgi2bGn8J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Barcalounger",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Barcalounger",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "224",
+      "height": "225",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrLXNQiuq0TeMynLadaVycmp3Qx9H_iCeHLn-ldzweWdp0nGZu5cRbbX2R"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Barcalounger%2C_vintage_-_01.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/11/Barcalounger%2C_vintage_-_01.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Bernard DeVoto - Wikipedia",
+   "htmlTitle": "Bernard DeVoto - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Bernard_DeVoto",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Bernard Augustine DeVoto (January 11, 1897 – November 13, 1955) was an \nAmerican ... This led to a regular Harper's column, \"The Easy Chair,\" which \nDeVoto wrote from 1935 until his death. DeVoto became an authority on Mark \nTwain and ...",
+   "htmlSnippet": "Bernard Augustine DeVoto (January 11, 1897 – November 13, 1955) was an \u003cbr\u003e\nAmerican ... This led to a regular Harper&#39;s column, &quot;The \u003cb\u003eEasy Chair\u003c/b\u003e,&quot; which \u003cbr\u003e\nDeVoto wrote from 1935 until his death. DeVoto became an authority on Mark \u003cbr\u003e\nTwain and&nbsp;...",
+   "cacheId": "OygGjMz99gEJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Bernard_DeVoto",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bernard_DeVoto",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Bernard DeVoto",
+      "bday": "1897-01-11",
+      "role": "Writer",
+      "category": "American"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "208",
+      "height": "240",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTxVHjIzDbJuLGQxoQgCOh6O2E8C5kuIsBk6fRnN049A49ljWpPgQ1RI6c"
+     }
+    ],
+    "person": [
+     {
+      "role": "Writer"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/5/5a/Bernard_DeVoto.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/5/5a/Bernard_DeVoto.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "File:Ron Arad - The Big Easy chair in chrome steel.jpg - Wikimedia ...",
+   "htmlTitle": "File:Ron Arad - The Big \u003cb\u003eEasy chair\u003c/b\u003e in chrome steel.jpg - Wikimedia ...",
+   "link": "https://en.wikipedia.org/wiki/File:Ron_Arad_-_The_Big_Easy_chair_in_chrome_steel.jpg",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Apr 6, 2015 ... English: The Big Easy chair by Moroso, exceptionally produced in chrome steel \nrather than polyethylene. Date, 1991 (original design) / 2010 ...",
+   "htmlSnippet": "Apr 6, 2015 \u003cb\u003e...\u003c/b\u003e English: The Big \u003cb\u003eEasy chair\u003c/b\u003e by Moroso, exceptionally produced in chrome steel \u003cbr\u003e\nrather than polyethylene. Date, 1991 (original design) / 2010&nbsp;...",
+   "cacheId": "8cOFzxk1W-IJ",
+   "formattedUrl": "https://en.wikipedia.org/.../File:Ron_Arad_-_The_Big_Easy_chair_in_ chrome_steel.jpg",
+   "htmlFormattedUrl": "https://en.wikipedia.org/.../File:Ron_Arad_-_The_Big_\u003cb\u003eEasy_chair\u003c/b\u003e_in_ chrome_steel.jpg",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "245",
+      "height": "206",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZDqiGdVUkLVSuZahwE2_au_59iOJEKlhjX7xqLHIpQNwDkBfKHn5l2Fwh"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Ron_Arad_-_The_Big_Easy_chair_in_chrome_steel.jpg/712px-Ron_Arad_-_The_Big_Easy_chair_in_chrome_steel.jpg"
+     }
+    ],
+    "hproduct": [
+     {
+      "fn": "Ron Arad"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "File:Fernande in easy chair from French postcard.jpg - Wikimedia ...",
+   "htmlTitle": "File:Fernande in \u003cb\u003eeasy chair\u003c/b\u003e from French postcard.jpg - Wikimedia ...",
+   "link": "https://en.wikipedia.org/wiki/File:Fernande_in_easy_chair_from_French_postcard.jpg",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Jan 1, 2017 ... File:Fernande in easy chair from French postcard.jpg. Size of this preview: 394 × \n599 pixels. Other resolutions: 158 × 240 pixels | 507 × 771 ...",
+   "htmlSnippet": "Jan 1, 2017 \u003cb\u003e...\u003c/b\u003e File:Fernande in \u003cb\u003eeasy chair\u003c/b\u003e from French postcard.jpg. Size of this preview: 394 × \u003cbr\u003e\n599 pixels. Other resolutions: 158 × 240 pixels | 507 × 771&nbsp;...",
+   "cacheId": "4Bwk3zeO3oMJ",
+   "formattedUrl": "https://en.wikipedia.org/.../File:Fernande_in_easy_chair_from_French_ postcard.jpg",
+   "htmlFormattedUrl": "https://en.wikipedia.org/.../File:Fernande_in_\u003cb\u003eeasy_chair\u003c/b\u003e_from_French_ postcard.jpg",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Jean Agélou",
+      "uid": "10145030"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "182",
+      "height": "277",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLH9CYhJujKskgN3df_bQgzXOiOTJ7iZRrGAu999pC2PRSKqCE6BMrs-_r"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Fernande_in_easy_chair_from_French_postcard.jpg/394px-Fernande_in_easy_chair_from_French_postcard.jpg"
+     }
+    ],
+    "hproduct": [
+     {
+      "fn": "Fernande in easy chair from French postcard.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "File:Hans Wegner - Sawhorse Easy Chair.jpg - Wikimedia Commons",
+   "htmlTitle": "File:Hans Wegner - Sawhorse \u003cb\u003eEasy Chair\u003c/b\u003e.jpg - Wikimedia Commons",
+   "link": "https://en.wikipedia.org/wiki/File:Hans_Wegner_-_Sawhorse_Easy_Chair.jpg",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Sep 1, 2016 ... This image was originally posted to Flickr by drz image at http://flickr.com/photos/\n40679698@N00/4933261516. It was reviewed on 30 ...",
+   "htmlSnippet": "Sep 1, 2016 \u003cb\u003e...\u003c/b\u003e This image was originally posted to Flickr by drz image at http://flickr.com/photos/\u003cbr\u003e\n40679698@N00/4933261516. It was reviewed on 30&nbsp;...",
+   "cacheId": "I-pwWUOZ4h4J",
+   "formattedUrl": "https://en.wikipedia.org/.../File:Hans_Wegner_-_Sawhorse_Easy_Chair.jpg",
+   "htmlFormattedUrl": "https://en.wikipedia.org/.../File:Hans_Wegner_-_Sawhorse_\u003cb\u003eEasy_Chair\u003c/b\u003e.jpg",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTE2etsax6KiNWgrT0JD4oW7cVnyu6-Ej3VsMak_rA1p7oKdBmTi6t1qg9Z"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Hans_Wegner_-_Sawhorse_Easy_Chair.jpg/800px-Hans_Wegner_-_Sawhorse_Easy_Chair.jpg"
+     }
+    ],
+    "hproduct": [
+     {
+      "fn": "Hans Wegner - Sawhorse Easy Chair.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "File:Easy chair, probably Boston, Massachusetts, 1760-1780 ...",
+   "htmlTitle": "File:\u003cb\u003eEasy chair\u003c/b\u003e, probably Boston, Massachusetts, 1760-1780 ...",
+   "link": "https://en.wikipedia.org/wiki/File:Easy_chair,_probably_Boston,_Massachusetts,_1760-1780,_mahogany,_soft_maple,_reproduction_wool_upholstery_-_Winterthur_Museum_-_DSC01384.JPG",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Nov 22, 2016 ... File:Easy chair, probably Boston, Massachusetts, 1760-1780, mahogany, soft \nmaple, reproduction wool upholstery - Winterthur Museum ...",
+   "htmlSnippet": "Nov 22, 2016 \u003cb\u003e...\u003c/b\u003e File:\u003cb\u003eEasy chair\u003c/b\u003e, probably Boston, Massachusetts, 1760-1780, mahogany, soft \u003cbr\u003e\nmaple, reproduction wool upholstery - Winterthur Museum&nbsp;...",
+   "cacheId": "p1hEue1RLi4J",
+   "formattedUrl": "https://en.wikipedia.org/.../File:Easy_chair,_probably_Boston,_Massachusetts ,_1760-1780,_mahogany,_soft_maple,_reproduction_wool_upholst...",
+   "htmlFormattedUrl": "https://en.wikipedia.org/.../File:\u003cb\u003eEasy_chair\u003c/b\u003e,_probably_Boston,_Massachusetts ,_1760-1780,_mahogany,_soft_maple,_reproduction_wool_upholst...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "186",
+      "height": "271",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Bg2U1BhjbH1jSfm0SKDwolqoozPbRBZ-QUb6yYdp9P04nHlRcqiXLvA"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Easy_chair%2C_probably_Boston%2C_Massachusetts%2C_1760-1780%2C_mahogany%2C_soft_maple%2C_reproduction_wool_upholstery_-_Winterthur_Museum_-_DSC01384.JPG/411px-Easy_chair%2C_probably_Boston%2C_Massachusetts%2C_1760-1780%2C_mahogany%2C_soft_maple%2C_reproduction_wool_upholstery_-_Winterthur_Museum_-_DSC01384.JPG"
+     }
+    ],
+    "hproduct": [
+     {
+      "fn": "Easy chair, probably Boston, Massachusetts, 1760-1780, mahogany, soft maple, reproduction wool upholstery - Winterthur Museum - DSC01384.JPG"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Submission management system - Wikipedia",
+   "htmlTitle": "Submission management system - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Submission_management_system",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A submission management system is a software system, also known as \nsubmission processing, .... EasyChair: A conference management system similar \nto EDAS; Wonference: Full conference and event management system with \nsubmission ...",
+   "htmlSnippet": "A submission management system is a software system, also known as \u003cbr\u003e\nsubmission processing, .... \u003cb\u003eEasyChair\u003c/b\u003e: A conference management system similar \u003cbr\u003e\nto EDAS; Wonference: Full conference and event management system with \u003cbr\u003e\nsubmission&nbsp;...",
+   "cacheId": "L_WssKdp578J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Submission_management_system",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Submission_management_system",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  }
+ ]
+}

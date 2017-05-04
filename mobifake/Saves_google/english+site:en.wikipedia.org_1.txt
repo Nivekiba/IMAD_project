@@ -1,0 +1,325 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - english site:en.wikipedia.org",
+    "totalResults": "3760000",
+    "searchTerms": "english site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - english site:en.wikipedia.org",
+    "totalResults": "3760000",
+    "searchTerms": "english site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "Google"
+ },
+ "searchInformation": {
+  "searchTime": 0.486042,
+  "formattedSearchTime": "0.49",
+  "totalResults": "3760000",
+  "formattedTotalResults": "3,760,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "English language - Wikipedia",
+   "htmlTitle": "\u003cb\u003eEnglish\u003c/b\u003e language - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/English_language",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "English Listen/ˈɪŋɡlɪʃ/ is a West Germanic language that was first spoken in \nearly medieval England and is now the global lingua franca. Named after the ...",
+   "htmlSnippet": "\u003cb\u003eEnglish\u003c/b\u003e Listen/ˈɪŋɡlɪʃ/ is a West Germanic language that was first spoken in \u003cbr\u003e\nearly medieval England and is now the global lingua franca. Named after the&nbsp;...",
+   "cacheId": "aOGMss_hFNkJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/English_language",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eEnglish\u003c/b\u003e_language",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "315",
+      "height": "160",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBr_eLwA2ieiGVwFmIR3k8YP8X1c8Ih-JLBu6aCttIsz63mlymUaPLp2E"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Anglospeak.svg/1200px-Anglospeak.svg.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Anglospeak.svg/1200px-Anglospeak.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "English people - Wikipedia",
+   "htmlTitle": "\u003cb\u003eEnglish\u003c/b\u003e people - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/English_people",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The English are a nation and an ethnic group native to England, who speak the \nEnglish language. The English identity is of early medieval origin, when they ...",
+   "htmlSnippet": "The \u003cb\u003eEnglish\u003c/b\u003e are a nation and an ethnic group native to England, who speak the \u003cbr\u003e\n\u003cb\u003eEnglish\u003c/b\u003e language. The \u003cb\u003eEnglish\u003c/b\u003e identity is of early medieval origin, when they&nbsp;...",
+   "cacheId": "ZzlAbfN1ey4J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/English_people",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eEnglish\u003c/b\u003e_people",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "English people"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "English - Wikipedia",
+   "htmlTitle": "\u003cb\u003eEnglish\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/English",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "English may refer to: Something of, from, or related to the country of England · \nEnglish people, an ethnic group of people native to England; English national ...",
+   "htmlSnippet": "\u003cb\u003eEnglish\u003c/b\u003e may refer to: Something of, from, or related to the country of England &middot; \u003cbr\u003e\n\u003cb\u003eEnglish\u003c/b\u003e people, an ethnic group of people native to England; \u003cb\u003eEnglish\u003c/b\u003e national&nbsp;...",
+   "cacheId": "oo0uBs14SDoJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/English",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eEnglish\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "England - Wikipedia",
+   "htmlTitle": "England - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/England",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Location of England (dark green). – in Europe (green & dark grey) – in the United \nKingdom .... The name \"England\" is derived from the Old English name \nEnglaland, which means \"land of the Angles\". The Angles were one of the \nGermanic tribes ...",
+   "htmlSnippet": "Location of England (dark green). – in Europe (green &amp; dark grey) – in the United \u003cbr\u003e\nKingdom .... The name &quot;England&quot; is derived from the Old \u003cb\u003eEnglish\u003c/b\u003e name \u003cbr\u003e\nEnglaland, which means &quot;land of the Angles&quot;. The Angles were one of the \u003cbr\u003e\nGermanic tribes&nbsp;...",
+   "cacheId": "xa6qzfDpPGUJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/England",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/England",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "England"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "290",
+      "height": "174",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzhPAigDN_n44ZudAc2zCKy5Rpl9gnCQIMDmzy4bjuXLgn-swV4HUZehLy"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/1200px-Flag_of_England.svg.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/1200px-Flag_of_England.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Old English - Wikipedia",
+   "htmlTitle": "Old \u003cb\u003eEnglish\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Old_English",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Old English (Ænglisc, Anglisc, Englisc) or Anglo-Saxon is the earliest historical \nform of the English language, spoken in England and southern and eastern ...",
+   "htmlSnippet": "Old \u003cb\u003eEnglish\u003c/b\u003e (Ænglisc, Anglisc, Englisc) or Anglo-Saxon is the earliest historical \u003cbr\u003e\nform of the \u003cb\u003eEnglish\u003c/b\u003e language, spoken in England and southern and eastern&nbsp;...",
+   "cacheId": "0SFXuQKqh7IJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Old_English",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Old_\u003cb\u003eEnglish\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "221",
+      "height": "228",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuPr4P1biY95aXuVQZ4tJtfOGTnUZDWiOdeENMYU7e17Yzh3qR8R60vAY"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Germanic_dialects_ca._AD_1.png/300px-Germanic_dialects_ca._AD_1.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wikipedia, the free encyclopedia",
+   "htmlTitle": "Wikipedia, the free encyclopedia",
+   "link": "https://en.wikipedia.org/",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "... that anyone can edit. 5,396,977 articles in English .... Local embassy – For \nWikipedia-related communication in languages other than English. Reference \ndesk ...",
+   "htmlSnippet": "... that anyone can edit. 5,396,977 articles in \u003cb\u003eEnglish\u003c/b\u003e .... Local embassy – For \u003cbr\u003e\nWikipedia-related communication in languages other than \u003cb\u003eEnglish\u003c/b\u003e. Reference \u003cbr\u003e\ndesk&nbsp;...",
+   "cacheId": "ufpcFac5klYJ",
+   "formattedUrl": "https://en.wikipedia.org/",
+   "htmlFormattedUrl": "https://en.wikipedia.org/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "200",
+      "height": "100",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSUBaqJn-CqurWiRTx8t-SY8-t5uCeFfnLcAs6zSAy0-r0F2m7cs8L3qA"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Gokayama_suganuma_%28cropped%29.JPG"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2017_London_Marathon_-_Elite_Women_%26_Men_winners_%28cropped%29.jpg/200px-2017_London_Marathon_-_Elite_Women_%26_Men_winners_%28cropped%29.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "American English - Wikipedia",
+   "htmlTitle": "American \u003cb\u003eEnglish\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/American_English",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "American English sometimes called United States English or U.S. English, is the \nset of varieties of the English language native to the United States and widely ...",
+   "htmlSnippet": "American \u003cb\u003eEnglish\u003c/b\u003e sometimes called United States \u003cb\u003eEnglish\u003c/b\u003e or U.S. \u003cb\u003eEnglish\u003c/b\u003e, is the \u003cbr\u003e\nset of varieties of the \u003cb\u003eEnglish\u003c/b\u003e language native to the United States and widely&nbsp;...",
+   "cacheId": "gK5WvlP7ZmEJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/American_English",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/American_\u003cb\u003eEnglish\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "286",
+      "height": "176",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTXykiPTUBJw0nMGcOTaE_bJX3qwvVNzKkKMGuUGFzX7tDygpxY1M3v2tU"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/English_USC2000_PHS.svg/1200px-English_USC2000_PHS.svg.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/English_USC2000_PHS.svg/1200px-English_USC2000_PHS.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Middle English - Wikipedia",
+   "htmlTitle": "Middle \u003cb\u003eEnglish\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Middle_English",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Middle English (ME) is collectively the varieties of the English language spoken \nafter the Norman Conquest (1066) until the late 15th century; scholarly opinion ...",
+   "htmlSnippet": "Middle \u003cb\u003eEnglish\u003c/b\u003e (ME) is collectively the varieties of the \u003cb\u003eEnglish\u003c/b\u003e language spoken \u003cbr\u003e\nafter the Norman Conquest (1066) until the late 15th century; scholarly opinion&nbsp;...",
+   "cacheId": "-Pa3uUT_ZNgJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Middle_English",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Middle_\u003cb\u003eEnglish\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "189",
+      "height": "267",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ918oAN28LscSEjJ9IZHIGBYnJffKk_riim1U9h4AP9zOM1_VfBO4bK4t8"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Chaucer-canterburytales-miller.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Chaucer-canterburytales-miller.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "British English - Wikipedia",
+   "htmlTitle": "British \u003cb\u003eEnglish\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/British_English",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "British English is the English language as spoken and written in the United \nKingdom or, more broadly, throughout the British Isles. Slight regional variations \nexist ...",
+   "htmlSnippet": "British \u003cb\u003eEnglish\u003c/b\u003e is the \u003cb\u003eEnglish\u003c/b\u003e language as spoken and written in the United \u003cbr\u003e\nKingdom or, more broadly, throughout the British Isles. Slight regional variations \u003cbr\u003e\nexist&nbsp;...",
+   "cacheId": "__rIpaMPuVAJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/British_English",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/British_\u003cb\u003eEnglish\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "English studies - Wikipedia",
+   "htmlTitle": "\u003cb\u003eEnglish\u003c/b\u003e studies - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/English_studies",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "English studies is an academic discipline that includes the study of literatures \nwritten in the English language (including literatures from the United Kingdom, \nthe ...",
+   "htmlSnippet": "\u003cb\u003eEnglish\u003c/b\u003e studies is an academic discipline that includes the study of literatures \u003cbr\u003e\nwritten in the \u003cb\u003eEnglish\u003c/b\u003e language (including literatures from the United Kingdom, \u003cbr\u003e\nthe&nbsp;...",
+   "cacheId": "Zd37bV6_iq0J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/English_studies",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eEnglish\u003c/b\u003e_studies",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  }
+ ]
+}

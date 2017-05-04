@@ -1,0 +1,364 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - free site:en.wikipedia.org",
+    "totalResults": "3780000",
+    "searchTerms": "free site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - free site:en.wikipedia.org",
+    "totalResults": "3780000",
+    "searchTerms": "free site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "Google"
+ },
+ "searchInformation": {
+  "searchTime": 0.435857,
+  "formattedSearchTime": "0.44",
+  "totalResults": "3780000",
+  "formattedTotalResults": "3,780,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Free (band) - Wikipedia",
+   "htmlTitle": "\u003cb\u003eFree\u003c/b\u003e (band) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Free_(band)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Free were an English rock band formed in London in 1968, best known for their \n1970 signature song \"All Right Now\". They disbanded in 1973 and lead singer ...",
+   "htmlSnippet": "\u003cb\u003eFree\u003c/b\u003e were an English rock band formed in London in 1968, best known for their \u003cbr\u003e\n1970 signature song &quot;All Right Now&quot;. They disbanded in 1973 and lead singer&nbsp;...",
+   "cacheId": "HPYmwTTW3tsJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Free_(band)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eFree\u003c/b\u003e_(band)",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Free",
+      "url": "freetheband.co.uk",
+      "url_text": "freetheband.co.uk",
+      "bday": "1968"
+     },
+     {
+      "fn": "Free"
+     },
+     {
+      "fn": "Bad Company"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "235",
+      "height": "215",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR6_uOSWbks9X83E-LNz1cn_smJBPPgCFS1ll-6pcxw3NLn2XbWCCrUngHF"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/4/44/Freeband.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/4/44/Freeband.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Free software - Wikipedia",
+   "htmlTitle": "\u003cb\u003eFree\u003c/b\u003e software - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Free_software",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Free software, freedom-respecting software, or software libre is computer \nsoftware distributed under terms that allow the software users to run the software \nfor ...",
+   "htmlSnippet": "\u003cb\u003eFree\u003c/b\u003e software, freedom-respecting software, or software libre is computer \u003cbr\u003e\nsoftware distributed under terms that allow the software users to run the software \u003cbr\u003e\nfor&nbsp;...",
+   "cacheId": "7v-7TEO-L8gJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Free_software",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eFree\u003c/b\u003e_software",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Free will - Wikipedia",
+   "htmlTitle": "\u003cb\u003eFree\u003c/b\u003e will - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Free_will",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Free will is the ability to choose between different possible courses of action. It is \nclosely linked to the concepts of responsibility, praise, guilt, sin, and other ...",
+   "htmlSnippet": "\u003cb\u003eFree\u003c/b\u003e will is the ability to choose between different possible courses of action. It is \u003cbr\u003e\nclosely linked to the concepts of responsibility, praise, guilt, sin, and other&nbsp;...",
+   "cacheId": "HMF8m2mX7yEJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Free_will",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eFree\u003c/b\u003e_will",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "239",
+      "height": "211",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNOOlnZwJaQ-b-hIaETd3JZvI6aYoBEe63aNyi4bsqsdCiQPTGWudTnQJy"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Rage-and-anger-fresco.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/02/Rage-and-anger-fresco.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Free! (anime) - Wikipedia",
+   "htmlTitle": "\u003cb\u003eFree\u003c/b\u003e! (anime) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Free!_(anime)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Free! is a Japanese anime television series directed by Hiroko Utsumi and \nproduced by Kyoto Animation and Animation Do. The anime is based on the light\n ...",
+   "htmlSnippet": "\u003cb\u003eFree\u003c/b\u003e! is a Japanese anime television series directed by Hiroko Utsumi and \u003cbr\u003e\nproduced by Kyoto Animation and Animation Do. The anime is based on the light\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "qvbk0vUoT6kJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Free!_(anime)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eFree\u003c/b\u003e!_(anime)",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "183",
+      "height": "275",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPeQaDDNMWJszcuiXtqh4hu0cYHvBNCKHzVEH6cP6vM76th3XnGvdjs70"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/9/9b/Free%21_promotional_image_1.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/9/9b/Free%21_promotional_image_1.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Free Software Foundation - Wikipedia",
+   "htmlTitle": "\u003cb\u003eFree\u003c/b\u003e Software Foundation - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Free_Software_Foundation",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Free Software Foundation (FSF) is a 501(c)(3) non-profit organization \nfounded by Richard Stallman on 4 October 1985 to support the free software ...",
+   "htmlSnippet": "The \u003cb\u003eFree\u003c/b\u003e Software Foundation (FSF) is a 501(c)(3) non-profit organization \u003cbr\u003e\nfounded by Richard Stallman on 4 October 1985 to support the \u003cb\u003efree\u003c/b\u003e software&nbsp;...",
+   "cacheId": "Q-tA0IaXghUJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Free_Software_Foundation",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eFree\u003c/b\u003e_Software_Foundation",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Free Software Foundation",
+      "nickname": "FSF",
+      "url": "www.fsf.org",
+      "url_text": "www.fsf.org",
+      "bday": "1985-10-04",
+      "note": "Free Software, Free Society"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "free - Wiktionary",
+   "htmlTitle": "\u003cb\u003efree\u003c/b\u003e - Wiktionary",
+   "link": "https://en.wikipedia.org/wiki/Wikt%3Afree",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "From Middle English free, fre, freo, from Old English frēo (“free”), from Proto-\nGermanic *frijaz (“beloved, not in bondage”), from Proto-Indo-European *preyH- ...",
+   "htmlSnippet": "From Middle English \u003cb\u003efree\u003c/b\u003e, fre, freo, from Old English frēo (“\u003cb\u003efree\u003c/b\u003e”), from Proto-\u003cbr\u003e\nGermanic *frijaz (“beloved, not in bondage”), from Proto-Indo-European *preyH-&nbsp;...",
+   "cacheId": "rZ__HzJ-02UJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Wikt%3Afree",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wikt%3A\u003cb\u003efree\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "132",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNPnRlJvqjHuxYrENYLtDKn8ur3UDGn9ucEYJua5yurL9V6ES_wtGmLFFX"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Free_Beer.jpg/220px-Free_Beer.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Free and open-source software - Wikipedia",
+   "htmlTitle": "\u003cb\u003eFree\u003c/b\u003e and open-source software - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Free_and_open-source_software",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Free and open-source software (FOSS) is computer software that can be \nclassified as both free software and open-source software. That is, anyone is \nfreely ...",
+   "htmlSnippet": "\u003cb\u003eFree\u003c/b\u003e and open-source software (FOSS) is computer software that can be \u003cbr\u003e\nclassified as both \u003cb\u003efree\u003c/b\u003e software and open-source software. That is, anyone is \u003cbr\u003e\nfreely&nbsp;...",
+   "cacheId": "X44q4BK8KYwJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Free_and_open-source_software",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eFree\u003c/b\u003e_and_open-source_software",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "300",
+      "height": "168",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGCebNQLi9RcEc-cyAVIFEGjNIr2_Lm_ieWMB6xhQrBjqaUMbWvct-yXzG"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Desktop-Linux-Mint.png/1200px-Desktop-Linux-Mint.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Desktop-Linux-Mint.png/1200px-Desktop-Linux-Mint.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Free market - Wikipedia",
+   "htmlTitle": "\u003cb\u003eFree\u003c/b\u003e market - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Free_market",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "One view is that a free market is a system in which the prices for goods and \nservices are determined by the open market and consumers, in which the laws \nand ...",
+   "htmlSnippet": "One view is that a \u003cb\u003efree\u003c/b\u003e market is a system in which the prices for goods and \u003cbr\u003e\nservices are determined by the open market and consumers, in which the laws \u003cbr\u003e\nand&nbsp;...",
+   "cacheId": "Ubgds0HjndEJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Free_market",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eFree\u003c/b\u003e_market",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "76",
+      "height": "65",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgHOlCsHLplPI2ZPx10vy2cZ4piy4V_W38iMiX3Te-ssKxSxSB-5y23w"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Economic_template.svg/80px-Economic_template.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Gratis versus libre - Wikipedia",
+   "htmlTitle": "Gratis versus libre - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Gratis_versus_libre",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The English adjective free is commonly used in one of two meanings: \"for zero \nprice\" (gratis) and \"with little or no restriction\" (libre). This ambiguity of free can ...",
+   "htmlSnippet": "The English adjective \u003cb\u003efree\u003c/b\u003e is commonly used in one of two meanings: &quot;for zero \u003cbr\u003e\nprice&quot; (gratis) and &quot;with little or no restriction&quot; (libre). This ambiguity of \u003cb\u003efree\u003c/b\u003e can&nbsp;...",
+   "cacheId": "uEDyMD0imO8J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Gratis_versus_libre",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Gratis_versus_libre",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "246",
+      "height": "205",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQm7eWsDx7vokJzOBgPe-VjrOdb4OiUk0KGTdqciVMd4juYjEMcVWy0ed0"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Isummit_2008%2C_Japan%2C_free_beer_crop.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Isummit_2008%2C_Japan%2C_free_beer_crop.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Free content - Wikipedia",
+   "htmlTitle": "\u003cb\u003eFree\u003c/b\u003e content - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Free_content",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Free content, libre content, or free information, is any kind of functional work, work \nof art, or other creative content that meets the definition of a free cultural work.",
+   "htmlSnippet": "\u003cb\u003eFree\u003c/b\u003e content, libre content, or \u003cb\u003efree\u003c/b\u003e information, is any kind of functional work, work \u003cbr\u003e\nof art, or other creative content that meets the definition of a \u003cb\u003efree\u003c/b\u003e cultural work.",
+   "cacheId": "1dzZBt7pSoAJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Free_content",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eFree\u003c/b\u003e_content",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "224",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaMUpjJtbnKLHe8WCG4fx7w3ZP-Ng3BMLOc4C995IvESMbZSpYHm3N54E"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Definition_of_Free_Cultural_Works_logo_notext.svg/1200px-Definition_of_Free_Cultural_Works_logo_notext.svg.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Definition_of_Free_Cultural_Works_logo_notext.svg/1200px-Definition_of_Free_Cultural_Works_logo_notext.svg.png"
+     }
+    ]
+   }
+  }
+ ]
+}

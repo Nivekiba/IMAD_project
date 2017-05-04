@@ -1,0 +1,315 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - hard site:en.wikipedia.org",
+    "totalResults": "456000",
+    "searchTerms": "hard site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - hard site:en.wikipedia.org",
+    "totalResults": "456000",
+    "searchTerms": "hard site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "Google"
+ },
+ "searchInformation": {
+  "searchTime": 0.731282,
+  "formattedSearchTime": "0.73",
+  "totalResults": "456000",
+  "formattedTotalResults": "456,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Hard disk drive - Wikipedia",
+   "htmlTitle": "\u003cb\u003eHard\u003c/b\u003e disk drive - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Hard_disk_drive",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A hard disk drive (HDD), hard disk, hard drive or fixed disk is a data storage \ndevice that uses magnetic storage to store and retrieve digital information using \none ...",
+   "htmlSnippet": "A \u003cb\u003ehard\u003c/b\u003e disk drive (HDD), \u003cb\u003ehard\u003c/b\u003e disk, \u003cb\u003ehard\u003c/b\u003e drive or fixed disk is a data storage \u003cbr\u003e\ndevice that uses magnetic storage to store and retrieve digital information using \u003cbr\u003e\none&nbsp;...",
+   "cacheId": "YA57ZQsIsZIJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Hard_disk_drive",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eHard\u003c/b\u003e_disk_drive",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "257",
+      "height": "196",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6k9S19aen0N1rpAt6QL-jh7fVFR3CPpeiChSFPkwg36g6DSijpEJ-b9I"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Laptop-hard-drive-exposed.jpg/1200px-Laptop-hard-drive-exposed.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Laptop-hard-drive-exposed.jpg/1200px-Laptop-hard-drive-exposed.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hard link - Wikipedia",
+   "htmlTitle": "\u003cb\u003eHard\u003c/b\u003e link - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Hard_link",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "In computing, a hard link is a directory entry that associates a name with a file on \na file system. All directory-based file systems must have (at least) one hard link ...",
+   "htmlSnippet": "In computing, a \u003cb\u003ehard\u003c/b\u003e link is a directory entry that associates a name with a file on \u003cbr\u003e\na file system. All directory-based file systems must have (at least) one \u003cb\u003ehard\u003c/b\u003e link&nbsp;...",
+   "cacheId": "X4Gu0MDwx2IJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Hard_link",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eHard\u003c/b\u003e_link",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "267",
+      "height": "189",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQn-C0UQNbHKDAu9gjl4ks1ac2DZ_bAKvZyNZ-8HegFAdG1BbYp8iG5xj0"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Simplified_illustration_of_hard_links_on_typical_UN%2AX_filesystem.png/480px-Simplified_illustration_of_hard_links_on_typical_UN%2AX_filesystem.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hard science fiction - Wikipedia",
+   "htmlTitle": "\u003cb\u003eHard\u003c/b\u003e science fiction - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Hard_science_fiction",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Hard science fiction is a category of science fiction characterized by an emphasis \non scientific accuracy. The term was first used in print in 1957 by P. Schuyler ...",
+   "htmlSnippet": "\u003cb\u003eHard\u003c/b\u003e science fiction is a category of science fiction characterized by an emphasis \u003cbr\u003e\non scientific accuracy. The term was first used in print in 1957 by P. Schuyler&nbsp;...",
+   "cacheId": "8epv7WhLkqAJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Hard_science_fiction",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eHard\u003c/b\u003e_science_fiction",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDEd6a13vc6PkbWtVEkCNCtxq6xeYp1puRvOPNX_zvrmsY0pMXi_B2AYY"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Clarke_sm.jpg/1200px-Clarke_sm.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Clarke_sm.jpg/1200px-Clarke_sm.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Die Hard (film series) - Wikipedia",
+   "htmlTitle": "Die \u003cb\u003eHard\u003c/b\u003e (film series) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Die_Hard_(film_series)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Die Hard series is an American action film series that began in 1988 with Die \nHard, based on the 1979 novel Nothing Lasts Forever by Roderick Thorp.",
+   "htmlSnippet": "The Die \u003cb\u003eHard\u003c/b\u003e series is an American action film series that began in 1988 with Die \u003cbr\u003e\n\u003cb\u003eHard\u003c/b\u003e, based on the 1979 novel Nothing Lasts Forever by Roderick Thorp.",
+   "cacheId": "lSIIUuKLJCkJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Die_Hard_(film_series)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Die_\u003cb\u003eHard\u003c/b\u003e_(film_series)",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hard water - Wikipedia",
+   "htmlTitle": "\u003cb\u003eHard\u003c/b\u003e water - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Hard_water",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Hard water is water that has high mineral content Hard water is formed when \nwater percolates through deposits of limestone and chalk which are largely made\n ...",
+   "htmlSnippet": "\u003cb\u003eHard\u003c/b\u003e water is water that has high mineral content \u003cb\u003eHard\u003c/b\u003e water is formed when \u003cbr\u003e\nwater percolates through deposits of limestone and chalk which are largely made\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "o282is8BLBkJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Hard_water",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eHard\u003c/b\u003e_water",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRE7AqDMkV_Puf7UecFmpc_9ki0VvnBFZ8w5rEPWCKl2O73FYttpEGLPuM"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hard_Water_Calcification.jpg/1200px-Hard_Water_Calcification.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hard_Water_Calcification.jpg/1200px-Hard_Water_Calcification.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NP-hardness - Wikipedia",
+   "htmlTitle": "NP-hardness - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/NP-hardness",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "NP-hardness in computational complexity theory, is the defining property of a \nclass of problems that are, informally, \"at least as hard as the hardest problems in\n ...",
+   "htmlSnippet": "NP-hardness in computational complexity theory, is the defining property of a \u003cbr\u003e\nclass of problems that are, informally, &quot;at least as \u003cb\u003ehard\u003c/b\u003e as the hardest problems in\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "BfuNf0uVrXkJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/NP-hardness",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/NP-\u003cb\u003ehard\u003c/b\u003eness",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "284",
+      "height": "177",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDi1UfjbNARP0qWO-J70Mx9UXAA3CTwr9dUzi9ajAhHAlUecwzBYO46PVr"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/P_np_np-complete_np-hard.svg/1200px-P_np_np-complete_np-hard.svg.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/P_np_np-complete_np-hard.svg/1200px-P_np_np-complete_np-hard.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "hard - Wiktionary",
+   "htmlTitle": "\u003cb\u003ehard\u003c/b\u003e - Wiktionary",
+   "link": "https://en.wikipedia.org/wiki/Wiktionary:hard",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "From Middle English hard, from Old English heard (“hard”), from Proto-Germanic \n*harduz, from Proto-Indo-European *kert-, *kret- (“strong; powerful”). Cognate ...",
+   "htmlSnippet": "From Middle English \u003cb\u003ehard\u003c/b\u003e, from Old English heard (“\u003cb\u003ehard\u003c/b\u003e”), from Proto-Germanic \u003cbr\u003e\n*harduz, from Proto-Indo-European *kert-, *kret- (“strong; powerful”). Cognate&nbsp;...",
+   "cacheId": "cMZvFe2HuXIJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Wiktionary:hard",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wiktionary:\u003cb\u003ehard\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hard - Wikipedia",
+   "htmlTitle": "\u003cb\u003eHard\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Hard",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Hard or hardness may refer to: Hardness, resistance of physical materials to \ndeformation or fracture; Hard (surname) · Hard (nautical), a beach or slope ...",
+   "htmlSnippet": "\u003cb\u003eHard\u003c/b\u003e or hardness may refer to: Hardness, resistance of physical materials to \u003cbr\u003e\ndeformation or fracture; \u003cb\u003eHard\u003c/b\u003e (surname) &middot; \u003cb\u003eHard\u003c/b\u003e (nautical), a beach or slope&nbsp;...",
+   "cacheId": "ZlJkAOUexY4J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Hard",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eHard\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Die Hard - Wikipedia",
+   "htmlTitle": "Die \u003cb\u003eHard\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Die_Hard",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Die Hard is a 1988 American action film directed by John McTiernan and written \nby Steven E. de Souza and Jeb Stuart. It follows off-duty New York City Police ...",
+   "htmlSnippet": "Die \u003cb\u003eHard\u003c/b\u003e is a 1988 American action film directed by John McTiernan and written \u003cbr\u003e\nby Steven E. de Souza and Jeb Stuart. It follows off-duty New York City Police&nbsp;...",
+   "cacheId": "nbCbMAc5QBIJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Die_Hard",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Die_\u003cb\u003eHard\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "179",
+      "height": "281",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0gf4B4HuDNy3ELMcLIISUOInON4B1BztyHozHxJMV6wUFPRLZ9XlnsW7N"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/7/7e/Die_hard.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/7/7e/Die_hard.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hard bop - Wikipedia",
+   "htmlTitle": "\u003cb\u003eHard\u003c/b\u003e bop - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Hard_bop",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Hard bop is a subgenre of jazz that is an extension of bebop (or \"bop\") music. \nJournalists and record companies began using the term in the mid-1950s to ...",
+   "htmlSnippet": "\u003cb\u003eHard\u003c/b\u003e bop is a subgenre of jazz that is an extension of bebop (or &quot;bop&quot;) music. \u003cbr\u003e\nJournalists and record companies began using the term in the mid-1950s to&nbsp;...",
+   "cacheId": "HLBJ3uEIDQwJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Hard_bop",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eHard\u003c/b\u003e_bop",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  }
+ ]
+}

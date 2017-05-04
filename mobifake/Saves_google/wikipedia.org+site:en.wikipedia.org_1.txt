@@ -1,0 +1,427 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - wikipedia.org site:en.wikipedia.org",
+    "totalResults": "3780000",
+    "searchTerms": "wikipedia.org site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - wikipedia.org site:en.wikipedia.org",
+    "totalResults": "3780000",
+    "searchTerms": "wikipedia.org site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "Google"
+ },
+ "searchInformation": {
+  "searchTime": 0.730029,
+  "formattedSearchTime": "0.73",
+  "totalResults": "3780000",
+  "formattedTotalResults": "3,780,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eWikipedia\u003c/b\u003e, the free encyclopedia",
+   "link": "https://en.wikipedia.org/",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A free encyclopedia built collaboratively using wiki software. (Creative Commons \nAttribution-ShareAlike License).",
+   "htmlSnippet": "A free encyclopedia built collaboratively using \u003cb\u003ewiki\u003c/b\u003e software. (Creative Commons \u003cbr\u003e\nAttribution-ShareAlike License).",
+   "cacheId": "ufpcFac5klYJ",
+   "formattedUrl": "https://en.wikipedia.org/",
+   "htmlFormattedUrl": "https://en.\u003cb\u003ewikipedia\u003c/b\u003e.\u003cb\u003eorg\u003c/b\u003e/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWJWEiI5aCHthFrWjhdnPRcQG0E4KZHo5ygGF-N7-sVtWe4Bqwrg4dt8E"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Erica_Flannes_tattoo-Nevertheless.jpg/1200px-Erica_Flannes_tattoo-Nevertheless.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Erica_Flannes_tattoo-Nevertheless.jpg/1200px-Erica_Flannes_tattoo-Nevertheless.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wikipedia - Wikipedia",
+   "htmlTitle": "\u003cb\u003eWikipedia\u003c/b\u003e - \u003cb\u003eWikipedia\u003c/b\u003e",
+   "link": "https://en.wikipedia.org/wiki/Wikipedia",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Wikipedia is a free online encyclopedia with the aim to allow anyone to edit \narticles. Wikipedia .... Wales to announce that Wikipedia would not display \nadvertisements, and to change Wikipedia's domain from wikipedia.com to \nwikipedia.org.",
+   "htmlSnippet": "Wikipedia is a free online encyclopedia with the aim to allow anyone to edit \u003cbr\u003e\narticles. Wikipedia .... Wales to announce that Wikipedia would not display \u003cbr\u003e\nadvertisements, and to change Wikipedia&#39;s domain from wikipedia.com to \u003cbr\u003e\n\u003cb\u003ewikipedia\u003c/b\u003e.\u003cb\u003eorg\u003c/b\u003e.",
+   "cacheId": "xzLRoGhvtVgJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Wikipedia",
+   "htmlFormattedUrl": "https://en.\u003cb\u003ewikipedia\u003c/b\u003e.\u003cb\u003eorg\u003c/b\u003e/\u003cb\u003ewiki\u003c/b\u003e/\u003cb\u003eWikipedia\u003c/b\u003e",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Wikipedia",
+      "url": "wikipedia.org",
+      "url_text": "wikipedia.org",
+      "bday": "2001-01-15",
+      "category": "Active"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "235",
+      "height": "214",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-kvaMEFtoyy7sUlUqoE38UNbrT_Zko9mC7FZ2T16Eisa_1XVchYzWTzCV"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/1200px-Wikipedia-logo-v2.svg.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/1200px-Wikipedia-logo-v2.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": ".org - Wikipedia",
+   "htmlTitle": ".\u003cb\u003eorg\u003c/b\u003e - \u003cb\u003eWikipedia\u003c/b\u003e",
+   "link": "https://en.wikipedia.org/wiki/.org",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The domain name org is a generic top-level domain (gTLD) of the Domain Name \nSystem (DNS) used in the Internet. The name is truncated from organization.",
+   "htmlSnippet": "The domain name \u003cb\u003eorg\u003c/b\u003e is a generic top-level domain (gTLD) of the Domain Name \u003cbr\u003e\nSystem (DNS) used in the Internet. The name is truncated from organization.",
+   "cacheId": "Xp7A178ZFAAJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/.org",
+   "htmlFormattedUrl": "https://en.\u003cb\u003ewikipedia\u003c/b\u003e.\u003cb\u003eorg\u003c/b\u003e/\u003cb\u003ewiki\u003c/b\u003e/.\u003cb\u003eorg\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "372",
+      "height": "135",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx78TQ-MzEfRwn5vipwzJRR5P3fxKTVbxVdt6b1gIix7GzNNiNBZEkAbbb"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/c/c6/DOT_ORG_%28ORG_Marketing_Resources_logo%29.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/c/c6/DOT_ORG_%28ORG_Marketing_Resources_logo%29.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Apollo 11 - Wikipedia",
+   "htmlTitle": "Apollo 11 - \u003cb\u003eWikipedia\u003c/b\u003e",
+   "link": "https://en.wikipedia.org/wiki/Apollo_11",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Apollo 11 was the spaceflight that landed the first two humans on the Moon. \nMission ... Apollo 11. From Wikipedia, the free encyclopedia ...... OpenCongress.\norg.",
+   "htmlSnippet": "Apollo 11 was the spaceflight that landed the first two humans on the Moon. \u003cbr\u003e\nMission ... Apollo 11. From Wikipedia, the free encyclopedia ...... OpenCongress.\u003cbr\u003e\n\u003cb\u003eorg\u003c/b\u003e.",
+   "cacheId": "ZykrV_OlrPEJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Apollo_11",
+   "htmlFormattedUrl": "https://en.\u003cb\u003ewikipedia\u003c/b\u003e.\u003cb\u003eorg\u003c/b\u003e/\u003cb\u003ewiki\u003c/b\u003e/Apollo_11",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Apollo 11 splashdown"
+     },
+     {
+      "fn": "Apollo 11 splashdown"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "258",
+      "height": "196",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTG1OMsZGA2LfVEtk0iRb6fEF97Pv0TOAJ-TFuTOaAKH4k8bPSPLSdSGgl4"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Apollo_11_first_step.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Apollo_11_first_step.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "HTTP cookie - Wikipedia",
+   "htmlTitle": "HTTP cookie - \u003cb\u003eWikipedia\u003c/b\u003e",
+   "link": "https://en.wikipedia.org/wiki/HTTP_cookie",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "An HTTP cookie is a small piece of data sent from a website and stored on the \nuser's computer .... As an example, suppose a user visits www.example.org .",
+   "htmlSnippet": "An HTTP cookie is a small piece of data sent from a website and stored on the \u003cbr\u003e\nuser&#39;s computer .... As an example, suppose a user visits www.example.\u003cb\u003eorg\u003c/b\u003e .",
+   "cacheId": "WRy1Vq4iyDEJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/HTTP_cookie",
+   "htmlFormattedUrl": "https://en.\u003cb\u003ewikipedia\u003c/b\u003e.\u003cb\u003eorg\u003c/b\u003e/\u003cb\u003ewiki\u003c/b\u003e/HTTP_cookie",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Bitcoin - Wikipedia",
+   "htmlTitle": "Bitcoin - \u003cb\u003eWikipedia\u003c/b\u003e",
+   "link": "https://en.wikipedia.org/wiki/Bitcoin",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Bitcoin is a cryptocurrency and an electronic payment system :3 invented by an \nunidentified ..... Bitcoin paper wallet generated at bitaddress.org. Trezor \nhardware ...",
+   "htmlSnippet": "Bitcoin is a cryptocurrency and an electronic payment system \u003csup\u003e:3\u003c/sup\u003e invented by an \u003cbr\u003e\nunidentified ..... Bitcoin paper wallet generated at bitaddress.\u003cb\u003eorg\u003c/b\u003e. Trezor \u003cbr\u003e\nhardware&nbsp;...",
+   "cacheId": "imK8dl9rZMMJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Bitcoin",
+   "htmlFormattedUrl": "https://en.\u003cb\u003ewikipedia\u003c/b\u003e.\u003cb\u003eorg\u003c/b\u003e/\u003cb\u003ewiki\u003c/b\u003e/Bitcoin",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Muhammad Ali - Wikipedia",
+   "htmlTitle": "Muhammad Ali - \u003cb\u003eWikipedia\u003c/b\u003e",
+   "link": "https://en.wikipedia.org/wiki/Muhammad_Ali",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Muhammad Ali was an American professional boxer and activist. He is widely \nregarded as one of the most significant and celebrated sports figures of the 20th ...",
+   "htmlSnippet": "Muhammad Ali was an American professional boxer and activist. He is widely \u003cbr\u003e\nregarded as one of the most significant and celebrated sports figures of the 20th&nbsp;...",
+   "cacheId": "OXkoRws5SnEJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Muhammad_Ali",
+   "htmlFormattedUrl": "https://en.\u003cb\u003ewikipedia\u003c/b\u003e.\u003cb\u003eorg\u003c/b\u003e/\u003cb\u003ewiki\u003c/b\u003e/Muhammad_Ali",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Muhammad Ali",
+      "nickname": "Cassius Marcellus Clay Jr.",
+      "url": "muhammadali.com",
+      "url_text": "muhammadali.com",
+      "bday": "1942-01-17",
+      "label": "Cave Hill Cemetery, Louisville, Kentucky, U.S.",
+      "category": "Conviction overturned[3]"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "201",
+      "height": "251",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcD-P6bO5yEsfCNxHHVqbR6_zjcCJdlP2cwjSF-7ALWb1mmZhOrP_jXs0c"
+     }
+    ],
+    "person": [
+     {
+      "location": "United States"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Muhammad_Ali_NYWTS.jpg/1200px-Muhammad_Ali_NYWTS.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Muhammad_Ali_NYWTS.jpg/1200px-Muhammad_Ali_NYWTS.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Vladimir Putin - Wikipedia",
+   "htmlTitle": "Vladimir Putin - \u003cb\u003eWikipedia\u003c/b\u003e",
+   "link": "https://en.wikipedia.org/wiki/Vladimir_Putin",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Vladimir Vladimirovich Putin is a Russian politician. Putin is the current President \nof the Russian Federation, holding the office since 7 May 2012. He was Prime ...",
+   "htmlSnippet": "Vladimir Vladimirovich Putin is a Russian politician. Putin is the current President \u003cbr\u003e\nof the Russian Federation, holding the office since 7 May 2012. He was Prime&nbsp;...",
+   "cacheId": "31fDIBOoZJoJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Vladimir_Putin",
+   "htmlFormattedUrl": "https://en.\u003cb\u003ewikipedia\u003c/b\u003e.\u003cb\u003eorg\u003c/b\u003e/\u003cb\u003ewiki\u003c/b\u003e/Vladimir_Putin",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Vladimir Putin Владимир Путин",
+      "nickname": "Vladimir Vladimirovich Putin",
+      "url": "Official website",
+      "url_text": "Official website",
+      "bday": "1952-10-07",
+      "label": "Novo-Ogaryovo, Moscow, Russia"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "183",
+      "height": "275",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSIHV9sC26-2_PcUv-2mRjrq4PFtlIS7T8ajAkv6_c3KRRdA7hWiT4G-qk"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Putin_with_flag_of_Russia.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/86/Putin_with_flag_of_Russia.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Donald Trump - Wikipedia",
+   "htmlTitle": "Donald Trump - \u003cb\u003eWikipedia\u003c/b\u003e",
+   "link": "https://en.wikipedia.org/wiki/Donald_Trump",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Donald John Trump (born June 14, 1946) is the 45th and current President of the \nUnited States. Before entering politics he was a businessman and television ...",
+   "htmlSnippet": "Donald John Trump (born June 14, 1946) is the 45th and current President of the \u003cbr\u003e\nUnited States. Before entering politics he was a businessman and television&nbsp;...",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Donald_Trump",
+   "htmlFormattedUrl": "https://en.\u003cb\u003ewikipedia\u003c/b\u003e.\u003cb\u003eorg\u003c/b\u003e/\u003cb\u003ewiki\u003c/b\u003e/Donald_Trump",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Donald Trump",
+      "nickname": "Donald John Trump",
+      "url": "White House website",
+      "url_text": "White House website",
+      "bday": "1946-06-14",
+      "label": "White House"
+     },
+     {
+      "fn": "Donald Trump"
+     },
+     {
+      "fn": "Donald Trump"
+     },
+     {
+      "fn": "Ted Cruz"
+     },
+     {
+      "fn": "Marco Rubio"
+     },
+     {
+      "fn": "John Kasich"
+     },
+     {
+      "fn": "Donald Trump"
+     },
+     {
+      "fn": "Hillary Clinton"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "201",
+      "height": "251",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbKyW6GiSG7E_vayS2gi-NhOxe1xxOanqbQcVSB3w_Oc-kQSR1S6sI8xlm"
+     }
+    ],
+    "person": [
+     {
+      "org": "Republican"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1200px-Donald_Trump_official_portrait.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1200px-Donald_Trump_official_portrait.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Albert Einstein - Wikipedia",
+   "htmlTitle": "Albert Einstein - \u003cb\u003eWikipedia\u003c/b\u003e",
+   "link": "https://en.wikipedia.org/wiki/Albert_Einstein",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Albert Einstein was a German-born theoretical physicist. He developed the theory \nof relativity, one of the two pillars of modern physics (alongside quantum ...",
+   "htmlSnippet": "Albert Einstein was a German-born theoretical physicist. He developed the theory \u003cbr\u003e\nof relativity, one of the two pillars of modern physics (alongside quantum&nbsp;...",
+   "cacheId": "5dQyVgUHuFkJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Albert_Einstein",
+   "htmlFormattedUrl": "https://en.\u003cb\u003ewikipedia\u003c/b\u003e.\u003cb\u003eorg\u003c/b\u003e/\u003cb\u003ewiki\u003c/b\u003e/Albert_Einstein",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Albert Einstein",
+      "bday": "1879-03-14",
+      "category": "Physics, philosophy"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "196",
+      "height": "257",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTx4vl4vMnQ-3N0azSk2m43JfVkhXrtMAvW2sHp_L1Zefg6jpvo_DkhPAMt"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg/1200px-Einstein_1921_by_F_Schmutzer_-_restoration.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg/1200px-Einstein_1921_by_F_Schmutzer_-_restoration.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,333 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - ikea.com site:en.wikipedia.org",
+    "totalResults": "3000",
+    "searchTerms": "ikea.com site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - ikea.com site:en.wikipedia.org",
+    "totalResults": "3000",
+    "searchTerms": "ikea.com site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "Google"
+ },
+ "searchInformation": {
+  "searchTime": 0.323582,
+  "formattedSearchTime": "0.32",
+  "totalResults": "3000",
+  "formattedTotalResults": "3,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "IKEA - Wikipedia",
+   "htmlTitle": "\u003cb\u003eIKEA\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/IKEA",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "IKEA is a multinational group, headquartered in the Netherlands, that designs \nand sells ... billion (2016). Owner. Stichting INGKA Foundation; Inter IKEA Group. \nNumber of employees. 183,000 (2016). Website. www.ikea.com · www.inter.ikea.\ncom ...",
+   "htmlSnippet": "IKEA is a multinational group, headquartered in the Netherlands, that designs \u003cbr\u003e\nand sells ... billion (2016). Owner. Stichting INGKA Foundation; Inter IKEA Group. \u003cbr\u003e\nNumber of employees. 183,000 (2016). Website. www.ikea.com &middot; www.inter.ikea.\u003cbr\u003e\ncom&nbsp;...",
+   "cacheId": "nwZw-TBoc6cJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/IKEA",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eIKEA\u003c/b\u003e",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "IKEA",
+      "url": "www.ikea.com",
+      "url_text": "www.ikea.com",
+      "bday": "1943",
+      "label": "Delft,[3] Netherlands",
+      "category": "Private"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "375",
+      "height": "134",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcReZ-9Y-Wewv-66yp47vN4kwtT5BhWwgzDyVy2PLgxTgwxdj5r2qnnfo6Q"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Ikea_logo.svg/1200px-Ikea_logo.svg.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Ikea_logo.svg/1200px-Ikea_logo.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of countries with IKEA stores - Wikipedia",
+   "htmlTitle": "List of countries with \u003cb\u003eIKEA\u003c/b\u003e stores - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/List_of_countries_with_IKEA_stores",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "IKEA is a multinational group of companies that designs and sells ready-to-\nassemble furniture ...... \"$125m Ikea store to open in Bahrain by mid-2018 | \nConstructionWeekOnline.com\". www.constructionweekonline.com. Retrieved \n2016-11-13.",
+   "htmlSnippet": "\u003cb\u003eIKEA\u003c/b\u003e is a multinational group of companies that designs and sells ready-to-\u003cbr\u003e\nassemble furniture ...... &quot;$125m \u003cb\u003eIkea\u003c/b\u003e store to open in Bahrain by mid-2018 | \u003cbr\u003e\nConstructionWeekOnline.\u003cb\u003ecom\u003c/b\u003e&quot;. www.constructionweekonline.\u003cb\u003ecom\u003c/b\u003e. Retrieved \u003cbr\u003e\n2016-11-13.",
+   "cacheId": "8yU4-GULTM4J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/List_of_countries_with_IKEA_stores",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/List_of_countries_with_\u003cb\u003eIKEA\u003c/b\u003e_stores",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "File:2015 IKEA Catalogue.jpg - Wikipedia",
+   "htmlTitle": "File:2015 \u003cb\u003eIKEA\u003c/b\u003e Catalogue.jpg - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/File:2015_IKEA_Catalogue.jpg",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Description, Front cover of the 2015 IKEA catalogue - Australia (WA& SA) edition. \n... |Source = http://onlinecatalogueasia.ikea.com/AA/en/IKEA_Catalogue/ |Date ...",
+   "htmlSnippet": "Description, Front cover of the 2015 IKEA catalogue - Australia (WA&amp; SA) edition. \u003cbr\u003e\n... |Source = http://onlinecatalogueasia.\u003cb\u003eikea\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e/AA/en/IKEA_Catalogue/ |Date&nbsp;...",
+   "cacheId": "2mvzot9xLuIJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/File:2015_IKEA_Catalogue.jpg",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/File:2015_\u003cb\u003eIKEA\u003c/b\u003e_Catalogue.jpg",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "217",
+      "height": "232",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbnvA3IZNaCYaIBeY72SazbeK68GWHQglIq62D_tKie0i6SuroQqnBqqU"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/7/71/2015_IKEA_Catalogue.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "IKEA Catalogue - Wikipedia",
+   "htmlTitle": "\u003cb\u003eIKEA\u003c/b\u003e Catalogue - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/IKEA_Catalogue",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The IKEA Catalogue is a catalogue published annually by the Swedish home \nfurnishing retailer .... Jump up ^ http://onlinecatalogueasia.ikea.com/AU/en/\nIKEA_Catalogue/; Jump up ^ http://onlinecatalogue.ikea.com/BG/bg/\nIKEA_Catalogue/ ...",
+   "htmlSnippet": "The IKEA Catalogue is a catalogue published annually by the Swedish home \u003cbr\u003e\nfurnishing retailer .... Jump up ^ http://onlinecatalogueasia.\u003cb\u003eikea\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e/AU/en/\u003cbr\u003e\nIKEA_Catalogue/; Jump up ^ http://onlinecatalogue.\u003cb\u003eikea\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e/BG/bg/\u003cbr\u003e\nIKEA_Catalogue/&nbsp;...",
+   "cacheId": "f2ZbGoU_lgcJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/IKEA_Catalogue",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eIKEA\u003c/b\u003e_Catalogue",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "217",
+      "height": "232",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbnvA3IZNaCYaIBeY72SazbeK68GWHQglIq62D_tKie0i6SuroQqnBqqU"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/7/71/2015_IKEA_Catalogue.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/7/71/2015_IKEA_Catalogue.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "IKEA pencil - Wikipedia",
+   "htmlTitle": "\u003cb\u003eIKEA\u003c/b\u003e pencil - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/IKEA_pencil",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "IKEA pencils are small pencils provided for free in IKEA stores worldwide. They \nare found in ... Ikea.com. Retrieved 2017-01-03. Jump up ^ \"Mini potlood (IKEA \nmaat)\". benito.nl. Archived from the original on 2014-10-06. ^ Jump up to: Cross,\n ...",
+   "htmlSnippet": "IKEA pencils are small pencils provided for free in IKEA stores worldwide. They \u003cbr\u003e\nare found in ... \u003cb\u003eIkea\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e. Retrieved 2017-01-03. Jump up ^ &quot;Mini potlood (IKEA \u003cbr\u003e\nmaat)&quot;. benito.nl. Archived from the original on 2014-10-06. ^ Jump up to: Cross,\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "5zZjgVgqOZ8J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/IKEA_pencil",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eIKEA\u003c/b\u003e_pencil",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "298",
+      "height": "169",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQC5lxeUGqcnkv6h9yZ3GXeQ9BSkom6TlJH3aVVqWBREoMFFnUVCplI4Mk"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/IKEA-Bleistifte.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e5/IKEA-Bleistifte.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Lamp (advertisement) - Wikipedia",
+   "htmlTitle": "Lamp (advertisement) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Lamp_(advertisement)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Official website, http://www.ikea.com/. Lamp is a television and cinema \nadvertisement released in September 2002 to promote the ...",
+   "htmlSnippet": "Official website, http://www.\u003cb\u003eikea\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e/. Lamp is a television and cinema \u003cbr\u003e\nadvertisement released in September 2002 to promote the&nbsp;...",
+   "cacheId": "4Q89oYJRPmYJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Lamp_(advertisement)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Lamp_(advertisement)",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHqmsJKZOwY0U4-Pb-L8VBsF6S61wjPYJAbMeRSyR0UeJihC_rOE11swUW"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/f/fa/Lampframe.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/f/fa/Lampframe.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Stichting INGKA Foundation - Wikipedia",
+   "htmlTitle": "Stichting INGKA Foundation - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Stichting_INGKA_Foundation",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Flowchart showing the structure and ownership of IKEA companies. The chart is \ninverted, showing parent companies at the bottom. The Stichting INGKA \nFoundation is a Dutch foundation founded in 1982 by Ingvar Kamprad, ... http://\nwww.ikea.com/ms/en_IE/pdf/Welcome_Inside_2010.pdf · Top 10 Wealthiest \nCharitable ...",
+   "htmlSnippet": "Flowchart showing the structure and ownership of IKEA companies. The chart is \u003cbr\u003e\ninverted, showing parent companies at the bottom. The Stichting INGKA \u003cbr\u003e\nFoundation is a Dutch foundation founded in 1982 by Ingvar Kamprad, ... http://\u003cbr\u003e\nwww.\u003cb\u003eikea\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e/ms/en_IE/pdf/Welcome_Inside_2010.pdf &middot; Top 10 Wealthiest \u003cbr\u003e\nCharitable&nbsp;...",
+   "cacheId": "vCk3-aV5KEwJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Stichting_INGKA_Foundation",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Stichting_INGKA_Foundation",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "227",
+      "height": "222",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRyVTn5r57Bj0pGjFhGKjpcSkKYr8proS9KgROwOfeYOnn7grDBq1lS-E8"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/IKEA_corporate_structure.svg/1200px-IKEA_corporate_structure.svg.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/IKEA_corporate_structure.svg/1200px-IKEA_corporate_structure.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "European Retail Round Table - Wikipedia",
+   "htmlTitle": "European Retail Round Table - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/European_Retail_Round_Table",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The European Retail Round Table is a European organisation which represents \ncompanies ... Carrefour.com. Retrieved 2012-02-14. Jump up ^ \"Welcome to \nIKEA.com\". IKEA. Retrieved 2012-02-14. Jump up ^ \"Kingfisher plc\". Kingfisher.\ncom.",
+   "htmlSnippet": "The European Retail Round Table is a European organisation which represents \u003cbr\u003e\ncompanies ... Carrefour.com. Retrieved 2012-02-14. Jump up ^ &quot;Welcome to \u003cbr\u003e\n\u003cb\u003eIKEA\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e&quot;. IKEA. Retrieved 2012-02-14. Jump up ^ &quot;Kingfisher plc&quot;. Kingfisher.\u003cbr\u003e\ncom.",
+   "cacheId": "wXd6tYpleX4J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/European_Retail_Round_Table",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/European_Retail_Round_Table",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "European Retail Round Table",
+      "url": "www.errt.org",
+      "url_text": "www.errt.org",
+      "label": "Brussels, Belgium"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mikael Ohlsson - Wikipedia",
+   "htmlTitle": "Mikael Ohlsson - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Mikael_Ohlsson",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Mikael Ohlsson is the former president of the Swedish furniture store chain, IKEA. \nOhlsson has ... Jump up ^ http://www.ikea.com/ms/fr_FR/about_ikea/press_room/\npress_release/international/mo.html, Ikea; Jump up ^ \"Bio Box: Ikea CEO and ...",
+   "htmlSnippet": "Mikael Ohlsson is the former president of the Swedish furniture store chain, IKEA. \u003cbr\u003e\nOhlsson has ... Jump up ^ http://www.\u003cb\u003eikea\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e/ms/fr_FR/about_ikea/press_room/\u003cbr\u003e\npress_release/international/mo.html, Ikea; Jump up ^ &quot;Bio Box: Ikea CEO and&nbsp;...",
+   "cacheId": "jlulTg3Q7K4J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Mikael_Ohlsson",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Mikael_Ohlsson",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Economy of St. Louis - Wikipedia",
+   "htmlTitle": "Economy of St. Louis - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Economy_of_St._Louis",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The economy of St. Louis, Missouri has a diversified variety of sectors, both \nhistorically and ... The Swedish furniture retailer IKEA, opened a 21 acres (8.5 \nhectares) complex in the Central West End including a 380,000 square feet ... \nIKEA.com.",
+   "htmlSnippet": "The economy of St. Louis, Missouri has a diversified variety of sectors, both \u003cbr\u003e\nhistorically and ... The Swedish furniture retailer IKEA, opened a 21 acres (8.5 \u003cbr\u003e\nhectares) complex in the Central West End including a 380,000 square feet ... \u003cbr\u003e\n\u003cb\u003eIKEA\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e.",
+   "cacheId": "lUcuPJPXJqAJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Economy_of_St._Louis",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Economy_of_St._Louis",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  }
+ ]
+}

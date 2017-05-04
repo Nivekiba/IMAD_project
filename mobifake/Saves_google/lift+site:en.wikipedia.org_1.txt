@@ -1,0 +1,332 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - lift site:en.wikipedia.org",
+    "totalResults": "52200",
+    "searchTerms": "lift site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - lift site:en.wikipedia.org",
+    "totalResults": "52200",
+    "searchTerms": "lift site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "Google"
+ },
+ "searchInformation": {
+  "searchTime": 0.336782,
+  "formattedSearchTime": "0.34",
+  "totalResults": "52200",
+  "formattedTotalResults": "52,200"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Lift (force) - Wikipedia",
+   "htmlTitle": "\u003cb\u003eLift\u003c/b\u003e (force) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Lift_(force)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A fluid flowing past the surface of a body exerts a force on it. Lift is the component \nof this force that is perpendicular to the oncoming flow direction. It contrasts ...",
+   "htmlSnippet": "A fluid flowing past the surface of a body exerts a force on it. \u003cb\u003eLift\u003c/b\u003e is the component \u003cbr\u003e\nof this force that is perpendicular to the oncoming flow direction. It contrasts&nbsp;...",
+   "cacheId": "PzY1HFPq6S0J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Lift_(force)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eLift\u003c/b\u003e_(force)",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "284",
+      "height": "178",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoaGVcwrA7Y8a7sOZvtndqae5Jw2qRc5ZQq_SXI_4rQZ_Gc4vy5oU_GndA"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Boeing_747-8_N747EX_First_Flight.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/18/Boeing_747-8_N747EX_First_Flight.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "lift - Wiktionary",
+   "htmlTitle": "\u003cb\u003elift\u003c/b\u003e - Wiktionary",
+   "link": "https://en.wikipedia.org/wiki/wikt:lift",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "lift (third-person singular simple present lifts, present participle lifting, simple past \nlifted or (rare, regional, obsolete) lift, past participle lifted or (rare, regional, ...",
+   "htmlSnippet": "\u003cb\u003elift\u003c/b\u003e (third-person singular simple present \u003cb\u003elifts\u003c/b\u003e, present participle \u003cb\u003elifting\u003c/b\u003e, simple past \u003cbr\u003e\nlifted or (rare, regional, obsolete) \u003cb\u003elift\u003c/b\u003e, past participle lifted or (rare, regional,&nbsp;...",
+   "cacheId": "UpFrjLa5RioJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/wikt:lift",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/wikt:\u003cb\u003elift\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Lift - Wikipedia",
+   "htmlTitle": "\u003cb\u003eLift\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Lift",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Lift or LIFT may refer to: Contents. [hide]. 1 Physical devices; 2 Science and \ntechnology; 3 Mathematics; 4 Cosmetics; 5 Media. 5.1 Music. 6 Other uses; 7 See\n ...",
+   "htmlSnippet": "\u003cb\u003eLift\u003c/b\u003e or \u003cb\u003eLIFT\u003c/b\u003e may refer to: Contents. [hide]. 1 Physical devices; 2 Science and \u003cbr\u003e\ntechnology; 3 Mathematics; 4 Cosmetics; 5 Media. 5.1 Music. 6 Other uses; 7 See\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "-ps6uKQGAD0J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Lift",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eLift\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Lift (data mining) - Wikipedia",
+   "htmlTitle": "\u003cb\u003eLift\u003c/b\u003e (data mining) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Lift_(data_mining)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "In data mining and association rule learning, lift is a measure of the performance \nof a targeting model (association rule) at predicting or classifying cases as ...",
+   "htmlSnippet": "In data mining and association rule learning, \u003cb\u003elift\u003c/b\u003e is a measure of the performance \u003cbr\u003e\nof a targeting model (association rule) at predicting or classifying cases as&nbsp;...",
+   "cacheId": "yqUtVegZMm8J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Lift_(data_mining)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eLift\u003c/b\u003e_(data_mining)",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Lift coefficient - Wikipedia",
+   "htmlTitle": "\u003cb\u003eLift\u003c/b\u003e coefficient - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Lift_coefficient",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The lift coefficient is a dimensionless coefficient that relates the lift generated by a \nlifting body to the fluid density around the body, the fluid velocity and an ...",
+   "htmlSnippet": "The \u003cb\u003elift\u003c/b\u003e coefficient is a dimensionless coefficient that relates the \u003cb\u003elift\u003c/b\u003e generated by a \u003cbr\u003e\n\u003cb\u003elifting\u003c/b\u003e body to the fluid density around the body, the fluid velocity and an&nbsp;...",
+   "cacheId": "KWib_LwgwtcJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Lift_coefficient",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eLift\u003c/b\u003e_coefficient",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "240",
+      "height": "196",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSfcD6qeTuOTfLs4hJXw2XaXqC0m9MwX7FQa-IHibjke1IMwTXHLmwMml5i"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Lift_curve.svg/300px-Lift_curve.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Lift (web framework) - Wikipedia",
+   "htmlTitle": "\u003cb\u003eLift\u003c/b\u003e (web framework) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Lift_(web_framework)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Lift is a free and open-source web framework that is designed for the Scala \nprogramming language. It was originally created by David Pollak who was ...",
+   "htmlSnippet": "\u003cb\u003eLift\u003c/b\u003e is a free and open-source web framework that is designed for the Scala \u003cbr\u003e\nprogramming language. It was originally created by David Pollak who was&nbsp;...",
+   "cacheId": "91UecHWF-WUJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Lift_(web_framework)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eLift\u003c/b\u003e_(web_framework)",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "148",
+      "height": "71",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNA8ynEwbcDP_qPnSAeeBYQH5LX6BKV48wtPlYXuv4bMfr-a0LoLtHdQ"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Lift-logo.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Lift-logo.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Elevator - Wikipedia",
+   "htmlTitle": "Elevator - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Elevator",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "An elevator (US and Canada) or lift is a type of vertical transportation that moves \npeople or goods between floors (levels, decks) of a building, vessel, or other ...",
+   "htmlSnippet": "An elevator (US and Canada) or \u003cb\u003elift\u003c/b\u003e is a type of vertical transportation that moves \u003cbr\u003e\npeople or goods between floors (levels, decks) of a building, vessel, or other&nbsp;...",
+   "cacheId": "AY6ZDg43MoUJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Elevator",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Elevator",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ7Zd9yL-wTUW7XttyZbhrwJSBrLCOLefl-Cjlx5GfQGSWFpeXK5kCMzeU"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Borough_tube_station_lifts_01.jpg/1200px-Borough_tube_station_lifts_01.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Borough_tube_station_lifts_01.jpg/1200px-Borough_tube_station_lifts_01.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Lifting body - Wikipedia",
+   "htmlTitle": "\u003cb\u003eLifting\u003c/b\u003e body - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Lifting_body",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A lifting body is a fixed-wing aircraft or spacecraft configuration in which the body \nitself produces lift. In contrast to a flying wing, which is a wing with minimal or ...",
+   "htmlSnippet": "A \u003cb\u003elifting\u003c/b\u003e body is a fixed-wing aircraft or spacecraft configuration in which the body \u003cbr\u003e\nitself produces \u003cb\u003elift\u003c/b\u003e. In contrast to a flying wing, which is a wing with minimal or&nbsp;...",
+   "cacheId": "1lACi4lTJUcJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Lifting_body",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eLifting\u003c/b\u003e_body",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "255",
+      "height": "198",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRnIrqejaIh_rt-SUHgvYk5ht1YbgX1i2M3qcFSdAsewgVl0goOGpEOI7Y"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/6/61/X24.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/61/X24.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Lift (Love and Rockets album) - Wikipedia",
+   "htmlTitle": "\u003cb\u003eLift\u003c/b\u003e (Love and Rockets album) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Lift_(Love_and_Rockets_album)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Lift is the seventh and final studio album by English alternative rock band Love \nand Rockets, released in 1998 on Red Ant Records.",
+   "htmlSnippet": "\u003cb\u003eLift\u003c/b\u003e is the seventh and final studio album by English alternative rock band Love \u003cbr\u003e\nand Rockets, released in 1998 on Red Ant Records.",
+   "cacheId": "50mx2cgNpZgJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Lift_(Love_and_Rockets_album)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eLift\u003c/b\u003e_(Love_and_Rockets_album)",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Love and Rockets"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "223",
+      "height": "226",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReIRWhnIKoMbnyCOgt8nZwJpYzXE1O32t7Rk12-MSDF973c1PKVxXf6Ott"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/9/99/Love_and_Rockets_Lift.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/9/99/Love_and_Rockets_Lift.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Lift (mathematics) - Wikipedia",
+   "htmlTitle": "\u003cb\u003eLift\u003c/b\u003e (mathematics) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Lift_(mathematics)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "In the branch of mathematics called category theory, given a morphism f from an \nobject X to an object Y, and a morphism g from an object Z to Y, a lift or lifting of f\n ...",
+   "htmlSnippet": "In the branch of mathematics called category theory, given a morphism f from an \u003cbr\u003e\nobject X to an object Y, and a morphism g from an object Z to Y, a \u003cb\u003elift\u003c/b\u003e or \u003cb\u003elifting\u003c/b\u003e of f\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "XDupMXUgiHgJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Lift_(mathematics)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eLift\u003c/b\u003e_(mathematics)",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "81",
+      "height": "78",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQTCMYQb5m42V6Lbux8nBPCU7cBcp1EwMBuj8yEHPLMF-O5-CqkD2IZ"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Lifting_diagram.png/100px-Lifting_diagram.png"
+     }
+    ]
+   }
+  }
+ ]
+}

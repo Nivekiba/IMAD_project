@@ -1,0 +1,361 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - comfort site:en.wikipedia.org",
+    "totalResults": "27800",
+    "searchTerms": "comfort site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - comfort site:en.wikipedia.org",
+    "totalResults": "27800",
+    "searchTerms": "comfort site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "Google"
+ },
+ "searchInformation": {
+  "searchTime": 0.952471,
+  "formattedSearchTime": "0.95",
+  "totalResults": "27800",
+  "formattedTotalResults": "27,800"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Comfort - Wikipedia",
+   "htmlTitle": "\u003cb\u003eComfort\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Comfort",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Comfort (or being comfortable) is a sense of physical or psychological ease, often \ncharacterized as a lack of hardship. Persons who are lacking in comfort are ...",
+   "htmlSnippet": "\u003cb\u003eComfort\u003c/b\u003e (or being comfortable) is a sense of physical or psychological ease, often \u003cbr\u003e\ncharacterized as a lack of hardship. Persons who are lacking in \u003cb\u003ecomfort\u003c/b\u003e are&nbsp;...",
+   "cacheId": "9LhPMxuS3DgJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Comfort",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eComfort\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "260",
+      "height": "194",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBT_r_BS-Pg46fTBeZ-j4qrU4OuGHAhej3SSbPj1N6n7_kapfovMPnZuWH"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/This_dog_is_%22comfy%22-_2013-12-27_10-51.jpg/1200px-This_dog_is_%22comfy%22-_2013-12-27_10-51.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/This_dog_is_%22comfy%22-_2013-12-27_10-51.jpg/1200px-This_dog_is_%22comfy%22-_2013-12-27_10-51.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Comfort women - Wikipedia",
+   "htmlTitle": "\u003cb\u003eComfort\u003c/b\u003e women - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Comfort_women",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Comfort women were women and girls forced into sexual slavery by the Imperial \nJapanese Army in occupied territories before and during World War II.",
+   "htmlSnippet": "\u003cb\u003eComfort\u003c/b\u003e women were women and girls forced into sexual slavery by the Imperial \u003cbr\u003e\nJapanese Army in occupied territories before and during World War II.",
+   "cacheId": "gqamaQWeIpEJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Comfort_women",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eComfort\u003c/b\u003e_women",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "304",
+      "height": "166",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRaWVTGiYPazQsPd4buY6izlliHu9ayjVKYMz4TMM0xHcVgdWp5dnZaZ3Q"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/IJzeren_voetring_voor_gevangenen_transparent_background.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9e/IJzeren_voetring_voor_gevangenen_transparent_background.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Comfort, Texas - Wikipedia",
+   "htmlTitle": "\u003cb\u003eComfort\u003c/b\u003e, Texas - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Comfort,_Texas",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Comfort is a census-designated place (CDP) in Kendall County, Texas, United \nStates. The population was 2,363 at the 2010 census. It is part of the San Antonio\n ...",
+   "htmlSnippet": "\u003cb\u003eComfort\u003c/b\u003e is a census-designated place (CDP) in Kendall County, Texas, United \u003cbr\u003e\nStates. The population was 2,363 at the 2010 census. It is part of the San Antonio\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "_PhxrcZ3s9AJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Comfort,_Texas",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eComfort\u003c/b\u003e,_Texas",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Comfort, Texas",
+      "category": "CDP"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "292",
+      "height": "173",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSdw5WFGeUzaU8s6DOpqiiyo2KlGZTAGfKXhHrOvV5DONpBuaXFI8ec4sk"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Comfort_historic_district_2009.jpg/1200px-Comfort_historic_district_2009.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Comfort_historic_district_2009.jpg/1200px-Comfort_historic_district_2009.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Comfort zone - Wikipedia",
+   "htmlTitle": "\u003cb\u003eComfort\u003c/b\u003e zone - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Comfort_zone",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A comfort zone is a psychological state in which things feel familiar to a person \nand they are at ease and in control of their environment, experiencing low levels\n ...",
+   "htmlSnippet": "A \u003cb\u003ecomfort\u003c/b\u003e zone is a psychological state in which things feel familiar to a person \u003cbr\u003e\nand they are at ease and in control of their environment, experiencing low levels\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "UlFpCKRW1HYJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Comfort_zone",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eComfort\u003c/b\u003e_zone",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "224",
+      "height": "225",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ozMMoyR0nsQ3F1H40BwSbXrq506kTc0RXttxQz5oWF5BpXIcpMT5F0vx"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Comfort_zone.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Comfort_zone.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Thermal comfort - Wikipedia",
+   "htmlTitle": "Thermal \u003cb\u003ecomfort\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Thermal_comfort",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Thermal comfort is the condition of mind that expresses satisfaction with the \nthermal environment and is assessed by subjective evaluation (ANSI/ASHRAE ...",
+   "htmlSnippet": "Thermal \u003cb\u003ecomfort\u003c/b\u003e is the condition of mind that expresses satisfaction with the \u003cbr\u003e\nthermal environment and is assessed by subjective evaluation (ANSI/ASHRAE&nbsp;...",
+   "cacheId": "PM6AX9pnun8J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Thermal_comfort",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Thermal_\u003cb\u003ecomfort\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "comfort - Wiktionary",
+   "htmlTitle": "\u003cb\u003ecomfort\u003c/b\u003e - Wiktionary",
+   "link": "https://en.wikipedia.org/wiki/Wiktionary:comfort",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The outcome of the peace negotiations in Moscow in 1940 was a heavy blow to \nthe young nation, but in the same time a great comfort: at least the independency\n ...",
+   "htmlSnippet": "The outcome of the peace negotiations in Moscow in 1940 was a heavy blow to \u003cbr\u003e\nthe young nation, but in the same time a great \u003cb\u003ecomfort\u003c/b\u003e: at least the independency\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "_iu6856unccJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Wiktionary:comfort",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wiktionary:\u003cb\u003ecomfort\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Comfort food - Wikipedia",
+   "htmlTitle": "\u003cb\u003eComfort\u003c/b\u003e food - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Comfort_food",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Comfort food is food that provides a nostalgic or sentimental value to someone, \nand may be characterized by its high caloric nature, high carbohydrate level, ...",
+   "htmlSnippet": "\u003cb\u003eComfort\u003c/b\u003e food is food that provides a nostalgic or sentimental value to someone, \u003cbr\u003e\nand may be characterized by its high caloric nature, high carbohydrate level,&nbsp;...",
+   "cacheId": "oIYGrlr56QUJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Comfort_food",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eComfort\u003c/b\u003e_food",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "239",
+      "height": "211",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZq65NRhgE1IqVLiSCfVROqr4BRYK27kmGGPt2pO_XGRPGaRT2oMJqRiv4"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicken_noodle_soup_%28cropped%29.jpg/1200px-Chicken_noodle_soup_%28cropped%29.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicken_noodle_soup_%28cropped%29.jpg/1200px-Chicken_noodle_soup_%28cropped%29.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Alex Comfort - Wikipedia",
+   "htmlTitle": "Alex \u003cb\u003eComfort\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Alex_Comfort",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Alexander Comfort (10 February 1920 – 26 March 2000) was a British scientist \nand physician known best for his nonfiction sex manual, The Joy of Sex (1972).",
+   "htmlSnippet": "Alexander \u003cb\u003eComfort\u003c/b\u003e (10 February 1920 – 26 March 2000) was a British scientist \u003cbr\u003e\nand physician known best for his nonfiction sex manual, The Joy of Sex (1972).",
+   "cacheId": "-5ndN4x0CkcJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Alex_Comfort",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Alex_\u003cb\u003eComfort\u003c/b\u003e",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Alex Comfort",
+      "nickname": "Alexander Comfort",
+      "bday": "1920-02-10",
+      "role": "Author British physician Gerontologist Psychiatry professor"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "148",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSfUhVHPPI3paeWYV9Cs_Y7hJhXf-pJQvvMV5hK2LWOexlXdIK9TqQSZVxt"
+     }
+    ],
+    "person": [
+     {
+      "role": "Author British physician Gerontologist Psychiatry professor"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/1/14/Alex_Comfort.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/1/14/Alex_Comfort.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ray Comfort - Wikipedia",
+   "htmlTitle": "Ray \u003cb\u003eComfort\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Ray_Comfort",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Ray Comfort (born December 5, 1949) is a New Zealand-born American \nChristian minister and evangelist. Comfort started Living Waters Publications and \nThe ...",
+   "htmlSnippet": "Ray \u003cb\u003eComfort\u003c/b\u003e (born December 5, 1949) is a New Zealand-born American \u003cbr\u003e\nChristian minister and evangelist. \u003cb\u003eComfort\u003c/b\u003e started Living Waters Publications and \u003cbr\u003e\nThe&nbsp;...",
+   "cacheId": "nnw7ggDcKugJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Ray_Comfort",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Ray_\u003cb\u003eComfort\u003c/b\u003e",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Ray Comfort",
+      "nickname": "Ray Comfort[1]",
+      "bday": "1949-12-05",
+      "role": "Christian Evangelist, author, television host"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJIGtjTxENWi3vud2MrGlb1xXbGoVfelYW5psScs8N9BarIB8a_5oSYEDd"
+     }
+    ],
+    "person": [
+     {
+      "role": "Christian Evangelist, author, television host"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Ray_Comfort_Open-air_Preaching.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/87/Ray_Comfort_Open-air_Preaching.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Comfort noise - Wikipedia",
+   "htmlTitle": "\u003cb\u003eComfort\u003c/b\u003e noise - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Comfort_noise",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Comfort noise (or comfort tone) is synthetic background noise used in radio and \nwireless communications to fill the artificial silence in a transmission resulting ...",
+   "htmlSnippet": "\u003cb\u003eComfort\u003c/b\u003e noise (or \u003cb\u003ecomfort\u003c/b\u003e tone) is synthetic background noise used in radio and \u003cbr\u003e\nwireless communications to fill the artificial silence in a transmission resulting&nbsp;...",
+   "cacheId": "GOQLf_nC8xgJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Comfort_noise",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eComfort\u003c/b\u003e_noise",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  }
+ ]
+}

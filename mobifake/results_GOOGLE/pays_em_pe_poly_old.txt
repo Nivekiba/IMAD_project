@@ -1,0 +1,28 @@
+{
+    "Trend+miccro": {
+        "trend micro": 9,
+        "trend micro incorporated": 3,
+        "\u00a9 document": 5,
+        "(c) 1989-2016 trend micro incorporated": 1
+    },
+    "NMT+Nig": {
+        "konga.com": 1
+    },
+    "projecChampions": [
+
+    ],
+    "CanonInsurance+Keny": {
+        "cnbc africa": 1,
+        "mwalimu cooperative savings & credit society limited": 1,
+        "elayne wangalwa": 1,
+        "abn digital pty": 1,
+        "2013": 1
+    },
+    "AdabtIT": [
+
+    ],
+    "FirstTrust+": {
+        "first trust bank": 1,
+        "firstrust": 2
+    }
+}

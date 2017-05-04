@@ -1,0 +1,332 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - week site:en.wikipedia.org",
+    "totalResults": "3540000",
+    "searchTerms": "week site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - week site:en.wikipedia.org",
+    "totalResults": "3540000",
+    "searchTerms": "week site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "Google"
+ },
+ "searchInformation": {
+  "searchTime": 0.402077,
+  "formattedSearchTime": "0.40",
+  "totalResults": "3540000",
+  "formattedTotalResults": "3,540,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Week - Wikipedia",
+   "htmlTitle": "\u003cb\u003eWeek\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Week",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A week is a time unit equal to seven days. It is the standard time period used for \ncycles of rest days in most parts of the world, mostly alongside—although not ...",
+   "htmlSnippet": "A \u003cb\u003eweek\u003c/b\u003e is a time unit equal to seven days. It is the standard time period used for \u003cbr\u003e\ncycles of rest days in most parts of the world, mostly alongside—although not&nbsp;...",
+   "cacheId": "LxGLWlUL3K8J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Week",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eWeek\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "301",
+      "height": "167",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpGKLjU14mud4X7h7TtQyG6ccvFACQ5MDFwZyGo_4tcoBfCbteYs3GETOZ"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/CLM_14456_71r_detail.jpg/1200px-CLM_14456_71r_detail.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/CLM_14456_71r_detail.jpg/1200px-CLM_14456_71r_detail.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of Last Week Tonight with John Oliver episodes - Wikipedia",
+   "htmlTitle": "List of Last \u003cb\u003eWeek\u003c/b\u003e Tonight with John Oliver episodes - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/List_of_Last_Week_Tonight_with_John_Oliver_episodes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Last Week Tonight with John Oliver is an American late-night talk show created \nand hosted by John Oliver for HBO. The show takes a satirical look at the week in\n ...",
+   "htmlSnippet": "Last \u003cb\u003eWeek\u003c/b\u003e Tonight with John Oliver is an American late-night talk show created \u003cbr\u003e\nand hosted by John Oliver for HBO. The show takes a satirical look at the \u003cb\u003eweek\u003c/b\u003e in\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "9bhCpOqc7s0J",
+   "formattedUrl": "https://en.wikipedia.org/.../List_of_Last_Week_Tonight_with_John_Oliver_ episodes",
+   "htmlFormattedUrl": "https://en.wikipedia.org/.../List_of_Last_\u003cb\u003eWeek\u003c/b\u003e_Tonight_with_John_Oliver_ episodes",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "256",
+      "height": "197",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVe-csVYB5DXlGUnbw8GS1Xw46E550Ykntpi4yvd4no9QwpSQsP8nOIVU"
+     }
+    ],
+    "hcalendar": [
+     {
+      "dtstart": "2017-05-07",
+      "summary": "TBA"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Last_Week_Tonight_Logo.svg/1200px-Last_Week_Tonight_Logo.svg.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Last_Week_Tonight_Logo.svg/1200px-Last_Week_Tonight_Logo.svg.png"
+     }
+    ],
+    "event": [
+     {
+      "dtstart": "2017-05-07",
+      "summary": "TBA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ISO week date - Wikipedia",
+   "htmlTitle": "ISO \u003cb\u003eweek\u003c/b\u003e date - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/ISO_week_date",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The ISO week date system is effectively a leap week calendar system that is part \nof the ISO 8601 date and time standard issued by the International Organization ...",
+   "htmlSnippet": "The ISO \u003cb\u003eweek\u003c/b\u003e date system is effectively a leap \u003cb\u003eweek\u003c/b\u003e calendar system that is part \u003cbr\u003e\nof the ISO 8601 date and time standard issued by the International Organization&nbsp;...",
+   "cacheId": "Nlsmc6b8-LIJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/ISO_week_date",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/ISO_\u003cb\u003eweek\u003c/b\u003e_date",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "week - Wiktionary",
+   "htmlTitle": "\u003cb\u003eweek\u003c/b\u003e - Wiktionary",
+   "link": "https://en.wikipedia.org/wiki/:wikt:week",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "From Middle English weke, from Old English wice, wucu (“week”), from Proto-\nGermanic *wikǭ (“turn, succession, change, week”), from Proto-Indo-European ...",
+   "htmlSnippet": "From Middle English weke, from Old English wice, wucu (“\u003cb\u003eweek\u003c/b\u003e”), from Proto-\u003cbr\u003e\nGermanic *wikǭ (“turn, succession, change, \u003cb\u003eweek\u003c/b\u003e”), from Proto-Indo-European&nbsp;...",
+   "cacheId": "FRtG1Jpls5kJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/:wikt:week",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/:wikt:\u003cb\u003eweek\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Golden Week (Japan) - Wikipedia",
+   "htmlTitle": "Golden \u003cb\u003eWeek\u003c/b\u003e (Japan) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Golden_Week_(Japan)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Golden Week (ゴールデンウィーク, Gōruden Wīku), often abbreviated as GW, is a \nJapanese term applied to the period containing a number of holidays.",
+   "htmlSnippet": "Golden \u003cb\u003eWeek\u003c/b\u003e (ゴールデンウィーク, Gōruden Wīku), often abbreviated as GW, is a \u003cbr\u003e\nJapanese term applied to the period containing a number of holidays.",
+   "cacheId": "MZ2CodtbjBEJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Golden_Week_(Japan)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Golden_\u003cb\u003eWeek\u003c/b\u003e_(Japan)",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Holy Week - Wikipedia",
+   "htmlTitle": "Holy \u003cb\u003eWeek\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Holy_Week",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Holy Week in Christianity is the week just before Easter. In the West, it is also the \nlast week of Lent, and includes Palm Sunday, Holy Wednesday (Spy ...",
+   "htmlSnippet": "Holy \u003cb\u003eWeek\u003c/b\u003e in Christianity is the \u003cb\u003eweek\u003c/b\u003e just before Easter. In the West, it is also the \u003cbr\u003e\nlast \u003cb\u003eweek\u003c/b\u003e of Lent, and includes Palm Sunday, Holy Wednesday (Spy&nbsp;...",
+   "cacheId": "idRKfkNbjBQJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Holy_Week",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Holy_\u003cb\u003eWeek\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "175",
+      "height": "288",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTZxlyhhbsctgTzsW823rTEbJb2bt1BSKdfdS-hHDUSbveZtvree1puvLg"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Folio_173v_-_The_Entry_into_Jerusalem.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/13/Folio_173v_-_The_Entry_into_Jerusalem.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Last Week Tonight with John Oliver - Wikipedia",
+   "htmlTitle": "Last \u003cb\u003eWeek\u003c/b\u003e Tonight with John Oliver - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Last_Week_Tonight_with_John_Oliver",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Last Week Tonight with John Oliver, often abridged as Last Week Tonight, is an \nAmerican late-night talk and news satire television program hosted by comedian\n ...",
+   "htmlSnippet": "Last \u003cb\u003eWeek\u003c/b\u003e Tonight with John Oliver, often abridged as Last \u003cb\u003eWeek\u003c/b\u003e Tonight, is an \u003cbr\u003e\nAmerican late-night talk and news satire television program hosted by comedian\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "9NKxlHUCmHQJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Last_Week_Tonight_with_John_Oliver",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Last_\u003cb\u003eWeek\u003c/b\u003e_Tonight_with_John_Oliver",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "256",
+      "height": "197",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVe-csVYB5DXlGUnbw8GS1Xw46E550Ykntpi4yvd4no9QwpSQsP8nOIVU"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Last_Week_Tonight_Logo.svg/1200px-Last_Week_Tonight_Logo.svg.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Last_Week_Tonight_Logo.svg/1200px-Last_Week_Tonight_Logo.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Week - Wikipedia",
+   "htmlTitle": "The \u003cb\u003eWeek\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/The_Week",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Week is a weekly British news magazine which also publishes a US edition, \nand between 2008 and 2012 additionally published an Australian edition.",
+   "htmlSnippet": "The \u003cb\u003eWeek\u003c/b\u003e is a weekly British news magazine which also publishes a US edition, \u003cbr\u003e\nand between 2008 and 2012 additionally published an Australian edition.",
+   "cacheId": "33Ybg9SOhmkJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/The_Week",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/The_\u003cb\u003eWeek\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "194",
+      "height": "260",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_ATDe0t1H4X3p6RkaCenIv41rvPhb54Q2eSA3Mc6iHd2gyd7bhVFLG6_y"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/6/69/The_Week_US_Cover_December_16_2005_small.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/6/69/The_Week_US_Cover_December_16_2005_small.jpg"
+     }
+    ],
+    "hproduct": [
+     {
+      "fn": "The Week"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Shark Week - Wikipedia",
+   "htmlTitle": "Shark \u003cb\u003eWeek\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Shark_Week",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Shark Week is an annual, week-long TV programming block created by Tom \nGolden at the Discovery Channel, which features shark-based programming. \nShark ...",
+   "htmlSnippet": "Shark \u003cb\u003eWeek\u003c/b\u003e is an annual, \u003cb\u003eweek\u003c/b\u003e-long TV programming block created by Tom \u003cbr\u003e\nGolden at the Discovery Channel, which features shark-based programming. \u003cbr\u003e\nShark&nbsp;...",
+   "cacheId": "-HrdaTb7Ge8J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Shark_Week",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Shark_\u003cb\u003eWeek\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Sunshine Week - Wikipedia",
+   "htmlTitle": "Sunshine \u003cb\u003eWeek\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Sunshine_Week",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Sunshine Week is a national initiative spearheaded by the American Society of \nNews Editors to educate the public about the importance of open government ...",
+   "htmlSnippet": "Sunshine \u003cb\u003eWeek\u003c/b\u003e is a national initiative spearheaded by the American Society of \u003cbr\u003e\nNews Editors to educate the public about the importance of open government&nbsp;...",
+   "cacheId": "7Ms4tlBW1zkJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Sunshine_Week",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Sunshine_\u003cb\u003eWeek\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "95",
+      "height": "56",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6MQY3fEHqlw40ECl-J88AJ3DQbD6dcuqQPC7cUyoj1IgW21s_DVz_"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Rlogohc.jpg/102px-Rlogohc.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

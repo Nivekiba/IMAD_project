@@ -1,0 +1,423 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - coca",
+    "totalResults": "17000000",
+    "searchTerms": "coca",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - coca",
+    "totalResults": "17000000",
+    "searchTerms": "coca",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "Google"
+ },
+ "searchInformation": {
+  "searchTime": 1.650401,
+  "formattedSearchTime": "1.65",
+  "totalResults": "17000000",
+  "formattedTotalResults": "17,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Coca - Wikipedia",
+   "htmlTitle": "\u003cb\u003eCoca\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Coca",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Coca is any of the four cultivated plants in the family Erythroxylaceae, native to \nwestern South America. The plant is grown as a cash crop in Argentina, Bolivia, ...",
+   "htmlSnippet": "\u003cb\u003eCoca\u003c/b\u003e is any of the four cultivated plants in the family Erythroxylaceae, native to \u003cbr\u003e\nwestern South America. The plant is grown as a cash crop in Argentina, Bolivia,&nbsp;...",
+   "cacheId": "7JVuM5PLbagJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Coca",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eCoca\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "200",
+      "height": "150",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7Ab-OKdAzGcdO8PSY2x0i0lBCqYFGiCWrTt7otSx_L_sTaa7h6srKTfWj"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Erythroxylum_novogranatense_var._Novogranatense_(retouched).jpg/250px-Erythroxylum_novogranatense_var._Novogranatense_(retouched).jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Center of Creative Arts | COCA | Enriching Lives",
+   "htmlTitle": "\u003cb\u003eCenter of Creative Arts\u003c/b\u003e | \u003cb\u003eCOCA\u003c/b\u003e | Enriching Lives",
+   "link": "http://www.cocastl.org/",
+   "displayLink": "www.cocastl.org",
+   "snippet": "COCA is a St. Louis nonprofit whose arts-based events, training, and \nprogramming encourage people to see, think and express themselves in new \nways.",
+   "htmlSnippet": "\u003cb\u003eCOCA\u003c/b\u003e is a St. Louis nonprofit whose arts-based events, training, and \u003cbr\u003e\nprogramming encourage people to see, think and express themselves in new \u003cbr\u003e\nways.",
+   "cacheId": "RAXyJbwfYtUJ",
+   "formattedUrl": "www.cocastl.org/",
+   "htmlFormattedUrl": "www.\u003cb\u003ecoca\u003c/b\u003estl.org/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "285",
+      "height": "177",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5i3g6zo__N3wZDP0fxg3cCPYMlGkvhZzh4I9yUXQ7fxpY_baUCUmez_dH"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width",
+      "msapplication-tilecolor": "#ffc40d",
+      "msapplication-tileimage": "/mstile-144x144.png",
+      "theme-color": "#ffffff",
+      "og:locale": "en_US",
+      "og:type": "website",
+      "og:title": "Center of Creative Arts | COCA | Enriching Lives",
+      "og:description": "COCA is a St. Louis nonprofit whose arts-based events, training, and programming encourage people to see, think and express themselves in new ways.",
+      "og:url": "http://www.cocastl.org/",
+      "og:site_name": "COCA - Center of Creative Arts",
+      "twitter:card": "summary",
+      "twitter:description": "COCA is a St. Louis nonprofit whose arts-based events, training, and programming encourage people to see, think and express themselves in new ways.",
+      "twitter:title": "Center of Creative Arts | COCA | Enriching Lives"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "http://www.cocastl.org/wp-content/uploads/2015/04/title-home.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Corpus of Contemporary American English (COCA)",
+   "htmlTitle": "\u003cb\u003eCorpus of Contemporary American\u003c/b\u003e English (\u003cb\u003eCOCA\u003c/b\u003e)",
+   "link": "http://corpus.byu.edu/coca/",
+   "displayLink": "corpus.byu.edu",
+   "snippet": "In addition to this online interface, you can also download extensive data for \noffline use -- full-text, word frequency, n-grams, and collocates data. You can also\n ...",
+   "htmlSnippet": "In addition to this online interface, you can also download extensive data for \u003cbr\u003e\noffline use -- full-text, word frequency, n-grams, and collocates data. You can also\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "8SnBVogXutEJ",
+   "formattedUrl": "corpus.byu.edu/coca/",
+   "htmlFormattedUrl": "corpus.byu.edu/\u003cb\u003ecoca\u003c/b\u003e/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO68rtXfwnEOp2rYV1y9_NM1jxSAqCYvan0rqei4q6BwG0mRx1rN_KZDjx"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "http://corpus.byu.edu/coca/images/info2.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Home - CoCA Center on Contemporary Art",
+   "htmlTitle": "Home - \u003cb\u003eCoCA Center on Contemporary Art\u003c/b\u003e",
+   "link": "http://cocaseattle.org/",
+   "displayLink": "cocaseattle.org",
+   "snippet": "Now in its fourth decade, CoCA serves the Pacific Northwest as a catalyst and \nforum for the advancement, development, and understanding of Contemporary ...",
+   "htmlSnippet": "Now in its fourth decade, \u003cb\u003eCoCA\u003c/b\u003e serves the Pacific Northwest as a catalyst and \u003cbr\u003e\nforum for the advancement, development, and understanding of Contemporary&nbsp;...",
+   "cacheId": "p_VigeflrQwJ",
+   "formattedUrl": "cocaseattle.org/",
+   "htmlFormattedUrl": "\u003cb\u003ecoca\u003c/b\u003eseattle.org/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Home",
+      "og:url": "http://cocaseattle.org",
+      "og:description": "Now in its fourth decade, CoCA serves the Pacific Northwest as a catalyst and forum for the advancement, development, and understanding of Contemporary Art"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Council on Culture & Arts",
+   "htmlTitle": "Council on Culture &amp; Arts",
+   "link": "http://www.tallahasseearts.org/",
+   "displayLink": "www.tallahasseearts.org",
+   "snippet": "coca-masthead-logo-right ..... COCA, the Council on Culture & Arts, is a non-profit \norganization that serves as the facilitator and voice for the arts and cultural ...",
+   "htmlSnippet": "\u003cb\u003ecoca\u003c/b\u003e-masthead-logo-right ..... \u003cb\u003eCOCA\u003c/b\u003e, the Council on Culture &amp; Arts, is a non-profit \u003cbr\u003e\norganization that serves as the facilitator and voice for the arts and cultural&nbsp;...",
+   "cacheId": "VfRYRApdG9EJ",
+   "formattedUrl": "www.tallahasseearts.org/",
+   "htmlFormattedUrl": "www.tallahasseearts.org/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "310",
+      "height": "163",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4mBYaud47b_NNEO9R1hJHPc9R1mrKxGFI31UWXsRcW36SAKjdTIpuNxQ"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+      "msapplication-tilecolor": "#da532c",
+      "msapplication-tileimage": "/wp-content/uploads/sites/www.tallahasseearts.org/fbrfg/mstile-144x144.png",
+      "msapplication-config": "/wp-content/uploads/sites/www.tallahasseearts.org/fbrfg/browserconfig.xml",
+      "theme-color": "#ffffff",
+      "og:type": "website",
+      "og:url": "http://www.tallahasseearts.org",
+      "og:image": "http://www.tallahasseearts.org/wp-content/uploads/sites/www.tallahasseearts.org/images/2016/03/TAG-COCA-1200x630.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "http://www.tallahasseearts.org/wp-content/uploads/sites/www.tallahasseearts.org/images/2016/03/TAG-COCA-1200x630.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Coca-Cola Company: Coca-Cola Journey Homepage",
+   "htmlTitle": "The \u003cb\u003eCoca\u003c/b\u003e-Cola Company: \u003cb\u003eCoca\u003c/b\u003e-Cola Journey Homepage",
+   "link": "http://www.coca-colacompany.com/",
+   "displayLink": "www.coca-colacompany.com",
+   "snippet": "But this time she's headed to a different field: her “day job” at Coca-Cola \nheadquarters, less than a mile from the Falcons' home turf. Team Spirit On and In \nthe ...",
+   "htmlSnippet": "But this time she&#39;s headed to a different field: her “day job” at \u003cb\u003eCoca\u003c/b\u003e-Cola \u003cbr\u003e\nheadquarters, less than a mile from the Falcons&#39; home turf. Team Spirit On and In \u003cbr\u003e\nthe&nbsp;...",
+   "cacheId": "8XxIfVqBF3oJ",
+   "formattedUrl": "www.coca-colacompany.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003ecoca\u003c/b\u003e-colacompany.com/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "278",
+      "height": "181",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSgILkMuNtOcaCxx1MHOj4zTWb_s4k2WNQplUw4YSojVZToQ-2zCPydQ9Rd"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "user-scalable=no, width=device-width, initial-scale=1.0, maximum-scale=1.0",
+      "last-published-date": "2017-01-10",
+      "fb:app_id": "401050593296931",
+      "og:type": "article",
+      "og:site_name": "The Coca-Cola Company",
+      "og:title": "Coca-Cola Journey Homepage",
+      "og:url": "http://coca-colacompany.com/homepage/",
+      "fb:pages": "542678889114683",
+      "apple-mobile-web-app-title": "Journey"
+     }
+    ],
+    "itemlist": [
+     {
+      "name": "SUBMIT NOW!"
+     },
+     {
+      "itemlistelement": "16 Coca-Cola Innovations From 2016 That Blew Our Minds"
+     },
+     {
+      "name": "#OutOfOffice: Coke Employee Doubles as Atlanta Falcons Cheerleader"
+     },
+     {
+      "name": "8 Memorable Coke Ads From Big Games Past"
+     },
+     {
+      "name": "Chili Champs Spoon Out Tips and Recipes"
+     },
+     {
+      "name": "Networking Know-How: Coca-Cola Execs Share Tips With Millennials"
+     },
+     {
+      "name": "Miss Universe Contestants Wear Upcycled Coca-Cola 5by20 Necklaces"
+     },
+     {
+      "name": "Coke2Home: Online Ordering and Delivery System Expands in India"
+     },
+     {
+      "name": "Syrian Refugee Starts Vocational Training With Coca-Cola Germany"
+     },
+     {
+      "name": "Listen: Coca-Cola Releases Unified Song for Special Olympics World Winter Games 2017"
+     },
+     {
+      "name": "Atlanta Tribune Profiles 17 Male African-American Execs at Coke"
+     },
+     {
+      "name": "Coca-Cola Exhibit, Panel Pay Tribute to Dr. Martin Luther King, Jr.'s Nobel Peace Prize"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "http://www.coca-colacompany.com/homepage/hero-slideshow/_jcr_content/heroSlideshowPar/heroslideshowct/smartslides/slide2.img.png/1486386435767.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Coca-Cola Global: Soft Drinks & Beverage Products",
+   "htmlTitle": "\u003cb\u003eCoca\u003c/b\u003e-Cola Global: Soft Drinks &amp; Beverage Products",
+   "link": "http://www.coca-cola.com/",
+   "displayLink": "www.coca-cola.com",
+   "snippet": "A global leader in the beverage industry, the Coca-Cola company offers \nhundreds of brands, including soft drinks, fruit juices, sports drinks and other \nbeverages ...",
+   "htmlSnippet": "A global leader in the beverage industry, the \u003cb\u003eCoca\u003c/b\u003e-Cola company offers \u003cbr\u003e\nhundreds of brands, including soft drinks, fruit juices, sports drinks and other \u003cbr\u003e\nbeverages&nbsp;...",
+   "cacheId": "U9s2SfyjdcIJ",
+   "formattedUrl": "www.coca-cola.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003ecoca\u003c/b\u003e-cola.com/",
+   "pagemap": {
+    "metatags": [
+     {
+      "wt.cg_n": "GLP",
+      "dcs.dcsuri": "/index.jsp",
+      "wt.ti": "Global Landing Page"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Careers: Latin America : The Coca-Cola Company",
+   "htmlTitle": "Careers: Latin America : The \u003cb\u003eCoca\u003c/b\u003e-Cola Company",
+   "link": "http://www.coca-colacompany.com/careers/latin-america-job-search",
+   "displayLink": "www.coca-colacompany.com",
+   "snippet": "Jobs 1 - 7 of 7 ... Find job opportunities at The Coca-Cola Company's Latin America Group which \nincludes 41 countries, from Mexico to Argentina.",
+   "htmlSnippet": "Jobs 1 - 7 of 7 \u003cb\u003e...\u003c/b\u003e Find job opportunities at The \u003cb\u003eCoca\u003c/b\u003e-Cola Company&#39;s Latin America Group which \u003cbr\u003e\nincludes 41 countries, from Mexico to Argentina.",
+   "cacheId": "KF8dLeBQyuAJ",
+   "formattedUrl": "www.coca-colacompany.com/careers/latin-america-job-search",
+   "htmlFormattedUrl": "www.\u003cb\u003ecoca\u003c/b\u003e-colacompany.com/careers/latin-america-job-search",
+   "pagemap": {
+    "breadcrumb": [
+     {
+      "title": "FRONT PAGE",
+      "url": "FRONT PAGE"
+     },
+     {
+      "title": "Careers",
+      "url": "Careers"
+     },
+     {
+      "title": "Career Opportunities",
+      "url": "Career Opportunities"
+     },
+     {
+      "title": "Latin America Job Search"
+     }
+    ],
+    "metatags": [
+     {
+      "last-published-date": "2012-10-30",
+      "fb:app_id": "401050593296931",
+      "og:type": "article",
+      "og:site_name": "The Coca-Cola Company",
+      "og:title": "Careers: Latin America",
+      "og:description": "Find job opportunities at The Coca-Cola Company's Latin America Group which includes 41 countries, from Mexico to Argentina.",
+      "og:url": "http://www.coca-colacompany.com/careers/latin-america-job-search",
+      "apple-mobile-web-app-title": "Journey",
+      "fb:pages": "542678889114683"
+     }
+    ],
+    "article": [
+     {
+      "name": "Latin America Job Search"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Erowid Coca (Erythroxylum coca) Vault",
+   "htmlTitle": "Erowid \u003cb\u003eCoca\u003c/b\u003e (Erythroxylum \u003cb\u003ecoca\u003c/b\u003e) Vault",
+   "link": "https://erowid.org/plants/coca/",
+   "displayLink": "erowid.org",
+   "snippet": "Erythroxylum coca is a high altitudes S. American shrub that's leaves are the \nsource of cocaine. The leaves are \"chewed\" (held in the cheek) in combination \nwith ...",
+   "htmlSnippet": "Erythroxylum \u003cb\u003ecoca\u003c/b\u003e is a high altitudes S. American shrub that&#39;s leaves are the \u003cbr\u003e\nsource of cocaine. The leaves are &quot;chewed&quot; (held in the cheek) in combination \u003cbr\u003e\nwith&nbsp;...",
+   "cacheId": "tDJefPt0Hh4J",
+   "formattedUrl": "https://erowid.org/plants/coca/",
+   "htmlFormattedUrl": "https://erowid.org/plants/\u003cb\u003ecoca\u003c/b\u003e/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "71",
+      "height": "71",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR0m_HcQkP2G9EZsoIMA8XzI9yhgtot5sA1abzMWTScfoljQvzyoa0b"
+     }
+    ],
+    "metatags": [
+     {
+      "sperowider-extraweight": "erythroxylum coca"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://erowid.org/images/buttons/law.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Coca-Cola® | Taste The Feeling!",
+   "htmlTitle": "\u003cb\u003eCoca\u003c/b\u003e-Cola® | Taste The Feeling!",
+   "link": "https://us.coca-cola.com/",
+   "displayLink": "us.coca-cola.com",
+   "snippet": "Whether you're enjoying the refreshing taste of Coca-Cola in a Glass Bottle or \nMini Coke Can, it was meant to be enjoyed with friends and food! Taste The ...",
+   "htmlSnippet": "Whether you&#39;re enjoying the refreshing taste of \u003cb\u003eCoca\u003c/b\u003e-Cola in a Glass Bottle or \u003cbr\u003e\nMini Coke Can, it was meant to be enjoyed with friends and food! Taste The&nbsp;...",
+   "cacheId": "S9mV-iVMF0AJ",
+   "formattedUrl": "https://us.coca-cola.com/",
+   "htmlFormattedUrl": "https://us.\u003cb\u003ecoca\u003c/b\u003e-cola.com/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "224",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKQPdxPlF_kdZh5Yv8KJm7l84jxQpaL-Z4aj__-Eb3-M16TI4LSB1Pc4Q"
+     }
+    ],
+    "metatags": [
+     {
+      "og:site_name": "Official Coca-Cola® US Website",
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1.0, minimum-scale=1, user-scalable=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/15624594_1831458140463387_7143816470621847552_n.jpg?ig_cache_key=MTQxODIxMzg0MDUyNDY1NjExNQ%3D%3D.2"
+     }
+    ]
+   }
+  }
+ ]
+}

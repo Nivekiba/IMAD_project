@@ -1,0 +1,361 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - recline site:en.wikipedia.org",
+    "totalResults": "2730",
+    "searchTerms": "recline site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - recline site:en.wikipedia.org",
+    "totalResults": "2730",
+    "searchTerms": "recline site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "Google"
+ },
+ "searchInformation": {
+  "searchTime": 0.717514,
+  "formattedSearchTime": "0.72",
+  "totalResults": "2730",
+  "formattedTotalResults": "2,730"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "recline - Wiktionary",
+   "htmlTitle": "\u003cb\u003erecline\u003c/b\u003e - Wiktionary",
+   "link": "https://en.wikipedia.org/wiki/wikt:recline",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "recline (plural reclines). A mechanism for lowering the back of a seat to support a \nless upright position; Also, the action of lowering the back using such a ...",
+   "htmlSnippet": "\u003cb\u003erecline\u003c/b\u003e (plural reclines). A mechanism for lowering the back of a seat to support a \u003cbr\u003e\nless upright position; Also, the action of lowering the back using such a&nbsp;...",
+   "cacheId": "nRysQsB1Mi4J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/wikt:recline",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/wikt:\u003cb\u003erecline\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Recliner - Wikipedia",
+   "htmlTitle": "Recliner - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Recliner",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A recliner is an armchair or sofa that reclines when the occupant lowers the \nchair's back and ... A recliner is also known as a reclining chair, lounger and an \narmchair. Modern recliners often feature an adjustable headrest, lumbar support \nand ...",
+   "htmlSnippet": "A recliner is an armchair or sofa that reclines when the occupant lowers the \u003cbr\u003e\nchair&#39;s back and ... A recliner is also known as a \u003cb\u003ereclining\u003c/b\u003e chair, lounger and an \u003cbr\u003e\narmchair. Modern recliners often feature an adjustable headrest, lumbar support \u003cbr\u003e\nand&nbsp;...",
+   "cacheId": "rcACXl22V3kJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Recliner",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eRecline\u003c/b\u003er",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEREOtRItbpsj3whZiM9zDIuF-x4yPcvist2m1O1eCGS4ApT90pjW5f8U"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Black_Recliner.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Black_Recliner.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Airline seat - Wikipedia",
+   "htmlTitle": "Airline seat - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Airline_seat",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "An airline seat is a seat on an airliner in which passengers are accommodated \nfor the duration ... Lie flat/flat bed seating[edit]. Some business class cabins \nfeature seats that recline to a sloped flat position. These \"lie flat at an angle\" seats \nallow ...",
+   "htmlSnippet": "An airline seat is a seat on an airliner in which passengers are accommodated \u003cbr\u003e\nfor the duration ... Lie flat/flat bed seating[edit]. Some business class cabins \u003cbr\u003e\nfeature seats that \u003cb\u003erecline\u003c/b\u003e to a sloped flat position. These &quot;lie flat at an angle&quot; seats \u003cbr\u003e\nallow&nbsp;...",
+   "cacheId": "KPbjn4V1x3cJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Airline_seat",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Airline_seat",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFjmrGKe6-DcmZo3JpJKeUbk2YUqwlZDY9148PbJkq_tMbEFSw382GQC6o"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/SSJ100_for_Interjet_-_Interiors_%289016257074%29.jpg/1200px-SSJ100_for_Interjet_-_Interiors_%289016257074%29.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/SSJ100_for_Interjet_-_Interiors_%289016257074%29.jpg/1200px-SSJ100_for_Interjet_-_Interiors_%289016257074%29.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Reclining Buddha - Wikipedia",
+   "htmlTitle": "\u003cb\u003eReclining\u003c/b\u003e Buddha - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Reclining_Buddha",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A reclining Buddha is a statue that represents Buddha lying down and is a major \niconographic and statuary pattern of Buddhism. It represents the historical ...",
+   "htmlSnippet": "A \u003cb\u003ereclining\u003c/b\u003e Buddha is a statue that represents Buddha lying down and is a major \u003cbr\u003e\niconographic and statuary pattern of Buddhism. It represents the historical&nbsp;...",
+   "cacheId": "JNfg8JGDedkJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Reclining_Buddha",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eReclining\u003c/b\u003e_Buddha",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "258",
+      "height": "195",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSV8mUri62NqtfiqiDMTeWidEzAfoipPnPoq7jJYvvOeWrn-QABvDSbiJU"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Paranirvana.JPG"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Paranirvana.JPG"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Triclinium - Wikipedia",
+   "htmlTitle": "Triclinium - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Triclinium",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A triclinium (plural: triclinia) is a formal dining room in a Roman building. The \nword is adopted ... Diners would recline on these surfaces in a semi-recumbent \nposition. The fourth side of the table was left free, presumably to allow service to \nthe ...",
+   "htmlSnippet": "A triclinium (plural: triclinia) is a formal dining room in a Roman building. The \u003cbr\u003e\nword is adopted ... Diners would \u003cb\u003erecline\u003c/b\u003e on these surfaces in a semi-recumbent \u003cbr\u003e\nposition. The fourth side of the table was left free, presumably to allow service to \u003cbr\u003e\nthe&nbsp;...",
+   "cacheId": "isC6IlwElqUJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Triclinium",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Triclinium",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdTLSU1pew0b0w8H746X47Onh3QnyGnPrFx-khUNOKUwVt7vkZLGGgzecy"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Triclinium_-_Arch%C3%A4ologische_Staatssammlung_M%C3%BCnchen.JPG/1200px-Triclinium_-_Arch%C3%A4ologische_Staatssammlung_M%C3%BCnchen.JPG"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Triclinium_-_Arch%C3%A4ologische_Staatssammlung_M%C3%BCnchen.JPG/1200px-Triclinium_-_Arch%C3%A4ologische_Staatssammlung_M%C3%BCnchen.JPG"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wat Pho - Wikipedia",
+   "htmlTitle": "Wat Pho - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Wat_Pho",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Wat Pho also spelt Wat Po, is a Buddhist temple complex in the Phra Nakhon \nDistrict, Bangkok, Thailand. It is on Rattanakosin Island, directly south of the \nGrand Palace. Known also as the Temple of the Reclining Buddha, its official \nname is Wat ...",
+   "htmlSnippet": "Wat Pho also spelt Wat Po, is a Buddhist temple complex in the Phra Nakhon \u003cbr\u003e\nDistrict, Bangkok, Thailand. It is on Rattanakosin Island, directly south of the \u003cbr\u003e\nGrand Palace. Known also as the Temple of the \u003cb\u003eReclining\u003c/b\u003e Buddha, its official \u003cbr\u003e\nname is Wat&nbsp;...",
+   "cacheId": "FuYdWqVPEdwJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Wat_Pho",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wat_Pho",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Wat Pho",
+      "note": "Affiliation Theravada Buddhism"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "182",
+      "height": "277",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxdBZnI0Q2WHb3BqV64sjcrhFr5x2a9u3rCXzcqqFwKKFT2Gs9sYUNa-s"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bangkok_Wat_Pho_reclining_Buddha.jpg/1200px-Bangkok_Wat_Pho_reclining_Buddha.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bangkok_Wat_Pho_reclining_Buddha.jpg/1200px-Bangkok_Wat_Pho_reclining_Buddha.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Symposium - Wikipedia",
+   "htmlTitle": "Symposium - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Symposium",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "In ancient Greece, the symposium was a drinking party. Literary works that \ndescribe or take ... The participants, or \"symposiasts\", would recline on pillowed \ncouches arrayed against the three walls of the room away from the door. Due to \nspace ...",
+   "htmlSnippet": "In ancient Greece, the symposium was a drinking party. Literary works that \u003cbr\u003e\ndescribe or take ... The participants, or &quot;symposiasts&quot;, would \u003cb\u003erecline\u003c/b\u003e on pillowed \u003cbr\u003e\ncouches arrayed against the three walls of the room away from the door. Due to \u003cbr\u003e\nspace&nbsp;...",
+   "cacheId": "wUzRCyp3NLcJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Symposium",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Symposium",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQp9d0EjAxL-uX__F8cPKEABQy7XEORp2OtBpnvdYqLvSvJRjD0B8WCZyE"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Symposium_scene_Nicias_Painter_MAN.jpg/1200px-Symposium_scene_Nicias_Painter_MAN.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Symposium_scene_Nicias_Painter_MAN.jpg/1200px-Symposium_scene_Nicias_Painter_MAN.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Reclining Figure: Festival - Wikipedia",
+   "htmlTitle": "\u003cb\u003eReclining\u003c/b\u003e Figure: Festival - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Reclining_Figure:_Festival",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Reclining Figure: Festival (LH 293) is a bronze sculpture by English artist Henry \nMoore, commissioned by the Arts Council in 1949 for the Festival of Britain in ...",
+   "htmlSnippet": "\u003cb\u003eReclining\u003c/b\u003e Figure: Festival (LH 293) is a bronze sculpture by English artist Henry \u003cbr\u003e\nMoore, commissioned by the Arts Council in 1949 for the Festival of Britain in&nbsp;...",
+   "cacheId": "v0Sgfp7evAQJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Reclining_Figure:_Festival",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eReclining\u003c/b\u003e_Figure:_Festival",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRo8aUKWCgoq6DCo2WA5e4XBqfddCF92kytLRRFK101ti8YPRmpu13-rr1Z"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Scottish_National_Gallery_of_Modern_Art_Henry_Moore_2004_SMC.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/76/Scottish_National_Gallery_of_Modern_Art_Henry_Moore_2004_SMC.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Reclining Figure 1938 - Wikipedia",
+   "htmlTitle": "\u003cb\u003eReclining\u003c/b\u003e Figure 1938 - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Reclining_Figure_1938",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Reclining Figure 1938 (LH 192) is a small sculpture by Henry Moore of an \nsinuous abstracted human figure. An enlarged version was made in 1984 for the\n ...",
+   "htmlSnippet": "\u003cb\u003eReclining\u003c/b\u003e Figure 1938 (LH 192) is a small sculpture by Henry Moore of an \u003cbr\u003e\nsinuous abstracted human figure. An enlarged version was made in 1984 for the\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "OVSNYVfyB8IJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Reclining_Figure_1938",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eReclining\u003c/b\u003e_Figure_1938",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "304",
+      "height": "165",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTI4YKslDLvs48dKyqX-DWtoBIH5LXo43Q5MwluW8NJieuVPwg996XP3x67"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/HenryMoore_RecliningFigure_1951.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e1/HenryMoore_RecliningFigure_1951.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Reclining Figure 1969–70 - Wikipedia",
+   "htmlTitle": "\u003cb\u003eReclining\u003c/b\u003e Figure 1969–70 - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Reclining_Figure_1969%E2%80%9370",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Reclining Figure 1969–70 (LH 608) is a bronze sculpture by English artist Henry \nMoore. Contents. [hide]. 1 History; 2 See also; 3 References; 4 External links ...",
+   "htmlSnippet": "\u003cb\u003eReclining\u003c/b\u003e Figure 1969–70 (LH 608) is a bronze sculpture by English artist Henry \u003cbr\u003e\nMoore. Contents. [hide]. 1 History; 2 See also; 3 References; 4 External links&nbsp;...",
+   "cacheId": "zsbyMlDhCgIJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Reclining_Figure_1969–70",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eReclining\u003c/b\u003e_Figure_1969–70",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTGklNkBi-qUnoeSHT189DTJCLIOvvfEORveQN6MWBGzzTYSrMyaoPWmhs"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Henry_Moore-Reclining_Figure-Tel_Aviv_Museum_of_Art.jpg/1200px-Henry_Moore-Reclining_Figure-Tel_Aviv_Museum_of_Art.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Henry_Moore-Reclining_Figure-Tel_Aviv_Museum_of_Art.jpg/1200px-Henry_Moore-Reclining_Figure-Tel_Aviv_Museum_of_Art.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

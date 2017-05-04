@@ -1,0 +1,458 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - cardiff site:en.wikipedia.org",
+    "totalResults": "22300",
+    "searchTerms": "cardiff site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - cardiff site:en.wikipedia.org",
+    "totalResults": "22300",
+    "searchTerms": "cardiff site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "Google"
+ },
+ "searchInformation": {
+  "searchTime": 0.555514,
+  "formattedSearchTime": "0.56",
+  "totalResults": "22300",
+  "formattedTotalResults": "22,300"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Cardiff - Wikipedia",
+   "htmlTitle": "\u003cb\u003eCardiff\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Cardiff",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Cardiff is the capital and largest city in Wales and the eleventh-largest city in the \nUnited Kingdom. The city is the country's chief commercial centre, the base for ...",
+   "htmlSnippet": "\u003cb\u003eCardiff\u003c/b\u003e is the capital and largest city in Wales and the eleventh-largest city in the \u003cbr\u003e\nUnited Kingdom. The city is the country&#39;s chief commercial centre, the base for&nbsp;...",
+   "cacheId": "jMeU2ASPtcoJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Cardiff",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eCardiff\u003c/b\u003e",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Cardiff",
+      "nickname": "Dinas a Sir Caerdydd",
+      "category": "City & County"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "177",
+      "height": "284",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp2gdRIln7JYloMEg5CQkEoSrSyuC2Z4ojHdiddygXctiX95hQ7BZgbOy6"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Cardiffmontage3.jpg/1200px-Cardiffmontage3.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Cardiffmontage3.jpg/1200px-Cardiffmontage3.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cardiff City F.C. - Wikipedia",
+   "htmlTitle": "\u003cb\u003eCardiff\u003c/b\u003e City F.C. - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Cardiff_City_F.C.",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Cardiff City Football Club is a professional association football club based in the \ncity of Cardiff, Wales that competes in the Championship, the second tier of the ...",
+   "htmlSnippet": "\u003cb\u003eCardiff\u003c/b\u003e City Football Club is a professional association football club based in the \u003cbr\u003e\ncity of \u003cb\u003eCardiff\u003c/b\u003e, Wales that competes in the Championship, the second tier of the&nbsp;...",
+   "cacheId": "IW8wbaJQrfAJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Cardiff_City_F.C.",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eCardiff\u003c/b\u003e_City_F.C.",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Cardiff City",
+      "nickname": "The Bluebirds",
+      "url": "Club home page",
+      "url_text": "Club home page",
+      "bday": "1899",
+      "label": "Cardiff City Stadium"
+     },
+     {
+      "fn": "Allan McGregor"
+     },
+     {
+      "fn": "Lee Peltier"
+     },
+     {
+      "fn": "Joe Bennett"
+     },
+     {
+      "fn": "Sean Morrison"
+     },
+     {
+      "fn": "Bruno Ecuele Manga"
+     },
+     {
+      "fn": "Jazz Richards"
+     },
+     {
+      "fn": "Peter Whittingham"
+     },
+     {
+      "fn": "Joe Ralls"
+     },
+     {
+      "fn": "Frédéric Gounongbe"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "220",
+      "height": "229",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSI53EWOQqtd3Q-n4wrc2k_Wlb0HkRHagCZ-wrjL4jj8dqIi7Tm40j7toOD"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Cardiff_City_crest.svg/1200px-Cardiff_City_crest.svg.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Cardiff_City_crest.svg/1200px-Cardiff_City_crest.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cardiff, New York - Wikipedia",
+   "htmlTitle": "\u003cb\u003eCardiff\u003c/b\u003e, New York - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Cardiff,_New_York",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Cardiff, New York is a small hamlet in Onondaga County, New York, located \nsouth of Syracuse. It was named after Cardiff, the capital of Wales. It was the site \nof ...",
+   "htmlSnippet": "\u003cb\u003eCardiff\u003c/b\u003e, New York is a small hamlet in Onondaga County, New York, located \u003cbr\u003e\nsouth of Syracuse. It was named after \u003cb\u003eCardiff\u003c/b\u003e, the capital of Wales. It was the site \u003cbr\u003e\nof&nbsp;...",
+   "cacheId": "XTK4fSe6heYJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Cardiff,_New_York",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eCardiff\u003c/b\u003e,_New_York",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Cardiff",
+      "category": "hamlet"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "249",
+      "height": "202",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRzZYdnV7Tq2fDUVAc189L1FWSPWllqSZ3BZXW03cK4xv-ygLLeXCJXMHE"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/USA_New_York_location_map.svg/1200px-USA_New_York_location_map.svg.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/USA_New_York_location_map.svg/1200px-USA_New_York_location_map.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cardiff Airport - Wikipedia",
+   "htmlTitle": "\u003cb\u003eCardiff\u003c/b\u003e Airport - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Cardiff_Airport",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Cardiff Airport (Welsh: Maes Awyr Caerdydd) (IATA: CWL, ICAO: EGFF) is by far \nthe busiest airport in Wales and has been under the ownership of the Welsh ...",
+   "htmlSnippet": "\u003cb\u003eCardiff\u003c/b\u003e Airport (Welsh: Maes Awyr Caerdydd) (IATA: CWL, ICAO: EGFF) is by far \u003cbr\u003e\nthe busiest airport in Wales and has been under the ownership of the Welsh&nbsp;...",
+   "cacheId": "vgBTzsaWicUJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Cardiff_Airport",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eCardiff\u003c/b\u003e_Airport",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Cardiff Airport",
+      "nickname": "Maes Awyr Caerdydd",
+      "label": "Rhoose, Vale of Glamorgan",
+      "category": "Public",
+      "note": "Owner Welsh Government"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "246",
+      "height": "205",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqeWdaKyzfWLAkPz3_ovsZQr0LEJ96lIZvBWrze8AEKNCH0Nj_lT6r6zI"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Cardiff_Airport_%28Oct_2010%29.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/25/Cardiff_Airport_%28Oct_2010%29.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cardiff University - Wikipedia",
+   "htmlTitle": "\u003cb\u003eCardiff\u003c/b\u003e University - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Cardiff_University",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Cardiff University (Welsh: Prifysgol Caerdydd) is a public research university \nlocated in Cardiff, Wales, United Kingdom. Founded in 1883 as the University ...",
+   "htmlSnippet": "\u003cb\u003eCardiff\u003c/b\u003e University (Welsh: Prifysgol Caerdydd) is a public research university \u003cbr\u003e\nlocated in \u003cb\u003eCardiff\u003c/b\u003e, Wales, United Kingdom. Founded in 1883 as the University&nbsp;...",
+   "cacheId": "nVzrGva3CukJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Cardiff_University",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eCardiff\u003c/b\u003e_University",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Cardiff University",
+      "nickname": "Welsh: Prifysgol Caerdydd"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "188",
+      "height": "188",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRdiGpk-1jUCRjvy4J4sFRLIZ2Z7eEccMxB7_55j8kl2AgQ2M_uDtxVHFE"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/8/83/CardiffUniversityCrest.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/CardiffUniversityCrest.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cardiff, Alabama - Wikipedia",
+   "htmlTitle": "\u003cb\u003eCardiff\u003c/b\u003e, Alabama - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Cardiff,_Alabama",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Cardiff is a town in Jefferson County, Alabama, United States west of Gardendale\n. At the 2010 census the population was 55, placing it as the least populated ...",
+   "htmlSnippet": "\u003cb\u003eCardiff\u003c/b\u003e is a town in Jefferson County, Alabama, United States west of Gardendale\u003cbr\u003e\n. At the 2010 census the population was 55, placing it as the least populated&nbsp;...",
+   "cacheId": "QNhFpOm9s74J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Cardiff,_Alabama",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eCardiff\u003c/b\u003e,_Alabama",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Cardiff, Alabama",
+      "category": "Town"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "262",
+      "height": "192",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS62kOOCGpOKd89h3C0TbiK6zw1DT2V9_zeLcSFULfMwXzPMJCm5aMWuX4v"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/EXTERIOR_VIEW%2C_FRONT_%28EAST%29_ELEVATION_-_Cardiff_Town_Hall%2C_Old_County_Road_109%2C_Cardiff%2C_Jefferson_County%2C_AL_HABS_ALA%2C37-CARD%2C1-1.tif/lossy-page1-1200px-EXTERIOR_VIEW%2C_FRONT_%28EAST%29_ELEVATION_-_Cardiff_Town_Hall%2C_Old_County_Road_109%2C_Cardiff%2C_Jefferson_County%2C_AL_HABS_ALA%2C37-CARD%2C1-1.tif.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/EXTERIOR_VIEW%2C_FRONT_%28EAST%29_ELEVATION_-_Cardiff_Town_Hall%2C_Old_County_Road_109%2C_Cardiff%2C_Jefferson_County%2C_AL_HABS_ALA%2C37-CARD%2C1-1.tif/lossy-page1-1200px-EXTERIOR_VIEW%2C_FRONT_%28EAST%29_ELEVATION_-_Cardiff_Town_Hall%2C_Old_County_Road_109%2C_Cardiff%2C_Jefferson_County%2C_AL_HABS_ALA%2C37-CARD%2C1-1.tif.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cardiff, Maryland - Wikipedia",
+   "htmlTitle": "\u003cb\u003eCardiff\u003c/b\u003e, Maryland - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Cardiff,_Maryland",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Cardiff is an unincorporated community in Harford County, Maryland, United \nStates. The population was 518 at the 2000 census. Zipcode for the area is \n21160.",
+   "htmlSnippet": "\u003cb\u003eCardiff\u003c/b\u003e is an unincorporated community in Harford County, Maryland, United \u003cbr\u003e\nStates. The population was 518 at the 2000 census. Zipcode for the area is \u003cbr\u003e\n21160.",
+   "cacheId": "l0I5zO_VBpoJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Cardiff,_Maryland",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eCardiff\u003c/b\u003e,_Maryland",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "311",
+      "height": "162",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTEfdw0k6L-_oJsafdihYFdTkI11iBsBkmB3uQDNqsborar028XORNI-8w"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Map_of_Maryland_highlighting_Harford_County.svg/1200px-Map_of_Maryland_highlighting_Harford_County.svg.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Map_of_Maryland_highlighting_Harford_County.svg/1200px-Map_of_Maryland_highlighting_Harford_County.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cardiff-by-the-Sea, Encinitas, California - Wikipedia",
+   "htmlTitle": "\u003cb\u003eCardiff\u003c/b\u003e-by-the-Sea, Encinitas, California - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Cardiff-by-the-Sea,_Encinitas,_California",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Cardiff-by-the-Sea, usually referred to as Cardiff, is a beach community located in \nEncinitas, bordering Solana Beach to the south in San Diego County, ...",
+   "htmlSnippet": "\u003cb\u003eCardiff\u003c/b\u003e-by-the-Sea, usually referred to as \u003cb\u003eCardiff\u003c/b\u003e, is a beach community located in \u003cbr\u003e\nEncinitas, bordering Solana Beach to the south in San Diego County,&nbsp;...",
+   "cacheId": "uoN5gxmck0oJ",
+   "formattedUrl": "https://en.wikipedia.org/.../Cardiff-by-the-Sea,_Encinitas,_California",
+   "htmlFormattedUrl": "https://en.wikipedia.org/.../\u003cb\u003eCardiff\u003c/b\u003e-by-the-Sea,_Encinitas,_California",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Community of Cardiff-by-the-Sea",
+      "nickname": "Cardiff",
+      "category": "Community"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "276",
+      "height": "183",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZOrEeJbZOkV9bzf11Fe1dq8hKMtEWZsxbbnwWoEBjqI3YJr2frW0EPNWm"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Sunset_at_Cardiff-by-the-sea%2C_San_Diego.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/50/Sunset_at_Cardiff-by-the-sea%2C_San_Diego.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cardiff Central railway station - Wikipedia",
+   "htmlTitle": "\u003cb\u003eCardiff\u003c/b\u003e Central railway station - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Cardiff_Central_railway_station",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Cardiff Central railway station (Welsh: Caerdydd Canolog) is a major railway \nstation on the South Wales Main Line in Cardiff, United Kingdom and one of two ...",
+   "htmlSnippet": "\u003cb\u003eCardiff\u003c/b\u003e Central railway station (Welsh: Caerdydd Canolog) is a major railway \u003cbr\u003e\nstation on the South Wales Main Line in \u003cb\u003eCardiff\u003c/b\u003e, United Kingdom and one of two&nbsp;...",
+   "cacheId": "eePGZIORklUJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Cardiff_Central_railway_station",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eCardiff\u003c/b\u003e_Central_railway_station",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Cardiff Central",
+      "label": "Cardiff"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVBE7h1QJeYzQIDMO0rYx9fWliN7XT4_8bXOBSTHSoXcCzHRvFQFdl0pHE"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Cardiff_Central_station_%2826526139271%29.jpg/1200px-Cardiff_Central_station_%2826526139271%29.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Cardiff_Central_station_%2826526139271%29.jpg/1200px-Cardiff_Central_station_%2826526139271%29.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cardiff City Stadium - Wikipedia",
+   "htmlTitle": "\u003cb\u003eCardiff\u003c/b\u003e City Stadium - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Cardiff_City_Stadium",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Cardiff City Stadium (Welsh: Stadiwm Dinas Caerdydd) is a football stadium \nin the Leckwith area of Cardiff, Wales. It is the home of Cardiff City Football Club ...",
+   "htmlSnippet": "The \u003cb\u003eCardiff\u003c/b\u003e City Stadium (Welsh: Stadiwm Dinas Caerdydd) is a football stadium \u003cbr\u003e\nin the Leckwith area of \u003cb\u003eCardiff\u003c/b\u003e, Wales. It is the home of \u003cb\u003eCardiff\u003c/b\u003e City Football Club&nbsp;...",
+   "cacheId": "A1Bb-oCW7yUJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Cardiff_City_Stadium",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eCardiff\u003c/b\u003e_City_Stadium",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Cardiff City Stadium",
+      "label": "Cardiff, Wales"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "286",
+      "height": "176",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZxN5TE0XhkoH-jzTzW8WqC6iL653BU_iZaFQ_qmefwzNrCTf3jSya7PQ"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Cardiff_City_Stadium_Pitch.jpg/1200px-Cardiff_City_Stadium_Pitch.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Cardiff_City_Stadium_Pitch.jpg/1200px-Cardiff_City_Stadium_Pitch.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

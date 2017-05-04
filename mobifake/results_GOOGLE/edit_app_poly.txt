@@ -1,0 +1,21 @@
+{
+    "Show+engeneering": {
+        "navayuga infotech": 1,
+        "\u00a9": 1
+    },
+    "Abim+Concept": [
+
+    ],
+    "Agile+Org": {
+        "scrumedge": 1,
+        "versant corporation": 1,
+        "wikipedia": 1,
+        "pensions management institute": 1,
+        "2001": 2,
+        "ambysoft inc": 1
+    },
+    "Comin-web": {
+        "commotion wireless": 1,
+        "cominweb - all rights reserved - mentions l\u00e9gales - langage": 1
+    }
+}

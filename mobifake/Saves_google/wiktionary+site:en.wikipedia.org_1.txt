@@ -1,0 +1,260 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - wiktionary site:en.wikipedia.org",
+    "totalResults": "85800",
+    "searchTerms": "wiktionary site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - wiktionary site:en.wikipedia.org",
+    "totalResults": "85800",
+    "searchTerms": "wiktionary site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "Google"
+ },
+ "searchInformation": {
+  "searchTime": 0.783061,
+  "formattedSearchTime": "0.78",
+  "totalResults": "85800",
+  "formattedTotalResults": "85,800"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Wiktionary, the free dictionary",
+   "htmlTitle": "\u003cb\u003eWiktionary\u003c/b\u003e, the free dictionary",
+   "link": "https://en.wikipedia.org/wiki/wikt:",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Designed as the lexical companion to Wikipedia, the encyclopedia project, \nWiktionary has grown beyond a standard dictionary and now includes a \nthesaurus, ...",
+   "htmlSnippet": "Designed as the lexical companion to Wikipedia, the encyclopedia project, \u003cbr\u003e\n\u003cb\u003eWiktionary\u003c/b\u003e has grown beyond a standard dictionary and now includes a \u003cbr\u003e\nthesaurus,&nbsp;...",
+   "cacheId": "H7k5BGCRSxAJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/wikt:",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/wikt:",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wiktionary - Wikipedia",
+   "htmlTitle": "\u003cb\u003eWiktionary\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Wiktionary",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Wiktionary is a multilingual, web-based project to create a free content dictionary \nof all words in all languages. It is collaboratively edited via a wiki, and its name ...",
+   "htmlSnippet": "\u003cb\u003eWiktionary\u003c/b\u003e is a multilingual, web-based project to create a free content dictionary \u003cbr\u003e\nof all words in all languages. It is collaboratively edited via a wiki, and its name&nbsp;...",
+   "cacheId": "BJEQRiJVax8J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Wiktionary",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eWiktionary\u003c/b\u003e",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Wiktionary",
+      "url": "www.wiktionary.org",
+      "url_text": "www.wiktionary.org",
+      "bday": "2002-12-12",
+      "category": "active"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "204",
+      "height": "247",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBiooyS9jL5Cjbkm37qQuAxgqI9TRKFHzZW9rBnXtluK58CRqfvZegEk7e"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/WiktionaryEn_-_DP_Derivative.svg/1200px-WiktionaryEn_-_DP_Derivative.svg.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/WiktionaryEn_-_DP_Derivative.svg/1200px-WiktionaryEn_-_DP_Derivative.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "English - Wiktionary",
+   "htmlTitle": "English - \u003cb\u003eWiktionary\u003c/b\u003e",
+   "link": "https://en.wikipedia.org/wiki/wikt:English",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "English[edit]. Alternative forms[edit]. Inglish (dated or rare); Englishe (archaic). \nEtymology[edit]. From Middle English Englisch, English, Inglis, from Old English ...",
+   "htmlSnippet": "English[edit]. Alternative forms[edit]. Inglish (dated or rare); Englishe (archaic). \u003cbr\u003e\nEtymology[edit]. From Middle English Englisch, English, Inglis, from Old English&nbsp;...",
+   "cacheId": "winKEmq6dQ4J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/wikt:English",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/wikt:English",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wiktionary - Wiktionary",
+   "htmlTitle": "\u003cb\u003eWiktionary\u003c/b\u003e - \u003cb\u003eWiktionary\u003c/b\u003e",
+   "link": "https://en.wikipedia.org/wiki/wikt:Wiktionary",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A particular version of this dictionary project, written in a certain language, such \nas the English-language Wiktionary or simply the English Wiktionary.",
+   "htmlSnippet": "A particular version of this dictionary project, written in a certain language, such \u003cbr\u003e\nas the English-language \u003cb\u003eWiktionary\u003c/b\u003e or simply the English \u003cb\u003eWiktionary\u003c/b\u003e.",
+   "cacheId": "LVUBYr0UeCIJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/wikt:Wiktionary",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/wikt:\u003cb\u003eWiktionary\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "religion - Wiktionary",
+   "htmlTitle": "religion - \u003cb\u003eWiktionary\u003c/b\u003e",
+   "link": "https://en.wikipedia.org/wiki/wikt:religion",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Etymology[edit]. Borrowing from Anglo-Norman religiun, from Old French religion, \nfrom Latin religiō (“scrupulousness”, “pious misgivings”, “superstition”, ...",
+   "htmlSnippet": "Etymology[edit]. Borrowing from Anglo-Norman religiun, from Old French religion, \u003cbr\u003e\nfrom Latin religiō (“scrupulousness”, “pious misgivings”, “superstition”,&nbsp;...",
+   "cacheId": "542QUhkSwfUJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/wikt:religion",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/wikt:religion",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Index:Chinese radical - Wiktionary",
+   "htmlTitle": "Index:Chinese radical - \u003cb\u003eWiktionary\u003c/b\u003e",
+   "link": "https://en.wikipedia.org/wiki/Wiktionary:Index:Chinese_radical",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The radical (Chinese: 部首) is an essential element of the Chinese dictionary. \nThe list of Chinese radicals is a rough equivalent of a Chinese \"alphabet\".",
+   "htmlSnippet": "The radical (Chinese: 部首) is an essential element of the Chinese dictionary. \u003cbr\u003e\nThe list of Chinese radicals is a rough equivalent of a Chinese &quot;alphabet&quot;.",
+   "cacheId": "sNHWQ07MhM8J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Wiktionary:Index:Chinese_radical",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eWiktionary\u003c/b\u003e:Index:Chinese_radical",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "lo - Wiktionary",
+   "htmlTitle": "lo - \u003cb\u003eWiktionary\u003c/b\u003e",
+   "link": "https://en.wikipedia.org/wiki/wikt:lo",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Homophones: low, Lowe; Rhymes: -əʊ. Etymology 1[edit]. From Middle English \nlo, loo, from Old English lā (“exclamation of surprise, grief, or joy”). Conflated in ...",
+   "htmlSnippet": "Homophones: low, Lowe; Rhymes: -əʊ. Etymology 1[edit]. From Middle English \u003cbr\u003e\nlo, loo, from Old English lā (“exclamation of surprise, grief, or joy”). Conflated in&nbsp;...",
+   "cacheId": "cMBExZpmVwAJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/wikt:lo",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/wikt:lo",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "time - Wiktionary",
+   "htmlTitle": "time - \u003cb\u003eWiktionary\u003c/b\u003e",
+   "link": "https://en.wikipedia.org/wiki/wikt:time",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Rhymes: -aɪm; Rhymes: -ɑem; Rhymes: -ɜːm; Homophone: thyme. Interjection\n[edit]. time. (tennis) Reminder by the umpire for the players to continue playing ...",
+   "htmlSnippet": "Rhymes: -aɪm; Rhymes: -ɑem; Rhymes: -ɜːm; Homophone: thyme. Interjection\u003cbr\u003e\n[edit]. time. (tennis) Reminder by the umpire for the players to continue playing&nbsp;...",
+   "cacheId": "GhRoQIFcj-YJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/wikt:time",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/wikt:time",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "thing - Wiktionary",
+   "htmlTitle": "thing - \u003cb\u003eWiktionary\u003c/b\u003e",
+   "link": "https://en.wikipedia.org/wiki/Wiktionary:thing",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Etymology[edit]. From Middle English thing, from Old English þing, from Proto-\nGermanic *þingą; compare West Frisian ding, Low German Ding, Dutch ding, ...",
+   "htmlSnippet": "Etymology[edit]. From Middle English thing, from Old English þing, from Proto-\u003cbr\u003e\nGermanic *þingą; compare West Frisian ding, Low German Ding, Dutch ding,&nbsp;...",
+   "cacheId": "ekbFgWTRhh4J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Wiktionary:thing",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eWiktionary\u003c/b\u003e:thing",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "website - Wiktionary",
+   "htmlTitle": "website - \u003cb\u003eWiktionary\u003c/b\u003e",
+   "link": "https://en.wikipedia.org/wiki/Wiktionary:website",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Alternative forms[edit]. web site · web-site · Web site. Etymology[edit]. From web +\n   site. Pronunciation[edit]. IPA: /ˈwɛbˌsaɪt/. Noun[edit]. website (plural ...",
+   "htmlSnippet": "Alternative forms[edit]. web site &middot; web-site &middot; Web site. Etymology[edit]. From web +\u003cbr\u003e\n   site. Pronunciation[edit]. IPA: /ˈwɛbˌsaɪt/. Noun[edit]. website (plural&nbsp;...",
+   "cacheId": "CGMzwcGS69IJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Wiktionary:website",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eWiktionary\u003c/b\u003e:website",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  }
+ ]
+}

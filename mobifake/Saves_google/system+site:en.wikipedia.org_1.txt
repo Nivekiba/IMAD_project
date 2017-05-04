@@ -1,0 +1,354 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - system site:en.wikipedia.org",
+    "totalResults": "3780000",
+    "searchTerms": "system site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - system site:en.wikipedia.org",
+    "totalResults": "3780000",
+    "searchTerms": "system site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "Google"
+ },
+ "searchInformation": {
+  "searchTime": 0.33483,
+  "formattedSearchTime": "0.33",
+  "totalResults": "3780000",
+  "formattedTotalResults": "3,780,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "System - Wikipedia",
+   "htmlTitle": "\u003cb\u003eSystem\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/System",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A system is a set of interacting or interdependent component parts forming a \ncomplex or intricate whole. Every system is delineated by its spatial and temporal\n ...",
+   "htmlSnippet": "A \u003cb\u003esystem\u003c/b\u003e is a set of interacting or interdependent component parts forming a \u003cbr\u003e\ncomplex or intricate whole. Every \u003cb\u003esystem\u003c/b\u003e is delineated by its spatial and temporal\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "KK1B4t3g5u0J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/System",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eSystem\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "201",
+      "height": "160",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxKIjQlxCbt3xU6Vr1B4ToEYWysgwnXR7sx2F2tZE6UHG9_M1xWT2GP8Ag"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/OpenSystemRepresentation.svg/252px-OpenSystemRepresentation.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Operating system - Wikipedia",
+   "htmlTitle": "Operating \u003cb\u003esystem\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Operating_system",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "An operating system (OS) is system software that manages computer hardware \nand software resources and provides common services for computer programs.",
+   "htmlSnippet": "An operating \u003cb\u003esystem\u003c/b\u003e (OS) is \u003cb\u003esystem\u003c/b\u003e software that manages computer hardware \u003cbr\u003e\nand software resources and provides common services for computer programs.",
+   "cacheId": "KG0-0kZmH-EJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Operating_system",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Operating_\u003cb\u003esystem\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "184",
+      "height": "273",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVNNXFesT_Slh8jqPY9ujkdBBNAx9HAd_jY0ZZLdMl_ltINXiH8wARHybP"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Operating_system_placement.svg/1200px-Operating_system_placement.svg.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Operating_system_placement.svg/1200px-Operating_system_placement.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Immune system - Wikipedia",
+   "htmlTitle": "Immune \u003cb\u003esystem\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Immune_system",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The immune system is a host defense system comprising many biological \nstructures and processes within an organism that protects against disease. To \nfunction ...",
+   "htmlSnippet": "The immune \u003cb\u003esystem\u003c/b\u003e is a host defense \u003cb\u003esystem\u003c/b\u003e comprising many biological \u003cbr\u003e\nstructures and processes within an organism that protects against disease. To \u003cbr\u003e\nfunction&nbsp;...",
+   "cacheId": "Yav-yhQJP0QJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Immune_system",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Immune_\u003cb\u003esystem\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "220",
+      "height": "229",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLptgXRcGabLkRG7Qad_eNpyRbHZPNwd0-0UZj_JuSq2U0qNxTSZ3Wc0Xo"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Neutrophil_with_anthrax_copy.jpg/1200px-Neutrophil_with_anthrax_copy.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Neutrophil_with_anthrax_copy.jpg/1200px-Neutrophil_with_anthrax_copy.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Nervous system - Wikipedia",
+   "htmlTitle": "Nervous \u003cb\u003esystem\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Nervous_system",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The nervous system is the part of an animal that coordinates its actions by \ntransmitting signals to and from different parts of its body. Nervous tissue first \narose in ...",
+   "htmlSnippet": "The nervous \u003cb\u003esystem\u003c/b\u003e is the part of an animal that coordinates its actions by \u003cbr\u003e\ntransmitting signals to and from different parts of its body. Nervous tissue first \u003cbr\u003e\narose in&nbsp;...",
+   "cacheId": "9QkqBZECcqoJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Nervous_system",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Nervous_\u003cb\u003esystem\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "207",
+      "height": "243",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Gkb0Xyu5q29p2wKUJeNb8Ka5qyWqoG6PrByACLed-UI7H5mTXsuOLSg"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/TE-Nervous_system_diagram.svg/1200px-TE-Nervous_system_diagram.svg.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/TE-Nervous_system_diagram.svg/1200px-TE-Nervous_system_diagram.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Central nervous system - Wikipedia",
+   "htmlTitle": "Central nervous \u003cb\u003esystem\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Central_nervous_system",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The central nervous system (CNS) is the part of the nervous system consisting of \nthe brain and spinal cord. The central nervous system is so named because it ...",
+   "htmlSnippet": "The central nervous \u003cb\u003esystem\u003c/b\u003e (CNS) is the part of the nervous \u003cb\u003esystem\u003c/b\u003e consisting of \u003cbr\u003e\nthe brain and spinal cord. The central nervous \u003cb\u003esystem\u003c/b\u003e is so named because it&nbsp;...",
+   "cacheId": "u7oAuspPeg8J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Central_nervous_system",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Central_nervous_\u003cb\u003esystem\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "236",
+      "height": "213",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQyc7Toh1LP6DkryhBkhORBb0l0kVAuTz_hQVwajtXjvhJUr0xgHXcCFdI"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/1201_Overview_of_Nervous_System.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d3/1201_Overview_of_Nervous_System.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Systems thinking - Wikipedia",
+   "htmlTitle": "\u003cb\u003eSystems\u003c/b\u003e thinking - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Systems_thinking",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "For some, systems thinking is the cognitive process of studying and \nunderstanding systems of every kind. For others, the focus is integrating \ninformation from ...",
+   "htmlSnippet": "For some, \u003cb\u003esystems\u003c/b\u003e thinking is the cognitive process of studying and \u003cbr\u003e\nunderstanding \u003cb\u003esystems\u003c/b\u003e of every kind. For others, the focus is integrating \u003cbr\u003e\ninformation from&nbsp;...",
+   "cacheId": "4Kz0YlbjoO0J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Systems_thinking",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eSystems\u003c/b\u003e_thinking",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "361",
+      "height": "139",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTg31eWp5F62MV-0tctnj-FvANe-q2Vwenhb_RqKze_f-HhYbK6J1BBM3np"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Systems_Thinking_Diagram.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/72/Systems_Thinking_Diagram.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Circulatory system - Wikipedia",
+   "htmlTitle": "Circulatory \u003cb\u003esystem\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Circulatory_system",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The circulatory system, also called the cardiovascular system or the vascular \nsystem, is an organ system that permits blood to circulate and transport nutrients\n ...",
+   "htmlSnippet": "The circulatory \u003cb\u003esystem\u003c/b\u003e, also called the cardiovascular \u003cb\u003esystem\u003c/b\u003e or the vascular \u003cbr\u003e\n\u003cb\u003esystem\u003c/b\u003e, is an organ \u003cb\u003esystem\u003c/b\u003e that permits blood to circulate and transport nutrients\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "KKQ9xWv4T08J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Circulatory_system",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Circulatory_\u003cb\u003esystem\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "189",
+      "height": "267",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdT38e-HaAASV9LJbo5XgIrjiIpdfwHMHiVd_bhZ7Fb12UkJGxeyaOfVM"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Circulatory_System_en.svg/1200px-Circulatory_System_en.svg.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Circulatory_System_en.svg/1200px-Circulatory_System_en.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Information system - Wikipedia",
+   "htmlTitle": "Information \u003cb\u003esystem\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Information_system",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "An information system (IS) is an organized system for the collection, organization, \nstorage and communication of information. More specifically, it is the study of ...",
+   "htmlSnippet": "An information \u003cb\u003esystem\u003c/b\u003e (IS) is an organized \u003cb\u003esystem\u003c/b\u003e for the collection, organization, \u003cbr\u003e\nstorage and communication of information. More specifically, it is the study of&nbsp;...",
+   "cacheId": "gVrNKL_SAg0J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Information_system",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Information_\u003cb\u003esystem\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "File system - Wikipedia",
+   "htmlTitle": "File \u003cb\u003esystem\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/File_system",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "In computing, a file system or filesystem is used to control how data is stored and \nretrieved. Without a file system, information placed in a storage medium would ...",
+   "htmlSnippet": "In computing, a file \u003cb\u003esystem\u003c/b\u003e or filesystem is used to control how data is stored and \u003cbr\u003e\nretrieved. Without a file \u003cb\u003esystem\u003c/b\u003e, information placed in a storage medium would&nbsp;...",
+   "cacheId": "h8LlLGdTuTQJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/File_system",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/File_\u003cb\u003esystem\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "184",
+      "height": "273",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVNNXFesT_Slh8jqPY9ujkdBBNAx9HAd_jY0ZZLdMl_ltINXiH8wARHybP"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Operating_system_placement.svg/1200px-Operating_system_placement.svg.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Operating_system_placement.svg/1200px-Operating_system_placement.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Systems engineering - Wikipedia",
+   "htmlTitle": "\u003cb\u003eSystems\u003c/b\u003e engineering - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Systems_engineering",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Systems engineering is an interdisciplinary field of engineering and engineering \nmanagement that focuses on how to design and manage complex systems over ...",
+   "htmlSnippet": "\u003cb\u003eSystems\u003c/b\u003e engineering is an interdisciplinary field of engineering and engineering \u003cbr\u003e\nmanagement that focuses on how to design and manage complex \u003cb\u003esystems\u003c/b\u003e over&nbsp;...",
+   "cacheId": "29krrVikjeEJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Systems_engineering",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eSystems\u003c/b\u003e_engineering",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjjM7Eh7UMIgJ6dESwMMz-VlTSluTfpAaTqc-m3wVUljU32Kt1bAW5iv0"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Systems_engineering_application_projects_collage.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/85/Systems_engineering_application_projects_collage.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

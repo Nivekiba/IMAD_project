@@ -1,0 +1,394 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - www.easychair.co site:en.wikipedia.org",
+    "totalResults": "278",
+    "searchTerms": "www.easychair.co site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - www.easychair.co site:en.wikipedia.org",
+    "totalResults": "278",
+    "searchTerms": "www.easychair.co site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "Google"
+ },
+ "searchInformation": {
+  "searchTime": 0.469886,
+  "formattedSearchTime": "0.47",
+  "totalResults": "278",
+  "formattedTotalResults": "278"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Jennifer Cihi - Wikipedia",
+   "htmlTitle": "Jennifer Cihi - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Jennifer_Cihi",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Jennifer Cihi (born April 2, 1966) is an American singer/actress who performed \non Broadway, ... The 2nd National Touring Company (sometimes referred to as \nthe West Coast or Los Angeles Production) opened in San Francisco on June 22, \n... The Easychair Expressway | Jennifer Cihi · Jennifer's Bio National Tour Annie.",
+   "htmlSnippet": "Jennifer Cihi (born April 2, 1966) is an American singer/actress who performed \u003cbr\u003e\non Broadway, ... The 2nd National Touring \u003cb\u003eCompany\u003c/b\u003e (sometimes referred to as \u003cbr\u003e\nthe West Coast or Los Angeles Production) opened in San Francisco on June 22, \u003cbr\u003e\n... The \u003cb\u003eEasychair\u003c/b\u003e Expressway | Jennifer Cihi &middot; Jennifer&#39;s Bio National Tour Annie.",
+   "cacheId": "2p6_75M7HL0J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Jennifer_Cihi",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Jennifer_Cihi",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Jennifer Marie Cihi",
+      "bday": "1966-04-02",
+      "role": "Singer, Actress, Voice Artist"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "181",
+      "height": "278",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnhq0s85byL-hBeL-yaakY82XLzzvHld6GPO1y5Es1O0c8oktnq3abIPom"
+     }
+    ],
+    "person": [
+     {
+      "role": "Singer, Actress, Voice Artist"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/a/a4/JenniferCihiWiki.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/a/a4/JenniferCihiWiki.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Barcalounger - Wikipedia",
+   "htmlTitle": "Barcalounger - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Barcalounger",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A Barcalounger is a type of recliner made in the United States of America. It was \nintroduced by the Barcalo Manufacturing Company of Buffalo, New York, which ...",
+   "htmlSnippet": "A Barcalounger is a type of recliner made in the United States of America. It was \u003cbr\u003e\nintroduced by the Barcalo Manufacturing \u003cb\u003eCompany\u003c/b\u003e of Buffalo, New York, which&nbsp;...",
+   "cacheId": "zX6Bgi2bGn8J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Barcalounger",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Barcalounger",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "224",
+      "height": "225",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrLXNQiuq0TeMynLadaVycmp3Qx9H_iCeHLn-ldzweWdp0nGZu5cRbbX2R"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Barcalounger%2C_vintage_-_01.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/11/Barcalounger%2C_vintage_-_01.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "EasyChair - Wikipedia",
+   "htmlTitle": "\u003cb\u003eEasyChair\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/EasyChair",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "EasyChair is a free web-based conference management software system used, \namong other tasks, to organise paper submission and review. EasyChair is ...",
+   "htmlSnippet": "\u003cb\u003eEasyChair\u003c/b\u003e is a free web-based conference management software system used, \u003cbr\u003e\namong other tasks, to organise paper submission and review. \u003cb\u003eEasyChair\u003c/b\u003e is&nbsp;...",
+   "cacheId": "vyJ-q75ZDOoJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/EasyChair",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eEasyChair\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Jeff Simmons (musician) - Wikipedia",
+   "htmlTitle": "Jeff Simmons (musician) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Jeff_Simmons_(musician)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Jeff Simmons is an American rock musician best known as a former member of \nFrank Zappa's ... During the sound check Easy Chair was discovered by Zappa, \nwho recognized that the group's style was compatible with his own. ... With Randy \nSterling he co-composed the soundtrack for the biker film Naked Angels (1969).",
+   "htmlSnippet": "Jeff Simmons is an American rock musician best known as a former member of \u003cbr\u003e\nFrank Zappa&#39;s ... During the sound check \u003cb\u003eEasy Chair\u003c/b\u003e was discovered by Zappa, \u003cbr\u003e\nwho recognized that the group&#39;s style was compatible with his own. ... With Randy \u003cbr\u003e\nSterling he \u003cb\u003eco\u003c/b\u003e-composed the soundtrack for the biker film Naked Angels (1969).",
+   "cacheId": "LizxCHjIQcIJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Jeff_Simmons_(musician)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Jeff_Simmons_(musician)",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Jeff Simmons",
+      "note": "Bass, guitar, vocals, harmonica"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Vitsœ - Wikipedia",
+   "htmlTitle": "Vitsœ - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Vits%C5%93",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Vitsœ is a British furniture company that manufactures and retails furniture \ndesigned by Dieter .... Rams designed the 601 Easy Chair and 602 Easy Chair \nfeaturing two legs and the four-legged 622 chair. Rams designed the 601 Side \nTable in ...",
+   "htmlSnippet": "Vitsœ is a British furniture \u003cb\u003ecompany\u003c/b\u003e that manufactures and retails furniture \u003cbr\u003e\ndesigned by Dieter .... Rams designed the 601 \u003cb\u003eEasy Chair\u003c/b\u003e and 602 \u003cb\u003eEasy Chair\u003c/b\u003e \u003cbr\u003e\nfeaturing two legs and the four-legged 622 chair. Rams designed the 601 Side \u003cbr\u003e\nTable in&nbsp;...",
+   "cacheId": "iZqSuV4-ItsJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Vitsœ",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Vitsœ",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Vitsoe Limited",
+      "category": "Limited"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "262",
+      "height": "192",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0THWNVaukKsI89uX_GRfkgwSCogc_wt-MX-xC64QBmIpDa_haYapH-wRO"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/606-Universal-Shelving-System.jpg/1200px-606-Universal-Shelving-System.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/606-Universal-Shelving-System.jpg/1200px-606-Universal-Shelving-System.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Evergreen (Love Theme from A Star Is Born) - Wikipedia",
+   "htmlTitle": "Evergreen (Love Theme from A Star Is Born) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Evergreen_(Love_Theme_from_A_Star_Is_Born)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Evergreen is the theme song from the 1976 film A Star Is Born. It was composed \nand performed ... The song's opening couplet, \"Love, soft as an easy chair, love \nfresh as the morning air,\" almost did ... UK Singles (Official Charts Company), 3.",
+   "htmlSnippet": "Evergreen is the theme song from the 1976 film A Star Is Born. It was composed \u003cbr\u003e\nand performed ... The song&#39;s opening couplet, &quot;Love, soft as an \u003cb\u003eeasy chair\u003c/b\u003e, love \u003cbr\u003e\nfresh as the morning air,&quot; almost did ... UK Singles (Official Charts \u003cb\u003eCompany\u003c/b\u003e), 3.",
+   "cacheId": "P-eKEbRjFisJ",
+   "formattedUrl": "https://en.wikipedia.org/.../Evergreen_(Love_Theme_from_A_Star_Is_Born)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/.../Evergreen_(Love_Theme_from_A_Star_Is_Born)",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Barbra Streisand"
+     },
+     {
+      "fn": "Hazell Dean"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTtXkg6gm2DhrbwrQu1d0hKiIrVTlMRuFU1Z78OmHiKjewFmLxzn7YXVXBI"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/7/74/Evergreen_-_Barbra_Streisand.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/7/74/Evergreen_-_Barbra_Streisand.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of chairs - Wikipedia",
+   "htmlTitle": "List of chairs - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/List_of_chairs",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The following is a partial list of chair types, with internal or external cross-\nreferences about most .... Club chair, a plush easy chair with a low back. .... \nsidechair originally made by the Thonet chair company of Germany in the 19th \ncentury, and ...",
+   "htmlSnippet": "The following is a partial list of chair types, with internal or external cross-\u003cbr\u003e\nreferences about most .... Club chair, a plush \u003cb\u003eeasy chair\u003c/b\u003e with a low back. .... \u003cbr\u003e\nsidechair originally made by the Thonet chair \u003cb\u003ecompany\u003c/b\u003e of Germany in the 19th \u003cbr\u003e\ncentury, and&nbsp;...",
+   "cacheId": "JSsil20rGpsJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/List_of_chairs",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/List_of_chairs",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "194",
+      "height": "259",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbMiAUrYOGoQiUIb4PvoET6Js-fV8fh0A8F-vAShjAd2YzU-oyVHNN5Ewu"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Adirondack_chair_25.jpg/1200px-Adirondack_chair_25.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Adirondack_chair_25.jpg/1200px-Adirondack_chair_25.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ron Arad (industrial designer) - Wikipedia",
+   "htmlTitle": "Ron Arad (industrial designer) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Ron_Arad_(industrial_designer)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Ron Arad is an Israeli industrial designer, artist, and architect. Contents. [hide]. 1 \nBiography; 2 Art career; 3 See also; 4 References; 5 External links. Biography[\nedit]. The Big Easy Chair, chrome ... In 2005, Arad designed chandeliers for the \nSwarovski crystal company which if one has the number, can display text \nmessages ...",
+   "htmlSnippet": "Ron Arad is an Israeli industrial designer, artist, and architect. Contents. [hide]. 1 \u003cbr\u003e\nBiography; 2 Art career; 3 See also; 4 References; 5 External links. Biography[\u003cbr\u003e\nedit]. The Big \u003cb\u003eEasy Chair\u003c/b\u003e, chrome ... In 2005, Arad designed chandeliers for the \u003cbr\u003e\nSwarovski crystal \u003cb\u003ecompany\u003c/b\u003e which if one has the number, can display text \u003cbr\u003e\nmessages&nbsp;...",
+   "cacheId": "4e2eM8wdO-cJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Ron_Arad_(industrial_designer)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Ron_Arad_(industrial_designer)",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Ron Arad",
+      "role": "industrial designer, artist, and architect",
+      "category": "Israeli"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "208",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTGrbBnbg1oJL6v2rf3NIYNvhvKWy-h-3Jphu1jkX-v5BKvIosJbIPxEPH4"
+     }
+    ],
+    "person": [
+     {
+      "role": "industrial designer, artist, and architect"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Ron_Arad_-_Venice_Biennale_2004.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/10/Ron_Arad_-_Venice_Biennale_2004.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Thomas Frank - Wikipedia",
+   "htmlTitle": "Thomas Frank - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Thomas_Frank",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Thomas Carr Frank (born March 21, 1965) is an American political analyst, \nhistorian, journalist, and columnist for Harper's Magazine. He wrote \"The Tilting \nYard\" column in the Wall Street Journal from 2008 to 2010, and he co-founded \nand edited The Baffler. ... Since December 2010, Frank has written the monthly \"\nEasy Chair\" column ...",
+   "htmlSnippet": "Thomas Carr Frank (born March 21, 1965) is an American political analyst, \u003cbr\u003e\nhistorian, journalist, and columnist for Harper&#39;s Magazine. He wrote &quot;The Tilting \u003cbr\u003e\nYard&quot; column in the Wall Street Journal from 2008 to 2010, and he \u003cb\u003eco\u003c/b\u003e-founded \u003cbr\u003e\nand edited The Baffler. ... Since December 2010, Frank has written the monthly &quot;\u003cbr\u003e\n\u003cb\u003eEasy Chair\u003c/b\u003e&quot; column&nbsp;...",
+   "cacheId": "mdZo8YDXotUJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Thomas_Frank",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Thomas_Frank",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Thomas Frank",
+      "nickname": "Thomas Carr Frank",
+      "bday": "1965-03-21",
+      "role": "Political analyst, columnist, historian, journalist",
+      "category": "US"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "194",
+      "height": "259",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbmaB_jXy4jOEqoAU3ym8zWS-DeQGk9CLskxkVKz-KViPOZaMKNbPfSiA"
+     }
+    ],
+    "person": [
+     {
+      "role": "Political analyst, columnist, historian, journalist"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Thomas_frank_2012.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Thomas_frank_2012.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Upland Brewing Company - Wikipedia",
+   "htmlTitle": "Upland Brewing \u003cb\u003eCompany\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Upland_Brewing_Company",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Upland Brewing Company, founded in 1997, is a brewery in Bloomington, \nMonroe County, ... the American-Style Amber/Marzen Lager Category; Schwarz \nBlack Lager; Easy Chair Amber Ale; Winter Warmer Barleywine-Style Ale - Won \nSilver ...",
+   "htmlSnippet": "Upland Brewing \u003cb\u003eCompany\u003c/b\u003e, founded in 1997, is a brewery in Bloomington, \u003cbr\u003e\nMonroe \u003cb\u003eCounty\u003c/b\u003e, ... the American-Style Amber/Marzen Lager Category; Schwarz \u003cbr\u003e\nBlack Lager; \u003cb\u003eEasy Chair\u003c/b\u003e Amber Ale; Winter Warmer Barleywine-Style Ale - Won \u003cbr\u003e\nSilver&nbsp;...",
+   "cacheId": "zmqIzIVg7y4J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Upland_Brewing_Company",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Upland_Brewing_\u003cb\u003eCompany\u003c/b\u003e",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Upland Brewing Company",
+      "label": "Bloomington, Indiana United States",
+      "category": "Alcoholic beverage"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  }
+ ]
+}

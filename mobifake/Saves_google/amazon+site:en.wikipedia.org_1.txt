@@ -1,0 +1,407 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - amazon site:en.wikipedia.org",
+    "totalResults": "56000",
+    "searchTerms": "amazon site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - amazon site:en.wikipedia.org",
+    "totalResults": "56000",
+    "searchTerms": "amazon site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "Google"
+ },
+ "searchInformation": {
+  "searchTime": 0.653117,
+  "formattedSearchTime": "0.65",
+  "totalResults": "56000",
+  "formattedTotalResults": "56,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Amazon.com - Wikipedia",
+   "htmlTitle": "\u003cb\u003eAmazon\u003c/b\u003e.com - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Amazon.com",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Amazon.com also called Amazon, is an American electronic commerce and \ncloud computing company that was founded on July 5, 1994, by Jeff Bezos and is\n ...",
+   "htmlSnippet": "\u003cb\u003eAmazon\u003c/b\u003e.com also called \u003cb\u003eAmazon\u003c/b\u003e, is an American electronic commerce and \u003cbr\u003e\ncloud computing company that was founded on July 5, 1994, by Jeff Bezos and is\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "BFVqovVuHVkJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Amazon.com",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eAmazon\u003c/b\u003e.com",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Amazon.com, Inc.",
+      "url": "amazon.com",
+      "url_text": "amazon.com",
+      "bday": "1994-07-05",
+      "category": "Public"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "175",
+      "height": "289",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRIdQ70672TXy24XEU_zLrhub8ij0sPf21KfTP-B5bvUipn5QMxTSBOqzg"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/5/59/Amazon.com_screenshot.jpeg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/5/59/Amazon.com_screenshot.jpeg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Amazon rainforest - Wikipedia",
+   "htmlTitle": "\u003cb\u003eAmazon\u003c/b\u003e rainforest - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Amazon_rainforest",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Amazon rainforest also known in English as Amazonia or the Amazon \nJungle, is a moist broadleaf forest in the Amazon biome that covers most of the ...",
+   "htmlSnippet": "The \u003cb\u003eAmazon\u003c/b\u003e rainforest also known in English as Amazonia or the \u003cb\u003eAmazon\u003c/b\u003e \u003cbr\u003e\nJungle, is a moist broadleaf forest in the \u003cb\u003eAmazon\u003c/b\u003e biome that covers most of the&nbsp;...",
+   "cacheId": "qTeMaAgAp4MJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Amazon_rainforest",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eAmazon\u003c/b\u003e_rainforest",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "248",
+      "height": "204",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQq1jg9IHISunwCVaQxnc6zH_EWNSDb7VzS8_SVYwmj-XHgXJch0Ibr9nk"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Amazon_rainforest.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Amazon_rainforest.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Amazon River - Wikipedia",
+   "htmlTitle": "\u003cb\u003eAmazon\u003c/b\u003e River - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Amazon_River",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Amazon River, usually abbreviated to Amazon in South America is the \nlargest river by discharge of water in the world and, according to some authors, \nthe ...",
+   "htmlSnippet": "The \u003cb\u003eAmazon\u003c/b\u003e River, usually abbreviated to \u003cb\u003eAmazon\u003c/b\u003e in South America is the \u003cbr\u003e\nlargest river by discharge of water in the world and, according to some authors, \u003cbr\u003e\nthe&nbsp;...",
+   "cacheId": "MMaLMMtFmnAJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Amazon_River",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eAmazon\u003c/b\u003e_River",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbSoLO2Smuhj6x__PVGCFVvHx5FgS62w31HWYgi-VwmCRfdRV9gNIScwI"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Sunset_on_the_Amazon_%287613489930%29.jpg/1200px-Sunset_on_the_Amazon_%287613489930%29.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Sunset_on_the_Amazon_%287613489930%29.jpg/1200px-Sunset_on_the_Amazon_%287613489930%29.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Amazon Video - Wikipedia",
+   "htmlTitle": "\u003cb\u003eAmazon\u003c/b\u003e Video - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Amazon_Video",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Amazon Video is an Internet video on demand service that is developed, owned \nand operated by Amazon.com. It offers television shows and films for rental or ...",
+   "htmlSnippet": "\u003cb\u003eAmazon\u003c/b\u003e Video is an Internet video on demand service that is developed, owned \u003cbr\u003e\nand operated by \u003cb\u003eAmazon\u003c/b\u003e.com. It offers television shows and films for rental or&nbsp;...",
+   "cacheId": "hU7tRx9F6J0J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Amazon_Video",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eAmazon\u003c/b\u003e_Video",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Amazon Video",
+      "url": "amazon.com/video primevideo.com",
+      "url_text": "amazon.com/video primevideo.com",
+      "bday": "2006-09-07",
+      "category": "Internet"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "49",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTk6rYHOaZfpHF8EG7M2ANJmkqxkw-tj9Rb1DMtRx1PpFGOsLLFznrR_Eg"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Amazon-Video.svg/200px-Amazon-Video.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Amazon basin - Wikipedia",
+   "htmlTitle": "\u003cb\u003eAmazon\u003c/b\u003e basin - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Amazon_basin",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Amazon basin is the part of South America drained by the Amazon River and \nits tributaries. The Amazon drainage basin covers an area of about 7,500,000 ...",
+   "htmlSnippet": "The \u003cb\u003eAmazon\u003c/b\u003e basin is the part of South America drained by the \u003cb\u003eAmazon\u003c/b\u003e River and \u003cbr\u003e\nits tributaries. The \u003cb\u003eAmazon\u003c/b\u003e drainage basin covers an area of about 7,500,000&nbsp;...",
+   "cacheId": "3Mb096pLJq8J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Amazon_basin",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eAmazon\u003c/b\u003e_basin",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyQpXBOBqCt6psJoRULAeZVj-aZYDHxngSBC5su7rChiAa9cyWmYLp-548"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Amazonriverbasin_basemap.png/1200px-Amazonriverbasin_basemap.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Amazonriverbasin_basemap.png/1200px-Amazonriverbasin_basemap.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Amazon Web Services - Wikipedia",
+   "htmlTitle": "\u003cb\u003eAmazon\u003c/b\u003e Web Services - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Amazon_Web_Services",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Amazon Web Services (AWS) is a subsidiary of Amazon.com that offers on-\ndemand cloud computing platforms. These services operate from 16 \ngeographical ...",
+   "htmlSnippet": "\u003cb\u003eAmazon\u003c/b\u003e Web Services (AWS) is a subsidiary of \u003cb\u003eAmazon\u003c/b\u003e.com that offers on-\u003cbr\u003e\ndemand cloud computing platforms. These services operate from 16 \u003cbr\u003e\ngeographical&nbsp;...",
+   "cacheId": "JSgXJbxN-7sJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Amazon_Web_Services",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eAmazon\u003c/b\u003e_Web_Services",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Amazon Web Services",
+      "url": "aws.amazon.com",
+      "url_text": "aws.amazon.com",
+      "bday": "2006-03"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "367",
+      "height": "137",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQX01Ig5KBye3HZ9la8N3i1CtaKkcKhfYIhktRFQYi4uNVFpOjvQB_5u5s"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/AmazonWebservices_Logo.svg/1200px-AmazonWebservices_Logo.svg.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/AmazonWebservices_Logo.svg/1200px-AmazonWebservices_Logo.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Amazon Elastic Compute Cloud - Wikipedia",
+   "htmlTitle": "\u003cb\u003eAmazon\u003c/b\u003e Elastic Compute Cloud - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Amazon_Elastic_Compute_Cloud",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Amazon Elastic Compute Cloud (EC2) forms a central part of Amazon.com's \ncloud-computing platform, Amazon Web Services (AWS), by allowing users to \nrent ...",
+   "htmlSnippet": "\u003cb\u003eAmazon\u003c/b\u003e Elastic Compute Cloud (EC2) forms a central part of \u003cb\u003eAmazon\u003c/b\u003e.com&#39;s \u003cbr\u003e\ncloud-computing platform, \u003cb\u003eAmazon\u003c/b\u003e Web Services (AWS), by allowing users to \u003cbr\u003e\nrent&nbsp;...",
+   "cacheId": "sdVCvtV1gh0J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Amazon_Elastic_Compute_Cloud",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eAmazon\u003c/b\u003e_Elastic_Compute_Cloud",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdhi72z-FusICIrDlejKLIqvWo4Dnzx-P-jSXlNepCslAOgoIEInd3KS0"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg/1200px-AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg/1200px-AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Amazon Echo - Wikipedia",
+   "htmlTitle": "\u003cb\u003eAmazon\u003c/b\u003e Echo - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Amazon_Echo",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Amazon Echo is a smart speaker developed by Amazon.com. The device \nconsists of a 9.25 inch (23.5 cm) tall cylinder speaker with a seven-piece \nmicrophone ...",
+   "htmlSnippet": "\u003cb\u003eAmazon\u003c/b\u003e Echo is a smart speaker developed by \u003cb\u003eAmazon\u003c/b\u003e.com. The device \u003cbr\u003e\nconsists of a 9.25 inch (23.5 cm) tall cylinder speaker with a seven-piece \u003cbr\u003e\nmicrophone&nbsp;...",
+   "cacheId": "DntyTNhwtLoJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Amazon_Echo",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eAmazon\u003c/b\u003e_Echo",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "88",
+      "height": "252",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSCnk9wfTz0RvSXhZXVQV4XP5ZoR99L3UDWBQ1YrPvKZddygaQ17_myFFQ"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Echo.jpg/110px-Amazon_Echo.jpg"
+     }
+    ],
+    "hproduct": [
+     {
+      "fn": "Amazon Echo",
+      "currency": "USD",
+      "currency_iso4217": "840"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Amazon S3 - Wikipedia",
+   "htmlTitle": "\u003cb\u003eAmazon\u003c/b\u003e S3 - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Amazon_S3",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Amazon S3 (Simple Storage Service) is a web service offered by Amazon Web \nServices. Amazon S3 provides storage through web services interfaces (REST, ...",
+   "htmlSnippet": "\u003cb\u003eAmazon\u003c/b\u003e S3 (Simple Storage Service) is a web service offered by \u003cb\u003eAmazon\u003c/b\u003e Web \u003cbr\u003e\nServices. \u003cb\u003eAmazon\u003c/b\u003e S3 provides storage through web services interfaces (REST,&nbsp;...",
+   "cacheId": "RanSzH-ZXh8J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Amazon_S3",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eAmazon\u003c/b\u003e_S3",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Amazon Simple Storage Service",
+      "url": "aws.amazon.com/s3/",
+      "url_text": "aws.amazon.com/s3/",
+      "bday": "2006-03-14",
+      "category": "Active"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "116",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxnr5mpcdsBRDeEPF1cvFyO1UrO1hCfys_nvmle6nsmfaYfzyknwWn5g"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/AmazonS3TwoTrillionObjects.JPG/220px-AmazonS3TwoTrillionObjects.JPG"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Amazons - Wikipedia",
+   "htmlTitle": "Amazons - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Amazons",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "In Greek mythology, the Amazons were a tribe of women warriors. The Scythian (\nIranian ... Amazon warriors were often depicted in battle with Greek warriors in \namazonomachies in classical art. The Amazons have become associated with ...",
+   "htmlSnippet": "In Greek mythology, the Amazons were a tribe of women warriors. The Scythian (\u003cbr\u003e\nIranian ... \u003cb\u003eAmazon\u003c/b\u003e warriors were often depicted in battle with Greek warriors in \u003cbr\u003e\namazonomachies in classical art. The Amazons have become associated with&nbsp;...",
+   "cacheId": "jjstVVyGougJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Amazons",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eAmazon\u003c/b\u003es",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "183",
+      "height": "275",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvMEMB8OOUeB60c66jyc9YXFGxmzPG96huIAjTzU1Wo_7w-XWe14ToDz4"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Amazzone_ferita_-_Musei_Capitolini.jpg/1200px-Amazzone_ferita_-_Musei_Capitolini.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Amazzone_ferita_-_Musei_Capitolini.jpg/1200px-Amazzone_ferita_-_Musei_Capitolini.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

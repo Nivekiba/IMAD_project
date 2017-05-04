@@ -1,0 +1,392 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - liberty site:en.wikipedia.org",
+    "totalResults": "59800",
+    "searchTerms": "liberty site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - liberty site:en.wikipedia.org",
+    "totalResults": "59800",
+    "searchTerms": "liberty site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "Google"
+ },
+ "searchInformation": {
+  "searchTime": 0.393891,
+  "formattedSearchTime": "0.39",
+  "totalResults": "59800",
+  "formattedTotalResults": "59,800"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Liberty - Wikipedia",
+   "htmlTitle": "\u003cb\u003eLiberty\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Liberty",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Liberty, in philosophy, involves free will as contrasted with determinism. In politics\n, liberty consists of the social and political freedoms to which all community ...",
+   "htmlSnippet": "\u003cb\u003eLiberty\u003c/b\u003e, in philosophy, involves free will as contrasted with determinism. In politics\u003cbr\u003e\n, \u003cb\u003eliberty\u003c/b\u003e consists of the social and political freedoms to which all community&nbsp;...",
+   "cacheId": "oSq2vQRQc2UJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Liberty",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eLiberty\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRfkb97hD9LAuEoXJgJeOWjwwu_X_GfW9winq61HQazthZB7zJQbNRjElDU"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg/1200px-Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg/1200px-Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Statue of Liberty - Wikipedia",
+   "htmlTitle": "Statue of \u003cb\u003eLiberty\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Statue of Liberty is a colossal neoclassical sculpture on Liberty Island in New \nYork Harbor in New York City, in the United States. The copper statue, a gift ...",
+   "htmlSnippet": "The Statue of \u003cb\u003eLiberty\u003c/b\u003e is a colossal neoclassical sculpture on \u003cb\u003eLiberty\u003c/b\u003e Island in New \u003cbr\u003e\nYork Harbor in New York City, in the United States. The copper statue, a gift&nbsp;...",
+   "cacheId": "hN5nUSFRMXsJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Statue_of_\u003cb\u003eLiberty\u003c/b\u003e",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Statue of Liberty Liberty Enlightening the World"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "191",
+      "height": "264",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXQIrG8zqdSeAKBfA1oWrxIfrTuEHgqMg1husc-gbTz3GNIXEV5Nya01c"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Statue_of_Liberty_7.jpg/1200px-Statue_of_Liberty_7.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Statue_of_Liberty_7.jpg/1200px-Statue_of_Liberty_7.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Liberty University - Wikipedia",
+   "htmlTitle": "\u003cb\u003eLiberty\u003c/b\u003e University - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Liberty_University",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Liberty University is a private, non-profit Christian university located in Lynchburg\n, Virginia, United States. It is classified as a doctoral research university by the ...",
+   "htmlSnippet": "\u003cb\u003eLiberty\u003c/b\u003e University is a private, non-profit Christian university located in Lynchburg\u003cbr\u003e\n, Virginia, United States. It is classified as a doctoral research university by the&nbsp;...",
+   "cacheId": "hqxyJsIOf24J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Liberty_University",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eLiberty\u003c/b\u003e_University",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Liberty University",
+      "nickname": "Lynchburg Baptist College Liberty Baptist College",
+      "url": "www.liberty.edu",
+      "url_text": "www.liberty.edu"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "120",
+      "height": "120",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6MLWfSIvkvyhjyicaApCWB8XTPcAa56L_OzrXru71hcmelKE-qsxi"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/c/c7/Liberty_University_seal.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/c/c7/Liberty_University_seal.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Liberty, Missouri - Wikipedia",
+   "htmlTitle": "\u003cb\u003eLiberty\u003c/b\u003e, Missouri - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Liberty,_Missouri",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Liberty is a city in Clay County, Missouri and is a suburb of Kansas City, Missouri, \nlocated in the Kansas City Metropolitan Area. As of the 2010 United States ...",
+   "htmlSnippet": "\u003cb\u003eLiberty\u003c/b\u003e is a city in Clay County, Missouri and is a suburb of Kansas City, Missouri, \u003cbr\u003e\nlocated in the Kansas City Metropolitan Area. As of the 2010 United States&nbsp;...",
+   "cacheId": "oX6JgXPHFu8J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Liberty,_Missouri",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eLiberty\u003c/b\u003e,_Missouri",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Liberty, Missouri",
+      "category": "City"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "283",
+      "height": "178",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOb0J_b6ifQgjB5Ig42Wg4yu-lc9vg_hbvF6cpg9oBhC1PHcpGM-Nlqx4"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Clay_County_Missouri_Incorporated_and_Unincorporated_areas_Liberty_Highlighted.svg/1200px-Clay_County_Missouri_Incorporated_and_Unincorporated_areas_Liberty_Highlighted.svg.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Clay_County_Missouri_Incorporated_and_Unincorporated_areas_Liberty_Highlighted.svg/1200px-Clay_County_Missouri_Incorporated_and_Unincorporated_areas_Liberty_Highlighted.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Liberty ship - Wikipedia",
+   "htmlTitle": "\u003cb\u003eLiberty\u003c/b\u003e ship - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Liberty_ship",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Liberty ship was a class of cargo ship built in the United States during World \nWar II. Though British in conception, the design was adapted by the United ...",
+   "htmlSnippet": "The \u003cb\u003eLiberty\u003c/b\u003e ship was a class of cargo ship built in the United States during World \u003cbr\u003e\nWar II. Though British in conception, the design was adapted by the United&nbsp;...",
+   "cacheId": "MKgWCYTvId0J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Liberty_ship",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eLiberty\u003c/b\u003e_ship",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "292",
+      "height": "173",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrcQO9bosdP1D8kymKBcRFkcSRuXzO4_2MS-Y2D4qo905V1hrfHtY4elU"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/4/49/SS_John_W_Brown.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/49/SS_John_W_Brown.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Liberty, Texas - Wikipedia",
+   "htmlTitle": "\u003cb\u003eLiberty\u003c/b\u003e, Texas - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Liberty,_Texas",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Liberty is a city in the U.S. state of Texas, within Houston–The Woodlands–Sugar \nLand metropolitan area. The population was 8,397 at the 2010 census.",
+   "htmlSnippet": "\u003cb\u003eLiberty\u003c/b\u003e is a city in the U.S. state of Texas, within Houston–The Woodlands–Sugar \u003cbr\u003e\nLand metropolitan area. The population was 8,397 at the 2010 census.",
+   "cacheId": "X0kpYPczeWwJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Liberty,_Texas",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eLiberty\u003c/b\u003e,_Texas",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Liberty, Texas",
+      "category": "City"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "255",
+      "height": "197",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTtV6rBFIZQdT9UQJe2ORZr0O7zMyEzxDTF3jeR73ntAo8yyR7TK5p2EW4T"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Liberty_County_Liberty.svg/1200px-Liberty_County_Liberty.svg.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Liberty_County_Liberty.svg/1200px-Liberty_County_Liberty.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Liberty, Indiana - Wikipedia",
+   "htmlTitle": "\u003cb\u003eLiberty\u003c/b\u003e, Indiana - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Liberty,_Indiana",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Liberty is a town in Center Township, Union County, Indiana, United States. The \npopulation was 2,133 at the 2010 census. It is the county seat of Union County.",
+   "htmlSnippet": "\u003cb\u003eLiberty\u003c/b\u003e is a town in Center Township, Union County, Indiana, United States. The \u003cbr\u003e\npopulation was 2,133 at the 2010 census. It is the county seat of Union County.",
+   "cacheId": "23usqs-M710J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Liberty,_Indiana",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eLiberty\u003c/b\u003e,_Indiana",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Liberty, Indiana",
+      "category": "Town"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "194",
+      "height": "259",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSkllxrIwupB04KCk285rJMrUdrZLAE7QY-KRv87SVpxypCdRuVd19io2TQ"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Union_County_Courthouse%2C_Liberty%2C_in_daylight.jpg/1200px-Union_County_Courthouse%2C_Liberty%2C_in_daylight.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Union_County_Courthouse%2C_Liberty%2C_in_daylight.jpg/1200px-Union_County_Courthouse%2C_Liberty%2C_in_daylight.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Liberty (1881–1908) - Wikipedia",
+   "htmlTitle": "\u003cb\u003eLiberty\u003c/b\u003e (1881–1908) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Liberty_(1881%E2%80%931908)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Liberty was a nineteenth-century anarchist periodical published in the United \nStates by Benjamin Tucker, from August 1881 to April 1908. The periodical was ...",
+   "htmlSnippet": "\u003cb\u003eLiberty\u003c/b\u003e was a nineteenth-century anarchist periodical published in the United \u003cbr\u003e\nStates by Benjamin Tucker, from August 1881 to April 1908. The periodical was&nbsp;...",
+   "cacheId": "wqatffgcn2sJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Liberty_(1881–1908)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eLiberty\u003c/b\u003e_(1881–1908)",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Liberty",
+      "label": "Boston, Massachusetts"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "265",
+      "height": "190",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeVxANEysL0Sy1wQoF8tip6gbriCvwwO4E7qnFFbE46xoMDCqAjipwg1KV"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Liberty_OldPeriodical.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/99/Liberty_OldPeriodical.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "liberty - Wiktionary",
+   "htmlTitle": "\u003cb\u003eliberty\u003c/b\u003e - Wiktionary",
+   "link": "https://en.wikipedia.org/wiki/wikt:liberty",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "liberty (countable and uncountable, plural liberties). The condition of being ... The \nprisoners gained their liberty from an underground tunnel. The condition of ...",
+   "htmlSnippet": "\u003cb\u003eliberty\u003c/b\u003e (countable and uncountable, plural liberties). The condition of being ... The \u003cbr\u003e\nprisoners gained their \u003cb\u003eliberty\u003c/b\u003e from an underground tunnel. The condition of&nbsp;...",
+   "cacheId": "KwS_HgyWaNkJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/wikt:liberty",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/wikt:\u003cb\u003eliberty\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Liberty L-12 - Wikipedia",
+   "htmlTitle": "\u003cb\u003eLiberty\u003c/b\u003e L-12 - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Liberty_L-12",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Liberty L-12 was an American 27-litre (1,649 cubic inch) water-cooled 45° V-\n12 aircraft engine of 400 hp (300 kW) designed for a high power-to-weight ratio ...",
+   "htmlSnippet": "The \u003cb\u003eLiberty\u003c/b\u003e L-12 was an American 27-litre (1,649 cubic inch) water-cooled 45° V-\u003cbr\u003e\n12 aircraft engine of 400 hp (300 kW) designed for a high power-to-weight ratio&nbsp;...",
+   "cacheId": "312QJXcyNfcJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Liberty_L-12",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eLiberty\u003c/b\u003e_L-12",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoeUihevMXShRSy6tVAlbmiKR7wvEQ7YWF_G4FLRz8Ug_Pz-Z3mafS9s_d"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Liberty_L-12-1.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Liberty_L-12-1.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

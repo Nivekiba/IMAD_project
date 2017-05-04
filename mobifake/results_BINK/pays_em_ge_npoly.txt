@@ -1,0 +1,52 @@
+{
+    "Turkcells": {
+        "Turkcells": [
+
+        ]
+    },
+    "Anadollubank": {
+        "Anadollubank": [
+
+        ]
+    },
+    "MTN+": {
+        "MTN+": [
+
+        ]
+    },
+    "BICEC+Cmr": {
+        "BICEC+Cmr": [
+
+        ]
+    },
+    "TransBr\u00e9sil": {
+        "TransBr\u00e9sil": [
+
+        ]
+    },
+    "AEROFLOTTE": {
+        "AEROFLOTTE": [
+
+        ]
+    },
+    "Kapersky": {
+        "Kapersky": [
+
+        ]
+    },
+    "Camposte": {
+        "Camposte": [
+
+        ]
+    },
+    "Interswishe": {
+        "Interswishe": [
+
+        ]
+    },
+    "BankColombia": {
+        "BankColombia": [
+
+        ]
+    }
+}

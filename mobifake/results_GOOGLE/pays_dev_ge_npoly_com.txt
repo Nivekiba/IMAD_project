@@ -1,0 +1,175 @@
+{
+    "IBM+App": {
+        "ibm": 6,
+        "apple inc.": 2,
+        "lotuslive": 2,
+        "ibm mobile app builder": 1,
+        "2011": 1,
+        "apple inc": 2
+    },
+    "Vodaphone+Mobile+Money": {
+        "vodafone": 4,
+        "vodafone india": 1,
+        "vodacom tanzania": 1,
+        "vodafone egypt": 2,
+        ".eg": 1,
+        "atlas network": 1,
+        "vodafone group": 2,
+        "afrimax uganda registered office: plot 1 kololo hill drive": 1,
+        "vodafone international services": 1
+    },
+    "Facebook+App": {
+        "apple inc.": 1,
+        "uptodown": 1,
+        "media ingea sl": 1,
+        "facebook": 1,
+        "apple inc": 1
+    },
+    "DHL+mobile": {
+        "dhl express": 5,
+        "deutsche post": 3,
+        "dhl de guatemala": 2,
+        "bahria town": 1,
+        "dhl global forwarding": 1,
+        "dhl international gmbh": 4,
+        "dhl international gmbh &middot; all rights reserved": 1,
+        "dhl": 2,
+        "dhl freight gmbh": 1,
+        "deutsche post ag": 1
+    },
+    "HCL+Mobile+App": {
+        "hcl technologies": 3,
+        "google search": 1,
+        "apple inc.": 1,
+        "hcl technologies limited": 2,
+        "\u00a9 (c) 2013 - hcl technologies limitedrated 4+compatibility: requires ios\u00a06": 1,
+        "apple inc": 1
+    },
+    "SG+App": {
+        "apple inc.": 2,
+        "cimb": 1,
+        "netapp": 1,
+        "hub international": 1,
+        "international co-operative alliance": 1,
+        "gic private limited": 1,
+        "standard chartered": 3,
+        "land transport authority of singaporerated 4+compatibility: requires ios\u00a08": 1,
+        "apple inc": 2,
+        "sg nextbus pte": 1,
+        "app systems admin designed by ars emporium pte ltd": 1,
+        "\u00a9 ministry of health singapore": 1
+    },
+    "ING++Mobile": {
+        "ing group": 2,
+        "ing direct australia": 2,
+        "ing belgium": 1,
+        "ing bank \u015al\u0105ski": 2,
+        "kent ro systems": 1,
+        "ing bank \u015al\u0105ski s": 1
+    },
+    "ICBC+mobile+money": {
+        "generale belgian bank": 1,
+        "industrial and commercial bank of china": 6,
+        "insurance corporation of british columbia": 1,
+        "icbc": 1
+    },
+    "Citigroup+Transfert": {
+        "citigroup": 2
+    },
+    "Commonweath+App": {
+        "apple inc.": 1,
+        "goose lane editions": 1,
+        "commonwealth fund": 1,
+        "commonwealth bank of australiarated 4+compatibility: requires ios\u00a08": 1,
+        "apple inc": 1,
+        "the commonwealth fund": 1
+    },
+    "Sberbank+App": {
+        "sberbank of russia": 2,
+        "apple inc.": 2,
+        "sberbank srbija": 1,
+        "sberbank slovensko": 1,
+        "\u0421\u0431\u0435\u0440\u0431\u0430\u043d\u043a \u0420\u043e\u0441\u0441\u0438\u0438\u0412\u043e\u0437\u0440\u0430\u0441\u0442 4+\u0421\u043e\u0432\u043c\u0435\u0441\u0442\u0438\u043c\u043e\u0441\u0442\u044c: \u0422\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044f ios\u00a07": 1,
+        "apple inc": 2,
+        "\u00ab\u041f\u0410\u041e \u00ab\u0421\u0431\u0435\u0440\u0431\u0430\u043d\u043a\u00bbrated 4+compatibility: requires ios\u00a07": 1,
+        "\u00a9 sberbank cz": 1
+    },
+    "Axa+mobile+App": {
+        "apple inc.": 1,
+        "axa": 13,
+        "axa ppp healthcare": 1,
+        "axa deutschland": 1,
+        "axa equitable life insurance companyrated 4+compatibility: requires ios\u00a07": 1,
+        "apple inc": 1,
+        "axa konzern ag": 1
+    },
+    "Rapid+Mac+Do+": {
+        "dorm company corporation": 1,
+        "comstock's magazine": 1,
+        "softonic.com": 1,
+        "\u00a9 2015&nbsp;www": 1
+    },
+    "Aviva+App": {
+        "aviva": 8,
+        "apple inc.": 1,
+        "aviva canada": 2,
+        "aviva india": 1,
+        "aviva group ireland": 1,
+        "aviva insurance limitedrated 4+compatibility: requires ios\u00a08": 1,
+        "apple inc": 1,
+        "aviva india \u00a9 \u00a0\u00a0\u00a0\u00a0": 1,
+        "to the information contained on this app": 1,
+        "aviva plc": 1,
+        "aviva ltd": 1,
+        "accessible aviva'": 1,
+        "aviva ireland": 1
+    },
+    "Quick+unilever": {
+        "unilever": 8,
+        "uta brand studio": 1,
+        "unilever food solutions ireland - all rights reserved": 1,
+        "unilever food solutions - all rights reserved": 1,
+        "\":\"\u00a9 2014": 2,
+        "mansueto ventures": 1
+    },
+    "Toshiba++mobile+market": {
+        "toshiba": 3,
+        "toshiba telecommunication systems division": 2,
+        "toshiba corporation": 1,
+        "toshiba america business solutions": 2
+    },
+    "LG+mobile+Command": {
+        "t-mobile us": 4,
+        "lg corporation": 1,
+        "t-mobile usa": 4,
+        "lg electronics": 1
+    },
+    "Fortis+App": {
+        "apple inc.": 1,
+        "bnp paribas fortis": 2,
+        "fortis inc.": 3,
+        "kgb archiver": 1,
+        "assurant": 1,
+        "kogan australia pty ltdrated 4+compatibility: requires ios\u00a07": 1,
+        "apple inc": 1,
+        "fortisalberta inc": 2,
+        "\u00a9 2016": 1,
+        "fortis technologies": 1
+    },
+    "Google++App": {
+        "google search": 12,
+        "apple inc.": 1,
+        "google cloud platform": 1,
+        "google inc": 1,
+        "apple inc": 1,
+        "google privacy policy terms of service deutsch&lrm;espa\u00f1ol&lrm;fran\u00e7ais&lrm;indonesia&lrm;italiano&lrm;nederlands&lrm;polski&lrm;portugu\u00eas (brasil)&lrm;svenska&lrm;t\u00fcrk\u00e7e&lrm;\u0440\u0443\u0441\u0441\u043a\u0438\u0439&lrm;\u0627\u0644\u0639\u0631\u0628\u064a\u0629&rlm;\u0e44\u0e17\u0e22&lrm;\u4e2d\u6587\uff08\u7b80\u4f53\uff09&lrm;\u4e2d\u6587\uff08\u7e41\u9ad4\uff09&lrm;\u65e5\u672c\u8a9e&lrm;\ud55c\uad6d\uc5b4&lrm; english&lrm; window['sc_log']= function(){}; (function(){var bcurl='https:\/\/support": 1,
+        "google privacy policy terms of service bahasa melayu&lrm;catal\u00e0&lrm;dansk&lrm;deutsch&lrm;eesti&lrm;espa\u00f1ol&lrm;espa\u00f1ol (latinoam\u00e9rica)&lrm;filipino&lrm;fran\u00e7ais&lrm;hrvatski&lrm;indonesia&lrm;italiano&lrm;latvie\u0161u&lrm;lietuvi\u0173&lrm;magyar&lrm;nederlands&lrm;norsk&lrm;polski&lrm;portugu\u00eas (brasil)&lrm;rom\u00e2n\u0103&lrm;sloven\u010dina&lrm;sloven\u0161\u010dina&lrm;suomi&lrm;svenska&lrm;ti\u1ebfng vi\u1ec7t&lrm;t\u00fcrk\u00e7e&lrm;\u010de\u0161tina&lrm;\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac&lrm;\u0431\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438&lrm;\u0440\u0443\u0441\u0441\u043a\u0438\u0439&lrm;\u0441\u0440\u043f\u0441\u043a\u0438&lrm;\u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430&lrm;\u05e2\u05d1\u05e8\u05d9\u05ea&rlm;\u0627\u0644\u0639\u0631\u0628\u064a\u0629&rlm;\u0939\u093f\u0928\u094d\u0926\u0940&lrm;\u0e44\u0e17\u0e22&lrm;\u4e2d\u6587\uff08\u7b80\u4f53\uff09&lrm;\u4e2d\u6587\uff08\u7e41\u9ad4\uff09&lrm;\u65e5\u672c\u8a9e&lrm;\ud55c\uad6d\uc5b4&lrm; english&lrm; window['sc_log']= function(){}; (function(){var bcurl='https:\/\/support": 1,
+        "google - terms of service - program policies - help center - google cloud blog": 1
+    },
+    "Easy+Airbus+": {
+        "airbus group": 2,
+        "airbus helicopters": 2,
+        "airbus": 2,
+        "airbus s": 2
+    }
+}

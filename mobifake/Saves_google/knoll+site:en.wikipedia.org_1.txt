@@ -1,0 +1,345 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - knoll site:en.wikipedia.org",
+    "totalResults": "6290",
+    "searchTerms": "knoll site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - knoll site:en.wikipedia.org",
+    "totalResults": "6290",
+    "searchTerms": "knoll site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "Google"
+ },
+ "searchInformation": {
+  "searchTime": 0.958751,
+  "formattedSearchTime": "0.96",
+  "totalResults": "6290",
+  "formattedTotalResults": "6,290"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Knoll - Wikipedia",
+   "htmlTitle": "\u003cb\u003eKnoll\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Knoll",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "In geography, knoll is another term for hillock, a small, low, round natural hill or \nmound. Knoll may also refer to: Places[edit]. The Knoll, a knoll on Ross Island, ...",
+   "htmlSnippet": "In geography, \u003cb\u003eknoll\u003c/b\u003e is another term for hillock, a small, low, round natural hill or \u003cbr\u003e\nmound. \u003cb\u003eKnoll\u003c/b\u003e may also refer to: Places[edit]. The \u003cb\u003eKnoll\u003c/b\u003e, a \u003cb\u003eknoll\u003c/b\u003e on Ross Island,&nbsp;...",
+   "cacheId": "HrEOTeeuKsMJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Knoll",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eKnoll\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Knoll (company) - Wikipedia",
+   "htmlTitle": "\u003cb\u003eKnoll\u003c/b\u003e (company) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Knoll_(company)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Knoll, Inc is a design firm that produces office systems, seating, files and storage, \ntables and desks, textiles (KnollTextiles), and accessories for the office, home, ...",
+   "htmlSnippet": "\u003cb\u003eKnoll\u003c/b\u003e, Inc is a design firm that produces office systems, seating, files and storage, \u003cbr\u003e\ntables and desks, textiles (KnollTextiles), and accessories for the office, home,&nbsp;...",
+   "cacheId": "55oX-snCn3EJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Knoll_(company)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eKnoll\u003c/b\u003e_(company)",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Knoll",
+      "label": "East Greenville, Pennsylvania, United States",
+      "category": "Public"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "122",
+      "height": "47",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLmgoLBHL8jfha-_KA-RkFQuA5-RHJXtDHHo_9-_laPoMrYu_lim2s7A"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/0/08/Log-knl.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/0/08/Log-knl.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "knoll - Wiktionary",
+   "htmlTitle": "\u003cb\u003eknoll\u003c/b\u003e - Wiktionary",
+   "link": "http://en.wikipedia.org/wiki/Wiktionary:knoll",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "knoll (plural knolls) ... knoll (third-person singular simple present knolls, present \nparticiple knolling, simple past ... If ever been where bells have knoll´d to church.",
+   "htmlSnippet": "\u003cb\u003eknoll\u003c/b\u003e (plural \u003cb\u003eknolls\u003c/b\u003e) ... \u003cb\u003eknoll\u003c/b\u003e (third-person singular simple present \u003cb\u003eknolls\u003c/b\u003e, present \u003cbr\u003e\nparticiple knolling, simple past ... If ever been where bells have \u003cb\u003eknoll\u003c/b\u003e´d to church.",
+   "cacheId": "fX2hMbJ6Hk4J",
+   "formattedUrl": "en.wikipedia.org/wiki/Wiktionary:knoll",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Wiktionary:\u003cb\u003eknoll\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Florence Knoll - Wikipedia",
+   "htmlTitle": "Florence \u003cb\u003eKnoll\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Florence_Knoll",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Florence Marguerite Knoll Bassett (née Schust; born May 24, 1917) is an \nAmerican architect and furniture designer who studied under Mies van der Rohe \nand ...",
+   "htmlSnippet": "Florence Marguerite \u003cb\u003eKnoll\u003c/b\u003e Bassett (née Schust; born May 24, 1917) is an \u003cbr\u003e\nAmerican architect and furniture designer who studied under Mies van der Rohe \u003cbr\u003e\nand&nbsp;...",
+   "cacheId": "dSunkmTt6Y8J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Florence_Knoll",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Florence_\u003cb\u003eKnoll\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "291",
+      "height": "173",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQlE0nlLjHkkEy4upU7RYq0qNB1ZNNFSv_OQcwzgQXycVgjxRIXgb2V-y8"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Mies-Barcelona-Chair-and-Ottoman.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/db/Mies-Barcelona-Chair-and-Ottoman.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "John Knoll - Wikipedia",
+   "htmlTitle": "John \u003cb\u003eKnoll\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/John_Knoll",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "John Knoll (born October 6, 1962) is an American visual effects supervisor and \nchief creative officer (CCO) at Industrial Light & Magic (ILM). One of the original ...",
+   "htmlSnippet": "John \u003cb\u003eKnoll\u003c/b\u003e (born October 6, 1962) is an American visual effects supervisor and \u003cbr\u003e\nchief creative officer (CCO) at Industrial Light &amp; Magic (ILM). One of the original&nbsp;...",
+   "cacheId": "8LlHCZVVhHUJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/John_Knoll",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/John_\u003cb\u003eKnoll\u003c/b\u003e",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "John Knoll",
+      "bday": "1962-10-06",
+      "role": "Visual effects supervisor, chief creative officer (CCO)"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "178",
+      "height": "283",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVYO1Zw1gOOK4Lis543-QZ1OLxcYVQmAA0H0WxVvcW7mNLi3siJhzMXBc"
+     }
+    ],
+    "person": [
+     {
+      "role": "Visual effects supervisor, chief creative officer (CCO)"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/8/84/John_Knoll_%282%29_%28cropped%29.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/84/John_Knoll_%282%29_%28cropped%29.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Thomas Knoll - Wikipedia",
+   "htmlTitle": "Thomas \u003cb\u003eKnoll\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Thomas_Knoll",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Thomas Knoll (born April 14, 1960) is an American software engineer who \ncreated Adobe Photoshop. He initiated the development of image processing \nroutines ...",
+   "htmlSnippet": "Thomas \u003cb\u003eKnoll\u003c/b\u003e (born April 14, 1960) is an American software engineer who \u003cbr\u003e\ncreated Adobe Photoshop. He initiated the development of image processing \u003cbr\u003e\nroutines&nbsp;...",
+   "cacheId": "P2cOpYriTiYJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Thomas_Knoll",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Thomas_\u003cb\u003eKnoll\u003c/b\u003e",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Thomas Knoll",
+      "bday": "1960-04-14",
+      "role": "Software engineer"
+     }
+    ],
+    "person": [
+     {
+      "role": "Software engineer"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Bluff Knoll - Wikipedia",
+   "htmlTitle": "Bluff \u003cb\u003eKnoll\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Bluff_Knoll",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Bluff Knoll is a peak in the Stirling Range in the Great Southern region of Western \nAustralia (WA). It is 1,099 metres (3,606 ft) above sea level, and is one of only ...",
+   "htmlSnippet": "Bluff \u003cb\u003eKnoll\u003c/b\u003e is a peak in the Stirling Range in the Great Southern region of Western \u003cbr\u003e\nAustralia (WA). It is 1,099 metres (3,606 ft) above sea level, and is one of only&nbsp;...",
+   "cacheId": "4osV_Sg4V1YJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Bluff_Knoll",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bluff_\u003cb\u003eKnoll\u003c/b\u003e",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Bluff Knoll",
+      "category": "Stirling Range"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0g3gx-41FqeYhv9z1ngLx7TQz0kgr5sYhGcAdrYsXjz-9MySnm80xPlE"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bluff_knoll_01_gnangarra.jpg/1200px-Bluff_knoll_01_gnangarra.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bluff_knoll_01_gnangarra.jpg/1200px-Bluff_knoll_01_gnangarra.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Battle of Slater's Knoll - Wikipedia",
+   "htmlTitle": "Battle of Slater&#39;s \u003cb\u003eKnoll\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Battle_of_Slater%27s_Knoll",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Battle of Slater's Knoll (28 March – 6 April 1945) was a battle during the \nSecond World War fought between Australian and Japanese forces on \nBougainville ...",
+   "htmlSnippet": "The Battle of Slater&#39;s \u003cb\u003eKnoll\u003c/b\u003e (28 March – 6 April 1945) was a battle during the \u003cbr\u003e\nSecond World War fought between Australian and Japanese forces on \u003cbr\u003e\nBougainville&nbsp;...",
+   "cacheId": "GozjDmzff6AJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Battle_of_Slater%27s_Knoll",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Battle_of_Slater%27s_\u003cb\u003eKnoll\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "276",
+      "height": "183",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtycAsyuo94iXlB4_9u3qHL2Db0wMkUEbz0TCyzGNPIsoikcnSKiqxzHs"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Battle_of_Slater%27s_Knoll_April_1945_%28AWM_image_090360%29.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/40/Battle_of_Slater%27s_Knoll_April_1945_%28AWM_image_090360%29.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Max Knoll - Wikipedia",
+   "htmlTitle": "Max \u003cb\u003eKnoll\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Max_Knoll",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Max Knoll (17 July 1897 – 6 November 1969) was a German electrical engineer. \nKnoll was born in Wiesbaden and studied in Munich and at the Technical ...",
+   "htmlSnippet": "Max \u003cb\u003eKnoll\u003c/b\u003e (17 July 1897 – 6 November 1969) was a German electrical engineer. \u003cbr\u003e\n\u003cb\u003eKnoll\u003c/b\u003e was born in Wiesbaden and studied in Munich and at the Technical&nbsp;...",
+   "cacheId": "-qqDj3BBdtgJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Max_Knoll",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Max_\u003cb\u003eKnoll\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "James Knoll Gardner - Wikipedia",
+   "htmlTitle": "James \u003cb\u003eKnoll\u003c/b\u003e Gardner - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/James_Knoll_Gardner",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "James Knoll Gardner (September 14, 1940 – April 26, 2017) was a United States \nDistrict Judge of the United States District Court for the Eastern District of ...",
+   "htmlSnippet": "James \u003cb\u003eKnoll\u003c/b\u003e Gardner (September 14, 1940 – April 26, 2017) was a United States \u003cbr\u003e\nDistrict Judge of the United States District Court for the Eastern District of&nbsp;...",
+   "cacheId": "0lBbUq7hXE4J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/James_Knoll_Gardner",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/James_\u003cb\u003eKnoll\u003c/b\u003e_Gardner",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "James Knoll Gardner"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  }
+ ]
+}

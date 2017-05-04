@@ -1,0 +1,84 @@
+{
+    "IBM+us": {
+        "ibm": 8
+    },
+    "Vodaphone+": {
+        "vodafone uk": 1,
+        "vodafone hutchison australia": 1,
+        "vodafone new zealand": 1,
+        "vodafone": 3,
+        "vodafone ireland": 1,
+        "vodafone egypt": 1,
+        "vodafone greece": 1,
+        "vodafone faroe islands": 1,
+        "vodafone hutchison australia pty limited": 1,
+        "vodafone new zealand ltd": 1,
+        "vodafone limitedterms &amp; conditions\u00a9 2016 vodafone ireland limited": 1,
+        "cu \u00a0": 1,
+        "cu": 1,
+        "- pacific mobile telecom mentions l&eacute;gales - plan du site -&nbsp;cookies -&nbsp;signaler un contenu illicitesite optimis&eacute; firefox v": 1
+    },
+    "Facebok": [
+
+    ],
+    "DHLL": [
+
+    ],
+    "HCL+T": {
+        "hcl technologies": 4,
+        "glassdoor": 2,
+        "hcl technologies limited": 3,
+        "hcl": 1
+    },
+    "Facebok+": [
+
+    ],
+    "Soc+General": {
+        "soci\u00e9t\u00e9 g\u00e9n\u00e9rale": 8,
+        "soci\u00e9t\u00e9 g\u00e9n\u00e9rale srbija": 1,
+        "soci&eacute;t&eacute; g&eacute;n&eacute;rale": 1,
+        "- societe generale": 1
+    },
+    "INGNet": [
+
+    ],
+    "ICBChina": [
+
+    ],
+    "citygroup": [
+
+    ],
+    "Commonwealth+banking": [
+
+    ],
+    "SberrBanking": [
+
+    ],
+    "axxa": [
+
+    ],
+    "Mac+donnadl": [
+
+    ],
+    "Avyva": [
+
+    ],
+    "Unillever": [
+
+    ],
+    "tochiba": [
+
+    ],
+    "LG\u00e9": [
+
+    ],
+    "Fortisse": [
+
+    ],
+    "Gooogle": [
+
+    ],
+    "Airbuss": [
+
+    ]
+}

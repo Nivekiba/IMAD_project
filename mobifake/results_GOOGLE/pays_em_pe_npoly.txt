@@ -1,0 +1,22 @@
+{
+    "MpayOk": [
+
+    ],
+    "MiFone": {
+        "xiaomi": 1,
+        "mi-fone": 1
+    },
+    "Zutazia": [
+
+    ],
+    "Wanaga+Nija": [
+
+    ],
+    "Unibanko": {
+        "unibank (haiti)": 3,
+        "- unibank s": 1
+    },
+    "Transmillieno": [
+
+    ]
+}

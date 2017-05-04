@@ -1,0 +1,362 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - radar site:en.wikipedia.org",
+    "totalResults": "24600",
+    "searchTerms": "radar site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - radar site:en.wikipedia.org",
+    "totalResults": "24600",
+    "searchTerms": "radar site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "Google"
+ },
+ "searchInformation": {
+  "searchTime": 0.334958,
+  "formattedSearchTime": "0.33",
+  "totalResults": "24600",
+  "formattedTotalResults": "24,600"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Radar - Wikipedia",
+   "htmlTitle": "\u003cb\u003eRadar\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Radar",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Radar is an object-detection system that uses radio waves to determine the \nrange, angle, or velocity of objects. It can be used to detect aircraft, ships, \nspacecraft, ...",
+   "htmlSnippet": "\u003cb\u003eRadar\u003c/b\u003e is an object-detection system that uses radio waves to determine the \u003cbr\u003e\nrange, angle, or velocity of objects. It can be used to detect aircraft, ships, \u003cbr\u003e\nspacecraft,&nbsp;...",
+   "cacheId": "9f2dQTO7fT0J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Radar",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eRadar\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "199",
+      "height": "254",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQDcWL8vyqocKZ3sCLEHCa8dRjKb35qQ1j0L1bgnLRD-SlbfsiSDZGQC48"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Radar_antenna.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/90/Radar_antenna.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Weather radar - Wikipedia",
+   "htmlTitle": "Weather \u003cb\u003eradar\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Weather_radar",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Weather radar, also called weather surveillance radar (WSR) and Doppler \nweather radar, is a type of radar used to locate precipitation, calculate its motion, \nand ...",
+   "htmlSnippet": "Weather \u003cb\u003eradar\u003c/b\u003e, also called weather surveillance \u003cb\u003eradar\u003c/b\u003e (WSR) and Doppler \u003cbr\u003e\nweather \u003cb\u003eradar\u003c/b\u003e, is a type of \u003cb\u003eradar\u003c/b\u003e used to locate precipitation, calculate its motion, \u003cbr\u003e\nand&nbsp;...",
+   "cacheId": "jyTyyZYN_70J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Weather_radar",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Weather_\u003cb\u003eradar\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "279",
+      "height": "181",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTJFJfY_MLyypc4T9aLhf7EMwfsf1wLFKNzAH4rVOK7teiXnk3iX1f8WuFI"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/NSSL_Doppler_with_rainshaft_-_NOAA.jpg/1200px-NSSL_Doppler_with_rainshaft_-_NOAA.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/NSSL_Doppler_with_rainshaft_-_NOAA.jpg/1200px-NSSL_Doppler_with_rainshaft_-_NOAA.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Radar chart - Wikipedia",
+   "htmlTitle": "\u003cb\u003eRadar\u003c/b\u003e chart - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Radar_chart",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A radar chart is a graphical method of displaying multivariate data in the form of a \ntwo-dimensional chart of three or more quantitative variables represented on ...",
+   "htmlSnippet": "A \u003cb\u003eradar\u003c/b\u003e chart is a graphical method of displaying multivariate data in the form of a \u003cbr\u003e\ntwo-dimensional chart of three or more quantitative variables represented on&nbsp;...",
+   "cacheId": "m42ZiWtA0n0J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Radar_chart",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eRadar\u003c/b\u003e_chart",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "254",
+      "height": "198",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT0G_1PbzXe5X_I2CJqfJB-kMP4bSYACM8bCNJxQbRDGsUDvDSIVKDU-Q4"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/0/09/MER_Star_Plot.gif"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/09/MER_Star_Plot.gif"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Doppler radar - Wikipedia",
+   "htmlTitle": "Doppler \u003cb\u003eradar\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Doppler_radar",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A Doppler radar is a specialized radar that uses the Doppler effect to produce \nvelocity data about objects at a distance. It does this by bouncing a microwave ...",
+   "htmlSnippet": "A Doppler \u003cb\u003eradar\u003c/b\u003e is a specialized \u003cb\u003eradar\u003c/b\u003e that uses the Doppler effect to produce \u003cbr\u003e\nvelocity data about objects at a distance. It does this by bouncing a microwave&nbsp;...",
+   "cacheId": "5MUmfg9rfAIJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Doppler_radar",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Doppler_\u003cb\u003eradar\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "240",
+      "height": "76",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTiWqkjXBPqYKyIXegxqMt4R84Mo9hpysWm6PINf-mQ8b7Y6arnl5Ch4g"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Doppler_effect_diagrammatic.svg/300px-Doppler_effect_diagrammatic.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Radar Online - Wikipedia",
+   "htmlTitle": "\u003cb\u003eRadar\u003c/b\u003e Online - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Radar_Online",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "RadarOnline.com is an American entertainment and gossip website that was first \npublished as a print and online publication in September 2003 before ...",
+   "htmlSnippet": "RadarOnline.com is an American entertainment and gossip website that was first \u003cbr\u003e\npublished as a print and online publication in September 2003 before&nbsp;...",
+   "cacheId": "th0cmsyF_jsJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Radar_Online",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eRadar\u003c/b\u003e_Online",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "RadarOnline.com",
+      "url": "radaronline.com",
+      "url_text": "radaronline.com",
+      "bday": "2008"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "282",
+      "height": "138",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR7nrpTTwC7rkR-Rv1OiufL5hER0rjtXpU-l5M1dMTicEgLUxTT9FQfquE5"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/f/f3/RadarOnline_Logo.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/f/f3/RadarOnline_Logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Radar detector - Wikipedia",
+   "htmlTitle": "\u003cb\u003eRadar\u003c/b\u003e detector - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Radar_detector",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A radar detector is an electronic device used by motorists to detect if their speed \nis being monitored by police or law enforcement using a radar gun. Most radar ...",
+   "htmlSnippet": "A \u003cb\u003eradar\u003c/b\u003e detector is an electronic device used by motorists to detect if their speed \u003cbr\u003e\nis being monitored by police or law enforcement using a \u003cb\u003eradar\u003c/b\u003e gun. Most \u003cb\u003eradar\u003c/b\u003e&nbsp;...",
+   "cacheId": "obI6iET3M7UJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Radar_detector",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eRadar\u003c/b\u003e_detector",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTLRHSIKWeOA2kEXqVCO-z3qpT0-rpIsH5hPiRZ3HCBp_34Pv6z5y_Ixu_"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Fuzzbuster2000.jpg/1200px-Fuzzbuster2000.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Fuzzbuster2000.jpg/1200px-Fuzzbuster2000.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "radar - Wiktionary",
+   "htmlTitle": "\u003cb\u003eradar\u003c/b\u003e - Wiktionary",
+   "link": "https://en.wikipedia.org/wiki/Wiktionary:radar",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "... a system or of the transmitting and receiving apparatus. (countable, figuratively\n) A superior ability to detect something. His sensitive radar for hidden alliances ...",
+   "htmlSnippet": "... a system or of the transmitting and receiving apparatus. (countable, figuratively\u003cbr\u003e\n) A superior ability to detect something. His sensitive \u003cb\u003eradar\u003c/b\u003e for hidden alliances&nbsp;...",
+   "cacheId": "ovMCNK8Lvr8J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Wiktionary:radar",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wiktionary:\u003cb\u003eradar\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Radar gun - Wikipedia",
+   "htmlTitle": "\u003cb\u003eRadar\u003c/b\u003e gun - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Radar_gun",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A radar speed gun is a device used to measure the speed of moving objects. It is \nused in law-enforcement to measure the speed of moving vehicles and is often ...",
+   "htmlSnippet": "A \u003cb\u003eradar\u003c/b\u003e speed gun is a device used to measure the speed of moving objects. It is \u003cbr\u003e\nused in law-enforcement to measure the speed of moving vehicles and is often&nbsp;...",
+   "cacheId": "GhZYZzfgcdkJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Radar_gun",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eRadar\u003c/b\u003e_gun",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "185",
+      "height": "273",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-Bzmj9Xi63M2990HDXpKniJ-2-tDfsHYib7nkHnQDbqXABnNOMy0_F-e0"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Radarvelocidade20022007.jpg/1200px-Radarvelocidade20022007.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Radarvelocidade20022007.jpg/1200px-Radarvelocidade20022007.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Radar astronomy - Wikipedia",
+   "htmlTitle": "\u003cb\u003eRadar\u003c/b\u003e astronomy - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Radar_astronomy",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Radar astronomy is a technique of observing nearby astronomical objects by \nreflecting microwaves off target objects and analyzing the reflections. This \nresearch ...",
+   "htmlSnippet": "\u003cb\u003eRadar\u003c/b\u003e astronomy is a technique of observing nearby astronomical objects by \u003cbr\u003e\nreflecting microwaves off target objects and analyzing the reflections. This \u003cbr\u003e\nresearch&nbsp;...",
+   "cacheId": "0-72FnWlTV8J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Radar_astronomy",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eRadar\u003c/b\u003e_astronomy",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "274",
+      "height": "184",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNFQ0NmYHkmrOsYYis2GfJgzghux-MM0PSHGj3uPGBuWqQ-u562kxfOcQ"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/MillstoneHill.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cf/MillstoneHill.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ground-penetrating radar - Wikipedia",
+   "htmlTitle": "Ground-penetrating \u003cb\u003eradar\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Ground-penetrating_radar",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Ground-penetrating radar (GPR) is a geophysical method that uses radar pulses \nto image the subsurface. This nondestructive method uses electromagnetic ...",
+   "htmlSnippet": "Ground-penetrating \u003cb\u003eradar\u003c/b\u003e (GPR) is a geophysical method that uses \u003cb\u003eradar\u003c/b\u003e pulses \u003cbr\u003e\nto image the subsurface. This nondestructive method uses electromagnetic&nbsp;...",
+   "cacheId": "60DQaN_NOXAJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Ground-penetrating_radar",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Ground-penetrating_\u003cb\u003eradar\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "270",
+      "height": "186",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTFotaS6ILZtvMS2A_HaqjgIMudxIrLkdbai3e_tk0gOgl7ZXNJ7qIF9x4"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/LINE21.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9c/LINE21.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

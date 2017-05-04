@@ -1,0 +1,52 @@
+{
+    "Turkcell+Mobile": {
+        "Turkcell+Mobile": [
+
+        ]
+    },
+    "Anadolu+Mobile+Money": {
+        "Anadolu+Mobile+Money": [
+
+        ]
+    },
+    "MTN+mobile+transfert": {
+        "MTN+mobile+transfert": [
+
+        ]
+    },
+    "BICEC+Mobile+": {
+        "BICEC+Mobile+": [
+
+        ]
+    },
+    "Rapid+Transbrazil": {
+        "Rapid+Transbrazil": [
+
+        ]
+    },
+    "AEROFLOT-Official-mobile": {
+        "AEROFLOT-Official-mobile": [
+
+        ]
+    },
+    "Kapersky+App": {
+        "Kapersky+App": [
+
+        ]
+    },
+    "CampostePhone": {
+        "CampostePhone": [
+
+        ]
+    },
+    "Interswich+App": {
+        "Interswich+App": [
+
+        ]
+    },
+    "Bancolombia+Mobile": {
+        "Bancolombia+Mobile": [
+
+        ]
+    }
+}

@@ -1,0 +1,352 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - headgum.com site:en.wikipedia.org",
+    "totalResults": "30",
+    "searchTerms": "headgum.com site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - headgum.com site:en.wikipedia.org",
+    "totalResults": "30",
+    "searchTerms": "headgum.com site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "Google"
+ },
+ "searchInformation": {
+  "searchTime": 0.461364,
+  "formattedSearchTime": "0.46",
+  "totalResults": "30",
+  "formattedTotalResults": "30"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "HeadGum - Wikipedia",
+   "htmlTitle": "\u003cb\u003eHeadGum\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/HeadGum",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "HeadGum is a podcasting network founded by Amir Blumenfeld, Jake Hurwitz, \nand Marty Michael. Launched on August 1, 2015, the network is home to 28 ...",
+   "htmlSnippet": "\u003cb\u003eHeadGum\u003c/b\u003e is a podcasting network founded by Amir Blumenfeld, Jake Hurwitz, \u003cbr\u003e\nand Marty Michael. Launched on August 1, 2015, the network is home to 28&nbsp;...",
+   "cacheId": "_70UNkvE1TYJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/HeadGum",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eHeadGum\u003c/b\u003e",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Headgum",
+      "url": "headgum.com",
+      "url_text": "headgum.com",
+      "bday": "2015-08-01",
+      "label": "Los Angeles[1] Brooklyn, New York, U.S.[1]",
+      "category": "Privately held company"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "80",
+      "height": "175",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-Z61L9e-B3k8CBx3z2_K2lAEY5F0rt7iyrCHH525QeSmA7D9ykUpRcA"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Headgum_Logo.jpg/100px-Headgum_Logo.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "File:Headgum Logo.jpg - Wikipedia",
+   "htmlTitle": "File:\u003cb\u003eHeadgum\u003c/b\u003e Logo.jpg - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/File:Headgum_Logo.jpg",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Description, Company logo for the Headgum podcast network. ... use (WP:NFCC\n#3), File will be used only as identification of Headgum in the HeadGum article.",
+   "htmlSnippet": "Description, Company logo for the \u003cb\u003eHeadgum\u003c/b\u003e podcast network. ... use (WP:NFCC\u003cbr\u003e\n#3), File will be used only as identification of \u003cb\u003eHeadgum\u003c/b\u003e in the \u003cb\u003eHeadGum\u003c/b\u003e article.",
+   "cacheId": "4IrOujW9r1QJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/File:Headgum_Logo.jpg",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/File:\u003cb\u003eHeadgum\u003c/b\u003e_Logo.jpg",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "151",
+      "height": "333",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTdbTf9karbxlUfEjUSdqgzjNXc38CZ05rU6eoS9wFy0jFGZlTbdhF57IU"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/2/2a/Headgum_Logo.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Gilmore Guys - Wikipedia",
+   "htmlTitle": "Gilmore Guys - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Gilmore_Guys",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Provider, HeadGum. Website, gilmoreguysshow.com. Gilmore Guys is an audio \npodcast established in 2014, following Kevin T. Porter and Demi ...",
+   "htmlSnippet": "Provider, \u003cb\u003eHeadGum\u003c/b\u003e. Website, gilmoreguysshow.com. Gilmore Guys is an audio \u003cbr\u003e\npodcast established in 2014, following Kevin T. Porter and Demi&nbsp;...",
+   "cacheId": "mybyfdSBBE8J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Gilmore_Guys",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Gilmore_Guys",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTo9903pm_rOH3JOoAEVD8xb3DA0c0ccfHJhO1_WFKJ8lK5b_kSrXdweO5I"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/f/fd/Gilmore_Guys.jpeg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/f/fd/Gilmore_Guys.jpeg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "William Haynes (comedian) - Wikipedia",
+   "htmlTitle": "William Haynes (comedian) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/William_Haynes_(comedian)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "William Washington James Haynes is an American YouTube and TV personality, \ncomedian ... Daren Vongirdner (aka DVG), Haynes hosted the She Didn't Text \nBack Podcast podcast, a part of the HeadGum podcasting network.",
+   "htmlSnippet": "William Washington James Haynes is an American YouTube and TV personality, \u003cbr\u003e\ncomedian ... Daren Vongirdner (aka DVG), Haynes hosted the She Didn&#39;t Text \u003cbr\u003e\nBack Podcast podcast, a part of the \u003cb\u003eHeadGum\u003c/b\u003e podcasting network.",
+   "cacheId": "-uy5YOvbOiEJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/William_Haynes_(comedian)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/William_Haynes_(comedian)",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "William Haynes",
+      "nickname": "William Washington James Haynes",
+      "category": "Observational comedy, self-deprecation, satire"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "186",
+      "height": "272",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSjkMYlQ-NL2vYTgqeBIi6HE8jF6AlT3JwJTHqTqZW3HHYmz545Qn9OUdM"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/4/47/William_Haynes_Vlogbrothers_2016.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/47/William_Haynes_Vlogbrothers_2016.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Amir Blumenfeld - Wikipedia",
+   "htmlTitle": "Amir Blumenfeld - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Amir_Blumenfeld",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Amir Shmuel Blumenfeld is an Israeli-American comedian, actor, writer and \ntelevision host. .... HeadGum includes 11 podcasts, many of which are hosted by \ncomedians who were involved with CollegeHumor, including Streeter Seidell and\n ...",
+   "htmlSnippet": "Amir Shmuel Blumenfeld is an Israeli-American comedian, actor, writer and \u003cbr\u003e\ntelevision host. .... \u003cb\u003eHeadGum\u003c/b\u003e includes 11 podcasts, many of which are hosted by \u003cbr\u003e\ncomedians who were involved with CollegeHumor, including Streeter Seidell and\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "IU8vcWgMQMwJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Amir_Blumenfeld",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Amir_Blumenfeld",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Amir Blumenfeld",
+      "nickname": "אמיר בלומנפלד",
+      "bday": "1983-01-18",
+      "role": "Comedian, actor, writer, presenter",
+      "category": "Israeli American"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "183",
+      "height": "275",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRejQ9emcas8RGsb_wYTGjJKrwQpPkP5CG6rlzI6uILhEvRZpUl8JX1Fkw"
+     }
+    ],
+    "person": [
+     {
+      "role": "Comedian, actor, writer, presenter"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/3/32/AmirBlumenfeld2016.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/32/AmirBlumenfeld2016.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Talk of Shame - Wikipedia",
+   "htmlTitle": "The Talk of Shame - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/The_Talk_of_Shame",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Talk of Shame is a comedy podcast created and hosted by Streeter Seidell, \nknown best for ... features a listener-submitted embarrassing story read by a \nBritish person. The Talk of Shame joined the HeadGum network in August, 2015.",
+   "htmlSnippet": "The Talk of Shame is a comedy podcast created and hosted by Streeter Seidell, \u003cbr\u003e\nknown best for ... features a listener-submitted embarrassing story read by a \u003cbr\u003e\nBritish person. The Talk of Shame joined the \u003cb\u003eHeadGum\u003c/b\u003e network in August, 2015.",
+   "cacheId": "VS3O1hqpUrcJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/The_Talk_of_Shame",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/The_Talk_of_Shame",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of podcasting companies - Wikipedia",
+   "htmlTitle": "List of podcasting companies - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/List_of_podcasting_companies",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This is a list of notable podcast production and distribution companies. This \nincludes both audio ... Goat Rodeo · Golden State Media Concepts Podcast \nNetwork · HeadGum · The Heard · HowStuffWorks · Idle Thumbs · The \nIncomparable ...",
+   "htmlSnippet": "This is a list of notable podcast production and distribution companies. This \u003cbr\u003e\nincludes both audio ... Goat Rodeo &middot; Golden State Media Concepts Podcast \u003cbr\u003e\nNetwork &middot; \u003cb\u003eHeadGum\u003c/b\u003e &middot; The Heard &middot; HowStuffWorks &middot; Idle Thumbs &middot; The \u003cbr\u003e\nIncomparable&nbsp;...",
+   "cacheId": "t0MthM2tr6IJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/List_of_podcasting_companies",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/List_of_podcasting_companies",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "If I Were You (podcast) - Wikipedia",
+   "htmlTitle": "If I Were You (podcast) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/If_I_Were_You_(podcast)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "HeadGum (2015-present) Art19 (2017-present). Website, http://ifiwereyoushow.\ncom/. If I Were You is a comedy advice podcast created and hosted by Jewish \nAmerican comedians ...",
+   "htmlSnippet": "\u003cb\u003eHeadGum\u003c/b\u003e (2015-present) Art19 (2017-present). Website, http://ifiwereyoushow.\u003cbr\u003e\ncom/. If I Were You is a comedy advice podcast created and hosted by Jewish \u003cbr\u003e\nAmerican comedians&nbsp;...",
+   "cacheId": "GPceoJ2P2G4J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/If_I_Were_You_(podcast)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/If_I_Were_You_(podcast)",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "200",
+      "height": "200",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRR_XTl7tqRTd-2_bI70GVa87Sewe3oCpfgKoENQTaqtluB3ukhaxcPhYvk"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/e/ee/If_I_Were_You_cover.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/e/ee/If_I_Were_You_cover.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Nic Rad - Wikipedia",
+   "htmlTitle": "Nic Rad - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Nic_Rad",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Nic Rad is an artist based in New York City. He graduated from the Savannah \nCollege of Art ... Italy during fellowship stays. Rad is also the producer and \nfeatured guest of several podcasts under the HeadGum network such as \nTwinnovation.",
+   "htmlSnippet": "Nic Rad is an artist based in New York City. He graduated from the Savannah \u003cbr\u003e\nCollege of Art ... Italy during fellowship stays. Rad is also the producer and \u003cbr\u003e\nfeatured guest of several podcasts under the \u003cb\u003eHeadGum\u003c/b\u003e network such as \u003cbr\u003e\nTwinnovation.",
+   "cacheId": "ARTa1nJadAkJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Nic_Rad",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Nic_Rad",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Nic Rad",
+      "bday": "1982-09-18",
+      "category": "American"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ian Karmel - Wikipedia",
+   "htmlTitle": "Ian Karmel - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Ian_Karmel",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Ian Karmel is an American comedian. He trained with comedy troupes The \nGroundlings and Upright Citizens Brigade. Hosts the all \"All Fantasy Everything\" \npodcast on the Headgum network.",
+   "htmlSnippet": "Ian Karmel is an American comedian. He trained with comedy troupes The \u003cbr\u003e\nGroundlings and Upright Citizens Brigade. Hosts the all &quot;All Fantasy Everything&quot; \u003cbr\u003e\npodcast on the \u003cb\u003eHeadgum\u003c/b\u003e network.",
+   "cacheId": "YdUTFZcG09QJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Ian_Karmel",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Ian_Karmel",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  }
+ ]
+}

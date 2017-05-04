@@ -1,0 +1,26 @@
+{
+    "Microsoft+Top": {
+        "microsoft": 16,
+        "microsoft developer network": 1,
+        "microsoft academic search": 2,
+        "microsoft corporation": 3
+    },
+    "Kawet+App": {
+        "apple inc.": 2,
+        "kawetvous devez avoir au moins 17 ans pour t\u00e9l\u00e9charger cette app": 1,
+        "apple inc": 2,
+        "paris chicharated 4+compatibility: requires ios\u00a08": 1
+    },
+    "Mobizel+Mobile": {
+        "mobitel (sri lanka)": 2,
+        "kgb archiver": 1,
+        "betavine": 1,
+        "admin": 2,
+        "mobizel": 1,
+        "\u00a9 2016": 1,
+        "gsma": 1
+    },
+    "Korrisoft+Official": [
+
+    ]
+}

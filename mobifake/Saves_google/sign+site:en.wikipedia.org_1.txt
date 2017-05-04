@@ -1,0 +1,337 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - sign site:en.wikipedia.org",
+    "totalResults": "3660000",
+    "searchTerms": "sign site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - sign site:en.wikipedia.org",
+    "totalResults": "3660000",
+    "searchTerms": "sign site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "Google"
+ },
+ "searchInformation": {
+  "searchTime": 0.646173,
+  "formattedSearchTime": "0.65",
+  "totalResults": "3660000",
+  "formattedTotalResults": "3,660,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Sign - Wikipedia",
+   "htmlTitle": "\u003cb\u003eSign\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Sign",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A sign is an object, quality, event, or entity whose presence or occurrence \nindicates the probable presence or occurrence of something else. A natural sign \nbears ...",
+   "htmlSnippet": "A \u003cb\u003esign\u003c/b\u003e is an object, quality, event, or entity whose presence or occurrence \u003cbr\u003e\nindicates the probable presence or occurrence of something else. A natural \u003cb\u003esign\u003c/b\u003e \u003cbr\u003e\nbears&nbsp;...",
+   "cacheId": "oH8FGJIh3N8J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Sign",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eSign\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "240",
+      "height": "210",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqTBkrcPQoRbGjuMjYGkyOd0GnvT2Tn7i7_rNVHfEEk-g1s_2a8mV-QCs"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Biohazard.svg/1200px-Biohazard.svg.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Biohazard.svg/1200px-Biohazard.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Signs (film) - Wikipedia",
+   "htmlTitle": "\u003cb\u003eSigns\u003c/b\u003e (film) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Signs_(film)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Signs is a 2002 American science fiction thriller film written and directed by M. \nNight Shyamalan. Executive producers for the film comprised Shyamalan, Frank\n ...",
+   "htmlSnippet": "\u003cb\u003eSigns\u003c/b\u003e is a 2002 American science fiction thriller film written and directed by M. \u003cbr\u003e\nNight Shyamalan. Executive producers for the film comprised Shyamalan, Frank\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "uaMewAMcmpEJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Signs_(film)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eSigns\u003c/b\u003e_(film)",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "184",
+      "height": "274",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ2cPt2XNkjJQ57xafjzuqyTJxjfir8d4MWi9VuyGKTdyxIbG2nzAXnjfgh"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/0/08/The_Signs_movie.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/0/08/The_Signs_movie.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Sign language - Wikipedia",
+   "htmlTitle": "\u003cb\u003eSign\u003c/b\u003e language - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Sign_language",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A sign language (also signed language) is a language which chiefly uses \nmanual communication to convey meaning, as opposed to acoustically conveyed\n ...",
+   "htmlSnippet": "A \u003cb\u003esign\u003c/b\u003e language (also \u003cb\u003esigned\u003c/b\u003e language) is a language which chiefly uses \u003cbr\u003e\nmanual communication to convey meaning, as opposed to acoustically conveyed\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "QG5c8jl1kucJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Sign_language",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eSign\u003c/b\u003e_language",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMHc2ILCIrjw0Sh4Ozk7aXrcjADXwyv2YpgqalRge394bOEfTctqy4QkBk"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/ASL_family.jpg/1200px-ASL_family.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/ASL_family.jpg/1200px-ASL_family.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Medical sign - Wikipedia",
+   "htmlTitle": "Medical \u003cb\u003esign\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Medical_sign",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A medical sign is an objective indication of some medical fact or characteristic \nthat may be detected by a patient or anyone, especially a physician, before or ...",
+   "htmlSnippet": "A medical \u003cb\u003esign\u003c/b\u003e is an objective indication of some medical fact or characteristic \u003cbr\u003e\nthat may be detected by a patient or anyone, especially a physician, before or&nbsp;...",
+   "cacheId": "JAHLPt9sdBkJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Medical_sign",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Medical_\u003cb\u003esign\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hollywood Sign - Wikipedia",
+   "htmlTitle": "Hollywood \u003cb\u003eSign\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Hollywood_Sign",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Hollywood Sign (formerly the Hollywoodland Sign) is a landmark and \nAmerican cultural icon located in Los Angeles, California. It is situated on Mount \nLee, ...",
+   "htmlSnippet": "The Hollywood \u003cb\u003eSign\u003c/b\u003e (formerly the Hollywoodland \u003cb\u003eSign\u003c/b\u003e) is a landmark and \u003cbr\u003e\nAmerican cultural icon located in Los Angeles, California. It is situated on Mount \u003cbr\u003e\nLee,&nbsp;...",
+   "cacheId": "YGwaEegiYnIJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Hollywood_Sign",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Hollywood_\u003cb\u003eSign\u003c/b\u003e",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "The Hollywood Sign",
+      "nickname": "The Hollywoodland Sign (1923–1949)",
+      "label": "Griffith Park, Mount Lee, Hollywood Hills, Los Angeles, California",
+      "category": "Wood and sheet metal (1923–1978) Steel (1978–present)",
+      "note": "Completed 1923"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "284",
+      "height": "177",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTmHp7oxyJY6unqZE2Vgt9xSo6eck3xh-mu0D3EXwMwWqxoCkN0Gi1L_OU"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hollywood_Sign_%28Zuschnitt%29.jpg/1200px-Hollywood_Sign_%28Zuschnitt%29.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hollywood_Sign_%28Zuschnitt%29.jpg/1200px-Hollywood_Sign_%28Zuschnitt%29.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Sign function - Wikipedia",
+   "htmlTitle": "\u003cb\u003eSign\u003c/b\u003e function - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Sign_function",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "In mathematics, the sign function or signum function is an odd mathematical \nfunction that extracts the sign of a real number. In mathematical expressions the \nsign ...",
+   "htmlSnippet": "In mathematics, the \u003cb\u003esign\u003c/b\u003e function or signum function is an odd mathematical \u003cbr\u003e\nfunction that extracts the \u003cb\u003esign\u003c/b\u003e of a real number. In mathematical expressions the \u003cbr\u003e\n\u003cb\u003esign\u003c/b\u003e&nbsp;...",
+   "cacheId": "xMVyjQVKfQwJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Sign_function",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eSign\u003c/b\u003e_function",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "251",
+      "height": "201",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRn8NlTYhrgm-Ix2lBuRuySUcH1U6yKWzkPxvT-lq5ldKrDxf0D9iCiJsk"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Signum_function.svg/1200px-Signum_function.svg.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Signum_function.svg/1200px-Signum_function.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Sign (semiotics) - Wikipedia",
+   "htmlTitle": "\u003cb\u003eSign\u003c/b\u003e (semiotics) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Sign_(semiotics)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "In semiotics, a sign is anything that communicates a meaning that is not the sign \nitself to the interpreter of the sign. The meaning can be intentional such as a ...",
+   "htmlSnippet": "In semiotics, a \u003cb\u003esign\u003c/b\u003e is anything that communicates a meaning that is not the \u003cb\u003esign\u003c/b\u003e \u003cbr\u003e\nitself to the interpreter of the \u003cb\u003esign\u003c/b\u003e. The meaning can be intentional such as a&nbsp;...",
+   "cacheId": "p-4UEAHPgRwJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Sign_(semiotics)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eSign\u003c/b\u003e_(semiotics)",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "sign - Wiktionary",
+   "htmlTitle": "\u003cb\u003esign\u003c/b\u003e - Wiktionary",
+   "link": "https://en.wikipedia.org/wiki/wikt:sign",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "From Middle English signe, sygne, syng, seine, sine, syne, from Old French signe\n, seing (“sign; mark; signature”), from Latin signum (“a mark, sign, token”); root ...",
+   "htmlSnippet": "From Middle English signe, sygne, syng, seine, sine, syne, from Old French signe\u003cbr\u003e\n, seing (“\u003cb\u003esign\u003c/b\u003e; mark; signature”), from Latin signum (“a mark, \u003cb\u003esign\u003c/b\u003e, token”); root&nbsp;...",
+   "cacheId": "KjnYvp5xOxEJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/wikt:sign",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/wikt:\u003cb\u003esign\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "132",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAMeNLPlWc8aBVayMfGcZEZPjCCWcJqdGZlGh3RUxF0kikesuecm7-Wylg"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/UragaIC.jpg/220px-UragaIC.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Astrological sign - Wikipedia",
+   "htmlTitle": "Astrological \u003cb\u003esign\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Astrological_sign",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "In Western astrology, astrological signs are the twelve 30° sectors of the ecliptic, \nstarting at the vernal equinox also known as the First Point of Aries. The order of ...",
+   "htmlSnippet": "In Western astrology, astrological \u003cb\u003esigns\u003c/b\u003e are the twelve 30° sectors of the ecliptic, \u003cbr\u003e\nstarting at the vernal equinox also known as the First Point of Aries. The order of&nbsp;...",
+   "cacheId": "MBY9enia63YJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Astrological_sign",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Astrological_\u003cb\u003esign\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "227",
+      "height": "222",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkW1bpGsFU1JSXtuzDE1ifbfjlH_wwp5wMybVeFNVVVTiP18mK3NW5K_Pn"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Astrological_Chart_--_New_Millennium.svg/1200px-Astrological_Chart_--_New_Millennium.svg.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Astrological_Chart_--_New_Millennium.svg/1200px-Astrological_Chart_--_New_Millennium.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Single sign-on - Wikipedia",
+   "htmlTitle": "Single \u003cb\u003esign\u003c/b\u003e-on - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Single_sign-on",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Single sign-on (SSO) is a property of access control of multiple related, but \nindependent software systems. With this property, a user logs in with a single ID \nand ...",
+   "htmlSnippet": "Single \u003cb\u003esign\u003c/b\u003e-on (SSO) is a property of access control of multiple related, but \u003cbr\u003e\nindependent software systems. With this property, a user logs in with a single ID \u003cbr\u003e\nand&nbsp;...",
+   "cacheId": "BPqlL0P9h2oJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Single_sign-on",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Single_\u003cb\u003esign\u003c/b\u003e-on",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  }
+ ]
+}

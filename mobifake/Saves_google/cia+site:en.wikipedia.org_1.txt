@@ -1,0 +1,335 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - cia site:en.wikipedia.org",
+    "totalResults": "24300",
+    "searchTerms": "cia site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - cia site:en.wikipedia.org",
+    "totalResults": "24300",
+    "searchTerms": "cia site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "Google"
+ },
+ "searchInformation": {
+  "searchTime": 0.680412,
+  "formattedSearchTime": "0.68",
+  "totalResults": "24300",
+  "formattedTotalResults": "24,300"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Central Intelligence Agency - Wikipedia",
+   "htmlTitle": "Central Intelligence Agency - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Central_Intelligence_Agency",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Central Intelligence Agency (CIA) is a civilian foreign intelligence service of \nthe United States federal government, tasked with gathering, processing, and ...",
+   "htmlSnippet": "The Central Intelligence Agency (\u003cb\u003eCIA\u003c/b\u003e) is a civilian foreign intelligence service of \u003cbr\u003e\nthe United States federal government, tasked with gathering, processing, and&nbsp;...",
+   "cacheId": "gVVi8O3cK0AJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Central_Intelligence_Agency",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Central_Intelligence_Agency",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4mWmv5nLuE3yvRbf5e-unmA7vVRhxwbQo7hdhQyP0Y7Q6q-WBCM6r0hU"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Seal_of_the_Central_Intelligence_Agency.svg/1200px-Seal_of_the_Central_Intelligence_Agency.svg.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Seal_of_the_Central_Intelligence_Agency.svg/1200px-Seal_of_the_Central_Intelligence_Agency.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CIA influence on public opinion - Wikipedia",
+   "htmlTitle": "\u003cb\u003eCIA\u003c/b\u003e influence on public opinion - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/CIA_influence_on_public_opinion",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "At various times, under its own authority or in accordance with directives from the \nPresident of the United States or the National Security Council staff, the Central ...",
+   "htmlSnippet": "At various times, under its own authority or in accordance with directives from the \u003cbr\u003e\nPresident of the United States or the National Security Council staff, the Central&nbsp;...",
+   "cacheId": "mPmvA6k7hCUJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/CIA_influence_on_public_opinion",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eCIA\u003c/b\u003e_influence_on_public_opinion",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Director of the Central Intelligence Agency - Wikipedia",
+   "htmlTitle": "Director of the Central Intelligence Agency - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Director_of_the_Central_Intelligence_Agency",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Director of the Central Intelligence Agency (D/CIA) is a statutory office (50 \nU.S.C. § 3036) which functions as the head of the Central Intelligence Agency, ...",
+   "htmlSnippet": "The Director of the Central Intelligence Agency (D/\u003cb\u003eCIA\u003c/b\u003e) is a statutory office (50 \u003cbr\u003e\nU.S.C. § 3036) which functions as the head of the Central Intelligence Agency,&nbsp;...",
+   "cacheId": "Q7gvDR69POcJ",
+   "formattedUrl": "https://en.wikipedia.org/.../Director_of_the_Central_Intelligence_Agency",
+   "htmlFormattedUrl": "https://en.wikipedia.org/.../Director_of_the_Central_Intelligence_Agency",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4mWmv5nLuE3yvRbf5e-unmA7vVRhxwbQo7hdhQyP0Y7Q6q-WBCM6r0hU"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Seal_of_the_Central_Intelligence_Agency.svg/1200px-Seal_of_the_Central_Intelligence_Agency.svg.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Seal_of_the_Central_Intelligence_Agency.svg/1200px-Seal_of_the_Central_Intelligence_Agency.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "C.I.A. (band) - Wikipedia",
+   "htmlTitle": "\u003cb\u003eC.I.A.\u003c/b\u003e (band) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/C.I.A._(band)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "C.I.A. was a hip hop group, which consisted of K-Dee, Sir Jinx and Ice Cube. The \ngroup began playing at parties organized by Dr. Dre, a member of a popular ...",
+   "htmlSnippet": "\u003cb\u003eC.I.A.\u003c/b\u003e was a hip hop group, which consisted of K-Dee, Sir Jinx and Ice Cube. The \u003cbr\u003e\ngroup began playing at parties organized by Dr. Dre, a member of a popular&nbsp;...",
+   "cacheId": "SZldHaVB26oJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/C.I.A._(band)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/C.I.A._(band)",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "C.I.A.",
+      "note": "Roland TR-808"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CIA involvement in Contra cocaine trafficking - Wikipedia",
+   "htmlTitle": "\u003cb\u003eCIA\u003c/b\u003e involvement in Contra cocaine trafficking - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/CIA_involvement_in_Contra_cocaine_trafficking",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A number of writers have alleged that the United States Central Intelligence \nAgency (CIA) was involved in cocaine trafficking during the 1980s. These claims\n ...",
+   "htmlSnippet": "A number of writers have alleged that the United States Central Intelligence \u003cbr\u003e\nAgency (\u003cb\u003eCIA\u003c/b\u003e) was involved in cocaine trafficking during the 1980s. These claims\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "ye3xvYVPHpYJ",
+   "formattedUrl": "https://en.wikipedia.org/.../CIA_involvement_in_Contra_cocaine_trafficking",
+   "htmlFormattedUrl": "https://en.wikipedia.org/.../\u003cb\u003eCIA\u003c/b\u003e_involvement_in_Contra_cocaine_trafficking",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4mWmv5nLuE3yvRbf5e-unmA7vVRhxwbQo7hdhQyP0Y7Q6q-WBCM6r0hU"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Seal_of_the_Central_Intelligence_Agency.svg/1200px-Seal_of_the_Central_Intelligence_Agency.svg.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Seal_of_the_Central_Intelligence_Agency.svg/1200px-Seal_of_the_Central_Intelligence_Agency.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Allegations of CIA drug trafficking - Wikipedia",
+   "htmlTitle": "Allegations of \u003cb\u003eCIA\u003c/b\u003e drug trafficking - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Allegations_of_CIA_drug_trafficking",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A number of writers have claimed that the United States Central Intelligence \nAgency (CIA) is or has been involved in drug trafficking. Books on the subject that\n ...",
+   "htmlSnippet": "A number of writers have claimed that the United States Central Intelligence \u003cbr\u003e\nAgency (\u003cb\u003eCIA\u003c/b\u003e) is or has been involved in drug trafficking. Books on the subject that\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "FiN_HW7u4HYJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Allegations_of_CIA_drug_trafficking",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Allegations_of_\u003cb\u003eCIA\u003c/b\u003e_drug_trafficking",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4mWmv5nLuE3yvRbf5e-unmA7vVRhxwbQo7hdhQyP0Y7Q6q-WBCM6r0hU"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Seal_of_the_Central_Intelligence_Agency.svg/1200px-Seal_of_the_Central_Intelligence_Agency.svg.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Seal_of_the_Central_Intelligence_Agency.svg/1200px-Seal_of_the_Central_Intelligence_Agency.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Black site - Wikipedia",
+   "htmlTitle": "Black site - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Black_site",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "In military terminology, a black site is a location at which an unacknowledged \nblack project is conducted. It can refer to the facilities that are controlled by the \nCIA ...",
+   "htmlSnippet": "In military terminology, a black site is a location at which an unacknowledged \u003cbr\u003e\nblack project is conducted. It can refer to the facilities that are controlled by the \u003cbr\u003e\n\u003cb\u003eCIA\u003c/b\u003e&nbsp;...",
+   "cacheId": "ceUWJuxzhEgJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Black_site",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Black_site",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "310",
+      "height": "162",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRjxnmNXNv-X2cEv0ouCMl-INxuilcKyTeM7cUzaE02-XvsQ7LHwQ6NZb4"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/6/67/CIA_Secret_Prisons.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/67/CIA_Secret_Prisons.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CIA Kennedy assassination conspiracy theory - Wikipedia",
+   "htmlTitle": "\u003cb\u003eCIA\u003c/b\u003e Kennedy assassination conspiracy theory - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/CIA_Kennedy_assassination_conspiracy_theory",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The CIA Kennedy assassination theory is a prominent John F. Kennedy \nassassination conspiracy theory. According to ABC News, the Central \nIntelligence ...",
+   "htmlSnippet": "The \u003cb\u003eCIA\u003c/b\u003e Kennedy assassination theory is a prominent John F. Kennedy \u003cbr\u003e\nassassination conspiracy theory. According to ABC News, the Central \u003cbr\u003e\nIntelligence&nbsp;...",
+   "cacheId": "lGlnfBmPr5oJ",
+   "formattedUrl": "https://en.wikipedia.org/.../CIA_Kennedy_assassination_conspiracy_theory",
+   "htmlFormattedUrl": "https://en.wikipedia.org/.../\u003cb\u003eCIA\u003c/b\u003e_Kennedy_assassination_conspiracy_theory",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Special Activities Division - Wikipedia",
+   "htmlTitle": "Special Activities Division - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Special_Activities_Division",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Special Activities Division (SAD) is a division of the United States Central \nIntelligence ... As the action arm of the CIA's Directorate of Operations, SAD/SOG \nconducts direct action missions such as raids, ambushes, sabotage, targeted ...",
+   "htmlSnippet": "The Special Activities Division (SAD) is a division of the United States Central \u003cbr\u003e\nIntelligence ... As the action arm of the \u003cb\u003eCIA&#39;s\u003c/b\u003e Directorate of Operations, SAD/SOG \u003cbr\u003e\nconducts direct action missions such as raids, ambushes, sabotage, targeted&nbsp;...",
+   "cacheId": "LOouqEtV6lsJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Special_Activities_Division",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Spe\u003cb\u003ecia\u003c/b\u003el_Activities_Division",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4mWmv5nLuE3yvRbf5e-unmA7vVRhxwbQo7hdhQyP0Y7Q6q-WBCM6r0hU"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Seal_of_the_Central_Intelligence_Agency.svg/1200px-Seal_of_the_Central_Intelligence_Agency.svg.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Seal_of_the_Central_Intelligence_Agency.svg/1200px-Seal_of_the_Central_Intelligence_Agency.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "U.S. Army and CIA interrogation manuals - Wikipedia",
+   "htmlTitle": "U.S. Army and \u003cb\u003eCIA\u003c/b\u003e interrogation manuals - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/U.S._Army_and_CIA_interrogation_manuals",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The U.S. Army and CIA interrogation manuals are seven controversial military \ntraining manuals which were declassified by the Pentagon in 1996. In 1997, two\n ...",
+   "htmlSnippet": "The U.S. Army and \u003cb\u003eCIA\u003c/b\u003e interrogation manuals are seven controversial military \u003cbr\u003e\ntraining manuals which were declassified by the Pentagon in 1996. In 1997, two\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "QcQwt6pfPN8J",
+   "formattedUrl": "https://en.wikipedia.org/.../U.S._Army_and_CIA_interrogation_manuals",
+   "htmlFormattedUrl": "https://en.wikipedia.org/.../U.S._Army_and_\u003cb\u003eCIA\u003c/b\u003e_interrogation_manuals",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "197",
+      "height": "256",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7SQmhVYQZEvwaToAcfqMqQ3Dwye8jqKgv9XNbJMY0RLi9_a5XOvTpJmQr"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/US_Senate_Report_on_CIA_Detention_Interrogation_Program.pdf/page1-1200px-US_Senate_Report_on_CIA_Detention_Interrogation_Program.pdf.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/US_Senate_Report_on_CIA_Detention_Interrogation_Program.pdf/page1-1200px-US_Senate_Report_on_CIA_Detention_Interrogation_Program.pdf.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,302 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - management site:en.wikipedia.org",
+    "totalResults": "3540000",
+    "searchTerms": "management site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - management site:en.wikipedia.org",
+    "totalResults": "3540000",
+    "searchTerms": "management site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "Google"
+ },
+ "searchInformation": {
+  "searchTime": 0.660973,
+  "formattedSearchTime": "0.66",
+  "totalResults": "3540000",
+  "formattedTotalResults": "3,540,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Management - Wikipedia",
+   "htmlTitle": "\u003cb\u003eManagement\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Management",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Management (or managing) is the administration of an organization, whether it \nbe a business, a not-for-profit organization, or government body. Management ...",
+   "htmlSnippet": "\u003cb\u003eManagement\u003c/b\u003e (or \u003cb\u003emanaging\u003c/b\u003e) is the administration of an organization, whether it \u003cbr\u003e\nbe a business, a not-for-profit organization, or government body. \u003cb\u003eManagement\u003c/b\u003e&nbsp;...",
+   "cacheId": "PYo1Feisdb8J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Management",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eManagement\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "207",
+      "height": "244",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSo50d00gbKIyjDRn1A-IcCWNUV4nlgcBaINpeEtzcKnw0kXWD-J99U26ek"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/USCG_Org_Chart.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9d/USCG_Org_Chart.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Project management - Wikipedia",
+   "htmlTitle": "Project \u003cb\u003emanagement\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Project_management",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Project management is the discipline of initiating, planning, executing, controlling\n, and closing the work of a team to achieve specific goals and meet specific ...",
+   "htmlSnippet": "Project \u003cb\u003emanagement\u003c/b\u003e is the discipline of initiating, planning, executing, controlling\u003cbr\u003e\n, and closing the work of a team to achieve specific goals and meet specific&nbsp;...",
+   "cacheId": "Fa-K2UzVRWUJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Project_management",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Project_\u003cb\u003emanagement\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "224",
+      "height": "152",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV2dIRJWYZOhq4G3im0RB7Yb3GxmEmUHy31xsY0KtNyr_h_y_CTkRINQA"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Trajan%27s_Column_%28Roman_Soldiers_Building_a_Fortress%29.png/280px-Trajan%27s_Column_%28Roman_Soldiers_Building_a_Fortress%29.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Content management - Wikipedia",
+   "htmlTitle": "Content \u003cb\u003emanagement\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Content_management",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Content management (CM), is a set of processes and technologies that supports \nthe collection, managing, and publishing of information in any form or medium.",
+   "htmlSnippet": "Content \u003cb\u003emanagement\u003c/b\u003e (CM), is a set of processes and technologies that supports \u003cbr\u003e\nthe collection, \u003cb\u003emanaging\u003c/b\u003e, and publishing of information in any form or medium.",
+   "cacheId": "UB-rWmf3itwJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Content_management",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Content_\u003cb\u003emanagement\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Risk management - Wikipedia",
+   "htmlTitle": "Risk \u003cb\u003emanagement\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Risk_management",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Risk management is the identification, assessment, and prioritization of risks \nfollowed by coordinated and economical application of resources to minimize, ...",
+   "htmlSnippet": "Risk \u003cb\u003emanagement\u003c/b\u003e is the identification, assessment, and prioritization of risks \u003cbr\u003e\nfollowed by coordinated and economical application of resources to minimize,&nbsp;...",
+   "cacheId": "JBRAQ8oqsZsJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Risk_management",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Risk_\u003cb\u003emanagement\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "252",
+      "height": "200",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS9PGMvpla2s0B-Sypzd2TB2rC3wuYcMEFbapD0GTWENrWuuU0BN0IN3IMi"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/ISS_impact_risk.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/ca/ISS_impact_risk.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Waste management - Wikipedia",
+   "htmlTitle": "Waste \u003cb\u003emanagement\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Waste_management",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Waste management or Waste disposal is all the activities and actions required to \nmanage waste from its inception to its final disposal. This includes amongst ...",
+   "htmlSnippet": "Waste \u003cb\u003emanagement\u003c/b\u003e or Waste disposal is all the activities and actions required to \u003cbr\u003e\nmanage waste from its inception to its final disposal. This includes amongst&nbsp;...",
+   "cacheId": "K6vtL8hwy-gJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Waste_management",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Waste_\u003cb\u003emanagement\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH7V93pwQHvSYTo_Zp7E-Mh1r2GZCwufF1YFX51MYDtS78Am33v_qfg31N"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kathmandu-M%C3%BCllabfuhr.jpg/1200px-Kathmandu-M%C3%BCllabfuhr.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kathmandu-M%C3%BCllabfuhr.jpg/1200px-Kathmandu-M%C3%BCllabfuhr.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Knowledge management - Wikipedia",
+   "htmlTitle": "Knowledge \u003cb\u003emanagement\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Knowledge_management",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Knowledge management (KM) is the process of creating, sharing, using and \nmanaging the knowledge and information of an organization. It refers to a ...",
+   "htmlSnippet": "Knowledge \u003cb\u003emanagement\u003c/b\u003e (KM) is the process of creating, sharing, using and \u003cbr\u003e\n\u003cb\u003emanaging\u003c/b\u003e the knowledge and information of an organization. It refers to a&nbsp;...",
+   "cacheId": "m7YvF_p-PJkJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Knowledge_management",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Knowledge_\u003cb\u003emanagement\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Human resource management - Wikipedia",
+   "htmlTitle": "Human resource \u003cb\u003emanagement\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Human_resource_management",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Human resource management (HRM or HR) is the management of human \nresources. It is designed to maximize employee performance in service of an ...",
+   "htmlSnippet": "Human resource \u003cb\u003emanagement\u003c/b\u003e (HRM or HR) is the \u003cb\u003emanagement\u003c/b\u003e of human \u003cbr\u003e\nresources. It is designed to maximize employee performance in service of an&nbsp;...",
+   "cacheId": "GLNp-r3awd8J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Human_resource_management",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Human_resource_\u003cb\u003emanagement\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Scientific management - Wikipedia",
+   "htmlTitle": "Scientific \u003cb\u003emanagement\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Scientific_management",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Scientific management is a theory of management that analyzes and synthesizes \nworkflows. Its main objective is improving economic efficiency, especially labor ...",
+   "htmlSnippet": "Scientific \u003cb\u003emanagement\u003c/b\u003e is a theory of \u003cb\u003emanagement\u003c/b\u003e that analyzes and synthesizes \u003cbr\u003e\nworkflows. Its main objective is improving economic efficiency, especially labor&nbsp;...",
+   "cacheId": "MF13PmPSnJ8J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Scientific_management",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Scientific_\u003cb\u003emanagement\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "183",
+      "height": "276",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGFu_ftdoVRmEAxlLfoaM_DmpC9GyAHphIhlX-7HyNWGqdypQEbuTbAs4"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/F._Taylor_1856-1915.jpg/1200px-F._Taylor_1856-1915.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/F._Taylor_1856-1915.jpg/1200px-F._Taylor_1856-1915.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "management - Wiktionary",
+   "htmlTitle": "\u003cb\u003emanagement\u003c/b\u003e - Wiktionary",
+   "link": "https://en.wikipedia.org/wiki/Wiktionary:management",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "(uncountable, management) Administration; the process or practice of managing. \n(management) The executives of an organisation, especially senior executives ...",
+   "htmlSnippet": "(uncountable, \u003cb\u003emanagement\u003c/b\u003e) Administration; the process or practice of \u003cb\u003emanaging\u003c/b\u003e. \u003cbr\u003e\n(\u003cb\u003emanagement\u003c/b\u003e) The executives of an organisation, especially senior executives&nbsp;...",
+   "cacheId": "6iV7J9GVK9gJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Wiktionary:management",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wiktionary:\u003cb\u003emanagement\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Management consulting - Wikipedia",
+   "htmlTitle": "\u003cb\u003eManagement\u003c/b\u003e consulting - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Management_consulting",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Management consulting is the practice of helping organizations to improve their \nperformance, operating primarily through the analysis of existing organizational ...",
+   "htmlSnippet": "\u003cb\u003eManagement\u003c/b\u003e consulting is the practice of helping organizations to improve their \u003cbr\u003e\nperformance, operating primarily through the analysis of existing organizational&nbsp;...",
+   "cacheId": "I8OLts88C9QJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Management_consulting",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eManagement\u003c/b\u003e_consulting",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  }
+ ]
+}

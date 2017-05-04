@@ -1,0 +1,32 @@
+{
+    "MpayOk": {
+        "MpayOk": [
+
+        ]
+    },
+    "MiFone": {
+        "MiFone": [
+
+        ]
+    },
+    "Zutazia": {
+        "Zutazia": [
+
+        ]
+    },
+    "Wanaga+Nija": {
+        "Wanaga+Nija": [
+
+        ]
+    },
+    "Unibanko": {
+        "Unibanko": [
+
+        ]
+    },
+    "Transmillieno": {
+        "Transmillieno": [
+
+        ]
+    }
+}

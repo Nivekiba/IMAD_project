@@ -1,0 +1,401 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - dictionary.com site:en.wikipedia.org",
+    "totalResults": "347000",
+    "searchTerms": "dictionary.com site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - dictionary.com site:en.wikipedia.org",
+    "totalResults": "347000",
+    "searchTerms": "dictionary.com site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "Google"
+ },
+ "searchInformation": {
+  "searchTime": 0.739926,
+  "formattedSearchTime": "0.74",
+  "totalResults": "347000",
+  "formattedTotalResults": "347,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Dictionary.com - Wikipedia",
+   "htmlTitle": "\u003cb\u003eDictionary\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Dictionary.com",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Dictionary.com is an online dictionary whose domain was first registered on May \n14, 1995. The company was founded by Brian Kariger and Daniel Fierro as part ...",
+   "htmlSnippet": "\u003cb\u003eDictionary\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e is an online dictionary whose domain was first registered on May \u003cbr\u003e\n14, 1995. The company was founded by Brian Kariger and Daniel Fierro as part&nbsp;...",
+   "cacheId": "9OA9qfobBvgJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Dictionary.com",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eDictionary\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Dictionary.com",
+      "url": "dictionary.com",
+      "url_text": "dictionary.com",
+      "bday": "1995-05-14"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "159",
+      "height": "49",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShn9Q6__4aSUjkps7hgAiVrtZbd3FXGg-RQQQnns_z240g0V6QksckFg"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/b/bc/Dictionary-com_Logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Reference.com - Wikipedia",
+   "htmlTitle": "Reference.\u003cb\u003ecom\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Reference.com",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Reference.com is an online encyclopedia, thesaurus, and dictionary. The site \nalso provides machine translation and web search. Reference.com was \nlaunched ...",
+   "htmlSnippet": "Reference.\u003cb\u003ecom\u003c/b\u003e is an online encyclopedia, thesaurus, and \u003cb\u003edictionary\u003c/b\u003e. The site \u003cbr\u003e\nalso provides machine translation and web search. Reference.\u003cb\u003ecom\u003c/b\u003e was \u003cbr\u003e\nlaunched&nbsp;...",
+   "cacheId": "2NGtF2b3B_QJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Reference.com",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Reference.\u003cb\u003ecom\u003c/b\u003e",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Reference.com",
+      "url": "www.reference.com",
+      "url_text": "www.reference.com",
+      "bday": "1997-02"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "151",
+      "height": "41",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8u3cseA5PhKn-PsqIB4sdYlGrcvxIp1C8jnt7GRivtJqXzWIB15Fv-A"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/f/fc/Reference-com_logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "IAC (company) - Wikipedia",
+   "htmlTitle": "IAC (company) - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/IAC_(company)",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "IAC/InterActiveCorp (also known as IAC) is an American media and Internet \ncompany, with over .... In May 2008, IAC and Ask.com acquired Lexico, the owner \nof Dictionary.com, Thesaurus.com, and Reference.com. In August 2008, IAC \nspun off ...",
+   "htmlSnippet": "IAC/InterActiveCorp (also known as IAC) is an American media and Internet \u003cbr\u003e\ncompany, with over .... In May 2008, IAC and Ask.com acquired Lexico, the owner \u003cbr\u003e\nof \u003cb\u003eDictionary\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e, Thesaurus.com, and Reference.com. In August 2008, IAC \u003cbr\u003e\nspun off&nbsp;...",
+   "cacheId": "Ea1Prd376FUJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/IAC_(company)",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/IAC_(\u003cb\u003ecom\u003c/b\u003epany)",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "IAC/InterActiveCorp",
+      "nickname": "HSN Inc. (1996–1998) USA Networks Inc. (1998–2002) USA Interactive (2002–2003) InterActiveCorp (2003–2004)",
+      "url": "iac.com",
+      "url_text": "iac.com",
+      "bday": "1995-08-24",
+      "label": "IAC Building, New York City, New York, United States",
+      "logo": "IAC Building in New York City (2012)",
+      "category": "Public"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoEQLw0Mpz47ryMY-kClmDORzgfYQ3UDAoJDQ92hHUE4pwVQMPjwi0br4"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/IAC_Building_%287112459201%29.jpg/1200px-IAC_Building_%287112459201%29.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/IAC_Building_%287112459201%29.jpg/1200px-IAC_Building_%287112459201%29.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Urban Dictionary - Wikipedia",
+   "htmlTitle": "Urban \u003cb\u003eDictionary\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Urban_Dictionary",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Urban Dictionary is a crowdsourced online dictionary of slang words and phrases \nthat was founded in 1999 as a parody of Dictionary.com and Vocabulary.com ...",
+   "htmlSnippet": "Urban Dictionary is a crowdsourced online dictionary of slang words and phrases \u003cbr\u003e\nthat was founded in 1999 as a parody of \u003cb\u003eDictionary\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e and Vocabulary.com&nbsp;...",
+   "cacheId": "Bj9v6oq3nZcJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Urban_Dictionary",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Urban_\u003cb\u003eDictionary\u003c/b\u003e",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Urban Dictionary",
+      "url": "urbandictionary.com",
+      "url_text": "urbandictionary.com",
+      "bday": "1999",
+      "category": "Active"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "318",
+      "height": "158",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToC7ZutHr81k7yA3FMa4UxBh_46tgh2sdePwiSRDRjWeuQIHA7ZoWPVbK_"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/b/ba/Urban_Dictionary_%28screenshot_of_homepage%29.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/b/ba/Urban_Dictionary_%28screenshot_of_homepage%29.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ask.com - Wikipedia",
+   "htmlTitle": "Ask.\u003cb\u003ecom\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Ask.com",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Ask.com is a question answering-focused e-business and web search engine \nfounded in 1996 ... The current Ask.com still supports this, with support for math, \ndictionary, and conversion questions. In 2005 the company announced plans to ...",
+   "htmlSnippet": "Ask.\u003cb\u003ecom\u003c/b\u003e is a question answering-focused e-business and web search engine \u003cbr\u003e\nfounded in 1996 ... The current Ask.\u003cb\u003ecom\u003c/b\u003e still supports this, with support for math, \u003cbr\u003e\n\u003cb\u003edictionary\u003c/b\u003e, and conversion questions. In 2005 the company announced plans to&nbsp;...",
+   "cacheId": "vEu62msW3EwJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Ask.com",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Ask.\u003cb\u003ecom\u003c/b\u003e",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Ask.com",
+      "url": "www.ask.com",
+      "url_text": "www.ask.com",
+      "bday": "1996-06",
+      "category": "Private"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "231",
+      "height": "178",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQpPswu6Zlt3Dm_Okqm8Xp0reHRfunDuABnv_Rl3__LscLuIO3hDGFVy07e"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/AskLogoNew07.PNG"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a0/AskLogoNew07.PNG"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "TheFreeDictionary.com - Wikipedia",
+   "htmlTitle": "TheFreeDictionary.\u003cb\u003ecom\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/TheFreeDictionary.com",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "TheFreeDictionary.com is an American online dictionary and encyclopedia that \ngathers information from a variety of sources.",
+   "htmlSnippet": "TheFreeDictionary.\u003cb\u003ecom\u003c/b\u003e is an American online \u003cb\u003edictionary\u003c/b\u003e and encyclopedia that \u003cbr\u003e\ngathers information from a variety of sources.",
+   "cacheId": "ORBPaP63FY0J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/TheFreeDictionary.com",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/TheFree\u003cb\u003eDictionary\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "TheFreeDictionary.com",
+      "url": "TheFreeDictionary.com",
+      "url_text": "TheFreeDictionary.com",
+      "bday": "2003-06-05",
+      "category": "Active"
+     },
+     {
+      "fn": "TheFreeLibrary.com",
+      "url": "TheFreeLibrary.com",
+      "url_text": "TheFreeLibrary.com",
+      "category": "Active"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "208",
+      "height": "243",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZMifawxEEndW6Ap3qCIj75ogcSf8TIMF1o1aG8cE44G6_pa7B4h2cjg4"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/en/7/7e/TheFreeDictionary.com_screenshot.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/en/7/7e/TheFreeDictionary.com_screenshot.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Random House Webster's Unabridged Dictionary - Wikipedia",
+   "htmlTitle": "Random House Webster&#39;s Unabridged \u003cb\u003eDictionary\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Random_House_Webster%27s_Unabridged_Dictionary",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Random House Webster's Unabridged Dictionary is a large American dictionary, \nfirst published ... Encyclopedic Unabridged Dictionary. The Dictionary.com online \ndictionary bases its proprietary content on the Random House unabridged.",
+   "htmlSnippet": "Random House Webster&#39;s Unabridged Dictionary is a large American dictionary, \u003cbr\u003e\nfirst published ... Encyclopedic Unabridged Dictionary. The \u003cb\u003eDictionary\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e online \u003cbr\u003e\ndictionary bases its proprietary content on the Random House unabridged.",
+   "cacheId": "uUszwIUCUq0J",
+   "formattedUrl": "https://en.wikipedia.org/.../Random_House_Webster%27s_Unabridged_ Dictionary",
+   "htmlFormattedUrl": "https://en.wikipedia.org/.../Random_House_Webster%27s_Unabridged_ \u003cb\u003eDictionary\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Doug Leeds - Wikipedia",
+   "htmlTitle": "Doug Leeds - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Doug_Leeds",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Doug Leeds (born 16 May 1968), is the Chief Executive Officer of IAC Publishing, \na digital ... Leeds took over management of Dictionary.com following IAC's \nacquisition of the company in 2008, which Leeds spearheaded. Under Leeds's ...",
+   "htmlSnippet": "Doug Leeds (born 16 May 1968), is the Chief Executive Officer of IAC Publishing, \u003cbr\u003e\na digital ... Leeds took over management of \u003cb\u003eDictionary\u003c/b\u003e.\u003cb\u003ecom\u003c/b\u003e following IAC&#39;s \u003cbr\u003e\nacquisition of the company in 2008, which Leeds spearheaded. Under Leeds&#39;s&nbsp;...",
+   "cacheId": "xHMmemikdW4J",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Doug_Leeds",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Doug_Leeds",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Doug Leeds",
+      "bday": "1968-05-16",
+      "label": "Danville, CA",
+      "role": "CEO"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSUI1xoblDuyoxV1kwhI2Lk_ggRGe24_SGOD8wp2OtV2zSGT4rWcSDn-n70"
+     }
+    ],
+    "person": [
+     {
+      "role": "CEO"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Doug_Leeds_2014-05-17_10-18.jpg/1200px-Doug_Leeds_2014-05-17_10-18.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Doug_Leeds_2014-05-17_10-18.jpg/1200px-Doug_Leeds_2014-05-17_10-18.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Lists of Merriam-Webster's Words of the Year - Wikipedia",
+   "htmlTitle": "Lists of Merriam-Webster&#39;s Words of the Year - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Lists_of_Merriam-Webster%27s_Words_of_the_Year",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The lists of Merriam-Webster's Words of the Year (for each year) are ten-word \nlists published ... lists were determined by online hits to the Merriam-Webster \nOnline Dictionary and Online Thesaurus and to Merriam-WebsterCollegiate.com.",
+   "htmlSnippet": "The lists of Merriam-Webster&#39;s Words of the Year (for each year) are ten-word \u003cbr\u003e\nlists published ... lists were determined by online hits to the Merriam-Webster \u003cbr\u003e\nOnline \u003cb\u003eDictionary\u003c/b\u003e and Online Thesaurus and to Merriam-WebsterCollegiate.\u003cb\u003ecom\u003c/b\u003e.",
+   "cacheId": "RRJEG1qB0hoJ",
+   "formattedUrl": "https://en.wikipedia.org/.../Lists_of_Merriam-Webster%27s_Words_of_the_ Year",
+   "htmlFormattedUrl": "https://en.wikipedia.org/.../Lists_of_Merriam-Webster%27s_Words_of_the_ Year",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Suctorial - Wikipedia",
+   "htmlTitle": "Suctorial - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Suctorial",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Suctorial pertains to the adaptation for sucking or suction, as possessed by \nmarine parasites ... Published by Random House, Inc. http://dictionary.reference.\ncom/browse/suctorial. Accessed: February 09, 2009; Jump up ^ Carol Martins & \nCraig ...",
+   "htmlSnippet": "Suctorial pertains to the adaptation for sucking or suction, as possessed by \u003cbr\u003e\nmarine parasites ... Published by Random House, Inc. http://\u003cb\u003edictionary\u003c/b\u003e.reference.\u003cbr\u003e\n\u003cb\u003ecom\u003c/b\u003e/browse/suctorial. Accessed: February 09, 2009; Jump up ^ Carol Martins &amp; \u003cbr\u003e\nCraig&nbsp;...",
+   "cacheId": "cdjdbGb8j9cJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Suctorial",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Suctorial",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  }
+ ]
+}

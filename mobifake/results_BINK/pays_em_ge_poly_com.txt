@@ -1,0 +1,57 @@
+{
+    "Afriland+Mobile": {
+        "Afriland+Mobile": [
+
+        ]
+    },
+    "ACCES+Bank+Official": {
+        "ACCES+Bank+Official": [
+
+        ]
+    },
+    "Brazil+Mobile+Banco": {
+        "Brazil+Mobile+Banco": [
+
+        ]
+    },
+    "First+Nat+Mobile+Bank": {
+        "First+Nat+Mobile+Bank": [
+
+        ]
+    },
+    "Imperial+Hold+Mobile": {
+        "Imperial+Hold+Mobile": [
+
+        ]
+    },
+    "Aval+grupo+AB": {
+        "Aval+grupo+AB": [
+
+        ]
+    },
+    "Zenith+mobile+money": {
+        "Zenith+mobile+money": [
+
+        ]
+    },
+    "Guaranty+Trust+Pocket": {
+        "Guaranty+Trust+Pocket": [
+
+        ]
+    },
+    "BCP+Mobile+Marocco": {
+        "BCP+Mobile+Marocco": [
+
+        ]
+    },
+    "CreditDuMaroc+APp": {
+        "CreditDuMaroc+APp": [
+
+        ]
+    },
+    "Express+Union+Mobile": {
+        "Express+Union+Mobile": [
+
+        ]
+    }
+}

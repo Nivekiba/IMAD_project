@@ -1,0 +1,76 @@
+{
+    "Axxis+": {
+        "axis communications": 2,
+        "axxis solutions": 1
+    },
+    "Dixon+schwabll": [
+
+    ],
+    "Mediasitte": [
+
+    ],
+    "Kranich": {
+        "kranich's jewelers": 1,
+        "kranich\u2019s inc": 1
+    },
+    "ELCAR": {
+        "elcar": 2
+    },
+    "T2I": [
+
+    ],
+    "Badekoch": [
+
+    ],
+    "Romlala": [
+
+    ],
+    "Acensifr": [
+
+    ],
+    "Portinsurrance": {
+        "porto seguro s.a.": 4,
+        "super user": 1,
+        ":: portinsurance - todos os direitos reservados": 1,
+        ":: sindicato profissionais policia by portinsurance - todos os direitos reservados": 1
+    },
+    "Adeji+Lan": {
+        "linkedin": 3,
+        "lanyrd": 1,
+        "bahia principe": 2,
+        "hotel-tenerife": 2
+    },
+    "Experian": {
+        "experian": 5,
+        "experian information solutions": 5
+    },
+    "BT+busines": {
+        "bt global services": 2,
+        "bt group": 2,
+        "visual compliance": 3,
+        "dabs.com": 1,
+        "bt tv": 1
+    },
+    "Marymex": [
+
+    ],
+    "GmexUSA": [
+
+    ],
+    "SigFoxe": [
+
+    ],
+    "Evva": [
+
+    ],
+    "Ameriprise": {
+        "brewer investment group": 1,
+        "ameriprise financial": 4
+    },
+    "Namastrad": [
+
+    ],
+    "Okapi+Finance": [
+
+    ]
+}

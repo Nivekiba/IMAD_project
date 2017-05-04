@@ -1,0 +1,326 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - 2-position site:en.wikipedia.org",
+    "totalResults": "3780000",
+    "searchTerms": "2-position site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - 2-position site:en.wikipedia.org",
+    "totalResults": "3780000",
+    "searchTerms": "2-position site:en.wikipedia.org",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "002117393071396567475:ymlai2ghh4w",
+    "filter": "1"
+   }
+  ]
+ },
+ "context": {
+  "title": "Google"
+ },
+ "searchInformation": {
+  "searchTime": 0.362013,
+  "formattedSearchTime": "0.36",
+  "totalResults": "3780000",
+  "formattedTotalResults": "3,780,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Basketball positions - Wikipedia",
+   "htmlTitle": "Basketball \u003cb\u003epositions\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Basketball_positions",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The five basketball positions normally employed by organized basketball teams \nare the point guard (PG or 1), the shooting guard (SG or 2), the small forward ...",
+   "htmlSnippet": "The five basketball \u003cb\u003epositions\u003c/b\u003e normally employed by organized basketball teams \u003cbr\u003e\nare the point guard (PG or 1), the shooting guard (SG or \u003cb\u003e2\u003c/b\u003e), the small forward&nbsp;...",
+   "cacheId": "ZgjITBryPqkJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Basketball_positions",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Basketball_\u003cb\u003epositions\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "236",
+      "height": "213",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQoQPHZgzU72S1P7aiz99tBpu5xzJX96t0vKNa8a6LkPDANrVRDte9CN0g"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Basketball_Positions.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Basketball_Positions.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "SN2 Palmitate - Wikipedia",
+   "htmlTitle": "SN2 Palmitate - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/SN2_Palmitate",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "SN2 Palmitate is a structured triglyceride where palmitic acid bonded to the \nmiddle position (sn-2) of the glycerol backbone. Structured triglycerides are \nachieved ...",
+   "htmlSnippet": "SN2 Palmitate is a structured triglyceride where palmitic acid bonded to the \u003cbr\u003e\nmiddle \u003cb\u003eposition\u003c/b\u003e (sn-\u003cb\u003e2\u003c/b\u003e) of the glycerol backbone. Structured triglycerides are \u003cbr\u003e\nachieved&nbsp;...",
+   "cacheId": "8YoaIXBRqCYJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/SN2_Palmitate",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/SN2_Palmitate",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Directional control valve - Wikipedia",
+   "htmlTitle": "Directional control valve - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Directional_control_valve",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Directional control valves are one of the most fundamental parts in hydraulic \nmachinery as well ... Example: A 5/2 directional control valve would have five \nports and two spool positions. Ports are the one which helps the liquid to flow \nthrough ...",
+   "htmlSnippet": "Directional control valves are one of the most fundamental parts in hydraulic \u003cbr\u003e\nmachinery as well ... Example: A 5/\u003cb\u003e2\u003c/b\u003e directional control valve would have five \u003cbr\u003e\nports and two spool \u003cb\u003epositions\u003c/b\u003e. Ports are the one which helps the liquid to flow \u003cbr\u003e\nthrough&nbsp;...",
+   "cacheId": "PpIjOzecRFAJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Directional_control_valve",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Directional_control_valve",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Rugby union positions - Wikipedia",
+   "htmlTitle": "Rugby union \u003cb\u003epositions\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Rugby_union_positions",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "In the game of rugby union, there are 15 players on each team, comprising eight \nforwards .... The props (1 and 3) bind on either side of the hooker (2) to form the \nfront row of the scrum. The two locks (4 and 5) bind together and push on the ...",
+   "htmlSnippet": "In the game of rugby union, there are 15 players on each team, comprising eight \u003cbr\u003e\nforwards .... The props (1 and 3) bind on either side of the hooker (\u003cb\u003e2\u003c/b\u003e) to form the \u003cbr\u003e\nfront row of the scrum. The two locks (4 and 5) bind together and push on the&nbsp;...",
+   "cacheId": "9AnrdXYLMZwJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Rugby_union_positions",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Rugby_union_\u003cb\u003epositions\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "186",
+      "height": "271",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmr-VEyBieY4wjzgxEH7-df7Msq-0vRZafadzNQ6pyd7Le76aQ1mZpSeU"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Rugby_formation.svg/1200px-Rugby_formation.svg.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Rugby_formation.svg/1200px-Rugby_formation.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Aircraft engine position number - Wikipedia",
+   "htmlTitle": "Aircraft engine \u003cb\u003eposition\u003c/b\u003e number - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Aircraft_engine_position_number",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "On multi-engined aircraft, aircraft engine positions are numbered from left to right \nfrom the view of the pilot looking forward. Contents. [hide]. 1 Wing and rear-\nmounted engines. 1.1 Twin-engined aircraft; 1.2 Three-engined aircraft; 1.3 Four-\nengined aircraft; 1.4 Six-engined aircraft. 2 Other configurations.",
+   "htmlSnippet": "On multi-engined aircraft, aircraft engine \u003cb\u003epositions\u003c/b\u003e are numbered from left to right \u003cbr\u003e\nfrom the view of the pilot looking forward. Contents. [hide]. 1 Wing and rear-\u003cbr\u003e\nmounted engines. 1.1 Twin-engined aircraft; 1.2 Three-engined aircraft; 1.3 Four-\u003cbr\u003e\nengined aircraft; 1.4 Six-engined aircraft. \u003cb\u003e2\u003c/b\u003e Other configurations.",
+   "cacheId": "COE6inVE3ooJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Aircraft_engine_position_number",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Aircraft_engine_\u003cb\u003eposition\u003c/b\u003e_number",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "217",
+      "height": "232",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSrsisEBQiq4L7l5KX1_R3_9gic2TtSLZXhgldm73oDT3jX7yUGpFBJa1A"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Throttle_Boeing_727.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/10/Throttle_Boeing_727.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Indole - Wikipedia",
+   "htmlTitle": "Indole - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Indole",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Indole is an aromatic heterocyclic organic compound with formula C8H7N. It has \na bicyclic .... Bergman and Venemalm developed a technique for lithiating the 2-\nposition of unsubstituted indole. 2-position lithiation of indole. Alan Katritzky also\n ...",
+   "htmlSnippet": "Indole is an aromatic heterocyclic organic compound with formula C8H7N. It has \u003cbr\u003e\na bicyclic .... Bergman and Venemalm developed a technique for lithiating the \u003cb\u003e2\u003c/b\u003e-\u003cbr\u003e\n\u003cb\u003eposition\u003c/b\u003e of unsubstituted indole. \u003cb\u003e2\u003c/b\u003e-\u003cb\u003eposition\u003c/b\u003e lithiation of indole. Alan Katritzky also\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "dNZWQTfmuOcJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Indole",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Indole",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "248",
+      "height": "203",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6rKxi5K_mpe85jpqRsxiPY_Omxv3809OwFbkEf7drl3CCVtXjlFeur6o"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Indole_2D_numbered.svg/1200px-Indole_2D_numbered.svg.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Indole_2D_numbered.svg/1200px-Indole_2D_numbered.svg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Pyrrole - Wikipedia",
+   "htmlTitle": "Pyrrole - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Pyrrole",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Pyrrole is a heterocyclic aromatic organic compound, a five-membered ring with \nthe formula .... Acylation generally occurs at the 2-position, through the use of \nvarious methods. Acylation with acid anhydrides and acid chlorides can occur ...",
+   "htmlSnippet": "Pyrrole is a heterocyclic aromatic organic compound, a five-membered ring with \u003cbr\u003e\nthe formula .... Acylation generally occurs at the \u003cb\u003e2\u003c/b\u003e-\u003cb\u003eposition\u003c/b\u003e, through the use of \u003cbr\u003e\nvarious methods. Acylation with acid anhydrides and acid chlorides can occur&nbsp;...",
+   "cacheId": "e2P_74FU3QAJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Pyrrole",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Pyrrole",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "81",
+      "height": "78",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZpFaZNsX6O46uZ-YGIOLL8cWATPp59tF1r0B8Iaaa8mFn61fMniAZSw"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Pyrrole-CRC-MW-3D-balls-A.png/100px-Pyrrole-CRC-MW-3D-balls-A.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Positions of the feet in ballet - Wikipedia",
+   "htmlTitle": "\u003cb\u003ePositions\u003c/b\u003e of the feet in ballet - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Positions_of_the_feet_in_ballet",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The positions of the feet in ballet is a fundamental part of classical ballet \ntechnique that defines ... 2 Lifar's additional positions. 2.1 Sixth position; 2.2 \nSeventh ...",
+   "htmlSnippet": "The \u003cb\u003epositions\u003c/b\u003e of the feet in ballet is a fundamental part of classical ballet \u003cbr\u003e\ntechnique that defines ... \u003cb\u003e2\u003c/b\u003e Lifar&#39;s additional \u003cb\u003epositions\u003c/b\u003e. 2.1 Sixth \u003cb\u003eposition\u003c/b\u003e; 2.2 \u003cbr\u003e\nSeventh&nbsp;...",
+   "cacheId": "R_dNpcuHjvAJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Positions_of_the_feet_in_ballet",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003ePositions\u003c/b\u003e_of_the_feet_in_ballet",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "136",
+      "height": "81",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCtX9PDSMuF-Lb7f0BnRAlnlaorPDPzHHXJMyaFAo_gVs951x9qr5FOw"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ballet_feet_1st_position.png/170px-Ballet_feet_1st_position.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Rugby league positions - Wikipedia",
+   "htmlTitle": "Rugby league \u003cb\u003epositions\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Rugby_league_positions",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A rugby league football team consists of thirteen players on the field, with four \nsubstitutes on the ... There are two wingers in a rugby league team, numbered 2 \nand 5. The wingers are the players positioned closest to the touch-line on each \nside ...",
+   "htmlSnippet": "A rugby league football team consists of thirteen players on the field, with four \u003cbr\u003e\nsubstitutes on the ... There are two wingers in a rugby league team, numbered \u003cb\u003e2\u003c/b\u003e \u003cbr\u003e\nand 5. The wingers are the players positioned closest to the touch-line on each \u003cbr\u003e\nside&nbsp;...",
+   "cacheId": "5tWNx07ZWKoJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Rugby_league_positions",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Rugby_league_\u003cb\u003epositions\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Enzymatic interesterification - Wikipedia",
+   "htmlTitle": "Enzymatic interesterification - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Enzymatic_interesterification",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Enzymatic Interesterification (EIE) is the catalytic reaction that occurs when an \nenzyme is ... Unsaturated fatty acids in the 2-position are more often found \nnaturally in plant lipids or vegetable oil sources. Allowing the rearrangement of \nthe ...",
+   "htmlSnippet": "Enzymatic Interesterification (EIE) is the catalytic reaction that occurs when an \u003cbr\u003e\nenzyme is ... Unsaturated fatty acids in the \u003cb\u003e2\u003c/b\u003e-\u003cb\u003eposition\u003c/b\u003e are more often found \u003cbr\u003e\nnaturally in plant lipids or vegetable oil sources. Allowing the rearrangement of \u003cbr\u003e\nthe&nbsp;...",
+   "cacheId": "naozhk4Bc5QJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Enzymatic_interesterification",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Enzymatic_interesterification",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "104",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSMfW-rnLQPBNaBmVORDJWzq1szhohoJpx7rXUptd_P1rtb4FMWXiXMT58"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Eie-bar-graphic.jpg/220px-Eie-bar-graphic.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}
